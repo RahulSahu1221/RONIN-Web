@@ -23,13 +23,13 @@ A modern, interactive Japanese learning platform designed for JLPT preparation �
 
 ---
 
-## ✦ About Ronin
+## About Ronin
 
 RONIN WEB is a personal Japanese-learning project built to make vocabulary practice more engaging, structured, and consistent.
 
 Instead of relying on memorization alone, it combines revision scheduling, interactive activities, custom decks, and learning statistics to help learners track their progress over time.
 
-## ✨ Features
+## Features
 
 - **Vocabulary & Kanji** — Study Japanese words and kanji through organized lessons.
 - **Spaced Repetition (SRS)** — Review words according to their scheduled revision dates.
@@ -41,7 +41,7 @@ Instead of relying on memorization alone, it combines revision scheduling, inter
 - **Personalization** — Customize themes and selected learning preferences.
 - **Responsive Interface** — Designed for convenient use across desktop and mobile screens.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -52,7 +52,7 @@ Instead of relying on memorization alone, it combines revision scheduling, inter
 | Service Worker | Caching and offline support |
 | Terser & CleanCSS | JavaScript and CSS minification |
 
-## 🚀 Run Locally
+## Run Locally
 
 **Prerequisites:** Git, Node.js, and npm.
 
@@ -85,7 +85,7 @@ Instead of relying on memorization alone, it combines revision scheduling, inter
 
 The build script generates the minified JavaScript and CSS files used by the application.
 
-## 🧪 Testing
+## Testing
 
 Run the available automated tests with:
 
@@ -99,20 +99,20 @@ To validate the learning-data files, run:
 npm run check-data
 ```
 
-## 🌐 Deployment
+## Deployment
 
 RONIN WEB is deployed on Vercel and connected to GitHub for source control and deployment updates.
 
 **Live application:** [ronin-web-puce.vercel.app](https://ronin-web-puce.vercel.app)
 
-## 🔐 Data & Privacy
+## Data & Privacy
 
 - Learning progress is stored locally in the browser.
 - Supabase provides authentication and cloud synchronization for supported progress data.
 - Cloud access is protected by database Row Level Security (RLS) policies.
 - The application uses a public Supabase client key; privileged service-role keys must never be exposed in client-side code.
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
