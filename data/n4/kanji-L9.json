@@ -1,0 +1,214 @@
+
+{
+  "lesson": 9,
+  "title": "おぼえましょう",
+  "subtitle": "かたちが にている 漢字",
+  "subtitleMeaning": "Similar-looking kanji",
+  "kanji": [
+    {
+      "char": "同",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["おな（-じ）"],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "同じ",
+          "reading": "おなじ",
+          "meaning": "same"
+        }
+      ]
+    },
+    {
+      "char": "回",
+      "meaning": "",
+      "onyomi": ["カイ"],
+      "kunyomi": ["まわ（-る）"],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "1回、2回…何回",
+          "reading": "いっかい、にかい…なんかい",
+          "meaning": "once, twice … how many times"
+        },
+        {
+          "word": "回る",
+          "reading": "まわる",
+          "meaning": "turn"
+        }
+      ]
+    },
+    {
+      "char": "晩",
+      "meaning": "",
+      "onyomi": ["バン"],
+      "kunyomi": [],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "晩",
+          "reading": "ばん",
+          "meaning": "night"
+        },
+        {
+          "word": "今晩",
+          "reading": "こんばん",
+          "meaning": "tonight"
+        },
+        {
+          "word": "毎晩",
+          "reading": "まいばん",
+          "meaning": "every night"
+        }
+      ]
+    },
+    {
+      "char": "勉",
+      "meaning": "",
+      "onyomi": ["ベン"],
+      "kunyomi": [],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "勉強する",
+          "reading": "べんきょうする",
+          "meaning": "study"
+        }
+      ]
+    },
+    {
+      "char": "進",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["すす（-む / -める）"],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "進む",
+          "reading": "すすむ",
+          "meaning": "advance"
+        },
+        {
+          "word": "前に進む",
+          "reading": "まえにすすむ",
+          "meaning": ""
+        },
+        {
+          "word": "進める",
+          "reading": "すすめる",
+          "meaning": "move"
+        },
+        {
+          "word": "計画を進める",
+          "reading": "けいかくをすすめる",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "char": "集",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["あつ（-まる / -める）"],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "集まる",
+          "reading": "あつまる",
+          "meaning": "gather"
+        },
+        {
+          "word": "駅前に集まる",
+          "reading": "えきまえにあつまる",
+          "meaning": ""
+        },
+        {
+          "word": "集める",
+          "reading": "あつめる",
+          "meaning": "collect"
+        },
+        {
+          "word": "切手を集める",
+          "reading": "きってをあつめる",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "char": "文",
+      "meaning": "",
+      "onyomi": ["ブン"],
+      "kunyomi": [],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "文",
+          "reading": "ぶん",
+          "meaning": "sentence, text"
+        },
+        {
+          "word": "文章",
+          "reading": "ぶんしょう",
+          "meaning": "text, sentences"
+        }
+      ]
+    },
+    {
+      "char": "作",
+      "meaning": "",
+      "onyomi": ["サク"],
+      "kunyomi": ["つく（-る）"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "作文",
+          "reading": "さくぶん",
+          "meaning": "writing, composition"
+        },
+        {
+          "word": "作る",
+          "reading": "つくる",
+          "meaning": "make"
+        }
+      ]
+    },
+    {
+      "char": "使",
+      "meaning": "",
+      "onyomi": ["シ"],
+      "kunyomi": ["つか（-う）"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "大使館",
+          "reading": "たいしかん",
+          "meaning": "embassy"
+        },
+        {
+          "word": "使う",
+          "reading": "つかう",
+          "meaning": "use"
+        }
+      ]
+    },
+    {
+      "char": "便",
+      "meaning": "",
+      "onyomi": ["ベン", "ビン"],
+      "kunyomi": [],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "便利な",
+          "reading": "べんりな",
+          "meaning": "convenient"
+        },
+        {
+          "word": "郵便局",
+          "reading": "ゆうびんきょく",
+          "meaning": "post office"
+        }
+      ]
+    }
+  ]
+}

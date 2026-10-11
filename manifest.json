@@ -1,0 +1,65 @@
+{
+  "name": "RONIN WEB",
+  "short_name": "RONIN WEB",
+  "description": "RONIN WEB — Premium PWA with SRS, quizzes, games, and analytics.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07080d",
+  "theme_color": "#07080d",
+  "orientation": "portrait-primary",
+  "categories": [
+    "education",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "data/assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "data/assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "data/assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "SRS Review",
+      "short_name": "Review",
+      "description": "Jump straight into your spaced repetition review session",
+      "url": "./index.html#review",
+      "icons": [
+        {
+          "src": "data/assets/logo.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Quiz",
+      "short_name": "Quiz",
+      "description": "Start a vocabulary quiz",
+      "url": "./index.html#quiz",
+      "icons": [
+        {
+          "src": "data/assets/logo.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "prefer_related_applications": false
+}

@@ -1,0 +1,704 @@
+[
+  {
+    "kanji": "ますます",
+    "hiragana": "",
+    "meaning": "more and more",
+    "emoji": "📈⬆️🌱"
+  },
+  {
+    "kanji": "企業",
+    "hiragana": "きぎょう",
+    "meaning": "business enterprise",
+    "emoji": "🏢💼📊"
+  },
+  {
+    "kanji": "今後",
+    "hiragana": "こんご",
+    "meaning": "from now on",
+    "emoji": "🔜📅➡️"
+  },
+  {
+    "kanji": "方言",
+    "hiragana": "ほうげん",
+    "meaning": "dialect",
+    "emoji": "🗣️💬🌏"
+  },
+  {
+    "kanji": "普及する",
+    "hiragana": "ふきゅうする",
+    "meaning": "become widespread",
+    "emoji": "🌍📢📈"
+  },
+  {
+    "kanji": "建つ",
+    "hiragana": "たつ",
+    "meaning": "be built",
+    "emoji": "🏗️🏠🏢"
+  },
+  {
+    "kanji": "大家族",
+    "hiragana": "だいかぞく",
+    "meaning": "large family",
+    "emoji": "👨‍👩‍👧‍👦👪❤️"
+  },
+  {
+    "kanji": "大～ [～家族]",
+    "hiragana": "だい～ [～かぞく]",
+    "meaning": "large [family]",
+    "emoji": "👪🏡👨‍👩‍👧‍👦"
+  },
+  {
+    "kanji": "パックツアー",
+    "hiragana": "",
+    "meaning": "package tour",
+    "emoji": "🧳✈️🗺️"
+  },
+  {
+    "kanji": "個人",
+    "hiragana": "こじん",
+    "meaning": "individual",
+    "emoji": "🧍👤🪪"
+  },
+  {
+    "kanji": "いかにも",
+    "hiragana": "",
+    "meaning": "so, really, certainly, indeed, very",
+    "emoji": "💯✅💬"
+  },
+  {
+    "kanji": "入学式",
+    "hiragana": "にゅうがくしき",
+    "meaning": "(school/college) entrance ceremony",
+    "emoji": "🎓🏫🎉"
+  },
+  {
+    "kanji": "派手 [な]",
+    "hiragana": "はで [な]",
+    "meaning": "flamboyant",
+    "emoji": "✨🌈👗"
+  },
+  {
+    "kanji": "元気",
+    "hiragana": "げんき",
+    "meaning": "vitality, cheerfulness",
+    "emoji": "💪😊⚡"
+  },
+  {
+    "kanji": "出す [元気を～]",
+    "hiragana": "だす [げんきを～]",
+    "meaning": "cheer oneself up",
+    "emoji": "💪😊🌟"
+  },
+  {
+    "kanji": "広告",
+    "hiragana": "こうこく",
+    "meaning": "advertisement",
+    "emoji": "📢📰📺"
+  },
+  {
+    "kanji": "美容院",
+    "hiragana": "びよういん",
+    "meaning": "beauty parlor",
+    "emoji": "💇‍♀️💈💄"
+  },
+  {
+    "kanji": "車いす",
+    "hiragana": "くるまいす",
+    "meaning": "wheelchair",
+    "emoji": "♿🦽🏥"
+  },
+  {
+    "kanji": "寄付する [病院に車いすを～]",
+    "hiragana": "きふする [びょういんにくるまいすを～]",
+    "meaning": "donate [a wheelchair to the hospital]",
+    "emoji": "🎁♿❤️"
+  },
+  {
+    "kanji": "グレー",
+    "hiragana": "",
+    "meaning": "grey",
+    "emoji": "🩶🎨🖌️"
+  },
+  {
+    "kanji": "地味 [な]",
+    "hiragana": "じみ [な]",
+    "meaning": "plain, understated",
+    "emoji": "👕🎨🌿"
+  },
+  {
+    "kanji": "原爆",
+    "hiragana": "げんばく",
+    "meaning": "atomic bomb",
+    "emoji": "☢️🕊️🌍"
+  },
+  {
+    "kanji": "ただひとつ",
+    "hiragana": "",
+    "meaning": "only, unique",
+    "emoji": "☝️1️⃣💎"
+  },
+  {
+    "kanji": "恐ろしさ",
+    "hiragana": "おそろしさ",
+    "meaning": "horror",
+    "emoji": "😨⚠️🌑"
+  },
+  {
+    "kanji": "ダイナマイト",
+    "hiragana": "",
+    "meaning": "dynamite",
+    "emoji": "💥🧨⚠️"
+  },
+  {
+    "kanji": "自宅",
+    "hiragana": "じたく",
+    "meaning": "one's home",
+    "emoji": "🏠🛋️🔑"
+  },
+  {
+    "kanji": "あわてる",
+    "hiragana": "",
+    "meaning": "panic, get flustered",
+    "emoji": "😰💨😵"
+  },
+  {
+    "kanji": "落ち着く",
+    "hiragana": "おちつく",
+    "meaning": "calm down",
+    "emoji": "😌🧘🌿"
+  },
+  {
+    "kanji": "行動する",
+    "hiragana": "こうどうする",
+    "meaning": "act",
+    "emoji": "🏃🎯⚡"
+  },
+  {
+    "kanji": "のんびりする",
+    "hiragana": "",
+    "meaning": "spend one's time leisurely",
+    "emoji": "😌🌴☕"
+  },
+  {
+    "kanji": "シューズ",
+    "hiragana": "",
+    "meaning": "shoes",
+    "emoji": "👟👞👠"
+  },
+  {
+    "kanji": "つながる",
+    "hiragana": "",
+    "meaning": "connect, get through [on the telephone]",
+    "emoji": "🔗📞📡"
+  },
+  {
+    "kanji": "[電話が～]",
+    "hiragana": "[でんわが～]",
+    "meaning": "[the telephone] connect, get through",
+    "emoji": "☎️📶💬"
+  },
+  {
+    "kanji": "遺跡",
+    "hiragana": "いせき",
+    "meaning": "ruins, remains",
+    "emoji": "🏛️🗿🧱"
+  },
+  {
+    "kanji": "発掘",
+    "hiragana": "はっくつ",
+    "meaning": "excavation",
+    "emoji": "⛏️🏺🦴"
+  },
+  {
+    "kanji": "これまでに",
+    "hiragana": "",
+    "meaning": "until now",
+    "emoji": "⏳📅➡️"
+  },
+  {
+    "kanji": "南極",
+    "hiragana": "なんきょく",
+    "meaning": "South Pole",
+    "emoji": "🧊🐧🌎"
+  },
+  {
+    "kanji": "探検",
+    "hiragana": "たんけん",
+    "meaning": "exploration",
+    "emoji": "🧭🗺️🥾"
+  },
+  {
+    "kanji": "世界遺産",
+    "hiragana": "せかいいさん",
+    "meaning": "World Heritage (site)",
+    "emoji": "🌍🏛️🏞️"
+  },
+  {
+    "kanji": "価値",
+    "hiragana": "かち",
+    "meaning": "worth, value",
+    "emoji": "💎💰⭐"
+  },
+  {
+    "kanji": "やっぱり",
+    "hiragana": "",
+    "meaning": "after all is said and done, at the end of the day",
+    "emoji": "🤔💡✅"
+  },
+  {
+    "kanji": "流水",
+    "hiragana": "りゅうひょう",
+    "meaning": "ice floe",
+    "emoji": "🧊🌊❄️"
+  },
+  {
+    "kanji": "自由行動",
+    "hiragana": "じゆうこうどう",
+    "meaning": "acting at one's own discretion",
+    "emoji": "🗺️🚶🕊️"
+  },
+  {
+    "kanji": "提案する",
+    "hiragana": "ていあんする",
+    "meaning": "propose, suggest",
+    "emoji": "💡🗣️📝"
+  },
+  {
+    "kanji": "軽く",
+    "hiragana": "かるく",
+    "meaning": "[do] light [exercise]",
+    "emoji": "🏃‍♂️🌿💪"
+  },
+  {
+    "kanji": "[～体操する]",
+    "hiragana": "[～たいそうする]",
+    "meaning": "[do exercises]",
+    "emoji": "🤸‍♂️💪🧘"
+  },
+  {
+    "kanji": "乗り物",
+    "hiragana": "のりもの",
+    "meaning": "vehicle, means of transport",
+    "emoji": "🚗🚆✈️"
+  },
+  {
+    "kanji": "酔う [乗り物に～]",
+    "hiragana": "よう [のりものに～]",
+    "meaning": "feel [travel] sick",
+    "emoji": "🤢🚗🚌"
+  },
+  {
+    "kanji": "コメント",
+    "hiragana": "",
+    "meaning": "comment",
+    "emoji": "💬📝🗣️"
+  },
+  {
+    "kanji": "さらに",
+    "hiragana": "",
+    "meaning": "furthermore",
+    "emoji": "➕📈➡️"
+  },
+  {
+    "kanji": "仮装",
+    "hiragana": "かそう",
+    "meaning": "disguise, fancy dress",
+    "emoji": "🎭👗🎃"
+  },
+  {
+    "kanji": "染める",
+    "hiragana": "そめる",
+    "meaning": "dye",
+    "emoji": "🎨🧵🌈"
+  },
+  {
+    "kanji": "黄金",
+    "hiragana": "おうごん",
+    "meaning": "gold",
+    "emoji": "🥇🪙✨"
+  },
+  {
+    "kanji": "伝説",
+    "hiragana": "でんせつ",
+    "meaning": "legend",
+    "emoji": "📜🐉✨"
+  },
+  {
+    "kanji": "いくつか",
+    "hiragana": "",
+    "meaning": "several",
+    "emoji": "🔢📦➕"
+  },
+  {
+    "kanji": "屋根",
+    "hiragana": "やね",
+    "meaning": "roof",
+    "emoji": "🏠🏡🔨"
+  },
+  {
+    "kanji": "農作物",
+    "hiragana": "のうさくぶつ",
+    "meaning": "crop",
+    "emoji": "🌾🌽🥕"
+  },
+  {
+    "kanji": "金銀",
+    "hiragana": "きんぎん",
+    "meaning": "gold and silver",
+    "emoji": "🥇🥈💰"
+  },
+  {
+    "kanji": "治める",
+    "hiragana": "おさめる",
+    "meaning": "control",
+    "emoji": "👑🏛️⚖️"
+  },
+  {
+    "kanji": "掌",
+    "hiragana": "てのひら",
+    "meaning": "palm of the hand",
+    "emoji": "🖐️✋🤚"
+  },
+  {
+    "kanji": "後半",
+    "hiragana": "こうはん",
+    "meaning": "latter part",
+    "emoji": "⏳➡️📅"
+  },
+  {
+    "kanji": "くぎ",
+    "hiragana": "",
+    "meaning": "nail",
+    "emoji": "🔩🔨🪛"
+  },
+  {
+    "kanji": "村人",
+    "hiragana": "むらびと",
+    "meaning": "villager",
+    "emoji": "🏘️🧑‍🌾👨‍👩‍👧"
+  },
+  {
+    "kanji": "かける [費用を～]",
+    "hiragana": "[ひようを～]",
+    "meaning": "spend [money]",
+    "emoji": "💸💰🧾"
+  },
+  {
+    "kanji": "向き",
+    "hiragana": "むき",
+    "meaning": "(wind) direction",
+    "emoji": "🧭💨➡️"
+  },
+  {
+    "kanji": "抵抗",
+    "hiragana": "ていこう",
+    "meaning": "resistance",
+    "emoji": "🛡️⚡✋"
+  },
+  {
+    "kanji": "～層",
+    "hiragana": "～そう",
+    "meaning": "layered",
+    "emoji": "🧱📚📊"
+  },
+  {
+    "kanji": "蚕",
+    "hiragana": "かいこ",
+    "meaning": "silkworm",
+    "emoji": "🐛🍃🧵"
+  },
+  {
+    "kanji": "火薬",
+    "hiragana": "かやく",
+    "meaning": "gunpowder",
+    "emoji": "⚠️💥🧪"
+  },
+  {
+    "kanji": "製造する",
+    "hiragana": "せいぞうする",
+    "meaning": "manufacture",
+    "emoji": "🏭⚙️🔧"
+  },
+  {
+    "kanji": "送る [生活を～]",
+    "hiragana": "おくる [せいかつを～]",
+    "meaning": "lead [one's life]",
+    "emoji": "🏡📅🌿"
+  },
+  {
+    "kanji": "家内産業",
+    "hiragana": "かないさんぎょう",
+    "meaning": "cottage industry",
+    "emoji": "🏠🧵🛠️"
+  },
+  {
+    "kanji": "年貢",
+    "hiragana": "ねんぐ",
+    "meaning": "land tax, annual tribute",
+    "emoji": "🌾💰📜"
+  },
+  {
+    "kanji": "期待する",
+    "hiragana": "きたいする",
+    "meaning": "expect, hope for",
+    "emoji": "🤞🌟🎯"
+  },
+  {
+    "kanji": "地",
+    "hiragana": "ち",
+    "meaning": "land",
+    "emoji": "🌍🌱🏞️"
+  },
+  {
+    "kanji": "前半",
+    "hiragana": "ぜんはん",
+    "meaning": "first half",
+    "emoji": "⏳⬅️📅"
+  },
+  {
+    "kanji": "やってくる",
+    "hiragana": "",
+    "meaning": "come along, turn up",
+    "emoji": "🚶➡️👋"
+  },
+  {
+    "kanji": "住み着く",
+    "hiragana": "すみつく",
+    "meaning": "settle down, take up residence",
+    "emoji": "🏠🔑🌳"
+  },
+  {
+    "kanji": "一族",
+    "hiragana": "いちぞく",
+    "meaning": "family",
+    "emoji": "👨‍👩‍👧‍👦🏡❤️"
+  },
+  {
+    "kanji": "～城 [帰雲～]",
+    "hiragana": "～じょう [かえりくも～]",
+    "meaning": "~ castle [Kaerikumo ~]",
+    "emoji": "🏯🧱👑"
+  },
+  {
+    "kanji": "城",
+    "hiragana": "しろ",
+    "meaning": "castle",
+    "emoji": "🏯👑🛡️"
+  },
+  {
+    "kanji": "掘り当てる",
+    "hiragana": "ほりあてる",
+    "meaning": "strike (gold, etc.)",
+    "emoji": "⛏️💎🥇"
+  },
+  {
+    "kanji": "権力者",
+    "hiragana": "けんりょくしゃ",
+    "meaning": "powerful person",
+    "emoji": "👑🏛️💼"
+  },
+  {
+    "kanji": "飢きん",
+    "hiragana": "ききん",
+    "meaning": "famine",
+    "emoji": "🌾🥀⚠️"
+  },
+  {
+    "kanji": "～軒",
+    "hiragana": "～けん",
+    "meaning": "(counter for houses)",
+    "emoji": "🏠🔢🏘️"
+  },
+  {
+    "kanji": "数百人",
+    "hiragana": "すうひゃくにん",
+    "meaning": "several hundred people (cf. 数十人: several dozen people, 数千人: several thousand people)",
+    "emoji": "👥👥🔢"
+  },
+  {
+    "kanji": "一人残らず",
+    "hiragana": "ひとりのこらず",
+    "meaning": "to the last man",
+    "emoji": "👥✅🔢"
+  },
+  {
+    "kanji": "消える",
+    "hiragana": "きえる",
+    "meaning": "be wiped out",
+    "emoji": "💨❌🌫️"
+  },
+  {
+    "kanji": "保管する",
+    "hiragana": "ほかんする",
+    "meaning": "keep, store",
+    "emoji": "📦🔒🏬"
+  },
+  {
+    "kanji": "兆",
+    "hiragana": "ちょう",
+    "meaning": "trillion",
+    "emoji": "🔢💰📊"
+  },
+  {
+    "kanji": "分ける",
+    "hiragana": "わける",
+    "meaning": "separate",
+    "emoji": "✂️📦↔️"
+  },
+  {
+    "kanji": "積もる [雪が～]",
+    "hiragana": "つもる [ゆきが～]",
+    "meaning": "[snow] accumulate",
+    "emoji": "❄️🏔️☃️"
+  },
+  {
+    "kanji": "気候",
+    "hiragana": "きこう",
+    "meaning": "climate",
+    "emoji": "🌦️🌡️🌍"
+  },
+  {
+    "kanji": "観光案内",
+    "hiragana": "かんこうあんない",
+    "meaning": "tourist information",
+    "emoji": "🗺️ℹ️🏞️"
+  },
+  {
+    "kanji": "観光地",
+    "hiragana": "かんこうち",
+    "meaning": "tourist spot",
+    "emoji": "🏞️📸🗺️"
+  },
+  {
+    "kanji": "～っていうのはどうですか。",
+    "hiragana": "",
+    "meaning": "How about....",
+    "emoji": "💡❓🗣️"
+  },
+  {
+    "kanji": "When asked for advice, this expression indicates that you are merely making a suggestion, leaving it up to the person you are advising whether to adopt it or not.",
+    "hiragana": "",
+    "meaning": "Explanatory note: When asked for advice, this expression indicates that you are merely making a suggestion, leaving it up to the person you are advising whether to adopt it or not.",
+    "emoji": "💡🤝❓"
+  },
+  {
+    "kanji": "それも悪くないですね。",
+    "hiragana": "",
+    "meaning": "Yes, that's not bad either.",
+    "emoji": "👍🙂💭"
+  },
+  {
+    "kanji": "それもそうですね。",
+    "hiragana": "",
+    "meaning": "Yes, I suppose that's right.",
+    "emoji": "🤔👍💬"
+  },
+  {
+    "kanji": "けど、……。",
+    "hiragana": "",
+    "meaning": "But....",
+    "emoji": "🤔💬➡️"
+  },
+  {
+    "kanji": "それも悪くないですけど……。",
+    "hiragana": "",
+    "meaning": "That's not a bad idea, either, but....",
+    "emoji": "👍🤔💬"
+  },
+  {
+    "kanji": "Giving one's own opinion while acknowledging that the other person's opinion also has merit.",
+    "hiragana": "",
+    "meaning": "Explanatory note: Giving one's own opinion while acknowledging that the other person's opinion also has merit.",
+    "emoji": "🗣️🤝⚖️"
+  },
+  {
+    "kanji": "ノーベル",
+    "hiragana": "",
+    "meaning": "Alfred Bernhard Nobel: Swedish scientist who invented dynamite. 1833–1896.",
+    "emoji": "🧪💥📚"
+  },
+  {
+    "kanji": "モーツァルト",
+    "hiragana": "",
+    "meaning": "Wolfgang Amadeus Mozart: Austrian composer of over six hundred works including 'The Marriage of Figaro.' 1756–1791.",
+    "emoji": "🎼🎹🎻"
+  },
+  {
+    "kanji": "首里城",
+    "hiragana": "しゅりじょう",
+    "meaning": "Shuri Castle: Former castle of Ryukyu Kingdom, at Shuri, Okinawa.",
+    "emoji": "🏯🌺🇯🇵"
+  },
+  {
+    "kanji": "雪祭り",
+    "hiragana": "ゆきまつり",
+    "meaning": "Snow Festival: Tourist festival held in Sapporo, Hokkaido, famous for its giant snow sculptures and illuminated trees.",
+    "emoji": "❄️☃️✨"
+  },
+  {
+    "kanji": "白川郷",
+    "hiragana": "しらかわごう",
+    "meaning": "Shirakawa-go: Mountain village on upper reaches of River Sho in Gifu Prefecture, where extended families have traditionally lived together in large houses built in the gassho-zukuri style.",
+    "emoji": "🏡🏔️❄️"
+  },
+  {
+    "kanji": "白神山地",
+    "hiragana": "しらかみさんち",
+    "meaning": "Shirakami Sanchi: Mountainous area on border of Aomori and Akita Prefectures, with Shirakamidake at its center. Contains one of the world's largest primeval Siebold's Beech forests.",
+    "emoji": "🌲🏔️🌳"
+  },
+  {
+    "kanji": "厳島神社",
+    "hiragana": "いつくしまじんじゃ",
+    "meaning": "Itsukushima Shrine: Beautiful shrine in Miyajima, Hiroshima Prefecture, with buildings constructed in the sea. Rich in historic remains and national treasures.",
+    "emoji": "⛩️🌊🏯"
+  },
+  {
+    "kanji": "屋久島",
+    "hiragana": "やくしま",
+    "meaning": "Yakushima: One of the Osumi Islands in Kagoshima Prefecture, covered with virgin forest of Japanese cedars (Cryptomeria Japonica) called Yakusugi, some said to be several thousand years old.",
+    "emoji": "🌲🌳🏝️"
+  },
+  {
+    "kanji": "知床",
+    "hiragana": "しれとこ",
+    "meaning": "Shiretoko: A long, thin peninsula on the north-eastern tip of Hokkaido, which projects into the Sea of Okhotsk and whose coastline is cliffs.",
+    "emoji": "🏔️🌊🦅"
+  },
+  {
+    "kanji": "原爆ドーム",
+    "hiragana": "げんばくドーム",
+    "meaning": "A-Bomb Dome: Hiroshima Peace Memorial (the remains of a building destroyed when the atomic bomb was dropped on Hiroshima on 6th August 1945).",
+    "emoji": "🕊️🏛️☮️"
+  },
+  {
+    "kanji": "合掌造り",
+    "hiragana": "がっしょうづくり",
+    "meaning": "Gassho-zukuri: Style of private dwellings in the Hida region, built for large families and sericulture, with steeply-pitched roofs to withstand heavy snowfalls.",
+    "emoji": "🏡❄️🏠"
+  },
+  {
+    "kanji": "江戸時代",
+    "hiragana": "えどじだい",
+    "meaning": "Edo Period: Same as Tokugawa Period, with Shogunate seated in Edo (present-day Tokyo). 1603–1867.",
+    "emoji": "🏯📜🗾"
+  },
+  {
+    "kanji": "内ヶ嶋為氏",
+    "hiragana": "うちがしまためうじ",
+    "meaning": "Uchigashima Tameuji: Muromachi-period military commander who constructed Kaerikumo Castle in Shirakawa-go.",
+    "emoji": "⚔️🏯📜"
+  },
+  {
+    "kanji": "帰雲城",
+    "hiragana": "かえりくもじょう",
+    "meaning": "Kaerikumo Castle: Built by Uchigashima Tameuji at Shirakawa-go, Gifu Prefecture, in about 1464. Destroyed in 1586 by the Great Tensho Earthquake.",
+    "emoji": "🏯⛰️📜"
+  },
+  {
+    "kanji": "織田信長",
+    "hiragana": "おだのぶなが",
+    "meaning": "Oda Nobunaga: Military leader in the Azuchi-Momoyama period of the Sengoku (Warring States) period. 1534–1582.",
+    "emoji": "⚔️🏯👑"
+  }
+]

@@ -1,0 +1,183 @@
+
+{
+  "lesson": 14,
+  "title": "おぼえましょう",
+  "kanji": [
+    {
+      "char": "料",
+      "meaning": "",
+      "onyomi": ["リョウ"],
+      "kunyomi": [],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "料理",
+          "reading": "りょうり",
+          "meaning": "cooking"
+        },
+        {
+          "word": "食料品",
+          "reading": "しょくりょうひん",
+          "meaning": "food, groceries"
+        }
+      ]
+    },
+    {
+      "char": "理",
+      "meaning": "",
+      "onyomi": ["リ"],
+      "kunyomi": [],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "理由",
+          "reading": "りゆう",
+          "meaning": "reason"
+        },
+        {
+          "word": "地理",
+          "reading": "ちり",
+          "meaning": "geography"
+        }
+      ]
+    },
+    {
+      "char": "米",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["こめ"],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "米",
+          "reading": "こめ",
+          "meaning": "rice"
+        }
+      ]
+    },
+    {
+      "char": "洗",
+      "meaning": "",
+      "onyomi": ["セン"],
+      "kunyomi": ["あら（-う）"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "洗濯する",
+          "reading": "せんたくする",
+          "meaning": "do the laundry"
+        },
+        {
+          "word": "洗う",
+          "reading": "あらう",
+          "meaning": "wash"
+        },
+        {
+          "word": "お手洗い",
+          "reading": "おてあらい",
+          "meaning": "bathroom, toilet"
+        }
+      ]
+    },
+    {
+      "char": "野",
+      "meaning": "",
+      "onyomi": ["ヤ"],
+      "kunyomi": [],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "野球",
+          "reading": "やきゅう",
+          "meaning": "baseball"
+        }
+      ]
+    },
+    {
+      "char": "菜",
+      "meaning": "",
+      "onyomi": ["サイ"],
+      "kunyomi": [],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "野菜",
+          "reading": "やさい",
+          "meaning": "vegetable"
+        }
+      ]
+    },
+    {
+      "char": "酒",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["さけ"],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "（お）酒",
+          "reading": "（お）さけ",
+          "meaning": "① alcoholic drink ② sake (rice wine)"
+        }
+      ]
+    },
+    {
+      "char": "肉",
+      "meaning": "",
+      "onyomi": ["ニク"],
+      "kunyomi": [],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "肉",
+          "reading": "にく",
+          "meaning": "meat"
+        },
+        {
+          "word": "牛肉",
+          "reading": "ぎゅうにく",
+          "meaning": "beef"
+        },
+        {
+          "word": "鳥肉",
+          "reading": "とりにく",
+          "meaning": "chicken"
+        },
+        {
+          "word": "豚肉",
+          "reading": "ぶたにく",
+          "meaning": "pork"
+        }
+      ]
+    },
+    {
+      "char": "味",
+      "meaning": "",
+      "onyomi": ["ミ"],
+      "kunyomi": ["あじ"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "意味",
+          "reading": "いみ",
+          "meaning": "meaning"
+        },
+        {
+          "word": "趣味",
+          "reading": "しゅみ",
+          "meaning": "hobby"
+        },
+        {
+          "word": "興味",
+          "reading": "きょうみ",
+          "meaning": "interest"
+        },
+        {
+          "word": "味",
+          "reading": "あじ",
+          "meaning": "taste"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "行きます",
+    "hiragana": "いきます",
+    "meaning": "go",
+    "emoji": "🚶‍♂️➡️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "来ます",
+    "hiragana": "きます",
+    "meaning": "come",
+    "emoji": "🚶‍♀️⬅️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "帰ります",
+    "hiragana": "かえります",
+    "meaning": "go home, return",
+    "emoji": "🏠🔙"
+  },
+  {
+    "section": "Places",
+    "kanji": "学校",
+    "hiragana": "がっこう",
+    "meaning": "school",
+    "emoji": "🏫🎒"
+  },
+  {
+    "section": "Places",
+    "kanji": "スーパー",
+    "hiragana": "スーパー",
+    "meaning": "supermarket",
+    "emoji": "🛒🏬"
+  },
+  {
+    "section": "Places",
+    "kanji": "駅",
+    "hiragana": "えき",
+    "meaning": "station",
+    "emoji": "🚉🚇"
+  },
+  {
+    "section": "Transportation",
+    "kanji": "飛行機",
+    "hiragana": "ひこうき",
+    "meaning": "airplane",
+    "emoji": "✈️☁️"
+  },
+  {
+    "section": "Transportation",
+    "kanji": "船",
+    "hiragana": "ふね",
+    "meaning": "ship",
+    "emoji": "🛳️🌊"
+  },
+  {
+    "section": "Transportation",
+    "kanji": "電車",
+    "hiragana": "でんしゃ",
+    "meaning": "electric train",
+    "emoji": "🚃⚡"
+  },
+  {
+    "section": "Transportation",
+    "kanji": "地下鉄",
+    "hiragana": "ちかてつ",
+    "meaning": "subway, underground",
+    "emoji": "🚇⏬"
+  },
+  {
+    "section": "Transportation",
+    "kanji": "新幹線",
+    "hiragana": "しんかんせん",
+    "meaning": "the Shinkansen, the bullet train",
+    "emoji": "🚄🚅"
+  },
+  {
+    "section": "Transportation",
+    "kanji": "バス",
+    "hiragana": "バス",
+    "meaning": "bus",
+    "emoji": "🚌🚏"
+  },
+  {
+    "section": "Transportation",
+    "kanji": "タクシー",
+    "hiragana": "タクシー",
+    "meaning": "taxi",
+    "emoji": "🚕🚖"
+  },
+  {
+    "section": "Transportation",
+    "kanji": "自転車",
+    "hiragana": "じてんしゃ",
+    "meaning": "bicycle",
+    "emoji": "🚲🚴"
+  },
+  {
+    "section": "Transportation & Expressions",
+    "kanji": "歩いて",
+    "hiragana": "あるいて",
+    "meaning": "on foot",
+    "emoji": "🚶‍♀️👟"
+  },
+  {
+    "section": "People",
+    "kanji": "人",
+    "hiragana": "ひと",
+    "meaning": "person, people",
+    "emoji": "👤👥"
+  },
+  {
+    "section": "People",
+    "kanji": "友達",
+    "hiragana": "ともだち",
+    "meaning": "friend",
+    "emoji": "🤝😊"
+  },
+  {
+    "section": "People",
+    "kanji": "彼",
+    "hiragana": "かれ",
+    "meaning": "he, boyfriend, lover",
+    "emoji": "👨❤️"
+  },
+  {
+    "section": "People",
+    "kanji": "彼女",
+    "hiragana": "かのじょ",
+    "meaning": "she, girlfriend, lover",
+    "emoji": "👩❤️"
+  },
+  {
+    "section": "People",
+    "kanji": "家族",
+    "hiragana": "かぞく",
+    "meaning": "family",
+    "emoji": "👨‍👩‍👧‍👦🏠"
+  },
+  {
+    "section": "People & Expressions",
+    "kanji": "一人で",
+    "hiragana": "ひとりで",
+    "meaning": "alone, by oneself",
+    "emoji": "🚶‍♂️🧍"
+  },
+  {
+    "section": "Time (Weeks, Months, Years)",
+    "kanji": "先週",
+    "hiragana": "せんしゅう",
+    "meaning": "last week",
+    "emoji": "⏪📅"
+  },
+  {
+    "section": "Time (Weeks, Months, Years)",
+    "kanji": "今週",
+    "hiragana": "こんしゅう",
+    "meaning": "this week",
+    "emoji": "📍📅"
+  },
+  {
+    "section": "Time (Weeks, Months, Years)",
+    "kanji": "来週",
+    "hiragana": "らいしゅう",
+    "meaning": "next week",
+    "emoji": "⏩📅"
+  },
+  {
+    "section": "Time (Weeks, Months, Years)",
+    "kanji": "先月",
+    "hiragana": "せんげつ",
+    "meaning": "last month",
+    "emoji": "⏪📆"
+  },
+  {
+    "section": "Time (Weeks, Months, Years)",
+    "kanji": "今月",
+    "hiragana": "こんげつ",
+    "meaning": "this month",
+    "emoji": "📍📆"
+  },
+  {
+    "section": "Time (Weeks, Months, Years)",
+    "kanji": "来月",
+    "hiragana": "らいげつ",
+    "meaning": "next month",
+    "emoji": "⏩📆"
+  },
+  {
+    "section": "Time (Weeks, Months, Years)",
+    "kanji": "去年",
+    "hiragana": "きょねん",
+    "meaning": "last year",
+    "emoji": "⏪🗓️"
+  },
+  {
+    "section": "Time (Weeks, Months, Years)",
+    "kanji": "今年",
+    "hiragana": "ことし",
+    "meaning": "this year",
+    "emoji": "📍🗓️"
+  },
+  {
+    "section": "Time (Weeks, Months, Years)",
+    "kanji": "来年",
+    "hiragana": "らいねん",
+    "meaning": "next year",
+    "emoji": "⏩🗓️"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "ー月",
+    "hiragana": "ーがつ",
+    "meaning": "-th month of the year",
+    "emoji": "📆🔢"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "何月",
+    "hiragana": "なんがつ",
+    "meaning": "what month",
+    "emoji": "📆❓"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "１日",
+    "hiragana": "ついたち",
+    "meaning": "first day of the month",
+    "emoji": "1️⃣📅"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "２日",
+    "hiragana": "ふつか",
+    "meaning": "second, two days",
+    "emoji": "2️⃣📅"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "３日",
+    "hiragana": "みっか",
+    "meaning": "third, three days",
+    "emoji": "3️⃣📅"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "４日",
+    "hiragana": "よっか",
+    "meaning": "fourth, four days",
+    "emoji": "4️⃣📅"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "５日",
+    "hiragana": "いつか",
+    "meaning": "fifth, five days",
+    "emoji": "5️⃣📅"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "６日",
+    "hiragana": "むいか",
+    "meaning": "sixth, six days",
+    "emoji": "6️⃣📅"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "７日",
+    "hiragana": "なのか",
+    "meaning": "seventh, seven days",
+    "emoji": "7️⃣📅"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "８日",
+    "hiragana": "ようか",
+    "meaning": "eighth, eight days",
+    "emoji": "8️⃣📅"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "９日",
+    "hiragana": "ここのか",
+    "meaning": "ninth, nine days",
+    "emoji": "9️⃣📅"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "１０日",
+    "hiragana": "とおか",
+    "meaning": "tenth, ten days",
+    "emoji": "🔟📅"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "１４日",
+    "hiragana": "じゅうよっか",
+    "meaning": "fourteenth, fourteen days",
+    "emoji": "🔢📅"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "２０日",
+    "hiragana": "はつか",
+    "meaning": "twentieth, twenty days",
+    "emoji": "🔢📅"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "２４日",
+    "hiragana": "にじゅうよっか",
+    "meaning": "twenty fourth, twenty four days",
+    "emoji": "🔢📅"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "ー日",
+    "hiragana": "ーにち",
+    "meaning": "-th day of the month, — days",
+    "emoji": "📅➖"
+  },
+  {
+    "section": "Time (Months & Days)",
+    "kanji": "何日",
+    "hiragana": "なんにち",
+    "meaning": "which day of the month, how many days",
+    "emoji": "📅❓"
+  },
+  {
+    "section": "Time (Question Words)",
+    "kanji": "いつ",
+    "hiragana": "いつ",
+    "meaning": "when",
+    "emoji": "⌚❓"
+  },
+  {
+    "section": "Time (Special Days)",
+    "kanji": "誕生日",
+    "hiragana": "たんじょうび",
+    "meaning": "birthday",
+    "emoji": "🎂🎉"
+  },
+  {
+    "section": "Transportation (Trains)",
+    "kanji": "普通",
+    "hiragana": "ふつう",
+    "meaning": "local (train)",
+    "emoji": "🚉🛑"
+  },
+  {
+    "section": "Transportation (Trains)",
+    "kanji": "急行",
+    "hiragana": "きゅうこう",
+    "meaning": "rapid",
+    "emoji": "🚆💨"
+  },
+  {
+    "section": "Transportation (Trains)",
+    "kanji": "特急",
+    "hiragana": "とっきゅう",
+    "meaning": "express",
+    "emoji": "🚅✨"
+  },
+  {
+    "section": "Adjectives & Modifiers",
+    "kanji": "次の",
+    "hiragana": "つぎの",
+    "meaning": "next",
+    "emoji": "⏭️➡️"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "どう いたしまして。",
+    "hiragana": "どう いたしまして。",
+    "meaning": "You're welcome./Don't mention it.",
+    "emoji": "😊✨"
+  },
+  {
+    "section": "Conversations & Transportation",
+    "kanji": "ー番線",
+    "hiragana": "ーばんせん",
+    "meaning": "platform —, -th platform",
+    "emoji": "🚉🛤️"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "博多",
+    "hiragana": "はかた",
+    "meaning": "name of a town in Kyushu",
+    "emoji": "🗾📍"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "伏見",
+    "hiragana": "ふしみ",
+    "meaning": "name of a town in Kyoto",
+    "emoji": "⛩️📍"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "甲子園",
+    "hiragana": "こうしえん",
+    "meaning": "name of a town near Osaka",
+    "emoji": "⚾📍"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "大阪城",
+    "hiragana": "おおさかじょう",
+    "meaning": "Osaka Castle, a famous castle in Osaka",
+    "emoji": "🏯🌸"
+  }
+]

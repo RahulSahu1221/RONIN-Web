@@ -1,0 +1,317 @@
+
+{
+  "lesson": 2,
+  "title": "おぼえましょう",
+  "subtitle": "時間を あらわす かんじと ことば",
+  "subtitleMeaning": "Kanji and vocabulary that express time",
+  "kanji": [
+    {
+      "char": "何",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["なん", "なに"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "何時",
+          "reading": "なんじ",
+          "meaning": "what time"
+        },
+        {
+          "word": "何時間",
+          "reading": "なんじかん",
+          "meaning": "how many hours"
+        },
+        {
+          "word": "何",
+          "reading": "なに",
+          "meaning": "what"
+        },
+        {
+          "word": "何語",
+          "reading": "なにご",
+          "meaning": "what language"
+        }
+      ]
+    },
+    {
+      "char": "時",
+      "meaning": "",
+      "onyomi": ["ジ"],
+      "kunyomi": [],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "九時",
+          "reading": "くじ",
+          "meaning": "nine o'clock"
+        },
+        {
+          "word": "四時間",
+          "reading": "よじかん",
+          "meaning": "four hours"
+        },
+        {
+          "word": "時計",
+          "reading": "とけい",
+          "meaning": "watch, clock"
+        }
+      ]
+    },
+    {
+      "char": "分",
+      "meaning": "",
+      "onyomi": ["フン", "ブン"],
+      "kunyomi": [],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "五分",
+          "reading": "ごふん",
+          "meaning": "five minutes"
+        },
+        {
+          "word": "三十分",
+          "reading": "さんじゅっぷん",
+          "meaning": "thirty minutes"
+        },
+        {
+          "word": "半分",
+          "reading": "はんぶん",
+          "meaning": "half"
+        }
+      ]
+    },
+    {
+      "char": "間",
+      "meaning": "",
+      "onyomi": ["カン"],
+      "kunyomi": ["あいだ", "ま"],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "時間",
+          "reading": "じかん",
+          "meaning": "time"
+        },
+        {
+          "word": "一週間",
+          "reading": "いっしゅうかん",
+          "meaning": "one week"
+        },
+        {
+          "word": "A と B の間",
+          "reading": "A と B の あいだ",
+          "meaning": "between A and B"
+        },
+        {
+          "word": "この間",
+          "reading": "このあいだ",
+          "meaning": "the other day"
+        },
+        {
+          "word": "間に合う",
+          "reading": "まにあう",
+          "meaning": "be in time"
+        }
+      ]
+    },
+    {
+      "char": "半",
+      "meaning": "",
+      "onyomi": ["ハン"],
+      "kunyomi": [],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "七時半",
+          "reading": "しちじはん",
+          "meaning": "seven-thirty"
+        },
+        {
+          "word": "一時間半",
+          "reading": "いちじかんはん",
+          "meaning": "one hour and a half"
+        }
+      ]
+    },
+    {
+      "char": "午",
+      "meaning": "",
+      "onyomi": ["ゴ"],
+      "kunyomi": [],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "午後",
+          "reading": "ごご",
+          "meaning": "afternoon"
+        }
+      ]
+    },
+    {
+      "char": "前",
+      "meaning": "",
+      "onyomi": ["ゼン"],
+      "kunyomi": ["まえ"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "午前",
+          "reading": "ごぜん",
+          "meaning": "morning"
+        },
+        {
+          "word": "前",
+          "reading": "まえ",
+          "meaning": "front"
+        },
+        {
+          "word": "名前",
+          "reading": "なまえ",
+          "meaning": "name"
+        }
+      ]
+    },
+    {
+      "char": "後",
+      "meaning": "",
+      "onyomi": ["ゴ"],
+      "kunyomi": ["あと", "うし（ろ）"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "午後",
+          "reading": "ごご",
+          "meaning": "afternoon"
+        },
+        {
+          "word": "後で",
+          "reading": "あとで",
+          "meaning": "later, after"
+        },
+        {
+          "word": "後ろ",
+          "reading": "うしろ",
+          "meaning": "back, behind"
+        }
+      ]
+    },
+    {
+      "char": "今",
+      "meaning": "",
+      "onyomi": ["コン"],
+      "kunyomi": ["いま"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "今月",
+          "reading": "こんげつ",
+          "meaning": "this month"
+        },
+        {
+          "word": "今週",
+          "reading": "こんしゅう",
+          "meaning": "this week"
+        },
+        {
+          "word": "今",
+          "reading": "いま",
+          "meaning": "now"
+        },
+        {
+          "word": "今日",
+          "reading": "きょう",
+          "meaning": "today"
+        },
+        {
+          "word": "今年",
+          "reading": "ことし",
+          "meaning": "this year"
+        },
+        {
+          "word": "今朝",
+          "reading": "けさ",
+          "meaning": "this morning"
+        }
+      ]
+    },
+    {
+      "char": "週",
+      "meaning": "",
+      "onyomi": ["シュウ"],
+      "kunyomi": [],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "先週",
+          "reading": "せんしゅう",
+          "meaning": "last week"
+        },
+        {
+          "word": "来週",
+          "reading": "らいしゅう",
+          "meaning": "next week"
+        }
+      ]
+    },
+    {
+      "char": "年",
+      "meaning": "",
+      "onyomi": ["ネン"],
+      "kunyomi": ["とし"],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "一年",
+          "reading": "いちねん",
+          "meaning": "one year"
+        },
+        {
+          "word": "去年",
+          "reading": "きょねん",
+          "meaning": "last year"
+        },
+        {
+          "word": "来年",
+          "reading": "らいねん",
+          "meaning": "next year"
+        },
+        {
+          "word": "今年",
+          "reading": "ことし",
+          "meaning": "this year"
+        },
+        {
+          "word": "半年",
+          "reading": "はんとし",
+          "meaning": "half a year"
+        }
+      ]
+    },
+    {
+      "char": "毎",
+      "meaning": "",
+      "onyomi": ["マイ"],
+      "kunyomi": [],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "毎年",
+          "reading": "まいねん",
+          "meaning": "every year"
+        },
+        {
+          "word": "毎日",
+          "reading": "まいにち",
+          "meaning": "every day"
+        },
+        {
+          "word": "毎月",
+          "reading": "まいつき",
+          "meaning": "every month"
+        }
+      ]
+    }
+  ]
+}

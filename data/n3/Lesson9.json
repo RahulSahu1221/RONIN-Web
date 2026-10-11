@@ -1,0 +1,608 @@
+[
+  {
+    "kanji": "決まる",
+    "hiragana": "きまる",
+    "meaning": "be decided",
+    "emoji": "✅📅🤝"
+  },
+  {
+    "kanji": "済む",
+    "hiragana": "すむ",
+    "meaning": "be over",
+    "emoji": "🏁✔️📅"
+  },
+  {
+    "kanji": "印鑑",
+    "hiragana": "いんかん",
+    "meaning": "stamp, (personal/official) seal",
+    "emoji": "🔴📜🖋️"
+  },
+  {
+    "kanji": "サイン",
+    "hiragana": "",
+    "meaning": "signature",
+    "emoji": "✍️📝📄"
+  },
+  {
+    "kanji": "性能",
+    "hiragana": "せいのう",
+    "meaning": "performance",
+    "emoji": "⚙️📊🚀"
+  },
+  {
+    "kanji": "タイプ",
+    "hiragana": "",
+    "meaning": "type",
+    "emoji": "🏷️📂🔠"
+  },
+  {
+    "kanji": "機能",
+    "hiragana": "きのう",
+    "meaning": "function",
+    "emoji": "⚙️🔧🛠️"
+  },
+  {
+    "kanji": "平日",
+    "hiragana": "へいじつ",
+    "meaning": "weekday",
+    "emoji": "📅💼🏢"
+  },
+  {
+    "kanji": "将棋",
+    "hiragana": "しょうぎ",
+    "meaning": "shogi (Japanese board game resembling chess)",
+    "emoji": "♟️🎲🧠"
+  },
+  {
+    "kanji": "自慢する",
+    "hiragana": "じまんする",
+    "meaning": "feel proud of, boast about",
+    "emoji": "🏆😎📢"
+  },
+  {
+    "kanji": "豚肉",
+    "hiragana": "ぶたにく",
+    "meaning": "pork",
+    "emoji": "🐖🥩🍖"
+  },
+  {
+    "kanji": "牛肉",
+    "hiragana": "ぎゅうにく",
+    "meaning": "beef",
+    "emoji": "🐄🥩🍖"
+  },
+  {
+    "kanji": "バレーボール",
+    "hiragana": "",
+    "meaning": "volleyball",
+    "emoji": "🏐🏃‍♂️🏆"
+  },
+  {
+    "kanji": "気温",
+    "hiragana": "きおん",
+    "meaning": "(atmospheric) temperature",
+    "emoji": "🌡️☀️🌤️"
+  },
+  {
+    "kanji": "降水量",
+    "hiragana": "こうすいりょう",
+    "meaning": "(amount of) rainfall",
+    "emoji": "🌧️💧☔"
+  },
+  {
+    "kanji": "月別",
+    "hiragana": "つきべつ",
+    "meaning": "month by month",
+    "emoji": "📅🗓️📊"
+  },
+  {
+    "kanji": "平均",
+    "hiragana": "へいきん",
+    "meaning": "average",
+    "emoji": "📊➗⚖️"
+  },
+  {
+    "kanji": "予防注射",
+    "hiragana": "よぼうちゅうしゃ",
+    "meaning": "vaccination",
+    "emoji": "💉🩺🛡️"
+  },
+  {
+    "kanji": "国々",
+    "hiragana": "くにぐに",
+    "meaning": "countries",
+    "emoji": "🌍🗺️🏳️"
+  },
+  {
+    "kanji": "都市",
+    "hiragana": "とし",
+    "meaning": "city",
+    "emoji": "🏙️🏢🚦"
+  },
+  {
+    "kanji": "入国する",
+    "hiragana": "にゅうこくする",
+    "meaning": "enter a country",
+    "emoji": "🛂🛬🛃"
+  },
+  {
+    "kanji": "資源",
+    "hiragana": "しげん",
+    "meaning": "(natural) resources",
+    "emoji": "🌳⛏️🌍"
+  },
+  {
+    "kanji": "とれる [米が～]",
+    "hiragana": "[こめが～]",
+    "meaning": "[rice] be grown/be harvested",
+    "emoji": "🌾🚜🍚"
+  },
+  {
+    "kanji": "大雪",
+    "hiragana": "おおゆき",
+    "meaning": "heavy snowfall",
+    "emoji": "❄️🌨️⛄"
+  },
+  {
+    "kanji": "乾燥する",
+    "hiragana": "かんそうする",
+    "meaning": "dry out",
+    "emoji": "☀️🏜️💨"
+  },
+  {
+    "kanji": "道路",
+    "hiragana": "どうろ",
+    "meaning": "road",
+    "emoji": "🛣️🚗🚦"
+  },
+  {
+    "kanji": "どんどん",
+    "hiragana": "",
+    "meaning": "rapidly",
+    "emoji": "⚡📈🏃"
+  },
+  {
+    "kanji": "最後",
+    "hiragana": "さいご",
+    "meaning": "end",
+    "emoji": "🏁🔚📍"
+  },
+  {
+    "kanji": "生きる",
+    "hiragana": "いきる",
+    "meaning": "live",
+    "emoji": "🌱❤️🌍"
+  },
+  {
+    "kanji": "誕生",
+    "hiragana": "たんじょう",
+    "meaning": "birth",
+    "emoji": "👶🎉🌅"
+  },
+  {
+    "kanji": "実現する",
+    "hiragana": "じつげんする",
+    "meaning": "become a reality",
+    "emoji": "💡✅🏆"
+  },
+  {
+    "kanji": "金メダル",
+    "hiragana": "きんメダル",
+    "meaning": "gold medal",
+    "emoji": "🥇🏆✨"
+  },
+  {
+    "kanji": "金",
+    "hiragana": "きん",
+    "meaning": "gold",
+    "emoji": "🥇🪙✨"
+  },
+  {
+    "kanji": "メダル",
+    "hiragana": "",
+    "meaning": "medal",
+    "emoji": "🏅🥇🏆"
+  },
+  {
+    "kanji": "バスケットボール",
+    "hiragana": "",
+    "meaning": "basketball",
+    "emoji": "🏀⛹️🏆"
+  },
+  {
+    "kanji": "選手",
+    "hiragana": "せんしゅ",
+    "meaning": "player, athlete",
+    "emoji": "🏃🏅🏆"
+  },
+  {
+    "kanji": "シンプル [な]",
+    "hiragana": "",
+    "meaning": "simple",
+    "emoji": "➖✨📦"
+  },
+  {
+    "kanji": "書き込み",
+    "hiragana": "かきこみ",
+    "meaning": "writing",
+    "emoji": "✍️📝📄"
+  },
+  {
+    "kanji": "検索",
+    "hiragana": "けんさく",
+    "meaning": "retrieval",
+    "emoji": "🔍💻📚"
+  },
+  {
+    "kanji": "例文",
+    "hiragana": "れいぶん",
+    "meaning": "example sentence",
+    "emoji": "📖✍️💬"
+  },
+  {
+    "kanji": "ジャンプ機能",
+    "hiragana": "ジャンプきのう",
+    "meaning": "'jump function' or 'skip-search' of electronic dictionaries",
+    "emoji": "📚🔎⏭️"
+  },
+  {
+    "kanji": "ジャンプ",
+    "hiragana": "",
+    "meaning": "jump",
+    "emoji": "🤸⬆️🏃"
+  },
+  {
+    "kanji": "商品",
+    "hiragana": "しょうひん",
+    "meaning": "product, commodity, merchandise",
+    "emoji": "📦🛍️🏷️"
+  },
+  {
+    "kanji": "～社",
+    "hiragana": "～しゃ",
+    "meaning": "Co.",
+    "emoji": "🏢🏭💼"
+  },
+  {
+    "kanji": "国語辞書",
+    "hiragana": "こくごじしょ",
+    "meaning": "Japanese dictionary",
+    "emoji": "📘🇯🇵🔤"
+  },
+  {
+    "kanji": "和英辞書",
+    "hiragana": "わえいじしょ",
+    "meaning": "Japanese-English dictionary",
+    "emoji": "📚🇯🇵🇬🇧"
+  },
+  {
+    "kanji": "載る [例文が～]",
+    "hiragana": "のる [れいぶんが～]",
+    "meaning": "[examples] be given",
+    "emoji": "📖📝📚"
+  },
+  {
+    "kanji": "シルバー",
+    "hiragana": "",
+    "meaning": "silver",
+    "emoji": "🥈🪙✨"
+  },
+  {
+    "kanji": "付け加える",
+    "hiragana": "つけくわえる",
+    "meaning": "add to",
+    "emoji": "➕📝📎"
+  },
+  {
+    "kanji": "編集する",
+    "hiragana": "へんしゅうする",
+    "meaning": "edit",
+    "emoji": "✂️📝💻"
+  },
+  {
+    "kanji": "しっかり",
+    "hiragana": "",
+    "meaning": "reliably, properly",
+    "emoji": "💪✅🎯"
+  },
+  {
+    "kanji": "留守番をする",
+    "hiragana": "るすばんをする",
+    "meaning": "stay and look after [a house] while everyone else is out",
+    "emoji": "🏠🔑👀"
+  },
+  {
+    "kanji": "柄",
+    "hiragana": "がら",
+    "meaning": "pattern",
+    "emoji": "🎨👕🧵"
+  },
+  {
+    "kanji": "共通語",
+    "hiragana": "きょうつうご",
+    "meaning": "common language",
+    "emoji": "🗣️🌍💬"
+  },
+  {
+    "kanji": "演奏",
+    "hiragana": "えんそう",
+    "meaning": "performance",
+    "emoji": "🎸🎹🎶"
+  },
+  {
+    "kanji": "特許",
+    "hiragana": "とっきょ",
+    "meaning": "patent",
+    "emoji": "💡📜🛡️"
+  },
+  {
+    "kanji": "倒産",
+    "hiragana": "とうさん",
+    "meaning": "bankruptcy, insolvency",
+    "emoji": "🏢📉⚠️"
+  },
+  {
+    "kanji": "大金持ち",
+    "hiragana": "おおがねもち",
+    "meaning": "millionaire",
+    "emoji": "💰💎🏦"
+  },
+  {
+    "kanji": "誇る",
+    "hiragana": "ほこる",
+    "meaning": "be proud of",
+    "emoji": "🏆💪✨"
+  },
+  {
+    "kanji": "表れる",
+    "hiragana": "あらわれる",
+    "meaning": "be revealed in",
+    "emoji": "🔍👀💡"
+  },
+  {
+    "kanji": "今では",
+    "hiragana": "いまでは",
+    "meaning": "now, today",
+    "emoji": "🕒📅🌅"
+  },
+  {
+    "kanji": "ＴＳＵＮＡＭＩ",
+    "hiragana": "ツナミ",
+    "meaning": "tsunami, seismic sea wave",
+    "emoji": "🌊⚠️🌍"
+  },
+  {
+    "kanji": "影響",
+    "hiragana": "えいきょう",
+    "meaning": "influence",
+    "emoji": "🔄🌍📈"
+  },
+  {
+    "kanji": "有名人",
+    "hiragana": "ゆうめいじん",
+    "meaning": "famous person",
+    "emoji": "⭐🎤📸"
+  },
+  {
+    "kanji": "録音する",
+    "hiragana": "ろくおんする",
+    "meaning": "record",
+    "emoji": "🎙️🎧🔴"
+  },
+  {
+    "kanji": "ヒント",
+    "hiragana": "",
+    "meaning": "hint",
+    "emoji": "💡🔎🧩"
+  },
+  {
+    "kanji": "貸し出す",
+    "hiragana": "かしだす",
+    "meaning": "rent out",
+    "emoji": "📚🤝🔑"
+  },
+  {
+    "kanji": "ところが",
+    "hiragana": "",
+    "meaning": "however",
+    "emoji": "🔄⚖️❗"
+  },
+  {
+    "kanji": "競争",
+    "hiragana": "きょうそう",
+    "meaning": "competition",
+    "emoji": "🏁🏆🏃"
+  },
+  {
+    "kanji": "性別",
+    "hiragana": "せいべつ",
+    "meaning": "sex, gender",
+    "emoji": "👥🧑‍🤝‍🧑"
+  },
+  {
+    "kanji": "地域",
+    "hiragana": "ちいき",
+    "meaning": "region",
+    "emoji": "🗺️📍🌍"
+  },
+  {
+    "kanji": "関係なく",
+    "hiragana": "かんけいなく",
+    "meaning": "regardless of",
+    "emoji": "↔️🌍⚖️"
+  },
+  {
+    "kanji": "娯楽",
+    "hiragana": "ごらく",
+    "meaning": "amusement, recreation",
+    "emoji": "🎮🎬🎡"
+  },
+  {
+    "kanji": "[お]年寄り",
+    "hiragana": "[お]としより",
+    "meaning": "elderly person",
+    "emoji": "👴👵🧓"
+  },
+  {
+    "kanji": "仲間",
+    "hiragana": "なかま",
+    "meaning": "friend",
+    "emoji": "👫🤝❤️"
+  },
+  {
+    "kanji": "心",
+    "hiragana": "こころ",
+    "meaning": "mind",
+    "emoji": "❤️🧠💭"
+  },
+  {
+    "kanji": "治す",
+    "hiragana": "なおす",
+    "meaning": "cure",
+    "emoji": "🩺💊❤️"
+  },
+  {
+    "kanji": "単なる",
+    "hiragana": "たんなる",
+    "meaning": "mere",
+    "emoji": "➖📌🔹"
+  },
+  {
+    "kanji": "きっかけ",
+    "hiragana": "",
+    "meaning": "reason, catalyst",
+    "emoji": "💡🔑🚀"
+  },
+  {
+    "kanji": "交流協会",
+    "hiragana": "こうりゅうきょうかい",
+    "meaning": "exchange association",
+    "emoji": "🤝🌍🏢"
+  },
+  {
+    "kanji": "広報誌",
+    "hiragana": "こうほうし",
+    "meaning": "public relations magazine, bulletin",
+    "emoji": "📰📖📢"
+  },
+  {
+    "kanji": "暮らし",
+    "hiragana": "くらし",
+    "meaning": "life",
+    "emoji": "🏠🌱☀️"
+  },
+  {
+    "kanji": "役立つ",
+    "hiragana": "やくだつ",
+    "meaning": "be useful for",
+    "emoji": "🛠️✅🤝"
+  },
+  {
+    "kanji": "参加者",
+    "hiragana": "さんかしゃ",
+    "meaning": "participant",
+    "emoji": "👥🙋📋"
+  },
+  {
+    "kanji": "こうやって",
+    "hiragana": "",
+    "meaning": "Like this....",
+    "emoji": "👉📝👀"
+  },
+  {
+    "kanji": "～だけじゃなくて、～のがいいんですが……",
+    "hiragana": "",
+    "meaning": "Not just..., but... would be good.",
+    "emoji": "➕💬🤔"
+  },
+  {
+    "kanji": "Adding desired conditions regarding something one wants to buy.",
+    "hiragana": "",
+    "meaning": "Explanatory note: Adding desired conditions regarding something one wants to buy.",
+    "emoji": "🛍️📋🎯"
+  },
+  {
+    "kanji": "それでしたら、～（の）がよろしいんじゃないでしょうか。",
+    "hiragana": "",
+    "meaning": "In that case, wouldn't ~ be best?",
+    "emoji": "💬👍🤔"
+  },
+  {
+    "kanji": "ほとんど変わりませんね。",
+    "hiragana": "",
+    "meaning": "There's hardly any difference.",
+    "emoji": "⚖️↔️🔍"
+  },
+  {
+    "kanji": "で、～はありませんか。",
+    "hiragana": "",
+    "meaning": "Do you have... with...?",
+    "emoji": "🛍️❓🔎"
+  },
+  {
+    "kanji": "Asking for an article that is of a different type to, but satisfies the same conditions as, the one suggested by the shop assistant.",
+    "hiragana": "",
+    "meaning": "Explanatory note: Asking for an article of a different type that satisfies the same conditions as the one suggested by the shop assistant.",
+    "emoji": "🛍️🔄📋"
+  },
+  {
+    "kanji": "ドラえもん",
+    "hiragana": "",
+    "meaning": "Doraemon: Robot-cat hero of manga and anime series, translated into many languages and popular world-wide.",
+    "emoji": "🤖🐱📺"
+  },
+  {
+    "kanji": "アインシュタイン",
+    "hiragana": "",
+    "meaning": "Albert Einstein: German (American naturalized) theoretical physicist and Nobel Prize winner. 1879–1955.",
+    "emoji": "🧠🔬🏆"
+  },
+  {
+    "kanji": "タイム",
+    "hiragana": "",
+    "meaning": "Time: American weekly news magazine, published in thirty countries.",
+    "emoji": "📰🌍⏰"
+  },
+  {
+    "kanji": "ガンジー",
+    "hiragana": "",
+    "meaning": "Gandhi: Mohandas Karamchand Gandhi, Indian politician and thinker. 1869–1948.",
+    "emoji": "🇮🇳🕊️📜"
+  },
+  {
+    "kanji": "毛沢東",
+    "hiragana": "もうたくとう",
+    "meaning": "Mao Zedong: Chinese politician and thinker, founder of the People's Republic of China. 1893–1976.",
+    "emoji": "🇨🇳📜🏛️"
+  },
+  {
+    "kanji": "黒澤 明",
+    "hiragana": "くろさわあきら",
+    "meaning": "Akira Kurosawa: Film director, best known for 'The Seven Samurai.' 1910–1998.",
+    "emoji": "🎬🎥🎞️"
+  },
+  {
+    "kanji": "井上大佑",
+    "hiragana": "いのうえだいすけ",
+    "meaning": "Daisuke Inoue: Inventor of karaoke. 1949–.",
+    "emoji": "🎤🎶🎵"
+  },
+  {
+    "kanji": "8 ジューク",
+    "hiragana": "",
+    "meaning": "8-track jukebox: The first karaoke device, invented by Daisuke Inoue in 1971.",
+    "emoji": "🎤🎶📼"
+  },
+  {
+    "kanji": "曲がるストロー",
+    "hiragana": "まがるストロー",
+    "meaning": "bendy straw: Invented and patented by Takao Sakata after seeing a friend in hospital having difficulty drinking through a straight straw.",
+    "emoji": "🥤↪️💡"
+  },
+  {
+    "kanji": "プルトップリング",
+    "hiragana": "",
+    "meaning": "ring pull: Ring-shaped tab for opening a drinking hole in the lid of a drink can.",
+    "emoji": "🥫🔘🥤"
+  }
+]

@@ -1,0 +1,292 @@
+[
+{
+"section": "Verbs",
+"kanji": "つけます",
+"hiragana": "つけます",
+"meaning": "turn on",
+"emoji": "💡👆🔛"
+},
+{
+"section": "Verbs",
+"kanji": "消します",
+"hiragana": "けします",
+"meaning": "turn off",
+"emoji": "💡👆📴"
+},
+{
+"section": "Verbs",
+"kanji": "開けます",
+"hiragana": "あけます",
+"meaning": "open",
+"emoji": "🚪👐✨"
+},
+{
+"section": "Verbs",
+"kanji": "閉めます",
+"hiragana": "しめます",
+"meaning": "close, shut",
+"emoji": "🚪🔒✋"
+},
+{
+"section": "Verbs",
+"kanji": "急ぎます",
+"hiragana": "いそぎます",
+"meaning": "hurry",
+"emoji": "🏃💨⏰"
+},
+{
+"section": "Verbs",
+"kanji": "待ちます",
+"hiragana": "まちます",
+"meaning": "wait",
+"emoji": "⏳🧍⌚"
+},
+{
+"section": "Verbs",
+"kanji": "止めます",
+"hiragana": "とめます",
+"meaning": "stop, park",
+"emoji": "🛑🚗✋"
+},
+{
+"section": "Verbs",
+"kanji": "曲がります",
+"hiragana": "まがります",
+"meaning": "turn [to the right]",
+"example": "[右へ ～] / [みぎへ ～]",
+"emoji": "↪️🚶➡️"
+},
+{
+"section": "Verbs",
+"kanji": "持ちます",
+"hiragana": "もちます",
+"meaning": "hold",
+"emoji": "✊🛍️📦"
+},
+{
+"section": "Verbs",
+"kanji": "取ります",
+"hiragana": "とります",
+"meaning": "take, pass",
+"emoji": "🤲📦➡️"
+},
+{
+"section": "Verbs",
+"kanji": "手伝います",
+"hiragana": "てつだいます",
+"meaning": "help (with a task)",
+"emoji": "🤝💪😊"
+},
+{
+"section": "Verbs",
+"kanji": "呼びます",
+"hiragana": "よびます",
+"meaning": "call",
+"emoji": "🗣️📢👋"
+},
+{
+"section": "Verbs",
+"kanji": "話します",
+"hiragana": "はなします",
+"meaning": "speak, talk",
+"emoji": "🗣️💬😊"
+},
+{
+"section": "Verbs",
+"kanji": "見せます",
+"hiragana": "みせます",
+"meaning": "show",
+"emoji": "👀📱➡️"
+},
+{
+"section": "Verbs",
+"kanji": "教えます",
+"hiragana": "おしえます",
+"meaning": "tell [an address]",
+"example": "[住所を ～] / [じゅうしょを ～]",
+"emoji": "🗺️🗣️📍"
+},
+{
+"section": "Verbs",
+"kanji": "始めます",
+"hiragana": "はじめます",
+"meaning": "start, begin",
+"emoji": "🏁🎬▶️"
+},
+{
+"section": "Verbs",
+"kanji": "降ります",
+"hiragana": "ふります",
+"meaning": "rain",
+"example": "[雨が ～] / [あめが ～]",
+"emoji": "☁️🌧️☔"
+},
+{
+"section": "Verbs",
+"kanji": "コピーします",
+"hiragana": "コピーします",
+"meaning": "copy",
+"emoji": "📄🖨️📄"
+},
+{
+"section": "Nouns",
+"kanji": "エアコン",
+"hiragana": "エアコン",
+"meaning": "air conditioner",
+"emoji": "❄️🌬️🏠"
+},
+{
+"section": "Nouns",
+"kanji": "パスポート",
+"hiragana": "パスポート",
+"meaning": "passport",
+"emoji": "📘🛂✈️"
+},
+{
+"section": "Nouns",
+"kanji": "名前",
+"hiragana": "なまえ",
+"meaning": "name",
+"emoji": "📛✍️👤"
+},
+{
+"section": "Nouns",
+"kanji": "住所",
+"hiragana": "じゅうしょ",
+"meaning": "address",
+"emoji": "🏠📍🗺️"
+},
+{
+"section": "Nouns",
+"kanji": "地図",
+"hiragana": "ちず",
+"meaning": "map",
+"emoji": "🗺️🧭📍"
+},
+{
+"section": "Nouns",
+"kanji": "塩",
+"hiragana": "しお",
+"meaning": "salt",
+"emoji": "🧂🍲🥄"
+},
+{
+"section": "Nouns",
+"kanji": "砂糖",
+"hiragana": "さとう",
+"meaning": "sugar",
+"emoji": "🍬🥄☕"
+},
+{
+"section": "Nouns",
+"kanji": "読み方",
+"hiragana": "よみかた",
+"meaning": "how to read, way of reading",
+"emoji": "📖🤔🗣️"
+},
+{
+"section": "Expressions",
+"kanji": "～方",
+"hiragana": "～かた",
+"meaning": "how to ~, way of ~ ing",
+"emoji": "🛠️📖💡"
+},
+{
+"section": "Adverbs",
+"kanji": "ゆっくり",
+"hiragana": "ゆっくり",
+"meaning": "slowly, leisurely",
+"emoji": "🐢🚶😌"
+},
+{
+"section": "Adverbs",
+"kanji": "すぐ",
+"hiragana": "すぐ",
+"meaning": "immediately",
+"emoji": "⚡🏃⏱️"
+},
+{
+"section": "Adverbs",
+"kanji": "また",
+"hiragana": "また",
+"meaning": "again",
+"emoji": "🔄🔁😊"
+},
+{
+"section": "Adverbs",
+"kanji": "あとで",
+"hiragana": "あとで",
+"meaning": "later",
+"emoji": "⏰🔜📅"
+},
+{
+"section": "Adverbs",
+"kanji": "もう 少し",
+"hiragana": "もう すこし",
+"meaning": "a little more",
+"emoji": "🤏➕😊"
+},
+{
+"section": "Adverbs",
+"kanji": "もう ～",
+"hiragana": "もう ～",
+"meaning": "~ more, another ~",
+"emoji": "➕1️⃣✨"
+},
+{
+"section": "Expressions",
+"kanji": "いいですよ。",
+"hiragana": "いいですよ。",
+"meaning": "Sure./Certainly.",
+"emoji": "👍😊✨"
+},
+{
+"section": "Expressions",
+"kanji": "さあ",
+"hiragana": "さあ",
+"meaning": "right (used when encouraging some course of action)",
+"emoji": "👏🚶➡️"
+},
+{
+"section": "Expressions",
+"kanji": "あれ？",
+"hiragana": "あれ？",
+"meaning": "Oh! (in surprise or in wonder)",
+"emoji": "😲❓🤔"
+},
+{
+"section": "Conversations",
+"kanji": "信号を 右へ 曲がって ください。",
+"hiragana": "しんごうを みぎへ まがって ください。",
+"meaning": "Turn to the right at the signal.",
+"emoji": "🚥↪️➡️"
+},
+{
+"section": "Conversations",
+"kanji": "まっすぐ",
+"hiragana": "まっすぐ",
+"meaning": "straight",
+"emoji": "⬆️🚶📍"
+},
+{
+"section": "Conversations",
+"kanji": "これで お願いします。",
+"hiragana": "これで おねがいします。",
+"meaning": "I'd like to pay with this.",
+"emoji": "💴🤲💳"
+},
+{
+"section": "Conversations",
+"kanji": "お釣り",
+"hiragana": "おつり",
+"meaning": "change",
+"emoji": "🪙💴↩️"
+},
+{
+"section": "Proper Nouns",
+"kanji": "梅田",
+"hiragana": "うめだ",
+"meaning": "name of a town in Osaka",
+"emoji": "🏙️📍🇯🇵"
+}
+]

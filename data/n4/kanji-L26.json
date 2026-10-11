@@ -1,0 +1,264 @@
+{
+  "lesson": 26,
+  "title": "おぼえましょう",
+  "subtitle": "グループで おぼえましょう",
+  "subtitleMeaning": "Learn these as groups",
+  "kanji": [
+    {
+      "char": "鳥",
+      "meaning": "bird",
+      "onyomi": [],
+      "kunyomi": ["とり"],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "鳥",
+          "reading": "とり",
+          "meaning": "bird"
+        },
+        {
+          "word": "小鳥",
+          "reading": "ことり",
+          "meaning": "small bird"
+        }
+      ]
+    },
+    {
+      "char": "銀",
+      "meaning": "silver",
+      "onyomi": ["ギン"],
+      "kunyomi": [],
+      "strokes": 14,
+      "examples": [
+        {
+          "word": "銀行",
+          "reading": "ぎんこう",
+          "meaning": "bank"
+        }
+      ]
+    },
+    {
+      "char": "堂",
+      "meaning": "hall",
+      "onyomi": ["ドウ"],
+      "kunyomi": [],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "食堂",
+          "reading": "しょくどう",
+          "meaning": "cafeteria"
+        },
+        {
+          "word": "講堂",
+          "reading": "こうどう",
+          "meaning": "auditorium"
+        }
+      ]
+    },
+    {
+      "char": "院",
+      "meaning": "institution",
+      "onyomi": ["イン"],
+      "kunyomi": [],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "病院",
+          "reading": "びょういん",
+          "meaning": "hospital"
+        },
+        {
+          "word": "入院する",
+          "reading": "にゅういんする",
+          "meaning": "be hospitalized"
+        },
+        {
+          "word": "大学院",
+          "reading": "だいがくいん",
+          "meaning": "graduate school"
+        }
+      ]
+    },
+    {
+      "char": "歩",
+      "meaning": "walk",
+      "onyomi": ["ホ"],
+      "kunyomi": ["ある（-く）"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "散歩する",
+          "reading": "さんぽする",
+          "meaning": "take a walk"
+        },
+        {
+          "word": "歩く",
+          "reading": "あるく",
+          "meaning": "walk"
+        }
+      ]
+    },
+    {
+      "char": "走",
+      "meaning": "run",
+      "onyomi": [],
+      "kunyomi": ["はし（-る）"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "走る",
+          "reading": "はしる",
+          "meaning": "run"
+        }
+      ]
+    },
+    {
+      "char": "海",
+      "meaning": "sea, ocean",
+      "onyomi": ["カイ"],
+      "kunyomi": ["うみ"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "海岸",
+          "reading": "かいがん",
+          "meaning": "beach, shore"
+        },
+        {
+          "word": "海",
+          "reading": "うみ",
+          "meaning": "the ocean"
+        }
+      ]
+    },
+    {
+      "char": "帰",
+      "meaning": "return home",
+      "onyomi": [],
+      "kunyomi": ["かえ（-る）"],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "帰る",
+          "reading": "かえる",
+          "meaning": "go home"
+        }
+      ]
+    },
+    {
+      "char": "英",
+      "meaning": "English",
+      "onyomi": ["エイ"],
+      "kunyomi": [],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "英語",
+          "reading": "えいご",
+          "meaning": "English"
+        }
+      ]
+    },
+    {
+      "char": "茶",
+      "meaning": "tea",
+      "onyomi": ["チャ", "サ"],
+      "kunyomi": [],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "お茶",
+          "reading": "おちゃ",
+          "meaning": "(green) tea"
+        },
+        {
+          "word": "紅茶",
+          "reading": "こうちゃ",
+          "meaning": "tea"
+        },
+        {
+          "word": "喫茶店",
+          "reading": "きっさてん",
+          "meaning": "coffee shop, café"
+        }
+      ]
+    },
+    {
+      "char": "答",
+      "meaning": "answer",
+      "onyomi": [],
+      "kunyomi": ["こた（-える / -え）"],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "答える",
+          "reading": "こたえる",
+          "meaning": "answer"
+        },
+        {
+          "word": "答え",
+          "reading": "こたえ",
+          "meaning": "answer"
+        }
+      ]
+    },
+    {
+      "char": "紙",
+      "meaning": "paper",
+      "onyomi": [],
+      "kunyomi": ["かみ"],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "紙",
+          "reading": "かみ",
+          "meaning": "paper"
+        },
+        {
+          "word": "手紙",
+          "reading": "てがみ",
+          "meaning": "letter"
+        }
+      ]
+    },
+    {
+      "char": "私",
+      "meaning": "I",
+      "onyomi": [],
+      "kunyomi": ["わたくし", "わたし"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "私",
+          "reading": "わたくし",
+          "meaning": "I (formal)"
+        },
+        {
+          "word": "私",
+          "reading": "わたし",
+          "meaning": "I"
+        }
+      ]
+    },
+    {
+      "char": "送",
+      "meaning": "send",
+      "onyomi": ["ソウ"],
+      "kunyomi": ["おく（-る）"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "放送",
+          "reading": "ほうそう",
+          "meaning": "broadcast"
+        },
+        {
+          "word": "送る",
+          "reading": "おくる",
+          "meaning": "send"
+        }
+      ]
+    }
+  ]
+}

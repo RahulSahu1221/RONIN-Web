@@ -1,0 +1,482 @@
+[
+  {
+    "kanji": "演奏会",
+    "hiragana": "えんそうかい",
+    "meaning": "concert, recital",
+    "emoji": "🎻🎹🎶"
+  },
+  {
+    "kanji": "報告書",
+    "hiragana": "ほうこくしょ",
+    "meaning": "report",
+    "emoji": "📄📝📊"
+  },
+  {
+    "kanji": "あくび",
+    "hiragana": "",
+    "meaning": "yawn",
+    "emoji": "🥱😴💤"
+  },
+  {
+    "kanji": "犯人",
+    "hiragana": "はんにん",
+    "meaning": "criminal",
+    "emoji": "🕵️🚔🔎"
+  },
+  {
+    "kanji": "追いかける",
+    "hiragana": "おいかける",
+    "meaning": "chase",
+    "emoji": "🏃💨🚓"
+  },
+  {
+    "kanji": "作業",
+    "hiragana": "さぎょう",
+    "meaning": "work",
+    "emoji": "🛠️⚙️👷"
+  },
+  {
+    "kanji": "スープ",
+    "hiragana": "",
+    "meaning": "soup",
+    "emoji": "🍲🥣🥄"
+  },
+  {
+    "kanji": "こぼす",
+    "hiragana": "",
+    "meaning": "spill",
+    "emoji": "🥛💧😬"
+  },
+  {
+    "kanji": "シャッター",
+    "hiragana": "",
+    "meaning": "shutter",
+    "emoji": "📸🚪🏪"
+  },
+  {
+    "kanji": "スプレー",
+    "hiragana": "",
+    "meaning": "spray",
+    "emoji": "🧴💨🌫️"
+  },
+  {
+    "kanji": "落書きする",
+    "hiragana": "らくがきする",
+    "meaning": "draw graffiti, scribble",
+    "emoji": "🖍️🎨🧱"
+  },
+  {
+    "kanji": "夜中",
+    "hiragana": "よなか",
+    "meaning": "in the middle of the night",
+    "emoji": "🌙🌃🕛"
+  },
+  {
+    "kanji": "日",
+    "hiragana": "ひ",
+    "meaning": "sunshine",
+    "emoji": "☀️🌞🌤️"
+  },
+  {
+    "kanji": "当たる [日が～]",
+    "hiragana": "あたる [ひが～]",
+    "meaning": "get [sunshine]",
+    "emoji": "☀️🏡🌞"
+  },
+  {
+    "kanji": "暮らす",
+    "hiragana": "くらす",
+    "meaning": "live",
+    "emoji": "🏡🌱👨‍👩‍👧"
+  },
+  {
+    "kanji": "書道",
+    "hiragana": "しょどう",
+    "meaning": "calligraphy",
+    "emoji": "🖌️📜✍️"
+  },
+  {
+    "kanji": "蛍光灯",
+    "hiragana": "けいこうとう",
+    "meaning": "fluorescent light",
+    "emoji": "💡🔦🏠"
+  },
+  {
+    "kanji": "メニュー",
+    "hiragana": "",
+    "meaning": "menu",
+    "emoji": "📋🍽️🥗"
+  },
+  {
+    "kanji": "バイク",
+    "hiragana": "",
+    "meaning": "motorbike",
+    "emoji": "🏍️🛣️⛑️"
+  },
+  {
+    "kanji": "目覚まし時計",
+    "hiragana": "めざましどけい",
+    "meaning": "alarm clock",
+    "emoji": "⏰🛏️🌅"
+  },
+  {
+    "kanji": "鳴る",
+    "hiragana": "なる",
+    "meaning": "go off",
+    "emoji": "🔔⏰📢"
+  },
+  {
+    "kanji": "温暖な",
+    "hiragana": "おんだんな",
+    "meaning": "mild",
+    "emoji": "🌤️🌡️🌷"
+  },
+  {
+    "kanji": "家事",
+    "hiragana": "かじ",
+    "meaning": "housework",
+    "emoji": "🧹🧺🧽"
+  },
+  {
+    "kanji": "ぐっすり [～眠る]",
+    "hiragana": "[～ねむる]",
+    "meaning": "soundly [sleep]",
+    "emoji": "😴🛌💤"
+  },
+  {
+    "kanji": "迷惑",
+    "hiragana": "めいわく",
+    "meaning": "nuisance, trouble",
+    "emoji": "😣⚠️🙅"
+  },
+  {
+    "kanji": "かける [迷惑を～]",
+    "hiragana": "[めいわくを～]",
+    "meaning": "cause [trouble]",
+    "emoji": "😓⚠️💢"
+  },
+  {
+    "kanji": "風邪薬",
+    "hiragana": "かぜぐすり",
+    "meaning": "cold medicine",
+    "emoji": "💊🤧🩺"
+  },
+  {
+    "kanji": "乗り遅れる",
+    "hiragana": "のりおくれる",
+    "meaning": "miss (a bus, train, etc.)",
+    "emoji": "🚌🚉🏃"
+  },
+  {
+    "kanji": "苦情",
+    "hiragana": "くじょう",
+    "meaning": "complaint",
+    "emoji": "📢😠📝"
+  },
+  {
+    "kanji": "遅く",
+    "hiragana": "おそく",
+    "meaning": "late",
+    "emoji": "🕒🌙⌛"
+  },
+  {
+    "kanji": "[お]帰り",
+    "hiragana": "[お]かえり",
+    "meaning": "coming home",
+    "emoji": "🏠🚪👋"
+  },
+  {
+    "kanji": "あまり",
+    "hiragana": "",
+    "meaning": "too",
+    "emoji": "➕📏⚖️"
+  },
+  {
+    "kanji": "どうしても",
+    "hiragana": "",
+    "meaning": "inevitably, like it or not",
+    "emoji": "🔄❗💭"
+  },
+  {
+    "kanji": "自治会",
+    "hiragana": "じちかい",
+    "meaning": "community association, residents' association",
+    "emoji": "🏘️🤝👥"
+  },
+  {
+    "kanji": "役員",
+    "hiragana": "やくいん",
+    "meaning": "officer",
+    "emoji": "👔🏢📋"
+  },
+  {
+    "kanji": "DVD",
+    "hiragana": "ディーブイディー",
+    "meaning": "DVD",
+    "emoji": "📀🎬📺"
+  },
+  {
+    "kanji": "座談会",
+    "hiragana": "ざだんかい",
+    "meaning": "round-table discussion",
+    "emoji": "🗣️🪑👥"
+  },
+  {
+    "kanji": "カルチャーショック",
+    "hiragana": "",
+    "meaning": "culture shock",
+    "emoji": "🌍😲💭"
+  },
+  {
+    "kanji": "受ける [ショックを～]",
+    "hiragana": "うける [ショックを～]",
+    "meaning": "get/receive [a shock]",
+    "emoji": "😲💥😵"
+  },
+  {
+    "kanji": "それまで",
+    "hiragana": "",
+    "meaning": "until then, before",
+    "emoji": "⏳📅➡️"
+  },
+  {
+    "kanji": "騒々しい",
+    "hiragana": "そうぞうしい",
+    "meaning": "noisy",
+    "emoji": "📢🔊😵"
+  },
+  {
+    "kanji": "アナウンス",
+    "hiragana": "",
+    "meaning": "announcement",
+    "emoji": "📢🎙️📣"
+  },
+  {
+    "kanji": "分かれる [意見が～]",
+    "hiragana": "わかれる [いけんが～]",
+    "meaning": "opinion [be divided]",
+    "emoji": "🗣️⚖️↔️"
+  },
+  {
+    "kanji": "奥様",
+    "hiragana": "おくさま",
+    "meaning": "housewife",
+    "emoji": "👩🏠👨‍👩‍👧"
+  },
+  {
+    "kanji": "おいでいただく",
+    "hiragana": "",
+    "meaning": "kindly come",
+    "emoji": "🙏🚶🏠"
+  },
+  {
+    "kanji": "苦労",
+    "hiragana": "くろう",
+    "meaning": "hardship",
+    "emoji": "😓💪⛰️"
+  },
+  {
+    "kanji": "中略",
+    "hiragana": "ちゅうりゃく",
+    "meaning": "several paragraphs omitted",
+    "emoji": "📄✂️⋯"
+  },
+  {
+    "kanji": "おかしな",
+    "hiragana": "",
+    "meaning": "funny",
+    "emoji": "😂🤡😆"
+  },
+  {
+    "kanji": "サンダル",
+    "hiragana": "",
+    "meaning": "sandal",
+    "emoji": "🩴👡🦶"
+  },
+  {
+    "kanji": "ピーピー",
+    "hiragana": "",
+    "meaning": "whistling sound (of a kettle)",
+    "emoji": "🫖📣🎵"
+  },
+  {
+    "kanji": "たまらない",
+    "hiragana": "",
+    "meaning": "cannot stand",
+    "emoji": "😖🙉💢"
+  },
+  {
+    "kanji": "都会",
+    "hiragana": "とかい",
+    "meaning": "city",
+    "emoji": "🏙️🚦🏢"
+  },
+  {
+    "kanji": "住宅地",
+    "hiragana": "じゅうたくち",
+    "meaning": "residential area",
+    "emoji": "🏘️🏡🌳"
+  },
+  {
+    "kanji": "虫",
+    "hiragana": "むし",
+    "meaning": "insect",
+    "emoji": "🐛🦋🐞"
+  },
+  {
+    "kanji": "虫の音",
+    "hiragana": "むしのね",
+    "meaning": "sound of insects",
+    "emoji": "🦗🌙🎶"
+  },
+  {
+    "kanji": "車内",
+    "hiragana": "しゃない",
+    "meaning": "inside a vehicle",
+    "emoji": "🚆🚌🚗"
+  },
+  {
+    "kanji": "ホーム",
+    "hiragana": "",
+    "meaning": "platform",
+    "emoji": "🚉🚆🚶"
+  },
+  {
+    "kanji": "加える",
+    "hiragana": "くわえる",
+    "meaning": "add",
+    "emoji": "➕🧮📦"
+  },
+  {
+    "kanji": "さっぱり [～ない]",
+    "hiragana": "",
+    "meaning": "[not] completely",
+    "emoji": "❌🤷💭"
+  },
+  {
+    "kanji": "乗客",
+    "hiragana": "じょうきゃく",
+    "meaning": "passenger",
+    "emoji": "🧍🚌🚆"
+  },
+  {
+    "kanji": "安全性",
+    "hiragana": "あんぜんせい",
+    "meaning": "safety",
+    "emoji": "🛡️✅🚦"
+  },
+  {
+    "kanji": "配慮する",
+    "hiragana": "はいりょする",
+    "meaning": "consider",
+    "emoji": "🤝💭❤️"
+  },
+  {
+    "kanji": "含む",
+    "hiragana": "ふくむ",
+    "meaning": "include",
+    "emoji": "📦➕📋"
+  },
+  {
+    "kanji": "チャイム",
+    "hiragana": "",
+    "meaning": "chime",
+    "emoji": "🔔🎵🏫"
+  },
+  {
+    "kanji": "発車ベル",
+    "hiragana": "はっしゃベル",
+    "meaning": "train departure bell",
+    "emoji": "🚆🔔🚉"
+  },
+  {
+    "kanji": "必ずしも [～ない]",
+    "hiragana": "かならずしも [～ない]",
+    "meaning": "[not] necessarily",
+    "emoji": "🤔⚖️❌"
+  },
+  {
+    "kanji": "近所づきあい",
+    "hiragana": "きんじょづきあい",
+    "meaning": "socializing with neighbors",
+    "emoji": "🏘️🤝🗣️"
+  },
+  {
+    "kanji": "コマーシャル",
+    "hiragana": "",
+    "meaning": "commercial",
+    "emoji": "📺📢💰"
+  },
+  {
+    "kanji": "気が付きませんでした。",
+    "hiragana": "きがつきませんでした。",
+    "meaning": "I didn't notice that.",
+    "emoji": "👀❌💭"
+  },
+  {
+    "kanji": "どうしても……",
+    "hiragana": "",
+    "meaning": "inevitably, always",
+    "emoji": "🔄❗💭"
+  },
+  {
+    "kanji": "Communicating that you feel something is impossible, after having given due consideration to the circumstances.",
+    "hiragana": "",
+    "meaning": "Usage note: Communicating that you feel something is impossible, after having given due consideration to the circumstances.",
+    "emoji": "🤔🚫💬"
+  },
+  {
+    "kanji": "それはわかりますけど、……",
+    "hiragana": "",
+    "meaning": "I understand that, but....",
+    "emoji": "🤝💭➡️"
+  },
+  {
+    "kanji": "Indicating that you understand how the speaker feels, but it is nevertheless a problem for you.",
+    "hiragana": "",
+    "meaning": "Usage note: Indicating that you understand how the speaker feels, but it is nevertheless a problem for you.",
+    "emoji": "🤝⚖️💬"
+  },
+  {
+    "kanji": "どちらかと言えば……",
+    "hiragana": "",
+    "meaning": "On the whole....",
+    "emoji": "⚖️💭🗣️"
+  },
+  {
+    "kanji": "いい勉強になる",
+    "hiragana": "いいべんきょうになる",
+    "meaning": "good for learning",
+    "emoji": "📚💡🎓"
+  },
+  {
+    "kanji": "ハンガリー",
+    "hiragana": "",
+    "meaning": "Hungary",
+    "emoji": "🇭🇺🌍🗺️"
+  },
+  {
+    "kanji": "ブダペスト",
+    "hiragana": "",
+    "meaning": "Budapest",
+    "emoji": "🏙️🇭🇺🌉"
+  },
+  {
+    "kanji": "バンコク",
+    "hiragana": "",
+    "meaning": "Bangkok",
+    "emoji": "🇹🇭🏙️🛕"
+  },
+  {
+    "kanji": "宇都宮",
+    "hiragana": "うつのみや",
+    "meaning": "Utsunomiya: Tochigi prefectural capital, located in the center of the prefecture.",
+    "emoji": "🏙️🗾📍"
+  },
+  {
+    "kanji": "浦安",
+    "hiragana": "うらやす",
+    "meaning": "Urayasu: Tokyo satellite city, located on Tokyo Bay in the north-west of Chiba Prefecture, and home of Tokyo Disney Resort.",
+    "emoji": "🏙️🌊🎡"
+  }
+]

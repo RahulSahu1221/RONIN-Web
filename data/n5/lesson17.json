@@ -1,0 +1,247 @@
+[
+  {
+    "category":"Vocabulary",
+    "kanji":"覚えます",
+    "hiragana":"おぼえます",
+    "meaning":"memorize",
+    "emoji":"🧠"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"忘れます",
+    "hiragana":"わすれます",
+    "meaning":"forget",
+    "emoji":"😵"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"なくします",
+    "hiragana":"なくします",
+    "meaning":"lose",
+    "emoji":"❌"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"出します",
+    "hiragana":"だします",
+    "meaning":"hand in, submit",
+    "emoji":"📄"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"払います",
+    "hiragana":"はらいます",
+    "meaning":"pay",
+    "emoji":"💴"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"返します",
+    "hiragana":"かえします",
+    "meaning":"return, give back",
+    "emoji":"↩️"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"出かけます",
+    "hiragana":"でかけます",
+    "meaning":"go out",
+    "emoji":"🚶"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"脱ぎます",
+    "hiragana":"ぬぎます",
+    "meaning":"take off (clothes)",
+    "emoji":"👕"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"持って行きます",
+    "hiragana":"もっていきます",
+    "meaning":"take (something)",
+    "emoji":"📦"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"持って来ます",
+    "hiragana":"もってきます",
+    "meaning":"bring (something)",
+    "emoji":"📥"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"心配します",
+    "hiragana":"しんぱいします",
+    "meaning":"worry",
+    "emoji":"😟"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"残業します",
+    "hiragana":"ざんぎょうします",
+    "meaning":"work overtime",
+    "emoji":"⏰"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"出張します",
+    "hiragana":"しゅっちょうします",
+    "meaning":"go on a business trip",
+    "emoji":"✈️"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"飲みます",
+    "hiragana":"のみます",
+    "meaning":"take medicine",
+    "emoji":"💊"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"入ります",
+    "hiragana":"はいります",
+    "meaning":"take a bath",
+    "emoji":"🛁"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"大切な",
+    "hiragana":"たいせつな",
+    "meaning":"important, precious",
+    "emoji":"💎"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"大丈夫な",
+    "hiragana":"だいじょうぶな",
+    "meaning":"all right",
+    "emoji":"👌"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"危ない",
+    "hiragana":"あぶない",
+    "meaning":"dangerous",
+    "emoji":"⚠️"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"問題",
+    "hiragana":"もんだい",
+    "meaning":"question, problem, trouble",
+    "emoji":"❓"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"答え",
+    "hiragana":"こたえ",
+    "meaning":"answer",
+    "emoji":"💡"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"禁煙",
+    "hiragana":"きんえん",
+    "meaning":"no smoking",
+    "emoji":"🚭"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"健康保険証",
+    "hiragana":"けんこうほけんしょう",
+    "meaning":"health insurance card",
+    "emoji":"🪪"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"風邪",
+    "hiragana":"かぜ",
+    "meaning":"cold, flu",
+    "emoji":"🤧"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"熱",
+    "hiragana":"ねつ",
+    "meaning":"fever",
+    "emoji":"🌡️"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"病気",
+    "hiragana":"びょうき",
+    "meaning":"illness, disease",
+    "emoji":"🏥"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"薬",
+    "hiragana":"くすり",
+    "meaning":"medicine",
+    "emoji":"💊"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"お風呂",
+    "hiragana":"おふろ",
+    "meaning":"bath",
+    "emoji":"🛁"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"上着",
+    "hiragana":"うわぎ",
+    "meaning":"jacket, outerwear",
+    "emoji":"🧥"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"下着",
+    "hiragana":"したぎ",
+    "meaning":"underwear",
+    "emoji":"👕"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"先生",
+    "hiragana":"せんせい",
+    "meaning":"doctor, teacher",
+    "emoji":"👨‍⚕️"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"2・3日",
+    "hiragana":"にさんにち",
+    "meaning":"a few days",
+    "emoji":"📅"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"2・3〜",
+    "hiragana":"にさん〜",
+    "meaning":"a few ~",
+    "emoji":"🔢"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"〜までに",
+    "hiragana":"〜までに",
+    "meaning":"before, by",
+    "emoji":"⏳"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"ですから",
+    "hiragana":"ですから",
+    "meaning":"therefore, so",
+    "emoji":"➡️"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"のど",
+    "hiragana":"のど",
+    "meaning":"throat",
+    "emoji":"🗣️"
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "起きます",
+    "hiragana": "おきます",
+    "meaning": "get up, wake up",
+    "emoji": "🛌🥱"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "寝ます",
+    "hiragana": "ねます",
+    "meaning": "sleep, go to bed",
+    "emoji": "😴🛏️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "働きます",
+    "hiragana": "はたらきます",
+    "meaning": "work",
+    "emoji": "💼🏢"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "休みます",
+    "hiragana": "やすみます",
+    "meaning": "take a rest, take a holiday",
+    "emoji": "🛋️🌴"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "勉強します",
+    "hiragana": "べんきょうします",
+    "meaning": "study",
+    "emoji": "📚✍️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "終わります",
+    "hiragana": "おわります",
+    "meaning": "finish",
+    "emoji": "🏁✅"
+  },
+  {
+    "section": "Places",
+    "kanji": "デパート",
+    "hiragana": "デパート",
+    "meaning": "department store",
+    "emoji": "🏬🛍️"
+  },
+  {
+    "section": "Places",
+    "kanji": "銀行",
+    "hiragana": "ぎんこう",
+    "meaning": "bank",
+    "emoji": "🏦💴"
+  },
+  {
+    "section": "Places",
+    "kanji": "郵便局",
+    "hiragana": "ゆうびんきょく",
+    "meaning": "post office",
+    "emoji": "🏣📮"
+  },
+  {
+    "section": "Places",
+    "kanji": "図書館",
+    "hiragana": "としょかん",
+    "meaning": "library",
+    "emoji": "🏛️📚"
+  },
+  {
+    "section": "Places",
+    "kanji": "美術館",
+    "hiragana": "びじゅつかん",
+    "meaning": "art museum",
+    "emoji": "🖼️🎨"
+  },
+  {
+    "section": "Time",
+    "kanji": "今",
+    "hiragana": "いま",
+    "meaning": "now",
+    "emoji": "⌚⏳"
+  },
+  {
+    "section": "Time",
+    "kanji": "ー時",
+    "hiragana": "ーじ",
+    "meaning": "— o'clock",
+    "emoji": "🕒🕛"
+  },
+  {
+    "section": "Time",
+    "kanji": "ー分",
+    "hiragana": "ーふん (ーぷん)",
+    "meaning": "— minute",
+    "emoji": "⏱️⏲️"
+  },
+  {
+    "section": "Time",
+    "kanji": "半",
+    "hiragana": "はん",
+    "meaning": "half",
+    "emoji": "🌗🕧"
+  },
+  {
+    "section": "Time",
+    "kanji": "何時",
+    "hiragana": "なんじ",
+    "meaning": "what time",
+    "emoji": "⌚❓"
+  },
+  {
+    "section": "Time",
+    "kanji": "何分",
+    "hiragana": "なんぷん",
+    "meaning": "what minute",
+    "emoji": "⏱️❓"
+  },
+  {
+    "section": "Time",
+    "kanji": "午前",
+    "hiragana": "ごぜん",
+    "meaning": "a.m., morning",
+    "emoji": "🌅🌤️"
+  },
+  {
+    "section": "Time",
+    "kanji": "午後",
+    "hiragana": "ごご",
+    "meaning": "p.m., afternoon",
+    "emoji": "🌇🌙"
+  },
+  {
+    "section": "Time",
+    "kanji": "朝",
+    "hiragana": "あさ",
+    "meaning": "morning",
+    "emoji": "🌄☕"
+  },
+  {
+    "section": "Time",
+    "kanji": "昼",
+    "hiragana": "ひる",
+    "meaning": "daytime, noon",
+    "emoji": "☀️🕛"
+  },
+  {
+    "section": "Time",
+    "kanji": "晩 (夜)",
+    "hiragana": "ばん (よる)",
+    "meaning": "night, evening",
+    "emoji": "🌃🌛"
+  },
+  {
+    "section": "Time",
+    "kanji": "おととい",
+    "hiragana": "おととい",
+    "meaning": "the day before yesterday",
+    "emoji": "⏪📅"
+  },
+  {
+    "section": "Time",
+    "kanji": "きのう",
+    "hiragana": "きのう",
+    "meaning": "yesterday",
+    "emoji": "🔙📆"
+  },
+  {
+    "section": "Time",
+    "kanji": "きょう",
+    "hiragana": "きょう",
+    "meaning": "today",
+    "emoji": "📍📅"
+  },
+  {
+    "section": "Time",
+    "kanji": "あした",
+    "hiragana": "あした",
+    "meaning": "tomorrow",
+    "emoji": "🔜📆"
+  },
+  {
+    "section": "Time",
+    "kanji": "あさって",
+    "hiragana": "あさって",
+    "meaning": "the day after tomorrow",
+    "emoji": "⏩📅"
+  },
+  {
+    "section": "Time",
+    "kanji": "けさ",
+    "hiragana": "けさ",
+    "meaning": "this morning",
+    "emoji": "🌅📍"
+  },
+  {
+    "section": "Time",
+    "kanji": "今晩",
+    "hiragana": "こんばん",
+    "meaning": "this evening, tonight",
+    "emoji": "🌃📍"
+  },
+  {
+    "section": "Time",
+    "kanji": "休み",
+    "hiragana": "やすみ",
+    "meaning": "rest, a holiday, a day off",
+    "emoji": "🌴🍹"
+  },
+  {
+    "section": "Time",
+    "kanji": "昼休み",
+    "hiragana": "ひるやすみ",
+    "meaning": "lunchtime",
+    "emoji": "🍱🕛"
+  },
+  {
+    "section": "Time",
+    "kanji": "毎朝",
+    "hiragana": "まいあさ",
+    "meaning": "every morning",
+    "emoji": "🌅🔁"
+  },
+  {
+    "section": "Time",
+    "kanji": "毎晩",
+    "hiragana": "まいばん",
+    "meaning": "every night",
+    "emoji": "🌃🔁"
+  },
+  {
+    "section": "Time",
+    "kanji": "毎日",
+    "hiragana": "まいにち",
+    "meaning": "every day",
+    "emoji": "📅🔁"
+  },
+  {
+    "section": "Days of the Week",
+    "kanji": "月曜日",
+    "hiragana": "げつようび",
+    "meaning": "Monday",
+    "emoji": "🌙📅"
+  },
+  {
+    "section": "Days of the Week",
+    "kanji": "火曜日",
+    "hiragana": "かようび",
+    "meaning": "Tuesday",
+    "emoji": "🔥📅"
+  },
+  {
+    "section": "Days of the Week",
+    "kanji": "水曜日",
+    "hiragana": "すいようび",
+    "meaning": "Wednesday",
+    "emoji": "💧📅"
+  },
+  {
+    "section": "Days of the Week",
+    "kanji": "木曜日",
+    "hiragana": "もくようび",
+    "meaning": "Thursday",
+    "emoji": "🌳📅"
+  },
+  {
+    "section": "Days of the Week",
+    "kanji": "金曜日",
+    "hiragana": "きんようび",
+    "meaning": "Friday",
+    "emoji": "💰📅"
+  },
+  {
+    "section": "Days of the Week",
+    "kanji": "土曜日",
+    "hiragana": "どようび",
+    "meaning": "Saturday",
+    "emoji": "🌍📅"
+  },
+  {
+    "section": "Days of the Week",
+    "kanji": "日曜日",
+    "hiragana": "にちようび",
+    "meaning": "Sunday",
+    "emoji": "☀️📅"
+  },
+  {
+    "section": "Days of the Week",
+    "kanji": "何曜日",
+    "hiragana": "なんようび",
+    "meaning": "what day of the week",
+    "emoji": "📅❓"
+  },
+  {
+    "section": "Numbers & Particles",
+    "kanji": "番号",
+    "hiragana": "ばんごう",
+    "meaning": "number",
+    "emoji": "🔢📞"
+  },
+  {
+    "section": "Numbers & Particles",
+    "kanji": "何番",
+    "hiragana": "なんばん",
+    "meaning": "what number",
+    "emoji": "🔢❓"
+  },
+  {
+    "section": "Numbers & Particles",
+    "kanji": "～から",
+    "hiragana": "～から",
+    "meaning": "from ~",
+    "emoji": "🏁➡️"
+  },
+  {
+    "section": "Numbers & Particles",
+    "kanji": "～まで",
+    "hiragana": "～まで",
+    "meaning": "up to ~, until ~",
+    "emoji": "➡️🛑"
+  },
+  {
+    "section": "Numbers & Particles",
+    "kanji": "～と～",
+    "hiragana": "～と～",
+    "meaning": "and (used to connect nouns)",
+    "emoji": "🔗➕"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "そちら",
+    "hiragana": "そちら",
+    "meaning": "your place",
+    "emoji": "🏠👉"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "大変ですね。",
+    "hiragana": "たいへんですね。",
+    "meaning": "That's tough, isn't it? (used when expressing sympathy)",
+    "emoji": "💦😥"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "えーと",
+    "hiragana": "えーと",
+    "meaning": "well, let me see",
+    "emoji": "🤔💬"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "１０４",
+    "hiragana": "１０４",
+    "meaning": "information, directory assistance",
+    "emoji": "☎️ℹ️"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "お願いします。",
+    "hiragana": "おねがいします。",
+    "meaning": "Please. (lit. ask for a favor)",
+    "emoji": "🙏🙇‍♂️"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "かしこまりました。",
+    "hiragana": "かしこまりました。",
+    "meaning": "Certainly (sir, madam)",
+    "emoji": "🤵‍♂️✅"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "お問い合わせの 番号",
+    "hiragana": "おといあわせの ばんごう",
+    "meaning": "the number being inquired about",
+    "emoji": "📞🔍"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "[どうも] ありがとう ございました。",
+    "hiragana": "[どうも] ありがとう ございました。",
+    "meaning": "Thank you very much.",
+    "emoji": "🙇‍♀️✨"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "ニューヨーク",
+    "hiragana": "ニューヨーク",
+    "meaning": "New York",
+    "emoji": "🗽🍎"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "ペキン",
+    "hiragana": "ペキン",
+    "meaning": "Beijing (北京)",
+    "emoji": "🐉🏯"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "ロンドン",
+    "hiragana": "ロンドン",
+    "meaning": "London",
+    "emoji": "💂‍♂️🎡"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "バンコク",
+    "hiragana": "バンコク",
+    "meaning": "Bangkok",
+    "emoji": "🛕🐘"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "ロサンゼルス",
+    "hiragana": "ロサンゼルス",
+    "meaning": "Los Angeles",
+    "emoji": "🌴🎬"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "やまと美術館",
+    "hiragana": "やまとびじゅつかん",
+    "meaning": "fictitious art museum",
+    "emoji": "🖼️🏛️"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "大阪デパート",
+    "hiragana": "おおさかデパート",
+    "meaning": "fictitious department store",
+    "emoji": "🏬🛍️"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "みどり図書館",
+    "hiragana": "みどりとしょかん",
+    "meaning": "fictitious library",
+    "emoji": "📗🏛️"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "アップル銀行",
+    "hiragana": "アップルぎんこう",
+    "meaning": "fictitious bank",
+    "emoji": "🍎🏦"
+  }
+]

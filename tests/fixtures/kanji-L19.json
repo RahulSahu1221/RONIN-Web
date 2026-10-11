@@ -1,0 +1,29 @@
+{
+  "lesson": 19,
+  "title": "おぼえましょう",
+  "subtitle": "ことばを つくる 漢字",
+  "subtitleMeaning": "Kanji used to form words",
+  "kanji": [
+    { "char": "以", "meaning": "", "onyomi": ["イ"], "kunyomi": [], "strokes": 5,
+      "examples": [ {"word":"以下","reading":"いか","meaning":"not exceeding"}, {"word":"以上","reading":"いじょう","meaning":"not less than"}, {"word":"以外","reading":"いがい","meaning":"except"} ] },
+    { "char": "内", "meaning": "", "onyomi": ["ナイ"], "kunyomi": ["うち"], "strokes": 4,
+      "examples": [ {"word":"以内","reading":"いない","meaning":"within"}, {"word":"家内","reading":"かない","meaning":"my wife"}, {"word":"室内","reading":"しつない","meaning":"the inside of a room"}, {"word":"内側","reading":"うちがわ","meaning":"inside"} ],
+      "relatedWords": [ {"word":"外側","reading":"そとがわ","meaning":"","relation":"opposite"} ] },
+    { "char": "代", "meaning": "", "onyomi": ["ダイ"], "kunyomi": ["か（-わる）"], "strokes": 5,
+      "examples": [ {"word":"時代","reading":"じだい","meaning":"period"}, {"word":"バス代","reading":"バスだい","meaning":"bus fare"}, {"word":"代わりに","reading":"かわりに","meaning":"instead of"} ] },
+    { "char": "号", "meaning": "", "onyomi": ["ゴウ"], "kunyomi": [], "strokes": 5,
+      "examples": [ {"word":"番号","reading":"ばんごう","meaning":"number"}, {"word":"102号室","reading":"102ごうしつ","meaning":"room number 102"} ] },
+    { "char": "番", "meaning": "", "onyomi": ["バン"], "kunyomi": [], "strokes": 12,
+      "examples": [ {"word":"交番","reading":"こうばん","meaning":"police box"}, {"word":"1番、2番…","reading":"いちばん、にばん…","meaning":"number one, number two…"}, {"word":"3番線","reading":"さんばんせん","meaning":"platform three"} ] },
+    { "char": "度", "meaning": "", "onyomi": ["ド", "タク"], "kunyomi": [], "strokes": 9,
+      "examples": [ {"word":"一度","reading":"いちど","meaning":"once, one time"}, {"word":"今度","reading":"こんど","meaning":"next time"}, {"word":"支度する","reading":"したくする","meaning":"prepare, get ready"} ] },
+    { "char": "全", "meaning": "", "onyomi": ["ゼン"], "kunyomi": [], "strokes": 6,
+      "examples": [ {"word":"全部","reading":"ぜんぶ","meaning":"all"}, {"word":"安全な","reading":"あんぜんな","meaning":"safe"}, {"word":"全然～ない","reading":"ぜんぜん～ない","meaning":"it is not ～ at all"} ] },
+    { "char": "洋", "meaning": "", "onyomi": ["ヨウ"], "kunyomi": [], "strokes": 9,
+      "examples": [ {"word":"西洋","reading":"せいよう","meaning":"the west, western"} ],
+      "relatedWords": [ {"word":"東洋","reading":"とうよう","meaning":"","relation":"opposite"} ] },
+    { "char": "服", "meaning": "", "onyomi": ["フク"], "kunyomi": [], "strokes": 8,
+      "examples": [ {"word":"服","reading":"ふく","meaning":"clothes"}, {"word":"洋服","reading":"ようふく","meaning":"western clothes"} ],
+      "relatedWords": [ {"word":"和服","reading":"わふく","meaning":"Japanese clothes"}, {"word":"着物","reading":"きもの","meaning":"kimono"} ] }
+  ]
+}

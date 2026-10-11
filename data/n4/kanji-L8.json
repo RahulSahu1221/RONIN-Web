@@ -1,0 +1,258 @@
+{
+  "lesson": 8,
+  "title": "おぼえましょう",
+  "subtitle": "よみが たくさん あるもの",
+  "subtitleMeaning": "Kanji with many readings",
+  "kanji": [
+    {
+      "char": "通",
+      "meaning": "",
+      "onyomi": ["ツウ"],
+      "kunyomi": ["とお（-る）", "かよ（-う）"],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "交通",
+          "reading": "こうつう",
+          "meaning": "transportation, traffic"
+        },
+        {
+          "word": "普通",
+          "reading": "ふつう",
+          "meaning": "ordinary, normal"
+        },
+        {
+          "word": "通る",
+          "reading": "とおる",
+          "meaning": "pass"
+        },
+        {
+          "word": "通り",
+          "reading": "とおり",
+          "meaning": "street"
+        },
+        {
+          "word": "通う",
+          "reading": "かよう",
+          "meaning": "commute, attend"
+        }
+      ]
+    },
+    {
+      "char": "降",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["ふ（-る）", "お（-りる）"],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "降る",
+          "reading": "ふる",
+          "meaning": "fall (rain, snow)"
+        },
+        {
+          "word": "降りる",
+          "reading": "おりる",
+          "meaning": "get off"
+        },
+        {
+          "word": "乗る",
+          "reading": "のる",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "char": "品",
+      "meaning": "",
+      "onyomi": ["ヒン"],
+      "kunyomi": ["しな"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "食料品",
+          "reading": "しょくりょうひん",
+          "meaning": "food and groceries"
+        },
+        {
+          "word": "品物",
+          "reading": "しなもの",
+          "meaning": "goods"
+        }
+      ]
+    },
+    {
+      "char": "着",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["き（-る）", "つ（-く）"],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "着る",
+          "reading": "きる",
+          "meaning": "wear"
+        },
+        {
+          "word": "着物",
+          "reading": "きもの",
+          "meaning": "kimono"
+        },
+        {
+          "word": "着く",
+          "reading": "つく",
+          "meaning": "arrive"
+        }
+      ]
+    },
+    {
+      "char": "物",
+      "meaning": "",
+      "onyomi": ["ブツ", "モツ"],
+      "kunyomi": ["もの"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "動物",
+          "reading": "どうぶつ",
+          "meaning": "animal"
+        },
+        {
+          "word": "荷物",
+          "reading": "にもつ",
+          "meaning": "luggage"
+        },
+        {
+          "word": "物",
+          "reading": "もの",
+          "meaning": "thing, stuff"
+        },
+        {
+          "word": "食べ物",
+          "reading": "たべもの",
+          "meaning": "food"
+        },
+        {
+          "word": "建物",
+          "reading": "たてもの",
+          "meaning": "building"
+        }
+      ]
+    },
+    {
+      "char": "動",
+      "meaning": "",
+      "onyomi": ["ドウ"],
+      "kunyomi": ["うご（-く）"],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "動物",
+          "reading": "どうぶつ",
+          "meaning": "animal"
+        },
+        {
+          "word": "運動",
+          "reading": "うんどう",
+          "meaning": "exercise"
+        },
+        {
+          "word": "動く",
+          "reading": "うごく",
+          "meaning": "move"
+        }
+      ]
+    },
+    {
+      "char": "建",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["た（-てる）"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "建てる",
+          "reading": "たてる",
+          "meaning": "build"
+        },
+        {
+          "word": "建物",
+          "reading": "たてもの",
+          "meaning": "building"
+        },
+        {
+          "word": "二階建て",
+          "reading": "にかいだて",
+          "meaning": "two-storied"
+        }
+      ]
+    },
+    {
+      "char": "夜",
+      "meaning": "",
+      "onyomi": ["ヤ"],
+      "kunyomi": ["よる"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "今夜",
+          "reading": "こんや",
+          "meaning": "tonight"
+        },
+        {
+          "word": "夜",
+          "reading": "よる",
+          "meaning": "night"
+        }
+      ]
+    },
+    {
+      "char": "風",
+      "meaning": "",
+      "onyomi": ["フウ"],
+      "kunyomi": ["かぜ"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "台風",
+          "reading": "たいふう",
+          "meaning": "typhoon"
+        },
+        {
+          "word": "風",
+          "reading": "かぜ",
+          "meaning": "wind"
+        },
+        {
+          "word": "風邪",
+          "reading": "かぜ",
+          "meaning": "cold"
+        }
+      ]
+    },
+    {
+      "char": "台",
+      "meaning": "",
+      "onyomi": ["ダイ", "タイ"],
+      "kunyomi": [],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "台所",
+          "reading": "だいどころ",
+          "meaning": "kitchen"
+        },
+        {
+          "word": "1台、2台、3台…",
+          "reading": "いちだい、にだい、さんだい…",
+          "meaning": ""
+        },
+        {
+          "word": "台風",
+          "reading": "たいふう",
+          "meaning": "typhoon"
+        }
+      ]
+    }
+  ]
+}

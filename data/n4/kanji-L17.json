@@ -1,0 +1,196 @@
+
+{
+  "lesson": 17,
+  "title": "おぼえましょう",
+  "subtitle": "ペアで おぼえましょう",
+  "subtitleMeaning": "Learn these as pairs",
+  "kanji": [
+    {
+      "char": "寒",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["さむ（-い）"],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "寒い",
+          "reading": "さむい",
+          "meaning": "cold"
+        }
+      ]
+    },
+    {
+      "char": "暑",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["あつ（-い）"],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "暑い",
+          "reading": "あつい",
+          "meaning": "hot"
+        },
+        {
+          "word": "蒸し暑い",
+          "reading": "むしあつい",
+          "meaning": "hot and humid"
+        }
+      ]
+    },
+    {
+      "char": "重",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["おも（-い）"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "重い",
+          "reading": "おもい",
+          "meaning": "heavy, serious"
+        }
+      ]
+    },
+    {
+      "char": "軽",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["かる（-い）"],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "軽い",
+          "reading": "かるい",
+          "meaning": "light, not serious"
+        }
+      ]
+    },
+    {
+      "char": "広",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["ひろ（-い）"],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "広い",
+          "reading": "ひろい",
+          "meaning": "spacious, wide"
+        }
+      ],
+      "relatedWords": [
+        {
+          "word": "せまい",
+          "reading": "せまい",
+          "meaning": "",
+          "relation": "opposite"
+        }
+      ]
+    },
+    {
+      "char": "元",
+      "meaning": "",
+      "onyomi": ["ゲン"],
+      "kunyomi": [],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "元気な",
+          "reading": "げんきな",
+          "meaning": "fine, healthy"
+        }
+      ]
+    },
+    {
+      "char": "病",
+      "meaning": "",
+      "onyomi": ["ビョウ"],
+      "kunyomi": [],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "病院",
+          "reading": "びょういん",
+          "meaning": "hospital"
+        },
+        {
+          "word": "病気",
+          "reading": "びょうき",
+          "meaning": "sick, illness, disease"
+        }
+      ]
+    },
+    {
+      "char": "起",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["お（-きる / -こす）"],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "起きる",
+          "reading": "おきる",
+          "meaning": "get up"
+        },
+        {
+          "word": "起こす",
+          "reading": "おこす",
+          "meaning": "wake up, stand something up"
+        }
+      ]
+    },
+    {
+      "char": "寝",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["ね（-る）"],
+      "strokes": 13,
+      "examples": [
+        {
+          "word": "寝る",
+          "reading": "ねる",
+          "meaning": "go to bed, sleep"
+        },
+        {
+          "word": "寝坊",
+          "reading": "ねぼう",
+          "meaning": "oversleep"
+        }
+      ]
+    },
+    {
+      "char": "始",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["はじ（-まる / -める）"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "始まる",
+          "reading": "はじまる",
+          "meaning": "begin, start"
+        },
+        {
+          "word": "始める",
+          "reading": "はじめる",
+          "meaning": "start"
+        }
+      ]
+    },
+    {
+      "char": "終",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["お（-わる）"],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "終わる",
+          "reading": "おわる",
+          "meaning": "finish, end"
+        }
+      ]
+    }
+  ]
+}

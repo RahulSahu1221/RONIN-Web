@@ -1,0 +1,380 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "飼います",
+    "hiragana": "かいます",
+    "meaning": "keep (a pet), raise (an animal)",
+    "emoji": "🐾🏠"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "建てます",
+    "hiragana": "たてます",
+    "meaning": "build",
+    "emoji": "🏗️🧱"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "走ります",
+    "hiragana": "はしります",
+    "meaning": "run, drive [along a road]",
+    "emoji": "🏃‍♂️🚗🛣️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "取ります",
+    "hiragana": "とります",
+    "meaning": "take [a holiday]",
+    "emoji": "🏖️🗓️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "見えます",
+    "hiragana": "みえます",
+    "meaning": "[a mountain] can be seen",
+    "emoji": "⛰️👀✨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "聞こえます",
+    "hiragana": "きこえます",
+    "meaning": "[a sound] can be heard",
+    "emoji": "👂🎶✨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "できます",
+    "hiragana": "できます",
+    "meaning": "[an airport] be made, be completed, come into existence",
+    "emoji": "🏗️✈️✅"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "開きます",
+    "hiragana": "ひらきます",
+    "meaning": "set up [a class], open, hold",
+    "emoji": "🏫🔑🎉"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "ペット",
+    "hiragana": "ペット",
+    "meaning": "pet",
+    "emoji": "🐶🐱"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "鳥",
+    "hiragana": "とり",
+    "meaning": "bird",
+    "emoji": "🐦🐤"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "声",
+    "hiragana": "こえ",
+    "meaning": "voice",
+    "emoji": "🗣️📢"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "波",
+    "hiragana": "なみ",
+    "meaning": "wave",
+    "emoji": "🌊🏄‍♂️"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "花火",
+    "hiragana": "はなび",
+    "meaning": "fireworks",
+    "emoji": "🎆🎇"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "景色",
+    "hiragana": "けしき",
+    "meaning": "scenery, view",
+    "emoji": "🏞️👀"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "昼間",
+    "hiragana": "ひるま",
+    "meaning": "daytime",
+    "emoji": "☀️⏰"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "昔",
+    "hiragana": "むかし",
+    "meaning": "old days, ancient times",
+    "emoji": "🕰️📜"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "道具",
+    "hiragana": "どうぐ",
+    "meaning": "tool, instrument, equipment",
+    "emoji": "🛠️🔧"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "自動販売機",
+    "hiragana": "じどうはんばいき",
+    "meaning": "vending machine",
+    "emoji": "🥤🤖"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "通信販売",
+    "hiragana": "つうしんはんばい",
+    "meaning": "mail order, mail-order sales",
+    "emoji": "📦🚚"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "クリーニング",
+    "hiragana": "クリーニング",
+    "meaning": "(dry) cleaning, laundry",
+    "emoji": "🧺👔"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "マンション",
+    "hiragana": "マンション",
+    "meaning": "condominium, apartment house",
+    "emoji": "🏢🏘️"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "台所",
+    "hiragana": "だいどころ",
+    "meaning": "kitchen",
+    "emoji": "🍳🔪"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "~教室",
+    "hiragana": "~きょうしつ",
+    "meaning": "~ class",
+    "emoji": "🏫📚"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "パーティールーム",
+    "hiragana": "パーティールーム",
+    "meaning": "party room",
+    "emoji": "🎉🎈"
+  },
+  {
+    "section": "Grammar",
+    "kanji": "~後",
+    "hiragana": "~ご",
+    "meaning": "after ~ (duration of time)",
+    "emoji": "⏳➡️"
+  },
+  {
+    "section": "Grammar",
+    "kanji": "~しか",
+    "hiragana": "~しか",
+    "meaning": "only ~ (used with negatives)",
+    "emoji": "🚫1️⃣"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "ほかの",
+    "hiragana": "ほかの",
+    "meaning": "other",
+    "emoji": "🔄✨"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "はっきり",
+    "hiragana": "はっきり",
+    "meaning": "clearly",
+    "emoji": "🗣️👌"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "ほとんど",
+    "hiragana": "ほとんど",
+    "meaning": "almost all (in affirmative sentences), hardly, scarcely (in negative sentences)",
+    "emoji": "📉✅"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "関西空港",
+    "hiragana": "かんさいくうこう",
+    "meaning": "Kansai International Airport",
+    "emoji": "✈️🇯🇵"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "秋葉原",
+    "hiragana": "あきはばら",
+    "meaning": "name of a shopping district in Tokyo with many electrical stores",
+    "emoji": "⚡🛍️"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "伊豆",
+    "hiragana": "いず",
+    "meaning": "peninsula in Shizuoka Prefecture",
+    "emoji": "🏝️🌊"
+  },
+  {
+    "section": "Conversation",
+    "kanji": "日曜大工",
+    "hiragana": "にちようだいく",
+    "meaning": "Sunday carpenter",
+    "emoji": "🔨🪵"
+  },
+  {
+    "section": "Conversation",
+    "kanji": "本棚",
+    "hiragana": "ほんだな",
+    "meaning": "bookshelf",
+    "emoji": "📚🪵"
+  },
+  {
+    "section": "Conversation",
+    "kanji": "夢",
+    "hiragana": "ゆめ",
+    "meaning": "dream (～を みます: have a dream)",
+    "emoji": "😴💭"
+  },
+  {
+    "section": "Conversation",
+    "kanji": "いつか",
+    "hiragana": "いつか",
+    "meaning": "someday, sometime",
+    "emoji": "🗓️✨"
+  },
+  {
+    "section": "Conversation",
+    "kanji": "家",
+    "hiragana": "いえ",
+    "meaning": "house, home",
+    "emoji": "🏠✨"
+  },
+  {
+    "section": "Conversation",
+    "kanji": "すばらしい",
+    "hiragana": "すばらしい",
+    "meaning": "marvelous, wonderful",
+    "emoji": "🤩🌈"
+  },
+  {
+    "section": "Reading",
+    "kanji": "子どもたち",
+    "hiragana": "こどもたち",
+    "meaning": "children",
+    "emoji": "🧒👦👧"
+  },
+  {
+    "section": "Reading",
+    "kanji": "大好き[な]",
+    "hiragana": "だいすき[な]",
+    "meaning": "like very much",
+    "emoji": "💖🥰"
+  },
+  {
+    "section": "Reading",
+    "kanji": "漫画",
+    "hiragana": "まんが",
+    "meaning": "cartoon, comic strip",
+    "emoji": "📖💥"
+  },
+  {
+    "section": "Reading",
+    "kanji": "主人公",
+    "hiragana": "しゅじんこう",
+    "meaning": "hero, heroine",
+    "emoji": "🦸‍♀️🦸‍♂️"
+  },
+  {
+    "section": "Reading",
+    "kanji": "形",
+    "hiragana": "かたち",
+    "meaning": "shape",
+    "emoji": "📐🔷"
+  },
+  {
+    "section": "Reading",
+    "kanji": "ロボット",
+    "hiragana": "ロボット",
+    "meaning": "robot",
+    "emoji": "🤖⚙️"
+  },
+  {
+    "section": "Reading",
+    "kanji": "不思議[な]",
+    "hiragana": "ふしぎ[な]",
+    "meaning": "fantastic, mysterious",
+    "emoji": "✨🔮"
+  },
+  {
+    "section": "Reading",
+    "kanji": "ポケット",
+    "hiragana": "ポケット",
+    "meaning": "pocket",
+    "emoji": "🧥🕳️"
+  },
+  {
+    "section": "Reading",
+    "kanji": "例えば",
+    "hiragana": "たとえば",
+    "meaning": "for example",
+    "emoji": "💡📋"
+  },
+  {
+    "section": "Reading",
+    "kanji": "付けます",
+    "hiragana": "つけます",
+    "meaning": "attach, put on",
+    "emoji": "🔗✅"
+  },
+  {
+    "section": "Reading",
+    "kanji": "自由に",
+    "hiragana": "じゆうに",
+    "meaning": "freely",
+    "emoji": "🕊️✨"
+  },
+  {
+    "section": "Reading",
+    "kanji": "空",
+    "hiragana": "そら",
+    "meaning": "sky",
+    "emoji": "☁️☀️"
+  },
+  {
+    "section": "Reading",
+    "kanji": "飛びます",
+    "hiragana": "とびます",
+    "meaning": "fly",
+    "emoji": "🕊️✈️"
+  },
+  {
+    "section": "Reading",
+    "kanji": "自分",
+    "hiragana": "じぶん",
+    "meaning": "oneself",
+    "emoji": "👤✨"
+  },
+  {
+    "section": "Reading",
+    "kanji": "将来",
+    "hiragana": "しょうらい",
+    "meaning": "future",
+    "emoji": "🔮🚀"
+  },
+  {
+    "section": "Reading",
+    "kanji": "ドラえもん",
+    "hiragana": "ドラえもん",
+    "meaning": "name of a cartoon character",
+    "emoji": "🐱🔵"
+  }
+]

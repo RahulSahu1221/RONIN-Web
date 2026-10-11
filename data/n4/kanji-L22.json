@@ -1,0 +1,222 @@
+{
+  "lesson": 22,
+  "title": "おぼえましょう",
+  "subtitle": "同じ部分の ある 漢字",
+  "subtitleMeaning": "Kanji with the same radicals",
+  "kanji": [
+    {
+      "char": "持",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["も（-つ）"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "持つ",
+          "reading": "もつ",
+          "meaning": "have, hold"
+        },
+        {
+          "word": "気持ち",
+          "reading": "きもち",
+          "meaning": "feeling"
+        },
+        {
+          "word": "お金持ち",
+          "reading": "おかねもち",
+          "meaning": "the rich"
+        }
+      ]
+    },
+    {
+      "char": "待",
+      "meaning": "",
+      "onyomi": ["タイ"],
+      "kunyomi": ["ま（-つ）"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "招待する",
+          "reading": "しょうたいする",
+          "meaning": "invite"
+        },
+        {
+          "word": "待つ",
+          "reading": "まつ",
+          "meaning": "wait"
+        }
+      ]
+    },
+    {
+      "char": "特",
+      "meaning": "",
+      "onyomi": ["トク"],
+      "kunyomi": [],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "特急",
+          "reading": "とっきゅう",
+          "meaning": "special express"
+        },
+        {
+          "word": "特別な",
+          "reading": "とくべつな",
+          "meaning": "special"
+        },
+        {
+          "word": "特に",
+          "reading": "とくに",
+          "meaning": "particularly"
+        }
+      ]
+    },
+    {
+      "char": "林",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["はやし"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "林",
+          "reading": "はやし",
+          "meaning": "woods"
+        }
+      ]
+    },
+    {
+      "char": "村",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["むら"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "村",
+          "reading": "むら",
+          "meaning": "village"
+        }
+      ]
+    },
+    {
+      "char": "森",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["もり"],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "森",
+          "reading": "もり",
+          "meaning": "forest"
+        }
+      ]
+    },
+    {
+      "char": "曜",
+      "meaning": "",
+      "onyomi": ["ヨウ"],
+      "kunyomi": [],
+      "strokes": 18,
+      "examples": [
+        {
+          "word": "日",
+          "reading": "にち",
+          "meaning": "day of the week"
+        },
+        {
+          "word": "月",
+          "reading": "げつ",
+          "meaning": "day of the week"
+        },
+        {
+          "word": "火",
+          "reading": "か",
+          "meaning": "day of the week"
+        },
+        {
+          "word": "水",
+          "reading": "すい",
+          "meaning": "day of the week"
+        },
+        {
+          "word": "木",
+          "reading": "もく",
+          "meaning": "day of the week"
+        },
+        {
+          "word": "金",
+          "reading": "きん",
+          "meaning": "day of the week"
+        },
+        {
+          "word": "土",
+          "reading": "ど",
+          "meaning": "day of the week"
+        },
+        {
+          "word": "何曜日",
+          "reading": "なんようび",
+          "meaning": "what day of the week"
+        }
+      ]
+    },
+    {
+      "char": "濯",
+      "meaning": "",
+      "onyomi": ["タク"],
+      "kunyomi": [],
+      "strokes": 17,
+      "examples": [
+        {
+          "word": "洗濯する",
+          "reading": "せんたくする",
+          "meaning": "do laundry"
+        }
+      ]
+    },
+    {
+      "char": "質",
+      "meaning": "",
+      "onyomi": ["シツ"],
+      "kunyomi": [],
+      "strokes": 15,
+      "examples": [
+        {
+          "word": "質問する",
+          "reading": "しつもんする",
+          "meaning": "ask questions"
+        }
+      ]
+    },
+    {
+      "char": "問",
+      "meaning": "",
+      "onyomi": ["モン"],
+      "kunyomi": [],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "問題",
+          "reading": "もんだい",
+          "meaning": "problem, question"
+        }
+      ]
+    },
+    {
+      "char": "題",
+      "meaning": "",
+      "onyomi": ["ダイ"],
+      "kunyomi": [],
+      "strokes": 18,
+      "examples": [
+        {
+          "word": "宿題",
+          "reading": "しゅくだい",
+          "meaning": "homework"
+        }
+      ]
+    }
+  ]
+}

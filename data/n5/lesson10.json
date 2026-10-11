@@ -1,0 +1,347 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "います",
+    "hiragana": "います",
+    "meaning": "exist, be (referring to animate things)",
+    "emoji": "🧍‍♂️🐕"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "あります",
+    "hiragana": "あります",
+    "meaning": "exist, be (referring to inanimate things)",
+    "emoji": "📦🌳"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "いろいろ[な]",
+    "hiragana": "いろいろ[な]",
+    "meaning": "various",
+    "emoji": "🎨🔣"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "男の人",
+    "hiragana": "おとこの ひと",
+    "meaning": "man",
+    "emoji": "👨👔"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "女の人",
+    "hiragana": "おんなの ひと",
+    "meaning": "woman",
+    "emoji": "👩👗"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "男の子",
+    "hiragana": "おとこの こ",
+    "meaning": "boy",
+    "emoji": "👦🧢"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "女の子",
+    "hiragana": "おんなの こ",
+    "meaning": "girl",
+    "emoji": "👧🎀"
+  },
+  {
+    "section": "Nouns (Animals & Plants)",
+    "kanji": "犬",
+    "hiragana": "いぬ",
+    "meaning": "dog",
+    "emoji": "🐕🐶"
+  },
+  {
+    "section": "Nouns (Animals & Plants)",
+    "kanji": "猫",
+    "hiragana": "ねこ",
+    "meaning": "cat",
+    "emoji": "🐈🐱"
+  },
+  {
+    "section": "Nouns (Animals & Plants)",
+    "kanji": "木",
+    "hiragana": "き",
+    "meaning": "tree, wood",
+    "emoji": "🌳🌲"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "物",
+    "hiragana": "もの",
+    "meaning": "thing",
+    "emoji": "📦🧸"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "フィルム",
+    "hiragana": "フィルム",
+    "meaning": "film",
+    "emoji": "🎞️📸"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "電池",
+    "hiragana": "でんち",
+    "meaning": "battery",
+    "emoji": "🔋⚡"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "箱",
+    "hiragana": "はこ",
+    "meaning": "box",
+    "emoji": "📦🗃️"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "スイッチ",
+    "hiragana": "スイッチ",
+    "meaning": "switch",
+    "emoji": "🎚️🔘"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "冷蔵庫",
+    "hiragana": "れいぞうこ",
+    "meaning": "refrigerator",
+    "emoji": "🧊🚪"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "テーブル",
+    "hiragana": "テーブル",
+    "meaning": "table",
+    "emoji": "🍽️🪵"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "ベッド",
+    "hiragana": "ベッド",
+    "meaning": "bed",
+    "emoji": "🛏️😴"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "棚",
+    "hiragana": "たな",
+    "meaning": "shelf",
+    "emoji": "📚🪵"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "ドア",
+    "hiragana": "ドア",
+    "meaning": "door",
+    "emoji": "🚪🚪"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "窓",
+    "hiragana": "まど",
+    "meaning": "window",
+    "emoji": "🪟🖼️"
+  },
+  {
+    "section": "Nouns (Places & Facilities)",
+    "kanji": "ポスト",
+    "hiragana": "ポスト",
+    "meaning": "mailbox, postbox",
+    "emoji": "📮✉️"
+  },
+  {
+    "section": "Nouns (Places & Facilities)",
+    "kanji": "ビル",
+    "hiragana": "ビル",
+    "meaning": "building",
+    "emoji": "🏢🏙️"
+  },
+  {
+    "section": "Nouns (Places & Facilities)",
+    "kanji": "公園",
+    "hiragana": "こうえん",
+    "meaning": "park",
+    "emoji": "🏞️🌳"
+  },
+  {
+    "section": "Nouns (Places & Facilities)",
+    "kanji": "喫茶店",
+    "hiragana": "きっさてん",
+    "meaning": "coffee shop",
+    "emoji": "☕🏪"
+  },
+  {
+    "section": "Nouns (Places & Facilities)",
+    "kanji": "本屋",
+    "hiragana": "ほんや",
+    "meaning": "bookstore",
+    "emoji": "📚🏪"
+  },
+  {
+    "section": "Nouns (Places & Facilities)",
+    "kanji": "～屋",
+    "hiragana": "～や",
+    "meaning": "~ store",
+    "emoji": "🏪🛍️"
+  },
+  {
+    "section": "Nouns (Places & Facilities)",
+    "kanji": "乗り場",
+    "hiragana": "のりば",
+    "meaning": "a fixed place to catch taxis, trains, etc.",
+    "emoji": "🚏🚕"
+  },
+  {
+    "section": "Nouns (Places & Facilities)",
+    "kanji": "県",
+    "hiragana": "けん",
+    "meaning": "prefecture",
+    "emoji": "🗺️📍"
+  },
+  {
+    "section": "Position/Location",
+    "kanji": "上",
+    "hiragana": "うえ",
+    "meaning": "on, above, over",
+    "emoji": "⬆️🔝"
+  },
+  {
+    "section": "Position/Location",
+    "kanji": "下",
+    "hiragana": "した",
+    "meaning": "under, below, beneath",
+    "emoji": "⬇️⏬"
+  },
+  {
+    "section": "Position/Location",
+    "kanji": "前",
+    "hiragana": "まえ",
+    "meaning": "front, before",
+    "emoji": "⬅️🚶"
+  },
+  {
+    "section": "Position/Location",
+    "kanji": "後ろ",
+    "hiragana": "うしろ",
+    "meaning": "back, behind",
+    "emoji": "➡️🚶"
+  },
+  {
+    "section": "Position/Location",
+    "kanji": "右",
+    "hiragana": "みぎ",
+    "meaning": "right [side]",
+    "emoji": "↪️👉"
+  },
+  {
+    "section": "Position/Location",
+    "kanji": "左",
+    "hiragana": "ひだり",
+    "meaning": "left [side]",
+    "emoji": "↩️👈"
+  },
+  {
+    "section": "Position/Location",
+    "kanji": "中",
+    "hiragana": "なか",
+    "meaning": "in, inside",
+    "emoji": "📥📦"
+  },
+  {
+    "section": "Position/Location",
+    "kanji": "外",
+    "hiragana": "そと",
+    "meaning": "outside",
+    "emoji": "📤🌳"
+  },
+  {
+    "section": "Position/Location",
+    "kanji": "隣",
+    "hiragana": "となり",
+    "meaning": "next, next door",
+    "emoji": "🏠🏠"
+  },
+  {
+    "section": "Position/Location",
+    "kanji": "近く",
+    "hiragana": "ちかく",
+    "meaning": "near, vicinity",
+    "emoji": "📍🚶"
+  },
+  {
+    "section": "Position/Location",
+    "kanji": "間",
+    "hiragana": "あいだ",
+    "meaning": "between, among",
+    "emoji": "🧍↔️🧍"
+  },
+  {
+    "section": "Particles & Expressions",
+    "kanji": "～や ～[など]",
+    "hiragana": "～や ～[など]",
+    "meaning": "~, ~, and so on",
+    "emoji": "🍎🍌"
+  },
+  {
+    "section": "Particles & Expressions",
+    "kanji": "いちばん ～",
+    "hiragana": "いちばん ～",
+    "meaning": "the most ~",
+    "example": "(いちばん うえ: the top)",
+    "emoji": "🥇🔝"
+  },
+  {
+    "section": "Counters",
+    "kanji": "ー段目",
+    "hiragana": "ーだんめ",
+    "meaning": "the -th shelf",
+    "example": "(だん is the counter for shelves)",
+    "emoji": "📚🔢"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "[どうも] すみません。",
+    "hiragana": "[どうも] すみません。",
+    "meaning": "Thank you.",
+    "emoji": "🙇‍♂️🙏"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "チリソース",
+    "hiragana": "チリソース",
+    "meaning": "chili sauce",
+    "emoji": "🌶️🥫"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "奥",
+    "hiragana": "おく",
+    "meaning": "the back",
+    "emoji": "🔙🚪"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "スパイス・コーナー",
+    "hiragana": "スパイス・コーナー",
+    "meaning": "spice corner",
+    "emoji": "🧂🏬"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "東京ディズニーランド",
+    "hiragana": "とうきょうディズニーランド",
+    "meaning": "Tokyo Disneyland",
+    "emoji": "🎢🏰"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "ユニーヤ・ストア",
+    "hiragana": "ユニーヤ・ストア",
+    "meaning": "fictitious supermarket",
+    "emoji": "🛒🏪"
+  }
+]

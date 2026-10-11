@@ -1,0 +1,159 @@
+[
+  {
+    "section":"Vocabulary",
+    "kanji":"勤めます",
+    "hiragana":"つとめます",
+    "meaning":"work for a company",
+    "emoji":"🏢💼👨‍💻"
+  },
+  {
+    "section":"Vocabulary",
+    "kanji":"休みます",
+    "hiragana":"やすみます",
+    "meaning":"go to bed, sleep",
+    "emoji":"😴🛏️🌙"
+  },
+  {
+    "section":"Vocabulary",
+    "kanji":"掛けます",
+    "hiragana":"かけます",
+    "meaning":"sit on a chair",
+    "emoji":"🪑⬇️🙂"
+  },
+  {
+    "section":"Vocabulary",
+    "kanji":"過ごします",
+    "hiragana":"すごします",
+    "meaning":"spend time",
+    "emoji":"⏰😊📅"
+  },
+  {
+    "section":"Vocabulary",
+    "kanji":"寄ります",
+    "hiragana":"よります",
+    "meaning":"drop into",
+    "emoji":"🏦🚶➡️"
+  },
+  {
+    "section":"Vocabulary",
+    "kanji":"いらっしゃいます",
+    "hiragana":"いらっしゃいます",
+    "meaning":"be, go, come (honorific)",
+    "emoji":"🙇🚶🏠"
+  },
+  {
+    "section":"Vocabulary",
+    "kanji":"召し上がります",
+    "hiragana":"めしあがります",
+    "meaning":"eat, drink (honorific)",
+    "emoji":"🍱🍵🙇"
+  },
+  {
+    "section":"Vocabulary",
+    "kanji":"おっしゃいます",
+    "hiragana":"おっしゃいます",
+    "meaning":"say (honorific)",
+    "emoji":"🗣️🙇💬"
+  },
+  {
+    "section":"Vocabulary",
+    "kanji":"なさいます",
+    "hiragana":"なさいます",
+    "meaning":"do (honorific)",
+    "emoji":"🙇⚙️✅"
+  },
+  {
+    "section":"Vocabulary",
+    "kanji":"ご覧になります",
+    "hiragana":"ごらんになります",
+    "meaning":"see, look at (honorific)",
+    "emoji":"👀🙇📖"
+  },
+  {
+    "section":"Vocabulary",
+    "kanji":"ご存じです",
+    "hiragana":"ごぞんじです",
+    "meaning":"know (honorific)",
+    "emoji":"🧠🙇💡"
+  },
+
+  {
+    "section":"Nouns",
+    "kanji":"あいさつ",
+    "hiragana":"あいさつ",
+    "meaning":"greeting, address",
+    "emoji":"🙇👋😊"
+  },
+  {
+    "section":"Nouns",
+    "kanji":"灰皿",
+    "hiragana":"はいざら",
+    "meaning":"ashtray",
+    "emoji":"🚬🗑️灰"
+  },
+  {
+    "section":"Nouns",
+    "kanji":"旅館",
+    "hiragana":"りょかん",
+    "meaning":"Japanese-style inn",
+    "emoji":"🏯🛏️🇯🇵"
+  },
+  {
+    "section":"Nouns",
+    "kanji":"会場",
+    "hiragana":"かいじょう",
+    "meaning":"meeting place, hall",
+    "emoji":"🏢🎤👥"
+  },
+  {
+    "section":"Nouns",
+    "kanji":"バス停",
+    "hiragana":"バスてい",
+    "meaning":"bus stop",
+    "emoji":"🚏🚌⏳"
+  },
+  {
+    "section":"Nouns",
+    "kanji":"貿易",
+    "hiragana":"ぼうえき",
+    "meaning":"trade",
+    "emoji":"🚢📦🌍"
+  },
+
+  {
+    "section":"Honorific Expression",
+    "kanji":"～様",
+    "hiragana":"～さま",
+    "meaning":"respectful equivalent of ～さん",
+    "emoji":"🙇👤✨"
+  },
+
+  {
+    "section":"Adverbs / Expressions",
+    "kanji":"帰りに",
+    "hiragana":"かえりに",
+    "meaning":"on the way back",
+    "emoji":"🏠↩️🚶"
+  },
+  {
+    "section":"Adverbs / Expressions",
+    "kanji":"たまに",
+    "hiragana":"たまに",
+    "meaning":"once in a while",
+    "emoji":"🔄😊📅"
+  },
+  {
+    "section":"Adverbs / Expressions",
+    "kanji":"ちっとも",
+    "hiragana":"ちっとも",
+    "meaning":"not at all (with negatives)",
+    "emoji":"❌🙅‍♂️0️⃣"
+  },
+  {
+    "section":"Adverbs / Expressions",
+    "kanji":"遠慮なく",
+    "hiragana":"えんりょなく",
+    "meaning":"without hesitation",
+    "emoji":"😊👍💬"
+  }
+]

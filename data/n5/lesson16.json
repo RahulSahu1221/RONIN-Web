@@ -1,0 +1,191 @@
+[
+  {
+    "category":"Vocabulary",
+    "kanji":"立ちます",
+    "hiragana":"たちます",
+    "meaning":"stand up",
+    "emoji":"🧍⬆️🚶"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"座ります",
+    "hiragana":"すわります",
+    "meaning":"sit down",
+    "emoji":"🧍⬇️🪑"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"使います",
+    "hiragana":"つかいます",
+    "meaning":"use",
+    "emoji":"✋🛠️⚙️"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"置きます",
+    "hiragana":"おきます",
+    "meaning":"put, place",
+    "emoji":"📦⬇️📍"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"作ります",
+    "hiragana":"つくります",
+    "meaning":"make, produce",
+    "emoji":"🛠️🏭✨"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"売ります",
+    "hiragana":"うります",
+    "meaning":"sell",
+    "emoji":"🛒➡️💰"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"知ります",
+    "hiragana":"しります",
+    "meaning":"get to know",
+    "emoji":"❓➡️🧠💡"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"住みます",
+    "hiragana":"すみます",
+    "meaning":"be going to live",
+    "emoji":"🚚➡️🏠"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"研究します",
+    "hiragana":"けんきゅうします",
+    "meaning":"do research",
+    "emoji":"🔬📚🧪"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"知っています",
+    "hiragana":"しっています",
+    "meaning":"know",
+    "emoji":"🧠💡✅"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"住んでいます",
+    "hiragana":"すんでいます",
+    "meaning":"live",
+    "emoji":"🏡👨‍👩‍👧‍👦❤️"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"資料",
+    "hiragana":"しりょう",
+    "meaning":"materials, data",
+    "emoji":"📑📊📋"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"カタログ",
+    "hiragana":"カタログ",
+    "meaning":"catalog",
+    "emoji":"📖📦🛍️"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"時刻表",
+    "hiragana":"じこくひょう",
+    "meaning":"timetable",
+    "emoji":"🕒📅🚆"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"服",
+    "hiragana":"ふく",
+    "meaning":"clothes",
+    "emoji":"👕👖🧥"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"製品",
+    "hiragana":"せいひん",
+    "meaning":"products",
+    "emoji":"🏭📦🛒"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"ソフト",
+    "hiragana":"ソフト",
+    "meaning":"software",
+    "emoji":"💻📱⚙️"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"専門",
+    "hiragana":"せんもん",
+    "meaning":"speciality, field of study",
+    "emoji":"🎓📚⭐"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"歯医者",
+    "hiragana":"はいしゃ",
+    "meaning":"dentist",
+    "emoji":"🦷👨‍⚕️🏥"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"床屋",
+    "hiragana":"とこや",
+    "meaning":"barber",
+    "emoji":"💈✂️💇"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"プレイガイド",
+    "hiragana":"プレイガイド",
+    "meaning":"ticket agency",
+    "emoji":"🎟️🎭🎵"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"独身",
+    "hiragana":"どくしん",
+    "meaning":"single, unmarried",
+    "emoji":"🧑💍❌"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"特に",
+    "hiragana":"とくに",
+    "meaning":"especially",
+    "emoji":"⭐✨🎯"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"思い出します",
+    "hiragana":"おもいだします",
+    "meaning":"remember, recollect",
+    "emoji":"💭🧠⏪"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"ご家族",
+    "hiragana":"ごかぞく",
+    "meaning":"your family",
+    "emoji":"👨‍👩‍👧‍👦❤️🏠"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"いらっしゃいます",
+    "hiragana":"いらっしゃいます",
+    "meaning":"be (honorific form of います)",
+    "emoji":"🙏👤✨"
+  },
+  {
+    "category":"Vocabulary",
+    "kanji":"高校",
+    "hiragana":"こうこう",
+    "meaning":"senior high school",
+    "emoji":"🏫🎒📚"
+  }
+]

@@ -1,0 +1,195 @@
+
+{
+  "lesson": 15,
+  "title": "おぼえましょう",
+  "subtitle": "ことばで よみを おぼえましょう",
+  "subtitleMeaning": "Learn the readings through words",
+  "kanji": [
+    {
+      "char": "画",
+      "meaning": "",
+      "onyomi": ["ガ", "カク"],
+      "kunyomi": [],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "映画",
+          "reading": "えいが",
+          "meaning": "movie"
+        },
+        {
+          "word": "漫画",
+          "reading": "まんが",
+          "meaning": "cartoon, comic book"
+        },
+        {
+          "word": "計画",
+          "reading": "けいかく",
+          "meaning": "plan"
+        }
+      ]
+    },
+    {
+      "char": "映",
+      "meaning": "",
+      "onyomi": ["エイ"],
+      "kunyomi": [],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "映画",
+          "reading": "えいが",
+          "meaning": "movie"
+        },
+        {
+          "word": "映画館",
+          "reading": "えいがかん",
+          "meaning": "movie theater"
+        }
+      ]
+    },
+    {
+      "char": "計",
+      "meaning": "",
+      "onyomi": ["ケイ"],
+      "kunyomi": [],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "時計",
+          "reading": "とけい",
+          "meaning": "clock, watch"
+        },
+        {
+          "word": "計画",
+          "reading": "けいかく",
+          "meaning": "plan"
+        }
+      ]
+    },
+    {
+      "char": "図",
+      "meaning": "",
+      "onyomi": ["ズ", "ト"],
+      "kunyomi": [],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "地図",
+          "reading": "ちず",
+          "meaning": "map"
+        },
+        {
+          "word": "図書館",
+          "reading": "としょかん",
+          "meaning": "library"
+        }
+      ]
+    },
+    {
+      "char": "事",
+      "meaning": "",
+      "onyomi": ["ジ"],
+      "kunyomi": ["こと"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "食事",
+          "reading": "しょくじ",
+          "meaning": "meal"
+        },
+        {
+          "word": "用事",
+          "reading": "ようじ",
+          "meaning": "errand, things to do"
+        },
+        {
+          "word": "仕事",
+          "reading": "しごと",
+          "meaning": "job, work"
+        }
+      ]
+    },
+    {
+      "char": "仕",
+      "meaning": "",
+      "onyomi": ["シ"],
+      "kunyomi": [],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "仕事",
+          "reading": "しごと",
+          "meaning": "job, work"
+        },
+        {
+          "word": "仕方",
+          "reading": "しかた",
+          "meaning": "way of doing"
+        }
+      ]
+    },
+    {
+      "char": "用",
+      "meaning": "",
+      "onyomi": ["ヨウ"],
+      "kunyomi": [],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "用事",
+          "reading": "ようじ",
+          "meaning": "errand"
+        },
+        {
+          "word": "用意",
+          "reading": "ようい",
+          "meaning": "preparation"
+        },
+        {
+          "word": "利用する",
+          "reading": "りようする",
+          "meaning": "use"
+        }
+      ]
+    },
+    {
+      "char": "地",
+      "meaning": "",
+      "onyomi": ["チ", "ジ"],
+      "kunyomi": [],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "地図",
+          "reading": "ちず",
+          "meaning": "map"
+        },
+        {
+          "word": "地理",
+          "reading": "ちり",
+          "meaning": "geography"
+        },
+        {
+          "word": "地震",
+          "reading": "じしん",
+          "meaning": "earthquake"
+        }
+      ]
+    },
+    {
+      "char": "鉄",
+      "meaning": "",
+      "onyomi": ["テツ"],
+      "kunyomi": [],
+      "strokes": 13,
+      "examples": [
+        {
+          "word": "地下鉄",
+          "reading": "ちかてつ",
+          "meaning": "subway"
+        }
+      ]
+    }
+  ]
+}

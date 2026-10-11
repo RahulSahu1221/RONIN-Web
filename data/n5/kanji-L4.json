@@ -1,0 +1,286 @@
+
+{
+  "lesson": 4,
+  "title": "おぼえましょう",
+  "subtitle": "方向を あらわす かんじと ことば",
+  "subtitleMeaning": "Kanji and vocabulary that express direction",
+  "kanji": [
+    {
+      "char": "駅",
+      "meaning": "",
+      "onyomi": ["エキ"],
+      "kunyomi": [],
+      "strokes": 14,
+      "examples": [
+        {
+          "word": "駅",
+          "reading": "えき",
+          "meaning": "station"
+        }
+      ]
+    },
+    {
+      "char": "口",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["くち"],
+      "strokes": 3,
+      "examples": [
+        {
+          "word": "口",
+          "reading": "くち",
+          "meaning": "mouth, exit"
+        }
+      ]
+    },
+    {
+      "char": "出",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["で（-る）", "だ（-す）"],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "出る",
+          "reading": "でる",
+          "meaning": "get out, leave"
+        },
+        {
+          "word": "出かける",
+          "reading": "でかける",
+          "meaning": "go out"
+        },
+        {
+          "word": "出す",
+          "reading": "だす",
+          "meaning": "put out, send out"
+        }
+      ]
+    },
+    {
+      "char": "入",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["はい（-る）", "い（-る）", "い（-れる）"],
+      "strokes": 2,
+      "examples": [
+        {
+          "word": "入る",
+          "reading": "はいる",
+          "meaning": "enter"
+        },
+        {
+          "word": "入り口／入口",
+          "reading": "いりぐち",
+          "meaning": "entrance"
+        },
+        {
+          "word": "出口",
+          "reading": "でぐち",
+          "meaning": "exit"
+        },
+        {
+          "word": "入れる",
+          "reading": "いれる",
+          "meaning": "put into"
+        }
+      ]
+    },
+    {
+      "char": "東",
+      "meaning": "",
+      "onyomi": ["トウ"],
+      "kunyomi": ["ひがし"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "東京",
+          "reading": "とうきょう",
+          "meaning": "Tokyo"
+        },
+        {
+          "word": "東",
+          "reading": "ひがし",
+          "meaning": "east"
+        },
+        {
+          "word": "東口",
+          "reading": "ひがしぐち",
+          "meaning": "east exit"
+        }
+      ]
+    },
+    {
+      "char": "西",
+      "meaning": "",
+      "onyomi": ["セイ"],
+      "kunyomi": ["にし"],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "西洋",
+          "reading": "せいよう",
+          "meaning": "the west"
+        },
+        {
+          "word": "西",
+          "reading": "にし",
+          "meaning": "west"
+        },
+        {
+          "word": "西口",
+          "reading": "にしぐち",
+          "meaning": "west exit"
+        }
+      ]
+    },
+    {
+      "char": "南",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["みなみ"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "南",
+          "reading": "みなみ",
+          "meaning": "south"
+        },
+        {
+          "word": "南口",
+          "reading": "みなみぐち",
+          "meaning": "south exit"
+        }
+      ]
+    },
+    {
+      "char": "北",
+      "meaning": "",
+      "onyomi": ["ホク"],
+      "kunyomi": ["きた"],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "北海道",
+          "reading": "ほっかいどう",
+          "meaning": "Hokkaido"
+        },
+        {
+          "word": "北",
+          "reading": "きた",
+          "meaning": "north"
+        },
+        {
+          "word": "北口",
+          "reading": "きたぐち",
+          "meaning": "north exit"
+        }
+      ]
+    },
+    {
+      "char": "上",
+      "meaning": "",
+      "onyomi": ["ジョウ"],
+      "kunyomi": ["うえ", "うわ"],
+      "strokes": 3,
+      "examples": [
+        {
+          "word": "上手な",
+          "reading": "じょうずな",
+          "meaning": "good at, skillful"
+        },
+        {
+          "word": "上",
+          "reading": "うえ",
+          "meaning": "up"
+        },
+        {
+          "word": "上着",
+          "reading": "うわぎ",
+          "meaning": "jacket"
+        }
+      ]
+    },
+    {
+      "char": "下",
+      "meaning": "",
+      "onyomi": ["カ"],
+      "kunyomi": ["した"],
+      "strokes": 3,
+      "examples": [
+        {
+          "word": "地下鉄",
+          "reading": "ちかてつ",
+          "meaning": "subway"
+        },
+        {
+          "word": "下",
+          "reading": "した",
+          "meaning": "under"
+        },
+        {
+          "word": "下手な",
+          "reading": "へたな",
+          "meaning": "unskillful, not good at"
+        },
+        {
+          "word": "上手な",
+          "reading": "じょうずな",
+          "meaning": "good at, skillful"
+        }
+      ]
+    },
+    {
+      "char": "左",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["ひだり"],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "左",
+          "reading": "ひだり",
+          "meaning": "left"
+        }
+      ]
+    },
+    {
+      "char": "右",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["みぎ"],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "右",
+          "reading": "みぎ",
+          "meaning": "right"
+        }
+      ]
+    },
+    {
+      "char": "外",
+      "meaning": "",
+      "onyomi": ["ガイ"],
+      "kunyomi": ["そと"],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "外国",
+          "reading": "がいこく",
+          "meaning": "foreign country"
+        },
+        {
+          "word": "外国人",
+          "reading": "がいこくじん",
+          "meaning": "foreigner"
+        },
+        {
+          "word": "外",
+          "reading": "そと",
+          "meaning": "outside, outdoors"
+        }
+      ]
+    }
+  ]
+}

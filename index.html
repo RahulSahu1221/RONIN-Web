@@ -1,0 +1,1320 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <link rel="icon" href="./data/assets/logo.ico">
+    <link rel="shortcut icon" href="./data/assets/logo.ico">
+    <meta charset="UTF-8">
+    <script>
+    /* Performance-mode pre-check — runs before style.css is applied so
+       there's no flash of heavy blur before downgrading. Cheap, synchronous,
+       no dependency on app.js (which loads deferred, too late to avoid the
+       flash). Sets html.perf-lite, which style.css uses to collapse the
+       --blur-glass* vars for low-end devices. Never throws — worst case,
+       full-fidelity glass effect just isn't downgraded. */
+    (function () {
+        try {
+            var saved = localStorage.getItem("jlpt_settings_reduceMotion");
+            var userOptedIn = saved !== null && JSON.parse(saved) === true;
+            var osReducedMotion = window.matchMedia &&
+                window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+            var lowMemory = "deviceMemory" in navigator && navigator.deviceMemory <= 4;
+            var lowCores = "hardwareConcurrency" in navigator && navigator.hardwareConcurrency <= 4;
+            var saveData = navigator.connection && navigator.connection.saveData === true;
+            if (userOptedIn || osReducedMotion || lowMemory || lowCores || saveData) {
+                document.documentElement.classList.add("perf-lite");
+            }
+        } catch (_) { /* localStorage/matchMedia unavailable — skip, not fatal */ }
+    })();
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=5.0">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: blob:; connect-src 'self' https://wfwmihxzztzmnebyscml.supabase.co; worker-src 'self'">
+    <meta name="theme-color" content="#07080d" id="metaThemeColor">
+    <meta name="description"
+        content="Premium Japanese learning tool featuring Spaced Repetition, Advanced Analytics, offline support, and interactive flashcards.">
+    <meta name="keywords" content="JLPT, Japanese, N5, N4, Vocabulary, Flashcards, SRS, Learn Japanese">
+    <meta name="author" content="RONIN WEB">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="RONIN WEB">
+    <meta property="og:description" content="Master Japanese vocabulary with modern spaced repetition and analytics.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="data/assets/logo.png">
+    <link rel="manifest" href="manifest.json">
+    <!-- <link rel="icon" type="image/png" href="data/assets/logo.png?v=2"> -->
+    <link rel="apple-touch-icon" href="data/assets/logo.png?v=2">
+    <title>RONIN WEB</title>
+    <link rel="stylesheet" href="style.min.css">
+    <link rel="icon" href="./data/assets/logo.ico">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "EducationalApplication",
+      "name": "RONIN WEB",
+      "operatingSystem": "Web",
+      "applicationCategory": "Educational",
+      "offers": { "@type": "Offer", "price": "0" }
+    }
+    </script>
+</head>
+
+<body>
+
+    <a href="#mainContent" class="skip-link">Skip to main content</a>
+
+    <!-- OFFLINE BANNER -->
+    <div class="offline-banner hidden" id="offlineBanner" role="status" aria-live="polite">
+        📡 You are offline — using cached data
+    </div>
+
+    <!-- UPDATE BANNER (shown by app.js when a new version is waiting) -->
+    <div class="update-banner hidden" id="updateBanner" role="status" aria-live="polite">
+        <span>A new version of RONIN WEB is ready.</span>
+        <button type="button" id="updateBannerBtn">Update</button>
+        <button type="button" id="updateBannerDismiss" aria-label="Dismiss">✕</button>
+    </div>
+
+    <!-- ═══ PRIMARY NAV ═══ -->
+    <div class="pill-nav-wrap" id="pillNavWrap">
+        <nav class="pill-nav" id="pillNav" role="navigation" aria-label="Primary navigation">
+            <a class="pill-logo" href="#" aria-label="Go to Dashboard" id="logoLink">
+                <img src="data/assets/logo.png" alt="RONIN WEB Logo" id="logoImg" width="100" height="100">
+            </a>
+            <div class="pill-nav-items" id="pillNavItems">
+                <ul class="pill-list" role="menubar" aria-label="Main navigation">
+                    <li role="none">
+                        <button class="pill active-pill" id="dashboardBtn" role="menuitem" aria-label="Dashboard"
+                            aria-current="page" type="button">
+                            <span class="hover-circle" aria-hidden="true"></span>
+                            <span class="label-stack">
+                                <span class="pill-label" data-i18n-key="nav_home">Home</span>
+                                <span class="pill-label-hover" aria-hidden="true" data-i18n-key="nav_home">Home</span>
+                            </span>
+                        </button>
+                    </li>
+                    <li role="none">
+                        <button class="pill" id="vocabBtn" role="menuitem" aria-label="Vocabulary" type="button">
+                            <span class="hover-circle" aria-hidden="true"></span>
+                            <span class="label-stack">
+                                <span class="pill-label" data-i18n-key="nav_vocab">Vocab</span>
+                                <span class="pill-label-hover" aria-hidden="true" data-i18n-key="nav_vocab">Vocab</span>
+                            </span>
+                        </button>
+                    </li>
+                    <li role="none">
+                        <button class="pill" id="kanjiBtn" role="menuitem" aria-label="Kanji" type="button">
+                            <span class="hover-circle" aria-hidden="true"></span>
+                            <span class="label-stack">
+                                <span class="pill-label" data-i18n-key="nav_kanji">🈶 Kanji</span>
+                                <span class="pill-label-hover" aria-hidden="true" data-i18n-key="nav_kanji">🈶 Kanji</span>
+                            </span>
+                        </button>
+                    </li>
+                    <li role="none">
+                        <button class="pill" id="reviewBtn" role="menuitem" aria-label="SRS Review" type="button">
+                            <span class="hover-circle" aria-hidden="true"></span>
+                            <span class="label-stack">
+                                <span class="pill-label" data-i18n-key="nav_review">Review</span>
+                                <span class="pill-label-hover" aria-hidden="true" data-i18n-key="nav_review">Review</span>
+                            </span>
+                        </button>
+                    </li>
+                    <li role="none">
+                        <button class="pill" id="quizBtn" role="menuitem" aria-label="Quiz" type="button">
+                            <span class="hover-circle" aria-hidden="true"></span>
+                            <span class="label-stack">
+                                <span class="pill-label" data-i18n-key="nav_quiz">Quiz</span>
+                                <span class="pill-label-hover" aria-hidden="true" data-i18n-key="nav_quiz">Quiz</span>
+                            </span>
+                        </button>
+                    </li>
+                    <li role="none">
+                        <button class="pill" id="gamesBtn" role="menuitem" aria-label="Games" type="button">
+                            <span class="hover-circle" aria-hidden="true"></span>
+                            <span class="label-stack">
+                                <span class="pill-label" data-i18n-key="nav_games">Games</span>
+                                <span class="pill-label-hover" aria-hidden="true" data-i18n-key="nav_games">Games</span>
+                            </span>
+                        </button>
+                    </li>
+                    <li role="none">
+                        <button class="pill" id="analyticsBtn" role="menuitem" aria-label="Analytics" type="button">
+                            <span class="hover-circle" aria-hidden="true"></span>
+                            <span class="label-stack">
+                                <span class="pill-label" data-i18n-key="nav_analytics">Analytics</span>
+                                <span class="pill-label-hover" aria-hidden="true" data-i18n-key="nav_analytics">Analytics</span>
+                            </span>
+                        </button>
+                    </li>
+                    <li role="none">
+                        <button class="pill" id="decksNavBtn" role="menuitem" aria-label="My Decks" type="button">
+                            <span class="hover-circle" aria-hidden="true"></span>
+                            <span class="label-stack">
+                                <span class="pill-label" data-i18n-key="nav_decks">Decks</span>
+                                <span class="pill-label-hover" aria-hidden="true" data-i18n-key="nav_decks">Decks</span>
+                            </span>
+                        </button>
+                    </li>
+                    <li role="none">
+                        <button class="pill pill-theme" id="themeToggleBtn" role="menuitem"
+                            aria-label="Toggle colour theme" type="button">
+                            <span class="hover-circle" aria-hidden="true"></span>
+                            <span class="label-stack">
+                                <span class="pill-label" id="themeLabel">Light</span>
+                                <span class="pill-label-hover" aria-hidden="true" id="themeLabelHover">Dark</span>
+                            </span>
+                        </button>
+                    </li>
+                    <li role="none">
+                        <button class="pill" id="settingsBtn" role="menuitem" aria-label="Settings" type="button">
+                            <span class="hover-circle" aria-hidden="true"></span>
+                            <span class="label-stack">
+                                <span class="pill-label">⚙️</span>
+                                <span class="pill-label-hover" aria-hidden="true">⚙️</span>
+                            </span>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+            <img class="brand-logo-img" src="./data/assets/logo_name.png" alt="RONIN WEB">
+            <button class="hamburger-btn mobile-only" id="hamburgerBtn" aria-label="Toggle navigation menu"
+                aria-expanded="false" aria-controls="mobilePopover" type="button">
+                <span class="ham-line"></span>
+                <span class="ham-line"></span>
+            </button>
+        </nav>
+
+        <div class="mobile-popover" id="mobilePopover" aria-hidden="true" role="dialog"
+            aria-label="Mobile navigation menu">
+            <ul class="mobile-menu-list" role="menu">
+                <li role="none"><button class="mobile-menu-link" id="mDashboardBtn" role="menuitem" type="button" data-i18n-key="nav_home">Home</button></li>
+                <li role="none"><button class="mobile-menu-link" id="mVocabBtn" role="menuitem" type="button" data-i18n-key="nav_vocab">Vocab</button></li>
+                <li role="none"><button class="mobile-menu-link" id="mKanjiBtn" role="menuitem" type="button" data-i18n-key="nav_kanji">🈶 Kanji</button></li>
+                <li role="none"><button class="mobile-menu-link" id="mReviewBtn" role="menuitem" type="button" data-i18n-key="nav_review_mobile">SRS Review</button></li>
+                <li role="none"><button class="mobile-menu-link" id="mQuizBtn" role="menuitem" type="button" data-i18n-key="nav_quiz">Quiz</button></li>
+                <li role="none"><button class="mobile-menu-link" id="mGamesBtn" role="menuitem" type="button" data-i18n-key="nav_games">Games</button></li>
+                <li role="none"><button class="mobile-menu-link" id="mAnalyticsBtn" role="menuitem" type="button" data-i18n-key="nav_analytics">Analytics</button></li>
+                <li role="none"><button class="mobile-menu-link" id="mDecksBtn" role="menuitem" type="button" data-i18n-key="nav_decks_mobile">My Decks</button></li>
+                <li role="none"><button class="mobile-menu-link" id="mThemeBtn" role="menuitem" type="button">Light
+                        Mode</button></li>
+                <li role="none"><button class="mobile-menu-link" id="mSettingsBtn" role="menuitem" type="button">⚙️ <span data-i18n-key="modal_settings">Settings</span></button></li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Manual nav show/hide control — sits just under the nav, independent of it
+         so it stays reachable even when the nav itself is collapsed offscreen. -->
+    <button class="nav-toggle-btn" id="navToggleBtn" type="button"
+        aria-label="Hide navigation bar" aria-expanded="true" aria-controls="pillNavWrap">∧</button>
+
+    <!-- ═══ FLOATING TOOLBAR ═══ -->
+    <div class="floating-toolbar" id="floatingToolbar" role="toolbar" aria-label="Lesson and search controls">
+        <button class="view-toggle-btn mobile-only" id="cmdPaletteMobileBtn" type="button"
+            aria-label="Open command palette" title="Commands" style="width:34px;height:34px;">⌘</button>
+        <div class="glass-dropdown" id="levelDropdown" tabindex="0" role="listbox" aria-label="Select JLPT Level"
+            aria-expanded="false" style="margin-right: 8px;">
+            <div class="dropdown-selected" id="levelSelected" aria-live="polite">N5</div>
+            <div class="dropdown-options" id="levelOptions" role="listbox" aria-label="Level list">
+                <div class="dropdown-option" role="option" tabindex="0">N5</div>
+                <div class="dropdown-option" role="option" tabindex="0">N4</div>
+                <div class="dropdown-option" role="option" tabindex="0">N3</div>
+                <div class="dropdown-option" role="option" tabindex="0">N2</div>
+                <div class="dropdown-option" role="option" tabindex="0">N1</div>
+            </div>
+        </div>
+        <div class="glass-dropdown" id="lessonDropdown" tabindex="0" role="listbox" aria-label="Select lesson"
+            aria-expanded="false">
+            <div class="dropdown-selected" id="lessonSelected" aria-live="polite">Lesson 1</div>
+            <div class="dropdown-options" id="lessonOptions" role="listbox" aria-label="Lesson list"></div>
+        </div>
+        <div class="search-wrap">
+            <span class="search-icon" aria-hidden="true">🔍</span>
+            <input type="search" id="searchBox" placeholder="Search words, kanji, decks, sections…"
+                aria-label="Search everything in RONIN WEB (works offline)" aria-controls="searchDropdown" aria-autocomplete="list" autocomplete="off"
+                autocapitalize="none" spellcheck="false" maxlength="100">
+        </div>
+    </div>
+
+    <!-- ═══ SEARCH SUGGESTIONS (local only, nothing is sent anywhere) ═══ -->
+    <div class="search-dropdown hidden" id="searchDropdown" role="listbox" aria-label="Search suggestions"></div>
+
+    <!-- ═══════════════════════════════════
+     MAIN CONTENT
+════════════════════════════════════ -->
+    <main class="container" id="mainContent" tabindex="-1">
+
+        <div class="lesson-title-row" id="globalProgressHeader" aria-label="Lesson progress">
+            <div class="lesson-title" id="lessonTitle" aria-live="polite">Lesson 1</div>
+            <div class="progress-wrap" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"
+                aria-label="Lesson completion progress">
+                <div class="progress">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ───────────────── DASHBOARD ───────────────── -->
+        <section id="dashboardView" class="hidden view-panel" aria-label="Dashboard">
+            <h2 class="algerian text-center" id="dashGreeting" style="color:var(--accent); margin-bottom:20px;">Welcome Back, Learner!
+            </h2>
+
+            <!-- XP BAR -->
+            <div class="xp-bar-wrap" id="xpBarWrap" role="region" aria-label="Experience points and level">
+                <div class="xp-level-badge" id="xpLevelBadge" aria-live="polite">Lv.1 Beginner</div>
+                <div class="xp-bar-track" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"
+                    aria-label="XP progress">
+                    <div class="xp-bar-fill" id="xpBarFill" style="width:0%"></div>
+                </div>
+                <div class="xp-label" id="xpLabel" aria-live="polite">0 XP</div>
+            </div>
+
+            <div class="dashboard-grid" role="region" aria-label="Study statistics">
+                <div class="dash-card">
+                    <h3 data-i18n-key="dash_daily_goal">Daily Goal</h3>
+                    <div class="dash-stat" id="dailyGoalStat" aria-live="polite">0 / 20</div>
+                    <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"
+                        aria-label="Daily goal progress">
+                        <div class="progress-fill" id="goalProgressFill" style="width:0%"></div>
+                    </div>
+                </div>
+                <div class="dash-card">
+                    <h3 data-i18n-key="dash_streak">Current Streak</h3>
+                    <div class="dash-stat" style="color:var(--accent2)" id="streakStat" aria-live="polite">🔥 0 Days
+                    </div>
+                </div>
+                <div class="dash-card">
+                    <h3 data-i18n-key="dash_total_learned">Total Learned</h3>
+                    <div class="dash-stat" style="color:var(--success)" id="totalLearnedStat" aria-live="polite">0 Words
+                    </div>
+                </div>
+                <div class="dash-card">
+                    <h3 data-i18n-key="dash_due_reviews">Due Reviews</h3>
+                    <div class="dash-stat" style="color:var(--danger)" id="dueReviewStat" aria-live="polite">0 Due</div>
+                    <button class="nav-btn" id="startReviewFromDash" style="margin-top:10px; width:100%;" type="button"
+                        aria-label="Start SRS review session">
+                        <span data-i18n-key="dash_start_review">Start Review</span>
+                    </button>
+                </div>
+            </div>
+
+            <h2 class="section-heading" data-i18n-key="dash_quick_actions">Quick Actions</h2>
+            <div class="quick-actions" role="group" aria-label="Quick action shortcuts">
+                <button class="nav-btn" id="quickFavBtn" type="button" data-i18n-key="dash_favorites">Favorites</button>
+                <button class="nav-btn" id="quickWeakBtn" type="button" data-i18n-key="dash_weak_words">Weak Words</button>
+                <button class="nav-btn" id="quickDecksBtn" type="button" data-i18n-key="dash_my_decks">My Decks</button>
+                <button class="nav-btn" id="quickChallengeBtn" type="button" data-i18n-key="dash_daily_challenge">Daily Challenge</button>
+                <button class="nav-btn" id="quickSpeedBtn" type="button" data-i18n-key="dash_speed_round">Speed Round</button>
+            </div>
+
+            <!-- DAILY CHALLENGE STATUS -->
+            <div class="daily-challenge-wrap hidden" id="dailyChallengeWrap" role="status" aria-live="polite">
+                <div class="challenge-icon" aria-hidden="true">🎯</div>
+                <div class="challenge-info">
+                    <div class="challenge-title" data-i18n-key="dash_challenge_active">Daily Challenge Active!</div>
+                    <div class="challenge-sub" id="challengeSub">Study 5 special words for bonus XP</div>
+                </div>
+                <div class="challenge-progress" id="challengeProgress" aria-label="Challenge progress">0/5</div>
+            </div>
+
+
+            <h2 class="section-heading" data-i18n-key="dash_achievements">Achievements</h2>
+            <div class="achievements-list" id="achievementsList" aria-label="Achievement badges" aria-live="polite">
+            </div>
+        </section>
+
+        <!-- ───────────────── ANALYTICS VIEW ───────────────── -->
+        <section id="analyticsView" class="hidden view-panel" aria-label="Analytics">
+            <h2 class="algerian text-center" style="color:var(--accent); margin-bottom:20px;" data-i18n-key="an_title">Study Analytics</h2>
+
+            <!-- HEATMAP -->
+            <h2 class="section-heading" data-i18n-key="an_heatmap">Study Heatmap</h2>
+            <div class="heatmap-wrap" id="heatmapWrap" aria-label="Study activity heatmap over past 16 weeks"></div>
+
+            <!-- JLPT READINESS -->
+            <h2 class="section-heading" data-i18n-key="an_readiness">JLPT Readiness</h2>
+            <div class="readiness-wrap" id="readinessWrap" role="region" aria-label="JLPT readiness scores">
+                <div class="readiness-card">
+                    <div class="readiness-label">N5</div>
+                    <div class="readiness-bar-track" role="progressbar" aria-valuemin="0" aria-valuemax="100"
+                        aria-valuenow="0" aria-label="N5 readiness">
+                        <div class="readiness-bar-fill" id="readinessN5Fill" style="width:0%"></div>
+                    </div>
+                    <div class="readiness-pct" id="readinessN5Pct" aria-live="polite">0%</div>
+                </div>
+                <div class="readiness-card">
+                    <div class="readiness-label">N4</div>
+                    <div class="readiness-bar-track" role="progressbar" aria-valuemin="0" aria-valuemax="100"
+                        aria-valuenow="0" aria-label="N4 readiness">
+                        <div class="readiness-bar-fill" id="readinessN4Fill" style="width:0%"></div>
+                    </div>
+                    <div class="readiness-pct" id="readinessN4Pct" aria-live="polite">0%</div>
+                </div>
+            </div>
+
+            <!-- QUIZ HISTORY -->
+            <h2 class="section-heading" data-i18n-key="an_quiz_history">Quiz History</h2>
+            <div class="quiz-history-wrap" style="overflow-x: auto; margin-top: 10px;">
+                <table class="quiz-history-table">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Time</th>
+                            <th>Score</th>
+                            <th>Accuracy</th>
+                            <th>Mode</th>
+                        </tr>
+                    </thead>
+                    <tbody id="quizHistoryTableBody">
+                        <!-- Data injected via JS -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- ───────────────── VOCAB VIEW ───────────────── -->
+        <!-- ───────────────── KANJI LIST ───────────────── -->
+        <section id="kanjiView" class="hidden view-panel" aria-label="Kanji list">
+            <h2 class="algerian text-center" style="color:var(--accent); margin-bottom:20px;" data-i18n-key="view_kanji_title">Kanji Reference</h2>
+            <div id="kanjiLessonBar" class="kj-chips hidden" role="group" aria-label="Kanji lessons"></div>
+            <div id="kanjiHeader" class="kj-head" aria-live="polite"></div>
+            <div id="kanjiList" role="list" aria-label="Kanji" style="margin-bottom:80px;">
+                <!-- Filled via JS -->
+            </div>
+        </section>
+
+        <section id="vocabView" class="hidden view-panel" aria-label="Vocabulary list">
+            <!-- Hidden trigger buttons wired via JS to avoid onclick -->
+            <button id="favBtn" class="hidden" type="button" aria-hidden="true" tabindex="-1"></button>
+            <button id="weakBtn" class="hidden" type="button" aria-hidden="true" tabindex="-1"></button>
+
+            <div class="vocab-toolbar" role="toolbar" aria-label="Vocabulary filter and view options">
+                <div class="vocab-filter-chips" role="group" aria-label="Filter vocabulary by status">
+                    <button class="filter-chip active-chip" data-filter="all" type="button"
+                        aria-pressed="true">All</button>
+                    <button class="filter-chip" data-filter="learned" type="button" aria-pressed="false">✅
+                        Learned</button>
+                    <button class="filter-chip" data-filter="unlearned" type="button" aria-pressed="false">📘
+                        Unlearned</button>
+                    <button class="filter-chip" data-filter="favorites" type="button" aria-pressed="false">⭐
+                        Favorites</button>
+                    <button class="filter-chip" data-filter="weak" type="button" aria-pressed="false">📉 Weak</button>
+                </div>
+                <div class="vocab-view-toggle" role="group" aria-label="Toggle grid or list view">
+                    <button class="view-toggle-btn active-view-btn" id="gridViewBtn" title="Grid view" type="button"
+                        aria-pressed="true" aria-label="Grid view">⊞</button>
+                    <button class="view-toggle-btn" id="listViewBtn" title="List view" type="button"
+                        aria-pressed="false" aria-label="List view">☰</button>
+                </div>
+            </div>
+            <div class="cards" id="vocabularyContainer" role="list" aria-label="Vocabulary cards" aria-live="polite">
+            </div>
+        </section>
+
+        <!-- ───────────────── REVIEW VIEW ───────────────── -->
+        <section id="reviewView" class="hidden view-panel" aria-label="Spaced Repetition Review">
+            <div class="quiz-box srs-box">
+                <h2 class="algerian text-center" style="color:var(--accent3);" data-i18n-key="view_review_title">Spaced Repetition</h2>
+                <p id="srsCounter" class="text-center" style="margin-top:10px; color:var(--text-tertiary);"
+                    aria-live="polite" aria-atomic="true">Card 1 / 1</p>
+
+                <!-- SPEED ROUND TIMER BAR -->
+                <div class="speed-round-bar hidden" id="speedRoundBar" role="progressbar" aria-valuemin="0"
+                    aria-valuemax="60" aria-valuenow="60" aria-label="Speed round timer">
+                    <div class="speed-round-fill" id="speedRoundFill"></div>
+                    <span class="speed-round-label" id="speedRoundLabel" aria-live="off">60</span>
+                </div>
+
+                <div class="flashcard" id="srsFlashcard" style="margin-top:20px;" role="button" tabindex="0"
+                    aria-label="Flashcard — press Space or Enter to flip" aria-pressed="false">
+                    <div class="flashcard-inner" id="flashcardInner">
+                        <div class="flash-face front-face" id="srsFront" aria-label="Card front">Loading…</div>
+                        <div class="flash-face back-face" id="srsBack" aria-label="Card back" aria-hidden="true">
+                            Loading…</div>
+                    </div>
+                    <div class="swipe-overlay" id="swipeOverlay" aria-hidden="true"></div>
+                </div>
+
+                <p id="srsHint" class="flash-hint text-center" aria-live="off">tap · swipe · or press Space</p>
+
+                <div class="srs-dock-container" id="srsActions">
+                    <div class="srs-dock" id="srsDock" role="group" aria-label="Rate this card">
+                        <div class="srs-dock-item">
+                            <div class="srs-dock-tooltip" aria-hidden="true">Again <kbd>1</kbd></div>
+                            <button class="srs-dock-btn dock-again" id="srsBtn1" type="button"
+                                aria-label="Again — repeat today (keyboard: 1)">↩</button>
+                            <span class="srs-dock-sub" aria-hidden="true">Repeat</span>
+                        </div>
+                        <div class="srs-dock-item">
+                            <div class="srs-dock-tooltip" aria-hidden="true">Hard <kbd>2</kbd></div>
+                            <button class="srs-dock-btn dock-hard" id="srsBtn2" type="button"
+                                aria-label="Hard — review in 1 day (keyboard: 2)">😓</button>
+                            <span class="srs-dock-sub" aria-hidden="true">+1 day</span>
+                        </div>
+                        <div class="srs-dock-item">
+                            <div class="srs-dock-tooltip" aria-hidden="true">Good <kbd>3</kbd></div>
+                            <button class="srs-dock-btn dock-good" id="srsBtn3" type="button"
+                                aria-label="Good — review in 3 days (keyboard: 3)">👍</button>
+                            <span class="srs-dock-sub" aria-hidden="true">+3 days</span>
+                        </div>
+                        <div class="srs-dock-item">
+                            <div class="srs-dock-tooltip" aria-hidden="true">Easy <kbd>4</kbd></div>
+                            <button class="srs-dock-btn dock-easy" id="srsBtn4" type="button"
+                                aria-label="Easy — review in 7 days (keyboard: 4)">⚡</button>
+                            <span class="srs-dock-sub" aria-hidden="true">+7 days</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flashcard-navigation" style="margin-top:20px;">
+                    <button id="reviewPrevBtn" class="nav-btn" type="button" aria-label="Previous card">&#8592;
+                        Prev</button>
+                    <button id="reviewUndoBtn" class="nav-btn" type="button" aria-label="Undo last rating"
+                        style="border-color:var(--accent2);color:var(--accent2);" disabled>↩ Undo</button>
+                    <button id="reviewNextBtn" class="nav-btn" type="button" aria-label="Next card">Next
+                        &#8594;</button>
+                </div>
+
+                <!-- WORD QUICK INFO -->
+                <div class="word-quick-info hidden" id="wordQuickInfo" role="group" aria-label="Quick word actions">
+                    <button class="wqi-btn" id="wqiDetailBtn" type="button">🔍 Detail</button>
+                    <button class="wqi-btn" id="wqiDeckBtn" type="button">🗂️ Add to Deck</button>
+                    <button class="wqi-btn" id="wqiFavBtn" type="button">⭐ Favorite</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- ───────────────── QUIZ VIEW ───────────────── -->
+        <section id="quizView" class="hidden view-panel" aria-label="Vocabulary quiz">
+            <div class="quiz-box">
+                <div class="quiz-mode-toggle" role="group" aria-label="Select quiz mode">
+                    <button id="modeKanjiBtn" class="mode-btn active-mode" type="button" aria-pressed="true">Kanji →
+                        Meaning</button>
+                    <button id="modeMeaningBtn" class="mode-btn" type="button" aria-pressed="false">Meaning →
+                        Kanji</button>
+                    <button id="modeListenBtn" class="mode-btn" type="button" aria-pressed="false">👂 Listening</button>
+                </div>
+                <div class="quiz-stats" aria-label="Quiz statistics">
+                    <span id="scoreDisplay" aria-live="polite">⭐ Score: 0</span>
+                    <span id="streakDisplay" aria-live="polite">🔥 Streak: 0</span>
+                    <span id="bestStreakDisplay" aria-live="polite">🏆 Best: 0</span>
+                </div>
+                <div class="quiz-progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"
+                    aria-label="Quiz progress">
+                    <div id="quizProgressFill"></div>
+                </div>
+                <p id="quizCounter" aria-live="polite" aria-atomic="true">Question 1 / 20</p>
+                <div class="quiz-question-box">
+                    <h2 id="quizQuestion" aria-live="polite" aria-atomic="true">Loading…</h2>
+                    <button id="quizSpeakBtn" type="button" aria-label="Hear question pronunciation">&#128266;</button>
+                </div>
+
+                <!-- Typing mode input (shown only in listening mode) -->
+                <div class="typing-mode-wrap hidden" id="typingModeWrap">
+                    <input type="text" id="typingInput" class="typing-input" placeholder="Type the meaning or reading…"
+                        autocomplete="off" autocapitalize="none" spellcheck="false"
+                        aria-label="Type your answer">
+                    <button class="nav-btn" id="typingSubmitBtn" type="button"
+                        aria-label="Submit typed answer">Check</button>
+                </div>
+
+                <button class="quiz-option" id="optionA" type="button" aria-label="Option A"></button>
+                <button class="quiz-option" id="optionB" type="button" aria-label="Option B"></button>
+                <button class="quiz-option" id="optionC" type="button" aria-label="Option C"></button>
+                <button class="quiz-option" id="optionD" type="button" aria-label="Option D"></button>
+                <div id="quizResult" aria-live="assertive" role="status"></div>
+            </div>
+        </section>
+
+        <!-- ───────────────── GAMES VIEW ───────────────── -->
+        <section id="gamesView" class="hidden view-panel" aria-label="Mini games">
+            <h2 class="algerian text-center" style="color:var(--accent2); font-size:20px; margin-bottom:6px;" data-i18n-key="view_games_title">Mini Games
+            </h2>
+            <p class="text-center" style="color:var(--text-tertiary); font-size:13px; margin-bottom:18px;">Choose a game
+                to practise your Japanese vocabulary!</p>
+            <div class="vocab-filter-chips" role="group" aria-label="Choose word source for games"
+                style="justify-content:center; margin-bottom:22px;">
+                <button class="filter-chip active-chip" id="gameScopeLessonBtn" type="button" aria-pressed="true">📘
+                    Current Lesson Only</button>
+                <button class="filter-chip" id="gameScopeAllBtn" type="button" aria-pressed="false">🌐 All
+                    Lessons</button>
+            </div>
+            <div class="games-hub-grid" id="gamesHubGrid" role="list" aria-label="Available games"></div>
+        </section>
+
+    </main>
+
+    <!-- ═══ FAB BUTTONS ═══ -->
+    <button class="fab fab-deck" id="createDeckFab" type="button" aria-label="Create new deck (keyboard: D)"
+        title="Create Deck">🗂️</button>
+    <button class="fab" id="feedbackFab" type="button" aria-label="Send feedback" title="Feedback">💬</button>
+
+    <!-- ═══ TOAST CONTAINER ═══ -->
+    <div id="toastContainer" aria-live="assertive" aria-atomic="false" class="toast-container"></div>
+
+    <!-- ═══════════════════════════════════════════════════
+     MODALS
+════════════════════════════════════════════════════ -->
+
+    <!-- COMMAND PALETTE -->
+    <div class="modal-overlay hidden" id="cmdOverlay" role="dialog" aria-modal="true" aria-label="Command palette">
+        <div class="cmd-palette" id="cmdPalette">
+            <button class="modal-close-btn cmd-close-btn" id="cmdCloseBtn" type="button"
+                aria-label="Close command palette">✕</button>
+            <input type="search" id="cmdInput" placeholder="Search commands, vocab, or type a lesson number…"
+                autocomplete="off" aria-label="Command palette search" aria-controls="cmdResults"
+                aria-autocomplete="list">
+            <ul id="cmdResults" class="cmd-results" role="listbox" aria-label="Command suggestions"></ul>
+        </div>
+    </div>
+
+    <!-- FEEDBACK MODAL -->
+    <div class="modal-overlay hidden" id="feedbackOverlay" role="dialog" aria-labelledby="feedbackTitle"
+        aria-modal="true">
+        <div class="modal">
+            <h2 id="feedbackTitle" class="algerian" style="color:var(--accent);" data-i18n-key="modal_feedback">Send Feedback</h2>
+            <select id="feedbackCategory" class="modal-input" aria-label="Feedback category" data-glass="true">
+                <option value="Feature Request">Feature Request</option>
+                <option value="Bug Report">Bug Report</option>
+                <option value="Vocab Correction">Vocabulary Correction</option>
+                <option value="Other">Other</option>
+            </select>
+            <textarea id="feedbackText" class="modal-input" rows="4" placeholder="Describe your feedback…"
+                aria-label="Feedback message" maxlength="2000"></textarea>
+            <div style="display:flex; gap:10px; margin-top:15px;">
+                <button class="nav-btn" style="flex:1" id="submitFeedbackBtn" type="button" data-i18n-key="btn_send">Send</button>
+                <button class="nav-btn" style="flex:1; border-color:var(--text-muted); color:var(--text-muted);"
+                    id="cancelFeedbackBtn" type="button" data-i18n-key="btn_cancel">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- CREATE DECK MODAL -->
+    <div class="modal-overlay hidden" id="createDeckOverlay" role="dialog" aria-labelledby="createDeckTitle"
+        aria-modal="true">
+        <div class="modal deck-modal">
+            <div class="deck-modal-header">
+                <h2 id="createDeckTitle" class="algerian" style="color:var(--accent);" data-i18n-key="modal_create_deck">Create Deck</h2>
+                <button class="modal-close-btn" id="closeCreateDeckBtn" type="button"
+                    aria-label="Close create deck dialog">✕</button>
+            </div>
+            <div class="emoji-picker-row">
+                <div class="emoji-preview" id="deckEmojiPreview" role="img" aria-label="Selected deck emoji">📚</div>
+                <div class="emoji-grid" id="emojiGrid" role="group" aria-label="Choose deck emoji"></div>
+            </div>
+            <input type="text" id="deckNameInput" class="modal-input"
+                placeholder="Deck name (e.g. Food Words, Travel Vocab…)" maxlength="40" autocomplete="off"
+                aria-label="Deck name" aria-required="true">
+            <textarea id="deckDescInput" class="modal-input" rows="2" placeholder="Short description (optional)…"
+                maxlength="120" aria-label="Deck description"></textarea>
+            <div class="deck-privacy-row">
+                <span class="deck-privacy-label">🔒 Private</span>
+                <label class="toggle-switch" aria-label="Toggle deck visibility between private and public">
+                    <input type="checkbox" id="deckPublicToggle" aria-label="Make deck public">
+                    <span class="toggle-track"><span class="toggle-thumb"></span></span>
+                </label>
+                <span class="deck-privacy-label">🌐 Public</span>
+            </div>
+            <div style="display:flex; gap:10px; margin-top:18px;">
+                <button class="nav-btn deck-create-btn" id="saveDeckBtn" type="button" style="flex:1;">✅ <span data-i18n-key="btn_create_deck">Create Deck</span></button>
+                <button class="nav-btn" id="cancelCreateDeckBtn" type="button"
+                    style="flex:1; border-color:var(--text-muted); color:var(--text-muted);" data-i18n-key="btn_cancel">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- DECK VIEW MODAL -->
+    <div class="modal-overlay hidden" id="deckViewOverlay" role="dialog" aria-label="My Decks" aria-modal="true">
+        <div class="modal deck-view-modal">
+            <div class="deck-modal-header">
+                <h2 class="algerian" style="color:var(--accent);" data-i18n-key="modal_my_decks">My Decks</h2>
+                <button class="modal-close-btn" id="closeDeckViewBtn" type="button"
+                    aria-label="Close decks dialog">✕</button>
+            </div>
+            <div id="deckListContent"></div>
+            <div style="display:flex; gap:8px; margin-top:14px; margin-bottom:8px;">
+                <button class="nav-btn active-mode" id="filterDeckVocab" type="button" style="flex:1;">Vocabulary</button>
+                <button class="nav-btn" id="filterDeckGrammar" type="button" style="flex:1;">Grammar</button>
+            </div>
+            <div style="display:flex; gap:8px; margin-top:14px;">
+                <button class="nav-btn" id="refreshSmartDecksBtn" type="button"
+                    style="flex:1; border-color:var(--accent3); color:var(--accent3);">🤖 Smart Decks</button>
+                <button class="nav-btn deck-create-btn" id="newDeckFromViewBtn" type="button" style="flex:1;">+ New
+                    Deck</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- WORD DETAIL MODAL -->
+    <div class="modal-overlay hidden" id="wordDetailOverlay" role="dialog" aria-labelledby="wordDetailTitle"
+        aria-modal="true">
+        <div class="modal word-detail-modal">
+            <div class="deck-modal-header">
+                <h2 id="wordDetailTitle" class="algerian" style="color:var(--accent3);" data-i18n-key="modal_word_detail">Word Detail</h2>
+                <button class="modal-close-btn" id="closeWordDetailBtn" type="button"
+                    aria-label="Close word detail dialog">✕</button>
+            </div>
+            <div id="wordDetailContent"></div>
+        </div>
+    </div>
+
+    <!-- DECK PICKER MODAL -->
+    <div class="modal-overlay hidden" id="deckPickerOverlay" role="dialog" aria-label="Add to Deck" aria-modal="true">
+        <div class="modal deck-picker-modal">
+            <div class="deck-modal-header">
+                <h2 class="algerian" style="color:var(--accent);" data-i18n-key="modal_add_to_deck">Add to Deck</h2>
+                <button class="modal-close-btn" id="closeDeckPickerBtn" type="button"
+                    aria-label="Close deck picker">✕</button>
+            </div>
+            <div id="deckPickerList"></div>
+        </div>
+    </div>
+
+    <!-- KEYBOARD SHORTCUT CHEATSHEET -->
+    <div class="modal-overlay hidden" id="shortcutOverlay" role="dialog" aria-label="Keyboard shortcuts"
+        aria-modal="true">
+        <div class="modal">
+            <div class="deck-modal-header">
+                <h2 class="algerian" style="color:var(--accent2);" data-i18n-key="sc_title">Keyboard Shortcuts</h2>
+                <button class="modal-close-btn" id="closeShortcutBtn" type="button"
+                    aria-label="Close shortcuts dialog">✕</button>
+            </div>
+            <div class="shortcut-group-label" data-i18n-key="sc_group_nav">Navigation</div>
+            <div class="shortcut-grid" role="list">
+                <div class="shortcut-row" role="listitem"><kbd>H</kbd><span data-i18n-key="sc_home">Go Home</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>V</kbd><span data-i18n-key="sc_vocab">Go to Vocab</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>R</kbd><span data-i18n-key="sc_review">Go to Review</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>Q</kbd><span data-i18n-key="sc_quiz">Go to Quiz</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>G</kbd><span data-i18n-key="sc_games">Open Games (press again to leave)</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>D</kbd><span data-i18n-key="sc_decks">Open / close My Decks</span></div>
+            </div>
+
+            <div class="shortcut-group-label" data-i18n-key="sc_group_actions">Actions</div>
+            <div class="shortcut-grid" role="list">
+                <div class="shortcut-row" role="listitem"><kbd>T</kbd><span data-i18n-key="sc_theme">Toggle dark / light theme</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>S</kbd><span data-i18n-key="sc_settings">Open / close Settings</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>E</kbd><span data-i18n-key="sc_export">Export backup</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>C</kbd><span data-i18n-key="sc_challenge">Start / close Daily Challenge</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>A</kbd><span data-i18n-key="sc_speedround">Start / close Speed Round</span></div>
+            </div>
+
+            <div class="shortcut-group-label" data-i18n-key="sc_group_review">During Review (S doubles as Play Audio here)</div>
+            <div class="shortcut-grid" role="list">
+                <div class="shortcut-row" role="listitem"><kbd>Space</kbd><span data-i18n-key="sc_flip">Flip card</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>Enter</kbd><span data-i18n-key="sc_flip2">Flip card</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>←</kbd><kbd>→</kbd><span data-i18n-key="sc_prevnext">Prev / Next card</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>1</kbd><span data-i18n-key="sc_again">Again</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>2</kbd><span data-i18n-key="sc_hard">Hard</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>3</kbd><span data-i18n-key="sc_good">Good</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>4</kbd><span data-i18n-key="sc_easy">Easy</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>Z</kbd><span data-i18n-key="sc_undo">Undo last rating</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>F</kbd><span data-i18n-key="sc_fav">Favorite current word</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>S</kbd><span data-i18n-key="sc_audio">Play audio</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>I</kbd><span data-i18n-key="sc_detail">Word detail</span></div>
+            </div>
+
+            <div class="shortcut-group-label" data-i18n-key="sc_group_general">General</div>
+            <div class="shortcut-grid" role="list">
+                <div class="shortcut-row" role="listitem"><kbd>?</kbd><span data-i18n-key="sc_cheatsheet">This cheatsheet</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>Ctrl</kbd>+<kbd>K</kbd><span data-i18n-key="sc_palette">Command palette</span></div>
+                <div class="shortcut-row" role="listitem"><kbd>Esc</kbd><span data-i18n-key="sc_esc">Close any modal</span></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- RIGHT-CLICK CONTEXT MENU -->
+    <div class="context-menu hidden" id="contextMenu" role="menu" aria-label="Word context actions">
+        <button class="ctx-item" id="ctxDetail" role="menuitem" type="button">🔍 Word Detail</button>
+        <button class="ctx-item" id="ctxAddDeck" role="menuitem" type="button">🗂️ Add to Deck</button>
+        <button class="ctx-item" id="ctxFavorite" role="menuitem" type="button">⭐ Toggle Favorite</button>
+        <button class="ctx-item" id="ctxWeak" role="menuitem" type="button">📉 Toggle Weak</button>
+        <button class="ctx-item" id="ctxAudio" role="menuitem" type="button">🔊 Play Audio</button>
+        <button class="ctx-item" id="ctxCopy" role="menuitem" type="button">📋 Copy Kanji</button>
+    </div>
+
+    <!-- SPEED ROUND RESULT OVERLAY -->
+    <div class="modal-overlay hidden" id="speedRoundResultOverlay" role="dialog" aria-label="Speed Round result"
+        aria-modal="true">
+        <div class="modal">
+            <div class="deck-modal-header">
+                <h2 class="algerian" style="color:var(--accent2);">⚡ Speed Round!</h2>
+                <button class="modal-close-btn" id="closeSpeedRoundBtn" type="button"
+                    aria-label="Close speed round result">✕</button>
+            </div>
+            <div id="speedRoundResult"></div>
+        </div>
+    </div>
+
+    <!-- ═══ RADIAL HAPTIC MENU ═══ -->
+    <div class="radial-backdrop hidden" id="radialBackdrop" aria-hidden="true"></div>
+    <div class="radial-menu hidden" id="radialMenu" role="menu" aria-label="Quick word actions radial menu">
+        <div class="radial-center" aria-hidden="true">🃏</div>
+        <button class="radial-item" id="radialAudio" type="button" role="menuitem" data-label="Audio"
+            aria-label="Play audio">🔊</button>
+        <button class="radial-item" id="radialFav" type="button" role="menuitem" data-label="Favorite"
+            aria-label="Toggle favorite">⭐</button>
+        <button class="radial-item" id="radialDeck" type="button" role="menuitem" data-label="Add to Deck"
+            aria-label="Add to deck">🗂️</button>
+        <button class="radial-item" id="radialWeak" type="button" role="menuitem" data-label="Mark Weak"
+            aria-label="Mark as weak">📉</button>
+        <button class="radial-item" id="radialDetail" type="button" role="menuitem" data-label="Detail"
+            aria-label="Word detail">🔍</button>
+    </div>
+
+    <!-- ═══ MEMORY MATCH ═══ -->
+    <div class="modal-overlay hidden" id="concentrationOverlay" role="dialog" aria-label="Memory Match game"
+        aria-modal="true">
+        <div class="game-modal">
+            <div class="game-modal-header">
+                <h2 class="algerian" style="color:var(--accent);font-size:16px;">Memory Match</h2>
+                <div class="game-stats-row" aria-label="Game statistics">
+                    <span id="concMoves" aria-live="polite">Moves: 0</span>
+                    <span id="concMatches" aria-live="polite">Matches: 0/8</span>
+                    <span id="concTimer" aria-live="off">0:00</span>
+                </div>
+                <button class="modal-close-btn" id="closeConcentrationBtn" type="button"
+                    aria-label="Close Memory Match game">✕</button>
+            </div>
+            <div class="game-modal-body">
+                <div class="concentration-grid" id="concentrationGrid" role="grid" aria-label="Memory match card grid">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══ KANJI METEOR ═══ -->
+    <div class="modal-overlay hidden" id="meteorOverlay" role="dialog" aria-label="Kanji Meteor game" aria-modal="true">
+        <div class="game-modal meteor-modal">
+            <div class="game-modal-header">
+                <h2 class="algerian" style="color:var(--danger);font-size:16px;">☄️ Kanji Meteor</h2>
+                <div class="game-stats-row" aria-label="Game statistics">
+                    <span id="meteorScore" aria-live="polite">Score: 0</span>
+                    <span id="meteorLives" aria-live="polite">❤️❤️❤️</span>
+                    <span id="meteorLevel" aria-live="polite">Lv.1</span>
+                </div>
+                <button class="modal-close-btn" id="closeMeteorBtn" type="button"
+                    aria-label="Close Kanji Meteor game">✕</button>
+            </div>
+            <div class="game-modal-body">
+                <div class="meteor-field" id="meteorField" aria-hidden="true"></div>
+                <div class="meteor-input-row">
+                    <input type="text" id="meteorInput" class="typing-input" placeholder="Type meaning or reading…"
+                        autocomplete="off" autocapitalize="none" spellcheck="false"
+                        aria-label="Type the meaning or reading of the falling kanji">
+                    <button class="nav-btn" id="meteorSubmit" type="button" aria-label="Submit answer">💥 Blast</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══ WORD CHAIN (SHIRITORI) ═══ -->
+    <div class="modal-overlay hidden" id="shiritorOverlay" role="dialog" aria-label="Word Chain game" aria-modal="true">
+        <div class="game-modal">
+            <div class="game-modal-header">
+                <h2 class="algerian" style="color:var(--success);font-size:16px;">🔗 Word Chain</h2>
+                <div class="game-stats-row" aria-label="Game statistics">
+                    <span id="shirScore" aria-live="polite">Score: 0</span>
+                    <span id="shirChain" aria-live="polite">Chain: 0</span>
+                    <span id="shirTarget">Target: 10</span>
+                </div>
+                <button class="modal-close-btn" id="closeShiritorBtn" type="button"
+                    aria-label="Close Word Chain game">✕</button>
+            </div>
+            <div class="game-modal-body">
+                <div class="shiritori-display" id="shirDisplay" aria-live="polite"
+                    aria-label="Current word and next kana hint"></div>
+                <div class="meteor-input-row" style="margin-top:14px;">
+                    <input type="text" id="shirInput" class="typing-input" placeholder="Type the next word…"
+                        autocomplete="off" autocapitalize="none" spellcheck="false"
+                        aria-label="Type the next word in the chain">
+                    <button class="nav-btn" id="shirSubmit" type="button" aria-label="Submit word" data-i18n-key="btn_submit">Submit</button>
+                </div>
+                <div id="shirFeedback"
+                    style="text-align:center;margin-top:10px;font-family:var(--font-mono);font-size:13px;min-height:20px;"
+                    aria-live="polite" role="status"></div>
+                <div
+                    style="display:flex; gap:10px; margin-top:14px; align-items:center; flex-wrap:wrap; justify-content:center;">
+                    <label style="font-size:12px; color:var(--text-tertiary);">
+                        Words per round:
+                        <select id="shirLengthSelect" class="nav-btn"
+                            style="margin-left:6px; padding:6px 10px; font-size:11px;"
+                            aria-label="Number of words per round" data-glass="true">
+                            <option value="10">10</option>
+                            <option value="15">15</option>
+                            <option value="20">20</option>
+                        </select>
+                    </label>
+                    <button class="nav-btn" id="shirEndBtn" type="button"
+                        style="border-color:var(--danger); color:var(--danger);" aria-label="End Word Chain game">⏹ End
+                        Game</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══ MOCK TEST ═══ -->
+    <div class="modal-overlay hidden" id="mockTestOverlay" role="dialog" aria-label="JLPT Mock Test" aria-modal="true">
+        <div class="game-modal mock-modal">
+            <div class="game-modal-header">
+                <h2 class="algerian" style="color:var(--accent2);font-size:16px;">📝 JLPT Mock Test</h2>
+                <span id="mockTimer"
+                    style="font-family:var(--font-mono);font-size:14px;font-weight:700;color:var(--accent2);"
+                    aria-live="off" aria-label="Time remaining">⏱ 5:00</span>
+                <button class="modal-close-btn" id="closeMockTestBtn" type="button"
+                    aria-label="Close Mock Test">✕</button>
+            </div>
+            <div class="game-modal-body">
+                <div id="mockQuestionBox" style="padding:8px 2px 4px;" aria-live="polite"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══ FOOTER ═══ -->
+    <footer>
+        RONIN WEB &nbsp;·&nbsp; v3.5
+        &nbsp;·&nbsp; <kbd>Ctrl</kbd>+<kbd>K</kbd> Palette
+        &nbsp;·&nbsp; <kbd>?</kbd> Shortcuts
+    </footer>
+
+    <!-- ═══════════════════════════════════════════════════
+     SETTINGS DRAWER
+════════════════════════════════════════════════════ -->
+    <div class="sd-overlay" id="sdOverlay" aria-hidden="true"></div>
+    <div class="sd-drawer" id="sdDrawer" role="dialog" aria-label="Settings panel" aria-hidden="true">
+
+        <div class="sd-prelayers" aria-hidden="true">
+            <div class="sd-prelayer" style="background: rgba(96,165,250,0.18);"></div>
+            <div class="sd-prelayer" style="background: rgba(192,132,252,0.14);"></div>
+        </div>
+
+        <div class="sd-panel" id="sdPanel">
+            <div class="sd-header">
+                <h2 class="algerian" style="color:var(--accent); font-size:18px; letter-spacing:2px; margin:0;">⚙️
+                    <span data-i18n-key="modal_settings">Settings</span></h2>
+                <button class="modal-close-btn" id="sdCloseBtn" type="button"
+                    aria-label="Close settings panel">✕</button>
+            </div>
+
+            <div class="sd-body" id="sdBody">
+
+                <!-- Section 1: Study Behavior -->
+                <div class="sd-section sd-stagger">
+                    <div class="sd-section-label" data-i18n-key="sd_study_behavior">Study Behavior</div>
+                    <div class="dash-card" style="margin-top:8px;">
+                        <label for="sdNewCardsPerDay" style="font-size:13px; color:var(--text-secondary); display:block; margin-bottom:5px;" data-i18n-key="sd_new_cards">New Cards / Day:</label>
+                        <input type="number" id="sdNewCardsPerDay" class="typing-input" style="width:100%; margin-bottom:12px; padding:8px; border-radius:6px; border:1px solid rgba(255,255,255,0.2); background:rgba(0,0,0,0.1); color:inherit;" value="10" min="1" max="100">
+                        
+                        <label for="sdReviewOrder" style="font-size:13px; color:var(--text-secondary); display:block; margin-bottom:5px;" data-i18n-key="sd_review_order">Review Order:</label>
+                        <select id="sdReviewOrder" class="nav-btn" style="width:100%; margin-bottom:12px;" data-glass="true">
+                            <option value="due-soonest" data-i18n-key="sd_due_soonest">Due Soonest</option>
+                            <option value="random" data-i18n-key="sd_random">Random</option>
+                            <option value="hardest-first" data-i18n-key="sd_hardest_first">Hardest First</option>
+                        </select>
+                        
+                        <label for="sdQuizLength" style="font-size:13px; color:var(--text-secondary); display:block; margin-bottom:5px;" data-i18n-key="sd_quiz_length">Quiz Length (Questions):</label>
+                        <input type="range" id="sdQuizLength" min="5" max="50" step="5" value="20" style="width:100%; margin-bottom:12px;">
+                        <div id="sdQuizLengthVal" style="font-size:12px; text-align:right; margin-top:-8px; margin-bottom:12px;">20</div>
+                        
+                        <label for="sdDefaultQuizMode" style="font-size:13px; color:var(--text-secondary); display:block; margin-bottom:5px;" data-i18n-key="sd_default_quiz_mode">Default Quiz Mode:</label>
+                        <select id="sdDefaultQuizMode" class="nav-btn" style="width:100%; margin-bottom:12px;" data-glass="true">
+                            <option value="kanjiToMeaning" data-i18n-key="sd_kanji_to_meaning">Kanji → Meaning</option>
+                            <option value="meaningToKanji" data-i18n-key="sd_meaning_to_kanji">Meaning → Kanji</option>
+                            <option value="listening" data-i18n-key="sd_listening">Listening</option>
+                        </select>
+                        
+                        <div style="display:flex; align-items:center; gap:10px;">
+                            <input type="checkbox" id="sdQuizTimed" style="transform:scale(1.2);">
+                            <label for="sdQuizTimed" style="font-size:13px; color:var(--text-secondary);" data-i18n-key="sd_timed_quizzes">Timed Quizzes (10s/q)</label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Section 2: Audio -->
+                <div class="sd-section sd-stagger">
+                    <div class="sd-section-label" data-i18n-key="sd_audio">Audio</div>
+                    <div class="dash-card" style="margin-top:8px;">
+                        <label for="sdTTSVoice" style="font-size:13px; color:var(--text-secondary); display:block; margin-bottom:5px;" data-i18n-key="sd_tts_voice">TTS Voice:</label>
+                        <select id="sdTTSVoice" class="nav-btn" style="width:100%; margin-bottom:12px;" data-glass="true">
+                            <option value="default" data-i18n-key="sd_auto_default">Auto (System Default)</option>
+                        </select>
+                        
+                        <label for="sdTTSRate" style="font-size:13px; color:var(--text-secondary); display:block; margin-bottom:5px;" data-i18n-key="sd_speech_rate">Speech Rate:</label>
+                        <input type="range" id="sdTTSRate" min="0.5" max="2.0" step="0.1" value="0.95" style="width:100%; margin-bottom:12px;">
+                        <div id="sdTTSRateVal" style="font-size:12px; text-align:right; margin-top:-8px; margin-bottom:12px;">0.95x</div>
+                        
+                        <div style="display:flex; align-items:center; gap:10px;">
+                            <input type="checkbox" id="sdMuteAudio" style="transform:scale(1.2);">
+                            <label for="sdMuteAudio" style="font-size:13px; color:var(--text-secondary);" data-i18n-key="sd_mute_audio">Mute All Audio</label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Section 3: Notifications -->
+                <div class="sd-section sd-stagger">
+                    <div class="sd-section-label" data-i18n-key="sd_notifications">Notifications</div>
+                    <div class="dash-card" style="margin-top:8px;">
+                        <div style="display:flex; align-items:center; gap:10px; margin-bottom:12px;">
+                            <input type="checkbox" id="sdPushEnabled" style="transform:scale(1.2);">
+                            <label for="sdPushEnabled" style="font-size:13px; color:var(--text-secondary);" data-i18n-key="sd_enable_reminders">Enable Review Reminders</label>
+                        </div>
+                        
+                        <div id="sdReminderTimeWrap" style="opacity:0.5; pointer-events:none;">
+                            <label for="sdReminderTime" style="font-size:13px; color:var(--text-secondary); display:block; margin-bottom:5px;" data-i18n-key="sd_reminder_time">Reminder Time:</label>
+                            <input type="time" id="sdReminderTime" class="typing-input" style="width:100%; margin-bottom:12px; padding:8px; border-radius:6px; border:1px solid rgba(255,255,255,0.2); background:rgba(0,0,0,0.1); color:inherit;" value="18:00">
+                        </div>
+                        
+                        <div style="display:flex; align-items:center; gap:10px;">
+                            <input type="checkbox" id="sdStreakReminder" style="transform:scale(1.2);">
+                            <label for="sdStreakReminder" style="font-size:13px; color:var(--text-secondary);" data-i18n-key="sd_streak_warning">Streak-at-Risk Warning</label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Section 4: Display & Accessibility -->
+                <div class="sd-section sd-stagger">
+                    <div class="sd-section-label" data-i18n-key="sd_display">Display & Accessibility</div>
+                    <div class="dash-card" style="margin-top:8px;">
+                        <label for="sdThemeMode" style="font-size:13px; color:var(--text-secondary); display:block; margin-bottom:5px;" data-i18n-key="sd_theme_mode">Theme Mode:</label>
+                        <select id="sdThemeMode" class="nav-btn" style="width:100%; margin-bottom:12px;" data-glass="true">
+                            <option value="system" data-i18n-key="sd_sync_system">Sync with System</option>
+                            <option value="dark" data-i18n-key="sd_dark">Dark</option>
+                            <option value="light" data-i18n-key="sd_light">Light</option>
+                        </select>
+                        
+                        <div style="display:flex; align-items:center; gap:10px; margin-bottom:12px;">
+                            <input type="checkbox" id="sdReduceMotion" style="transform:scale(1.2);">
+                            <label for="sdReduceMotion" style="font-size:13px; color:var(--text-secondary);" data-i18n-key="sd_reduce_motion">Reduce Motion</label>
+                        </div>
+                        
+                        <label for="sdFontScale" style="font-size:13px; color:var(--text-secondary); display:block; margin-bottom:5px;" data-i18n-key="sd_font_scale">Font Size Scaling:</label>
+                        <input type="range" id="sdFontScale" min="0.8" max="1.5" step="0.1" value="1.0" style="width:100%; margin-bottom:12px;">
+                        <div id="sdFontScaleVal" style="font-size:12px; text-align:right; margin-top:-8px; margin-bottom:12px;">1.0x</div>
+                        
+                        <div style="display:flex; align-items:center; gap:10px;">
+                            <input type="checkbox" id="sdCardDensity" style="transform:scale(1.2);">
+                            <label for="sdCardDensity" style="font-size:13px; color:var(--text-secondary);" data-i18n-key="sd_card_density">Compact Card Density</label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Section 5: Data Management -->
+                <div class="sd-section sd-stagger">
+                    <div class="sd-section-label" data-i18n-key="sd_data">Data Management</div>
+                    <div class="dash-card" style="margin-top:8px;">
+                        <button class="nav-btn" id="sdExportBtn" type="button" style="width:100%; margin-bottom:8px;"><span data-i18n-key="sd_export">⬇️ Export Backup</span></button>
+                        <div id="sdLastBackup" style="font-size:11px; color:var(--text-muted); text-align:center; margin-bottom:12px;" data-i18n-key="sd_never_backed_up">Never backed up</div>
+                        
+                        <input type="file" id="sdImportFile" accept=".json" style="display:none;" aria-label="Import backup JSON file">
+                        <button class="nav-btn" id="sdImportBtn" type="button" style="width:100%; margin-bottom:12px;"><span data-i18n-key="sd_import">⬆️ Import Backup</span></button>
+                        
+                        <button class="nav-btn" id="sdClearCacheBtn" type="button" style="width:100%; margin-bottom:12px;"><span data-i18n-key="sd_clear_cache">🧹 Clear Cache / Force Update</span></button>
+
+                        <button class="nav-btn hidden" id="sdInstallAppBtn" type="button" style="width:100%; margin-bottom:12px; color:var(--accent); border-color:var(--accent);"><span data-i18n-key="sd_install">📲 Install RONIN WEB App</span></button>
+                        
+                        <button class="nav-btn" id="sdResetBtn" type="button" style="width:100%; border-color:var(--danger); color:var(--danger);"><span data-i18n-key="sd_reset">⚠️ Reset Progress</span></button>
+                    </div>
+                </div>
+
+                <!-- Section 5c: Account & Sync -->
+                <div class="sd-section sd-stagger">
+                    <div class="sd-section-label">Account &amp; Sync</div>
+                    <div class="dash-card" style="margin-top:8px;">
+
+                        <div id="sdAuthLoggedOut">
+                            <input type="email" id="sdAuthEmailInput" class="typing-input" autocomplete="email" style="width:100%; margin-bottom:8px; padding:8px; border-radius:6px; border:1px solid rgba(255,255,255,0.2); background:rgba(0,0,0,0.1); color:inherit;" placeholder="Email">
+                            <input type="password" id="sdAuthPasswordInput" class="typing-input" autocomplete="current-password" style="width:100%; margin-bottom:12px; padding:8px; border-radius:6px; border:1px solid rgba(255,255,255,0.2); background:rgba(0,0,0,0.1); color:inherit;" placeholder="Password (6+ characters)">
+                            <button class="nav-btn" id="sdSignInBtn" type="button" style="width:100%; margin-bottom:8px;">Sign In</button>
+                            <button class="nav-btn" id="sdSignUpBtn" type="button" style="width:100%; margin-bottom:8px;">Create Account</button>
+                            <button class="nav-btn" id="sdForgotBtn" type="button" style="width:100%; font-size:12px; opacity:.8;">Forgot password?</button>
+                        </div>
+
+                        <div id="sdAuthLoggedIn" class="hidden">
+                            <div style="font-size:13px; color:var(--text-secondary); margin-bottom:12px;">Signed in as <strong id="sdAuthEmail"></strong></div>
+                            <button class="nav-btn" id="sdSyncNowBtn" type="button" style="width:100%; margin-bottom:8px;">Sync Now</button>
+                            <button class="nav-btn" id="sdSignOutBtn" type="button" style="width:100%; border-color:var(--danger); color:var(--danger);">Sign Out</button>
+                            <div id="sdSyncStatus" style="font-size:11px; color:var(--text-muted); text-align:center; margin-top:10px;" role="status" aria-live="polite"></div>
+                        </div>
+
+                        <div id="sdAuthStatus" style="font-size:11px; color:var(--text-muted); text-align:center; margin-top:10px;"></div>
+                    </div>
+                </div>
+
+                <!-- Section 5b: Language -->
+                <div class="sd-section sd-stagger">
+                    <div class="sd-section-label" data-i18n-key="sd_language">Language</div>
+                    <div class="dash-card" style="margin-top:8px;">
+                        <label for="sdLangSelect" style="font-size:13px; color:var(--text-secondary); display:block; margin-bottom:5px;" data-i18n-key="sd_language_label">App Language:</label>
+                        <select id="sdLangSelect" class="nav-btn" style="width:100%;" aria-label="App language" data-glass="true">
+                            <option value="en">English</option>
+                            <option value="es">Español</option>
+                            <option value="id">Bahasa Indonesia</option>
+                            <option value="zh-TW">繁體中文（台灣）</option>
+                            <option value="vi">Tiếng Việt</option>
+                            <option value="ko">한국어</option>
+                            <option value="pt-BR">Português (Brasil)</option>
+                            <option value="th">ภาษาไทย</option>
+                        </select>
+                        <div style="font-size:11px; color:var(--text-muted); margin-top:8px;" data-i18n-key="sd_language_note">Translates menus and app chrome. Vocabulary content stays in Japanese/English.</div>
+                    </div>
+                </div>
+
+                <!-- Section 6: Profile -->
+                <div class="sd-section sd-stagger">
+                    <div class="sd-section-label" data-i18n-key="sd_profile">Profile</div>
+                    <div class="dash-card" style="margin-top:8px;">
+                        <label for="sdUserName" style="font-size:13px; color:var(--text-secondary); display:block; margin-bottom:5px;" data-i18n-key="sd_display_name">Display Name:</label>
+                        <input type="text" id="sdUserName" class="typing-input" style="width:100%; margin-bottom:12px; padding:8px; border-radius:6px; border:1px solid rgba(255,255,255,0.2); background:rgba(0,0,0,0.1); color:inherit;" placeholder="Learner" aria-label="Set your name">
+                    </div>
+                </div>
+
+                <!-- Section 7: Gamification -->
+                <div class="sd-section sd-stagger">
+                    <div class="sd-section-label" data-i18n-key="sd_gamification">Gamification</div>
+                    <div class="dash-card" style="margin-top:8px;">
+                        <label for="sdGoalSelect" style="font-size:13px; color:var(--text-secondary); display:block; margin-bottom:5px;" data-i18n-key="sd_daily_goal_words">Daily Goal (Words):</label>
+                        <select id="sdGoalSelect" class="nav-btn" style="width:100%; margin-bottom:12px;" aria-label="Set daily word goal" data-glass="true">
+                            <option value="10" data-i18n-key="sd_10_words">10 Words</option>
+                            <option value="20" selected data-i18n-key="sd_20_words">20 Words</option>
+                            <option value="50" data-i18n-key="sd_50_words">50 Words</option>
+                        </select>
+                        
+                        <div style="display:flex; align-items:center; gap:10px;">
+                            <input type="checkbox" id="sdShowGamification" style="transform:scale(1.2);" checked>
+                            <label for="sdShowGamification" style="font-size:13px; color:var(--text-secondary);" data-i18n-key="sd_show_gamification">Show XP & Achievements</label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Section 8: About -->
+                <div class="sd-section sd-stagger">
+                    <div class="sd-section-label" data-i18n-key="sd_about">About</div>
+                    <div class="dash-card text-center" style="margin-top:8px; padding:22px 20px;">
+                        <p style="font-weight:700;">RONIN WEB</p>
+                        <p style="font-size:12px; color:var(--text-tertiary); margin-top:6px;">v3.5 · SRS · Custom Decks · XP · Offline PWA</p>
+                        <p style="font-size:11px; color:var(--text-muted); margin-top:8px;"><kbd>Ctrl+K</kbd> Palette &nbsp;·&nbsp; <kbd>?</kbd> Shortcuts</p>
+                    </div>
+                </div>
+</div><!-- /sd-body -->
+        </div><!-- /sd-panel -->
+    </div>
+
+    <!-- ═══════════════════════════════════════════════════
+     SCRIPTS — deferred, order preserved
+════════════════════════════════════════════════════ -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
+    <script src="theme-shutter.min.js" defer></script>
+    <script src="supabase.min.js" defer></script>
+    <script src="app.min.js" defer></script>
+    <script src="decks.min.js" defer></script>
+    <script src="games.min.js" defer></script>
+    <script src="sync.min.js" defer></script>
+
+    <!-- Modal close + dashboard quick-action wiring (runs after all scripts load) -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+
+            /* ── Modal close buttons ──────────────────────────────────────────
+               closeModal() itself (defined once, in app.js) already handles the
+               animation, scroll-lock, focus-return and modalStack bookkeeping —
+               this block only wires each button to it. Nothing here duplicates
+               that logic. */
+            var closers = {
+                'cancelFeedbackBtn': 'feedbackOverlay',
+                'closeCreateDeckBtn': 'createDeckOverlay',
+                'cancelCreateDeckBtn': 'createDeckOverlay',
+                'closeDeckViewBtn': 'deckViewOverlay',
+                'closeWordDetailBtn': 'wordDetailOverlay',
+                'closeDeckPickerBtn': 'deckPickerOverlay',
+                'closeShortcutBtn': 'shortcutOverlay',
+                'closeSpeedRoundBtn': 'speedRoundResultOverlay',
+                'closeConcentrationBtn': 'concentrationOverlay',
+                'closeMeteorBtn': 'meteorOverlay',
+                'closeShiritorBtn': 'shiritorOverlay',
+                'closeMockTestBtn': 'mockTestOverlay'
+            };
+
+            Object.keys(closers).forEach(function (btnId) {
+                var btn = document.getElementById(btnId);
+                if (btn) {
+                    btn.addEventListener('click', function () {
+                        closeModal(closers[btnId]);
+                    });
+                }
+            });
+
+            /* ── Speed round close: also stop timer + bar ─────────────────── */
+            var srCloseBtn = document.getElementById('closeSpeedRoundBtn');
+            if (srCloseBtn) {
+                srCloseBtn.addEventListener('click', function () {
+                    if (window._speedRoundTimer) {
+                        clearInterval(window._speedRoundTimer);
+                        window._speedRoundTimer = null;
+                    }
+                    var bar = document.getElementById('speedRoundBar');
+                    if (bar) bar.classList.add('hidden');
+                });
+            }
+
+            /* ── Game close buttons (routes through closeGame() in games.js) ─ */
+            var gameClosers = {
+                'closeConcentrationBtn': 'concentration',
+                'closeMeteorBtn': 'meteor',
+                'closeShiritorBtn': 'shiritori',
+                'closeMockTestBtn': 'mocktest'
+            };
+
+            Object.keys(gameClosers).forEach(function (btnId) {
+                var btn = document.getElementById(btnId);
+                if (btn) {
+                    btn.addEventListener('click', function () {
+                        if (typeof closeGame === 'function') closeGame(gameClosers[btnId]);
+                    });
+                }
+            });
+
+            /* ── Settings Import button triggers hidden file input ─────────── */
+            var importBtn = document.getElementById('sdImportBtn');
+            var importFile = document.getElementById('sdImportFile');
+            if (importBtn && importFile) {
+                importBtn.addEventListener('click', function () { importFile.click(); });
+            }
+
+            /* ── Dashboard quick actions ──────────────────────────────────── */
+            var quickActions = {
+                'startReviewFromDash': function () { var rb = document.getElementById('reviewBtn'); if (rb) rb.click(); },
+                'quickFavBtn': function () { var fb = document.getElementById('favBtn'); if (fb) fb.click(); },
+                'quickWeakBtn': function () { var wb = document.getElementById('weakBtn'); if (wb) wb.click(); },
+                'quickDecksBtn': function () { if (typeof openDeckView === 'function') openDeckView(); },
+                'quickChallengeBtn': function () { if (typeof startDailyChallenge === 'function') startDailyChallenge(); },
+                'quickSpeedBtn': function () { if (typeof startSpeedRound === 'function') startSpeedRound(); }
+            };
+
+            Object.keys(quickActions).forEach(function (id) {
+                var btn = document.getElementById(id);
+                if (btn) btn.addEventListener('click', quickActions[id]);
+            });
+
+            /* ── Deck view: Smart Decks + New Deck buttons ─────────────────── */
+            var refreshBtn = document.getElementById('refreshSmartDecksBtn');
+            if (refreshBtn) {
+                refreshBtn.addEventListener('click', function () {
+                    if (typeof refreshSmartDecks === 'function') refreshSmartDecks();
+                });
+            }
+
+            var newDeckBtn = document.getElementById('newDeckFromViewBtn');
+            if (newDeckBtn) {
+                newDeckBtn.addEventListener('click', function () {
+                    if (typeof closeDeckView === 'function') closeDeckView();
+                    if (typeof openCreateDeck === 'function') openCreateDeck();
+                });
+            }
+
+            /* ── Logo link → Dashboard ────────────────────────────────────── */
+            var logoLink = document.getElementById('logoLink');
+            if (logoLink) {
+                logoLink.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    var db = document.getElementById('dashboardBtn');
+                    if (db) db.click();
+                });
+            }
+
+            /* Note: outside-click-to-close and Escape-to-close are already handled
+               once, globally, in app.js (the "Global Outside Click Handler" and
+               "Global Escape Key and Tab Trap Handler") — intentionally not
+               duplicated here. */
+
+            /* ── Flashcard aria-pressed sync ──────────────────────────────── */
+            var flashcard = document.getElementById('srsFlashcard');
+            if (flashcard) {
+                flashcard.addEventListener('click', function () {
+                    var isFlipped = flashcard.classList.contains('flipped');
+                    flashcard.setAttribute('aria-pressed', String(isFlipped));
+                    var front = document.getElementById('srsFront');
+                    var back = document.getElementById('srsBack');
+                    if (front) front.setAttribute('aria-hidden', String(isFlipped));
+                    if (back) back.setAttribute('aria-hidden', String(!isFlipped));
+                });
+            }
+
+            /* ── Filter chip aria-pressed sync ───────────────────────────── */
+            document.querySelectorAll('.filter-chip').forEach(function (chip) {
+                chip.addEventListener('click', function () {
+                    document.querySelectorAll('.filter-chip').forEach(function (c) {
+                        c.setAttribute('aria-pressed', 'false');
+                    });
+                    chip.setAttribute('aria-pressed', 'true');
+                });
+            });
+
+            /* ── View toggle aria-pressed sync ───────────────────────────── */
+            var gridBtn = document.getElementById('gridViewBtn');
+            var listBtn = document.getElementById('listViewBtn');
+            if (gridBtn && listBtn) {
+                gridBtn.addEventListener('click', function () {
+                    gridBtn.setAttribute('aria-pressed', 'true');
+                    listBtn.setAttribute('aria-pressed', 'false');
+                });
+                listBtn.addEventListener('click', function () {
+                    listBtn.setAttribute('aria-pressed', 'true');
+                    gridBtn.setAttribute('aria-pressed', 'false');
+                });
+            }
+
+            /* ── Quiz mode aria-pressed sync ─────────────────────────────── */
+            document.querySelectorAll('.mode-btn').forEach(function (btn) {
+                btn.addEventListener('click', function () {
+                    document.querySelectorAll('.mode-btn').forEach(function (b) {
+                        b.setAttribute('aria-pressed', 'false');
+                    });
+                    btn.setAttribute('aria-pressed', 'true');
+                });
+            });
+
+            /* ── Lesson dropdown aria-expanded sync ──────────────────────── */
+            var lessonDropdown = document.getElementById('lessonDropdown');
+            if (lessonDropdown) {
+                lessonDropdown.addEventListener('click', function () {
+                    var isOpen = lessonDropdown.classList.contains('open');
+                    lessonDropdown.setAttribute('aria-expanded', String(isOpen));
+                });
+            }
+
+        });
+    </script>
+
+
+    <div class="modal-overlay hidden" id="rulesOverlay" role="dialog" aria-modal="true" aria-labelledby="rulesTitle">
+        <div class="modal rules-modal">
+            <div class="rules-icon" id="rulesIcon" aria-hidden="true"></div>
+            <h2 id="rulesTitle"></h2>
+            <p id="rulesDesc" class="rules-desc"></p>
+            <hr class="rules-divider" />
+            
+            <h3 class="rules-section-title">Objective</h3>
+            <p id="rulesObjective" class="rules-text"></p>
+            <hr class="rules-divider" />
+            
+            <h3 class="rules-section-title">Rules</h3>
+            <ul class="rules-list" id="rulesList"></ul>
+            <hr class="rules-divider" />
+            
+            <h3 class="rules-section-title">Winning Condition</h3>
+            <p id="rulesWin" class="rules-text"></p>
+            
+            <div id="rulesTipsWrap" style="display: none;">
+                <hr class="rules-divider" />
+                <h3 class="rules-section-title">Tips</h3>
+                <p id="rulesTips" class="rules-text"></p>
+            </div>
+            
+            <div class="rules-actions">
+                <button class="btn-secondary" id="rulesCancelBtn" type="button" data-i18n-key="btn_cancel">Cancel</button>
+                <button class="btn-primary" id="rulesStartBtn" type="button"><span data-i18n-key="btn_lets_go">Let's Go</span> 🚀</button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

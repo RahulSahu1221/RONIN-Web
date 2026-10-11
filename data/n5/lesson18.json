@@ -1,0 +1,206 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "できます",
+    "hiragana": "できます",
+    "meaning": "be able to, can",
+    "emoji": "👍✨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "洗います",
+    "hiragana": "あらいます",
+    "meaning": "wash",
+    "emoji": "🧼🚿"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "弾きます",
+    "hiragana": "ひきます",
+    "meaning": "play (stringed instrument or piano, etc.)",
+    "emoji": "🎸🎹"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "歌います",
+    "hiragana": "うたいます",
+    "meaning": "sing",
+    "emoji": "🎤🎶"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "集めます",
+    "hiragana": "あつめます",
+    "meaning": "collect, gather",
+    "emoji": "🗂️📥"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "捨てます",
+    "hiragana": "すてます",
+    "meaning": "throw away",
+    "emoji": "🗑️🚮"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "換えます",
+    "hiragana": "かえます",
+    "meaning": "exchange, change",
+    "emoji": "💱🔄"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "運転します",
+    "hiragana": "うんてんします",
+    "meaning": "drive",
+    "emoji": "🚗💨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "予約します",
+    "hiragana": "よやくします",
+    "meaning": "reserve, book",
+    "emoji": "📅📝"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "見学します",
+    "hiragana": "けんがくします",
+    "meaning": "visit some place for study",
+    "emoji": "🏫👀"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "ピアノ",
+    "hiragana": "ピアノ",
+    "meaning": "piano",
+    "emoji": "🎹🎵"
+  },
+  {
+    "section": "Counters & Units",
+    "kanji": "ーメートル",
+    "hiragana": "ーメートル",
+    "meaning": "— meter",
+    "emoji": "📏📏"
+  },
+  {
+    "section": "Prefixes & Modifiers",
+    "kanji": "国際〜",
+    "hiragana": "こくさい〜",
+    "meaning": "international ~",
+    "emoji": "🌍✈️"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "現金",
+    "hiragana": "げんきん",
+    "meaning": "cash",
+    "emoji": "💴💵"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "趣味",
+    "hiragana": "しゅみ",
+    "meaning": "hobby",
+    "emoji": "🎨🎣"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "日記",
+    "hiragana": "にっき",
+    "meaning": "diary",
+    "emoji": "📔🖊️"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "[お]祈り",
+    "hiragana": "[お]いのり",
+    "meaning": "prayer",
+    "example": "(～を します: pray)",
+    "emoji": "🙏🛐"
+  },
+  {
+    "section": "Nouns (Business Titles)",
+    "kanji": "課長",
+    "hiragana": "かちょう",
+    "meaning": "section chief",
+    "emoji": "👔👨‍💼"
+  },
+  {
+    "section": "Nouns (Business Titles)",
+    "kanji": "部長",
+    "hiragana": "ぶちょう",
+    "meaning": "department chief",
+    "emoji": "🕴️📁"
+  },
+  {
+    "section": "Nouns (Business Titles)",
+    "kanji": "社長",
+    "hiragana": "しゃちょう",
+    "meaning": "president of a company",
+    "emoji": "🏢👑"
+  },
+  {
+    "section": "Nouns (Animals & Places)",
+    "kanji": "動物",
+    "hiragana": "どうぶつ",
+    "meaning": "animal",
+    "emoji": "🦁🐘"
+  },
+  {
+    "section": "Nouns (Animals & Places)",
+    "kanji": "馬",
+    "hiragana": "うま",
+    "meaning": "horse",
+    "emoji": "🐎🐴"
+  },
+  {
+    "section": "Nouns (Animals & Places)",
+    "kanji": "牧場",
+    "hiragana": "ぼくじょう",
+    "meaning": "ranch, stock farm",
+    "emoji": "🐄🏡"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "へえ",
+    "hiragana": "へえ",
+    "meaning": "Really! (used when expressing surprise)",
+    "emoji": "😲❗"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "それは おもしろいですね。",
+    "hiragana": "それは おもしろいですね。",
+    "meaning": "That must be interesting.",
+    "emoji": "😂✨"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "なかなか",
+    "hiragana": "なかなか",
+    "meaning": "not easily (used with negatives)",
+    "emoji": "💦🙅‍♂️"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "ほんとうですか。",
+    "hiragana": "ほんとうですか。",
+    "meaning": "Really?",
+    "emoji": "🤨❓"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "ぜひ",
+    "hiragana": "ぜひ",
+    "meaning": "by all means",
+    "emoji": "🙏✨"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "ビートルズ",
+    "hiragana": "ビートルズ",
+    "meaning": "the Beatles, famous British music group",
+    "emoji": "🎸🎤"
+  }
+]

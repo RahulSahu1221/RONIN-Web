@@ -1,0 +1,219 @@
+{
+  "lesson": 25,
+  "title": "おぼえましょう",
+  "subtitle": "漢字の 組み合わせを おぼえましょう",
+  "subtitleMeaning": "Learn kanji combinations",
+  "kanji": [
+    {
+      "char": "合",
+      "meaning": "combine, meet",
+      "onyomi": ["ゴウ"],
+      "kunyomi": ["あ（-う）"],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "合格する",
+          "reading": "ごうかくする",
+          "meaning": "pass"
+        },
+        {
+          "word": "都合がいい",
+          "reading": "つごうがいい",
+          "meaning": "convenient"
+        },
+        {
+          "word": "合う",
+          "reading": "あう",
+          "meaning": "meet, combine"
+        },
+        {
+          "word": "間に合う",
+          "reading": "まにあう",
+          "meaning": "be in time"
+        },
+        {
+          "word": "試合",
+          "reading": "しあい",
+          "meaning": "match"
+        }
+      ]
+    },
+    {
+      "char": "漢",
+      "meaning": "Chinese",
+      "onyomi": ["カン"],
+      "kunyomi": [],
+      "strokes": 13,
+      "examples": [
+        {
+          "word": "漢字",
+          "reading": "かんじ",
+          "meaning": "kanji, Chinese character"
+        }
+      ]
+    },
+    {
+      "char": "字",
+      "meaning": "letter, character",
+      "onyomi": ["ジ"],
+      "kunyomi": [],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "字",
+          "reading": "じ",
+          "meaning": "letter, character"
+        },
+        {
+          "word": "文字",
+          "reading": "もじ",
+          "meaning": "letter, character"
+        }
+      ]
+    },
+    {
+      "char": "親",
+      "meaning": "parent",
+      "onyomi": ["シン"],
+      "kunyomi": [],
+      "strokes": 16,
+      "examples": [
+        {
+          "word": "親切な",
+          "reading": "しんせつな",
+          "meaning": "kind, gentle"
+        },
+        {
+          "word": "両親",
+          "reading": "りょうしん",
+          "meaning": "parents"
+        }
+      ]
+    },
+    {
+      "char": "切",
+      "meaning": "cut",
+      "onyomi": ["セツ"],
+      "kunyomi": ["き（-る / -れる）"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "大切な",
+          "reading": "たいせつな",
+          "meaning": "precious, important"
+        },
+        {
+          "word": "切る",
+          "reading": "きる",
+          "meaning": "cut"
+        },
+        {
+          "word": "切れる",
+          "reading": "きれる",
+          "meaning": "able to cut"
+        },
+        {
+          "word": "切手",
+          "reading": "きって",
+          "meaning": "stamp"
+        },
+        {
+          "word": "切符",
+          "reading": "きっぷ",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "char": "楽",
+      "meaning": "music, fun",
+      "onyomi": ["ガク"],
+      "kunyomi": ["たの（-しい / -しむ）"],
+      "strokes": 13,
+      "examples": [
+        {
+          "word": "音楽",
+          "reading": "おんがく",
+          "meaning": "music"
+        },
+        {
+          "word": "楽しい",
+          "reading": "たのしい",
+          "meaning": "fun"
+        },
+        {
+          "word": "楽しむ",
+          "reading": "たのしむ",
+          "meaning": "enjoy"
+        }
+      ]
+    },
+    {
+      "char": "自",
+      "meaning": "self",
+      "onyomi": ["ジ"],
+      "kunyomi": [],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "自分",
+          "reading": "じぶん",
+          "meaning": "self"
+        },
+        {
+          "word": "自動",
+          "reading": "じどう",
+          "meaning": "automatic"
+        },
+        {
+          "word": "自由",
+          "reading": "じゆう",
+          "meaning": "freedom"
+        }
+      ]
+    },
+    {
+      "char": "場",
+      "meaning": "place",
+      "onyomi": ["ジョウ"],
+      "kunyomi": ["ば"],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "工場",
+          "reading": "こうじょう",
+          "meaning": "factory"
+        },
+        {
+          "word": "駐車場",
+          "reading": "ちゅうしゃじょう",
+          "meaning": "parking lot"
+        },
+        {
+          "word": "場所",
+          "reading": "ばしょ",
+          "meaning": "place"
+        }
+      ]
+    },
+    {
+      "char": "室",
+      "meaning": "room",
+      "onyomi": ["シツ"],
+      "kunyomi": [],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "教室",
+          "reading": "きょうしつ",
+          "meaning": "classroom"
+        },
+        {
+          "word": "会議室",
+          "reading": "かいぎしつ",
+          "meaning": "conference room"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "登ります",
+    "hiragana": "のぼります",
+    "meaning": "climb [a mountain]",
+    "example": "[山に ～] / [やまに ～]",
+    "emoji": "🧗‍♂️⛰️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "泊まります",
+    "hiragana": "とまります",
+    "meaning": "stay [at a hotel]",
+    "example": "[ホテルに ～]",
+    "emoji": "🏨🛏️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "掃除します",
+    "hiragana": "そうじします",
+    "meaning": "clean (a room)",
+    "emoji": "🧹✨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "洗濯します",
+    "hiragana": "せんたくします",
+    "meaning": "wash (clothes)",
+    "emoji": "🧺👕"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "練習します",
+    "hiragana": "れんしゅうします",
+    "meaning": "practice",
+    "emoji": "🎹🏃‍♂️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "なります",
+    "hiragana": "なります",
+    "meaning": "become",
+    "emoji": "🐛🦋"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "眠い",
+    "hiragana": "ねむい",
+    "meaning": "sleepy",
+    "emoji": "🥱😴"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "強い",
+    "hiragana": "つよい",
+    "meaning": "strong",
+    "emoji": "💪🏋️‍♂️"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "弱い",
+    "hiragana": "よわい",
+    "meaning": "weak",
+    "emoji": "🥀📉"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "調子が いい",
+    "hiragana": "ちょうしが いい",
+    "meaning": "be in good condition",
+    "emoji": "👍✨"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "調子が 悪い",
+    "hiragana": "ちょうしが わるい",
+    "meaning": "be in bad condition",
+    "emoji": "👎🤒"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "調子",
+    "hiragana": "ちょうし",
+    "meaning": "condition",
+    "emoji": "📈📉"
+  },
+  {
+    "section": "Nouns (Sports & Games)",
+    "kanji": "ゴルフ",
+    "hiragana": "ゴルフ",
+    "meaning": "golf",
+    "example": "(～を します: play golf)",
+    "emoji": "⛳🏌️‍♂️"
+  },
+  {
+    "section": "Nouns (Sports & Games)",
+    "kanji": "相撲",
+    "hiragana": "すもう",
+    "meaning": "sumo wrestling",
+    "emoji": "🤼‍♂️🇯🇵"
+  },
+  {
+    "section": "Nouns (Sports & Games)",
+    "kanji": "パチンコ",
+    "hiragana": "パチンコ",
+    "meaning": "pinball game",
+    "example": "(～を します: play pachinko)",
+    "emoji": "🎰🕹️"
+  },
+  {
+    "section": "Nouns (Culture)",
+    "kanji": "お茶",
+    "hiragana": "おちゃ",
+    "meaning": "tea ceremony",
+    "emoji": "🍵👘"
+  },
+  {
+    "section": "Nouns (Time)",
+    "kanji": "日",
+    "hiragana": "ひ",
+    "meaning": "day, date",
+    "emoji": "📅☀️"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "一度",
+    "hiragana": "いちど",
+    "meaning": "once",
+    "emoji": "1️⃣⏳"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "一度も",
+    "hiragana": "いちども",
+    "meaning": "not once, never (used with negatives)",
+    "emoji": "0️⃣❌"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "だんだん",
+    "hiragana": "だんだん",
+    "meaning": "gradually",
+    "emoji": "📈🐢"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "もうすぐ",
+    "hiragana": "もうすぐ",
+    "meaning": "soon",
+    "emoji": "🔜⏳"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "おかげさまで",
+    "hiragana": "おかげさまで",
+    "meaning": "Thank you. (used when expressing gratitude for help received)",
+    "emoji": "🙏😊"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "乾杯",
+    "hiragana": "かんぱい",
+    "meaning": "Bottoms up./Cheers!",
+    "emoji": "🍻🥂"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "実は",
+    "hiragana": "じつは",
+    "meaning": "actually, to tell the truth",
+    "emoji": "🗣️🤫"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "ダイエット",
+    "hiragana": "ダイエット",
+    "meaning": "diet",
+    "example": "(～を します: go on a diet)",
+    "emoji": "🥗⚖️"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "何回も",
+    "hiragana": "なんかいも",
+    "meaning": "many times",
+    "emoji": "🔁💯"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "しかし",
+    "hiragana": "しかし",
+    "meaning": "but, however",
+    "emoji": "✋↔️"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "無理[な]",
+    "hiragana": "むり[な]",
+    "meaning": "excessive, impossible",
+    "emoji": "🚫😫"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "体に いい",
+    "hiragana": "からだに いい",
+    "meaning": "good for one's health",
+    "emoji": "🍎💪"
+  },
+  {
+    "section": "Nouns (Food)",
+    "kanji": "ケーキ",
+    "hiragana": "ケーキ",
+    "meaning": "cake",
+    "emoji": "🍰🎂"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "葛飾 北斎",
+    "hiragana": "かつしか ほくさい",
+    "meaning": "famous Edo period wood block artist and painter (1760-1849)",
+    "emoji": "🎨🌊"
+  }
+]

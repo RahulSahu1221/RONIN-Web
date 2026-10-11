@@ -1,0 +1,197 @@
+{
+  "lesson": 24,
+  "title": "おぼえましょう",
+  "subtitle": "発音と 書き方に 注意しましょう",
+  "subtitleMeaning": "Be careful of pronunciation and writing",
+  "kanji": [
+    {
+      "char": "体",
+      "meaning": "body",
+      "onyomi": [],
+      "kunyomi": ["からだ"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "体",
+          "reading": "からだ",
+          "meaning": "body"
+        }
+      ]
+    },
+    {
+      "char": "働",
+      "meaning": "work",
+      "onyomi": [],
+      "kunyomi": ["はたら（-く）"],
+      "strokes": 13,
+      "examples": [
+        {
+          "word": "働く",
+          "reading": "はたらく",
+          "meaning": "work"
+        }
+      ]
+    },
+    {
+      "char": "薬",
+      "meaning": "medicine, drug",
+      "onyomi": [],
+      "kunyomi": ["くすり"],
+      "strokes": 16,
+      "examples": [
+        {
+          "word": "薬",
+          "reading": "くすり",
+          "meaning": "medicine, drug"
+        }
+      ]
+    },
+    {
+      "char": "奥",
+      "meaning": "inner part",
+      "onyomi": [],
+      "kunyomi": ["おく"],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "奥さん",
+          "reading": "おくさん",
+          "meaning": "wife"
+        }
+      ]
+    },
+    {
+      "char": "正",
+      "meaning": "correct, right",
+      "onyomi": ["ショウ"],
+      "kunyomi": ["ただ（-しい）"],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "正月",
+          "reading": "しょうがつ",
+          "meaning": "the New Year"
+        },
+        {
+          "word": "正しい",
+          "reading": "ただしい",
+          "meaning": "correct, right"
+        }
+      ]
+    },
+    {
+      "char": "急",
+      "meaning": "urgent, sudden",
+      "onyomi": ["キュウ"],
+      "kunyomi": ["いそ（-ぐ）"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "特急",
+          "reading": "とっきゅう",
+          "meaning": "special express"
+        },
+        {
+          "word": "急行",
+          "reading": "きゅうこう",
+          "meaning": "express"
+        },
+        {
+          "word": "急に",
+          "reading": "きゅうに",
+          "meaning": "suddenly"
+        },
+        {
+          "word": "急ぐ",
+          "reading": "いそぐ",
+          "meaning": "hurry"
+        }
+      ]
+    },
+    {
+      "char": "試",
+      "meaning": "test, try",
+      "onyomi": ["シ"],
+      "kunyomi": [],
+      "strokes": 13,
+      "examples": [
+        {
+          "word": "試合",
+          "reading": "しあい",
+          "meaning": "match"
+        }
+      ]
+    },
+    {
+      "char": "験",
+      "meaning": "test, experience",
+      "onyomi": ["ケン"],
+      "kunyomi": [],
+      "strokes": 18,
+      "examples": [
+        {
+          "word": "試験",
+          "reading": "しけん",
+          "meaning": "test, exam"
+        },
+        {
+          "word": "経験する",
+          "reading": "けいけんする",
+          "meaning": "experience"
+        }
+      ]
+    },
+    {
+      "char": "考",
+      "meaning": "think",
+      "onyomi": [],
+      "kunyomi": ["かんが（-える）"],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "考える",
+          "reading": "かんがえる",
+          "meaning": "think"
+        }
+      ]
+    },
+    {
+      "char": "心",
+      "meaning": "heart, mind",
+      "onyomi": ["シン"],
+      "kunyomi": ["こころ"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "安心する",
+          "reading": "あんしんする",
+          "meaning": "feel relieved"
+        },
+        {
+          "word": "心配する",
+          "reading": "しんぱいする",
+          "meaning": "worry"
+        },
+        {
+          "word": "心",
+          "reading": "こころ",
+          "meaning": "heart, mind"
+        }
+      ]
+    },
+    {
+      "char": "声",
+      "meaning": "voice",
+      "onyomi": [],
+      "kunyomi": ["こえ"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "声",
+          "reading": "こえ",
+          "meaning": "voice"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+
+{
+  "lesson": 10,
+  "title": "おぼえましょう",
+  "subtitle": "ペアで おぼえましょう",
+  "subtitleMeaning": "Learn these as pairs",
+  "kanji": [
+    {
+      "char": "低",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["ひく（-い）"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "低い",
+          "reading": "ひくい",
+          "meaning": "low"
+        }
+      ]
+    },
+    {
+      "char": "短",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["みじか（-い）"],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "短い",
+          "reading": "みじかい",
+          "meaning": "short"
+        }
+      ]
+    },
+    {
+      "char": "近",
+      "meaning": "",
+      "onyomi": ["キン"],
+      "kunyomi": ["ちか（-い）"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "近所",
+          "reading": "きんじょ",
+          "meaning": "neighborhood"
+        },
+        {
+          "word": "最近",
+          "reading": "さいきん",
+          "meaning": "recently"
+        },
+        {
+          "word": "近い",
+          "reading": "ちかい",
+          "meaning": "close"
+        },
+        {
+          "word": "近く",
+          "reading": "ちかく",
+          "meaning": "closely"
+        }
+      ]
+    },
+    {
+      "char": "遠",
+      "meaning": "",
+      "onyomi": ["エン"],
+      "kunyomi": ["とお（-い）"],
+      "strokes": 13,
+      "examples": [
+        {
+          "word": "遠足",
+          "reading": "えんそく",
+          "meaning": "excursion"
+        },
+        {
+          "word": "遠慮する",
+          "reading": "えんりょする",
+          "meaning": "hesitate"
+        },
+        {
+          "word": "遠い",
+          "reading": "とおい",
+          "meaning": "far"
+        }
+      ]
+    },
+    {
+      "char": "弱",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["よわ（-い）"],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "弱い",
+          "reading": "よわい",
+          "meaning": "weak"
+        }
+      ]
+    },
+    {
+      "char": "強",
+      "meaning": "",
+      "onyomi": ["キョウ"],
+      "kunyomi": ["つよ（-い）"],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "勉強する",
+          "reading": "べんきょうする",
+          "meaning": "study"
+        },
+        {
+          "word": "強い",
+          "reading": "つよい",
+          "meaning": "strong"
+        }
+      ]
+    },
+    {
+      "char": "暗",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["くら（-い）"],
+      "strokes": 13,
+      "examples": [
+        {
+          "word": "暗い",
+          "reading": "くらい",
+          "meaning": "dark"
+        }
+      ]
+    },
+    {
+      "char": "明",
+      "meaning": "",
+      "onyomi": ["メイ"],
+      "kunyomi": ["あか（-るい）", "あ（-ける）"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "説明",
+          "reading": "せつめい",
+          "meaning": "explanation"
+        },
+        {
+          "word": "明るい",
+          "reading": "あかるい",
+          "meaning": "bright, cheerful"
+        },
+        {
+          "word": "明けまして おめでとうございます",
+          "reading": "あけまして おめでとうございます",
+          "meaning": "Happy New Year!"
+        },
+        {
+          "word": "明日",
+          "reading": "あした",
+          "meaning": "tomorrow"
+        }
+      ]
+    },
+    {
+      "char": "悪",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["わる（-い）"],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "悪い",
+          "reading": "わるい",
+          "meaning": "bad"
+        }
+      ]
+    },
+    {
+      "char": "利",
+      "meaning": "",
+      "onyomi": ["リ"],
+      "kunyomi": [],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "便利な",
+          "reading": "べんりな",
+          "meaning": "convenient"
+        },
+        {
+          "word": "不便な",
+          "reading": "ふべんな",
+          "meaning": ""
+        },
+        {
+          "word": "利用する",
+          "reading": "りようする",
+          "meaning": "use"
+        }
+      ]
+    }
+  ]
+}

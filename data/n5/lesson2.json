@@ -1,0 +1,331 @@
+[
+  {
+    "section": "Demonstratives",
+    "kanji": "これ",
+    "hiragana": "これ",
+    "meaning": "this (thing here)",
+    "emoji": "👈📦"
+  },
+  {
+    "section": "Demonstratives",
+    "kanji": "それ",
+    "hiragana": "それ",
+    "meaning": "that (thing near you)",
+    "emoji": "👆📦"
+  },
+  {
+    "section": "Demonstratives",
+    "kanji": "あれ",
+    "hiragana": "あれ",
+    "meaning": "that (thing over there)",
+    "emoji": "👉📦"
+  },
+  {
+    "section": "Demonstratives",
+    "kanji": "この ～",
+    "hiragana": "この ～",
+    "meaning": "this ~, this ~ here",
+    "emoji": "👈🏷️"
+  },
+  {
+    "section": "Demonstratives",
+    "kanji": "その ～",
+    "hiragana": "その ～",
+    "meaning": "that ~, that ~ near you",
+    "emoji": "👆🏷️"
+  },
+  {
+    "section": "Demonstratives",
+    "kanji": "あの ～",
+    "hiragana": "あの ～",
+    "meaning": "that ~, that ~ over there",
+    "emoji": "👉🏷️"
+  },
+  {
+    "section": "Nouns (Books & Stationery)",
+    "kanji": "本",
+    "hiragana": "ほん",
+    "meaning": "book",
+    "emoji": "📖📚"
+  },
+  {
+    "section": "Nouns (Books & Stationery)",
+    "kanji": "辞書",
+    "hiragana": "じしょ",
+    "meaning": "dictionary",
+    "emoji": "📕🔍"
+  },
+  {
+    "section": "Nouns (Books & Stationery)",
+    "kanji": "雑誌",
+    "hiragana": "ざっし",
+    "meaning": "magazine",
+    "emoji": "📰📖"
+  },
+  {
+    "section": "Nouns (Books & Stationery)",
+    "kanji": "新聞",
+    "hiragana": "しんぶん",
+    "meaning": "newspaper",
+    "emoji": "🗞️📰"
+  },
+  {
+    "section": "Nouns (Books & Stationery)",
+    "kanji": "ノート",
+    "hiragana": "ノート",
+    "meaning": "notebook",
+    "emoji": "📓📒"
+  },
+  {
+    "section": "Nouns (Books & Stationery)",
+    "kanji": "手帳",
+    "hiragana": "てちょう",
+    "meaning": "pocket notebook",
+    "emoji": "📔🖊️"
+  },
+  {
+    "section": "Nouns (Office & Cards)",
+    "kanji": "名刺",
+    "hiragana": "めいし",
+    "meaning": "business card",
+    "emoji": "🪪🤝"
+  },
+  {
+    "section": "Nouns (Office & Cards)",
+    "kanji": "カード",
+    "hiragana": "カード",
+    "meaning": "card",
+    "emoji": "💳🃏"
+  },
+  {
+    "section": "Nouns (Office & Cards)",
+    "kanji": "テレホンカード",
+    "hiragana": "テレホンカード",
+    "meaning": "telephone card",
+    "emoji": "☎️💳"
+  },
+  {
+    "section": "Nouns (Books & Stationery)",
+    "kanji": "鉛筆",
+    "hiragana": "えんぴつ",
+    "meaning": "pencil",
+    "emoji": "✏️📝"
+  },
+  {
+    "section": "Nouns (Books & Stationery)",
+    "kanji": "ボールペン",
+    "hiragana": "ボールペン",
+    "meaning": "ballpoint pen",
+    "emoji": "🖊️✍️"
+  },
+  {
+    "section": "Nouns (Books & Stationery)",
+    "kanji": "シャープペンシル",
+    "hiragana": "シャープペンシル",
+    "meaning": "mechanical pencil, propelling pencil",
+    "emoji": "🖋️⚙️"
+  },
+  {
+    "section": "Nouns (Everyday Items)",
+    "kanji": "かぎ",
+    "hiragana": "かぎ",
+    "meaning": "key",
+    "emoji": "🔑🚪"
+  },
+  {
+    "section": "Nouns (Everyday Items)",
+    "kanji": "時計",
+    "hiragana": "とけい",
+    "meaning": "watch, clock",
+    "emoji": "⌚🕰️"
+  },
+  {
+    "section": "Nouns (Everyday Items)",
+    "kanji": "傘",
+    "hiragana": "かさ",
+    "meaning": "umbrella",
+    "emoji": "☂️☔"
+  },
+  {
+    "section": "Nouns (Everyday Items)",
+    "kanji": "かばん",
+    "hiragana": "かばん",
+    "meaning": "bag, briefcase",
+    "emoji": "👜💼"
+  },
+  {
+    "section": "Nouns (Electronics & Media)",
+    "kanji": "[カセット]テープ",
+    "hiragana": "[カセット]テープ",
+    "meaning": "[cassette] tape",
+    "emoji": "📼🎵"
+  },
+  {
+    "section": "Nouns (Electronics & Media)",
+    "kanji": "テープレコーダー",
+    "hiragana": "テープレコーダー",
+    "meaning": "tape recorder",
+    "emoji": "🎙️📼"
+  },
+  {
+    "section": "Nouns (Electronics & Media)",
+    "kanji": "テレビ",
+    "hiragana": "テレビ",
+    "meaning": "television",
+    "emoji": "📺🛋️"
+  },
+  {
+    "section": "Nouns (Electronics & Media)",
+    "kanji": "ラジオ",
+    "hiragana": "ラジオ",
+    "meaning": "radio",
+    "emoji": "📻🎶"
+  },
+  {
+    "section": "Nouns (Electronics & Media)",
+    "kanji": "カメラ",
+    "hiragana": "カメラ",
+    "meaning": "camera",
+    "emoji": "📷📸"
+  },
+  {
+    "section": "Nouns (Electronics & Media)",
+    "kanji": "コンピューター",
+    "hiragana": "コンピューター",
+    "meaning": "computer",
+    "emoji": "💻🖥️"
+  },
+  {
+    "section": "Nouns (Vehicles)",
+    "kanji": "自動車",
+    "hiragana": "じどうしゃ",
+    "meaning": "automobile, car",
+    "emoji": "🚗🚘"
+  },
+  {
+    "section": "Nouns (Furniture)",
+    "kanji": "机",
+    "hiragana": "つくえ",
+    "meaning": "desk",
+    "emoji": "🪵✍️"
+  },
+  {
+    "section": "Nouns (Furniture)",
+    "kanji": "いす",
+    "hiragana": "いす",
+    "meaning": "chair",
+    "emoji": "🪑🛋️"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "チョコレート",
+    "hiragana": "チョコレート",
+    "meaning": "chocolate",
+    "emoji": "🍫😋"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "コーヒー",
+    "hiragana": "コーヒー",
+    "meaning": "coffee",
+    "emoji": "☕♨️"
+  },
+  {
+    "section": "Nouns (Languages)",
+    "kanji": "英語",
+    "hiragana": "えいご",
+    "meaning": "the English language",
+    "emoji": "🔠🗣️"
+  },
+  {
+    "section": "Nouns (Languages)",
+    "kanji": "日本語",
+    "hiragana": "にほんご",
+    "meaning": "the Japanese language",
+    "emoji": "🇯🇵🗣️"
+  },
+  {
+    "section": "Nouns (Languages)",
+    "kanji": "～語",
+    "hiragana": "～ご",
+    "meaning": "~ language",
+    "emoji": "🗣️🌐"
+  },
+  {
+    "section": "Question Words",
+    "kanji": "何",
+    "hiragana": "なん",
+    "meaning": "what",
+    "emoji": "❓🤔"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "そう",
+    "hiragana": "そう",
+    "meaning": "so",
+    "emoji": "💬👍"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "違います。",
+    "hiragana": "ちがいます。",
+    "meaning": "No, it isn't./You are wrong.",
+    "emoji": "❌🙅‍♂️"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "そうですか。",
+    "hiragana": "そうですか。",
+    "meaning": "I see./Is that so?",
+    "emoji": "💡😯"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "あのう",
+    "hiragana": "あのう",
+    "meaning": "well (used to show hesitation)",
+    "emoji": "💧😅"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "ほんの 気持ちです。",
+    "hiragana": "ほんの きもちです。",
+    "meaning": "It's nothing./It's a token of my gratitude.",
+    "emoji": "🎁🙏"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "どうぞ。",
+    "hiragana": "どうぞ。",
+    "meaning": "Please./Here you are. (used when offering someone something)",
+    "emoji": "🤲🎁"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "どうも。",
+    "hiragana": "どうも。",
+    "meaning": "Well, thanks.",
+    "emoji": "🙏😊"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "[どうも] ありがとう [ございます]。",
+    "hiragana": "[どうも] ありがとう [ございます]。",
+    "meaning": "Thank you [very much].",
+    "emoji": "🙇‍♂️✨"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "これから お世話になります。",
+    "hiragana": "これから おせわになります。",
+    "meaning": "I hope for your kind assistance hereafter.",
+    "emoji": "🤝🙇‍♀️"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "こちらこそ よろしく。",
+    "hiragana": "こちらこそ よろしく。",
+    "meaning": "I am pleased to meet you. (response to どうぞ よろしく)",
+    "emoji": "✨🤝"
+  }
+]

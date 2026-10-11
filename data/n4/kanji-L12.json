@@ -1,0 +1,205 @@
+
+{
+  "lesson": 12,
+  "title": "おぼえましょう",
+  "subtitle": "人を あらわす 漢字",
+  "subtitleMeaning": "Kanji that describe people",
+  "kanji": [
+    {
+      "char": "医",
+      "meaning": "",
+      "onyomi": ["イ"],
+      "kunyomi": [],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "医者",
+          "reading": "いしゃ",
+          "meaning": "doctor"
+        },
+        {
+          "word": "医学",
+          "reading": "いがく",
+          "meaning": "medical science"
+        }
+      ]
+    },
+    {
+      "char": "者",
+      "meaning": "",
+      "onyomi": ["シャ"],
+      "kunyomi": [],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "学者",
+          "reading": "がくしゃ",
+          "meaning": "scholar"
+        },
+        {
+          "word": "歯医者",
+          "reading": "はいしゃ",
+          "meaning": "dentist"
+        }
+      ]
+    },
+    {
+      "char": "員",
+      "meaning": "",
+      "onyomi": ["イン"],
+      "kunyomi": [],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "店員",
+          "reading": "てんいん",
+          "meaning": "sales clerk"
+        },
+        {
+          "word": "駅員",
+          "reading": "えきいん",
+          "meaning": "station staff"
+        },
+        {
+          "word": "会社員",
+          "reading": "かいしゃいん",
+          "meaning": "company employee"
+        },
+        {
+          "word": "銀行員",
+          "reading": "ぎんこういん",
+          "meaning": "bank clerk"
+        }
+      ]
+    },
+    {
+      "char": "民",
+      "meaning": "",
+      "onyomi": ["ミン"],
+      "kunyomi": [],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "国民",
+          "reading": "こくみん",
+          "meaning": "citizen, nation"
+        },
+        {
+          "word": "市民",
+          "reading": "しみん",
+          "meaning": "citizen"
+        }
+      ]
+    },
+    {
+      "char": "歌",
+      "meaning": "",
+      "onyomi": ["カ"],
+      "kunyomi": ["うた", "うた（-う）"],
+      "strokes": 14,
+      "examples": [
+        {
+          "word": "歌手",
+          "reading": "かしゅ",
+          "meaning": "singer"
+        },
+        {
+          "word": "歌",
+          "reading": "うた",
+          "meaning": "song"
+        },
+        {
+          "word": "歌う",
+          "reading": "うたう",
+          "meaning": "sing"
+        }
+      ]
+    },
+    {
+      "char": "運",
+      "meaning": "",
+      "onyomi": ["ウン"],
+      "kunyomi": [],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "運転",
+          "reading": "うんてん",
+          "meaning": "driving, operation"
+        },
+        {
+          "word": "運転手",
+          "reading": "うんてんしゅ",
+          "meaning": "driver"
+        },
+        {
+          "word": "運動",
+          "reading": "うんどう",
+          "meaning": "exercise"
+        }
+      ]
+    },
+    {
+      "char": "転",
+      "meaning": "",
+      "onyomi": ["テン"],
+      "kunyomi": [],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "自転車",
+          "reading": "じてんしゃ",
+          "meaning": "bicycle"
+        }
+      ]
+    },
+    {
+      "char": "説",
+      "meaning": "",
+      "onyomi": ["セツ"],
+      "kunyomi": [],
+      "strokes": 14,
+      "examples": [
+        {
+          "word": "説明する",
+          "reading": "せつめいする",
+          "meaning": "explain"
+        },
+        {
+          "word": "小説",
+          "reading": "しょうせつ",
+          "meaning": "novel"
+        },
+        {
+          "word": "小説家",
+          "reading": "しょうせつか",
+          "meaning": "novelist"
+        }
+      ]
+    },
+    {
+      "char": "家",
+      "meaning": "",
+      "onyomi": ["カ"],
+      "kunyomi": ["いえ"],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "家族",
+          "reading": "かぞく",
+          "meaning": "family"
+        },
+        {
+          "word": "家庭",
+          "reading": "かてい",
+          "meaning": "home"
+        },
+        {
+          "word": "家",
+          "reading": "いえ",
+          "meaning": "house, home"
+        }
+      ]
+    }
+  ]
+}

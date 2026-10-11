@@ -1,0 +1,137 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "くれます",
+    "hiragana": "くれます",
+    "meaning": "give (me)",
+    "emoji": "🎁🤲"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "連れて 行きます",
+    "hiragana": "つれて いきます",
+    "meaning": "take (someone)",
+    "emoji": "🚶‍♂️➡️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "連れて 来ます",
+    "hiragana": "つれて きます",
+    "meaning": "bring (someone)",
+    "emoji": "🚶‍♂️⬅️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "送ります",
+    "hiragana": "おくります",
+    "meaning": "escort [someone], go with",
+    "example": "[人を ～] / [ひとを ～]",
+    "emoji": "🚶‍♂️🤝"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "紹介します",
+    "hiragana": "しょうかいします",
+    "meaning": "introduce",
+    "emoji": "👋🗣️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "案内します",
+    "hiragana": "あんないします",
+    "meaning": "show around, show the way",
+    "emoji": "🗺️📍"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "説明します",
+    "hiragana": "せつめいします",
+    "meaning": "explain",
+    "emoji": "💡🗣️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "入れます",
+    "hiragana": "いれます",
+    "meaning": "make [coffee]",
+    "example": "[コーヒーを ～]",
+    "emoji": "☕️🤲"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "おじいさん／おじいちゃん",
+    "hiragana": "おじいさん／おじいちゃん",
+    "meaning": "grandfather, old man",
+    "emoji": "👴👴"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "おばあさん／おばあちゃん",
+    "hiragana": "おばあさん／おばあちゃん",
+    "meaning": "grandmother, old woman",
+    "emoji": "👵👵"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "準備",
+    "hiragana": "じゅんび",
+    "meaning": "preparation (～ します: prepare)",
+    "emoji": "📋🛠️"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "意味",
+    "hiragana": "いみ",
+    "meaning": "meaning",
+    "emoji": "❓💡"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "[お]菓子",
+    "hiragana": "[お]かし",
+    "meaning": "sweets, snacks",
+    "emoji": "🍬🍭"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "全部",
+    "hiragana": "ぜんぶ",
+    "meaning": "all",
+    "emoji": "💯✅"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "自分で",
+    "hiragana": "じぶんで",
+    "meaning": "by oneself",
+    "emoji": "👤💪"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "ほかに",
+    "hiragana": "ほかに",
+    "meaning": "besides",
+    "emoji": "➕🤔"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "ワゴン車",
+    "hiragana": "ワゴンしゃ",
+    "meaning": "station wagon",
+    "emoji": "🚐💨"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "[お]弁当",
+    "hiragana": "[お]べんとう",
+    "meaning": "box lunch",
+    "emoji": "🍱🍱"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "母の 日",
+    "hiragana": "ははの ひ",
+    "meaning": "Mother's Day",
+    "emoji": "💐💖"
+  }
+]

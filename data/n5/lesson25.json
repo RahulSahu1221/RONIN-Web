@@ -1,0 +1,123 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "考えます",
+    "hiragana": "かんがえます",
+    "meaning": "think, consider",
+    "emoji": "🧠💭🤔"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "着きます",
+    "hiragana": "つきます",
+    "meaning": "arrive [at the station]",
+    "example": "[駅に ～] / [えきに ～]",
+    "emoji": "🚉🏁🏃‍♂️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "留学します",
+    "hiragana": "りゅうがくします",
+    "meaning": "study abroad",
+    "emoji": "✈️🎓🌍"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "取ります",
+    "hiragana": "とります",
+    "meaning": "grow old",
+    "example": "[年を ～] / [としを ～]",
+    "emoji": "👴👵⏳"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "田舎",
+    "hiragana": "いなか",
+    "meaning": "countryside, hometown",
+    "emoji": "🌾🏡🌳"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "大使館",
+    "hiragana": "たいしかん",
+    "meaning": "embassy",
+    "emoji": "🏛️🚩🌐"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "グループ",
+    "hiragana": "グループ",
+    "meaning": "group",
+    "emoji": "👥🤝🔗"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "チャンス",
+    "hiragana": "チャンス",
+    "meaning": "chance",
+    "emoji": "🍀🌟✨"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "億",
+    "hiragana": "おく",
+    "meaning": "hundred million",
+    "emoji": "💰🔢💯"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "もし [～たら]",
+    "hiragana": "もし [～たら]",
+    "meaning": "if ~",
+    "emoji": "🤔❓💡"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "いくら [～ても]",
+    "hiragana": "いくら [～ても]",
+    "meaning": "however ~, even if ~",
+    "emoji": "🤷‍♂️🔄🛑"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "転勤",
+    "hiragana": "てんきん",
+    "meaning": "transfer (～ します: be transferred to another office)",
+    "emoji": "🏢🔄💼"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "こと",
+    "hiragana": "こと",
+    "meaning": "thing, matter (～の こと: thing about ~)",
+    "emoji": "📄📁📝"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "一杯 飲みましょう。",
+    "hiragana": "いっぱい のみましょう。",
+    "meaning": "Let's have a drink together.",
+    "emoji": "🍻🥂✨"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "[いろいろ] お世話に なりました。",
+    "hiragana": "[いろいろ] おせわに なりました。",
+    "meaning": "Thank you for everything you have done for me.",
+    "emoji": "🙏🙇‍♂️✨"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "頑張ります",
+    "hiragana": "がんばります",
+    "meaning": "do one's best",
+    "emoji": "💪😤🔥"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "どうぞ お元気で。",
+    "hiragana": "どうぞ おげんきで。",
+    "meaning": "Best of luck. (said when expecting a long separation)",
+    "emoji": "👋😊✨"
+  }
+]

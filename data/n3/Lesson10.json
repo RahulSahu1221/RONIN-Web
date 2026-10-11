@@ -1,0 +1,506 @@
+[
+  {
+    "kanji": "もうける",
+    "hiragana": "",
+    "meaning": "make [money], earn",
+    "emoji": "💰📈💵"
+  },
+  {
+    "kanji": "[お金を～]",
+    "hiragana": "[おかねを～]",
+    "meaning": "make/earn money",
+    "emoji": "💵💰🪙"
+  },
+  {
+    "kanji": "見かける",
+    "hiragana": "みかける",
+    "meaning": "notice, catch sight of",
+    "emoji": "👀🔎👁️"
+  },
+  {
+    "kanji": "否定する",
+    "hiragana": "ひていする",
+    "meaning": "deny",
+    "emoji": "🙅❌💬"
+  },
+  {
+    "kanji": "タイムマシン",
+    "hiragana": "",
+    "meaning": "time machine",
+    "emoji": "⏰🚀🌀"
+  },
+  {
+    "kanji": "宝くじ",
+    "hiragana": "たからくじ",
+    "meaning": "lottery",
+    "emoji": "🎟️💰🍀"
+  },
+  {
+    "kanji": "当たる",
+    "hiragana": "あたる",
+    "meaning": "win [a lottery]",
+    "emoji": "🎯🏆💰"
+  },
+  {
+    "kanji": "[宝くじが～]",
+    "hiragana": "[たからくじが～]",
+    "meaning": "[the lottery] win",
+    "emoji": "🎟️🎉💴"
+  },
+  {
+    "kanji": "ワールドカップ",
+    "hiragana": "",
+    "meaning": "World Cup",
+    "emoji": "🏆⚽🌍"
+  },
+  {
+    "kanji": "カエル",
+    "hiragana": "",
+    "meaning": "frog",
+    "emoji": "🐸🌿💧"
+  },
+  {
+    "kanji": "計画",
+    "hiragana": "けいかく",
+    "meaning": "plan",
+    "emoji": "📝📅🎯"
+  },
+  {
+    "kanji": "実際",
+    "hiragana": "じっさい",
+    "meaning": "actuality",
+    "emoji": "📌🔍✅"
+  },
+  {
+    "kanji": "めったに",
+    "hiragana": "",
+    "meaning": "seldom",
+    "emoji": "📉🕰️❗"
+  },
+  {
+    "kanji": "通じる",
+    "hiragana": "つうじる",
+    "meaning": "get through [on the telephone]",
+    "emoji": "📞📡💬"
+  },
+  {
+    "kanji": "[電話が～]",
+    "hiragana": "[でんわが～]",
+    "meaning": "[the telephone call] get through",
+    "emoji": "☎️📶✅"
+  },
+  {
+    "kanji": "時間通りに",
+    "hiragana": "じかんどおりに",
+    "meaning": "on time",
+    "emoji": "⏰📅✅"
+  },
+  {
+    "kanji": "かかる",
+    "hiragana": "",
+    "meaning": "[engine] start",
+    "emoji": "🚗🔑⚙️"
+  },
+  {
+    "kanji": "[エンジンが～]",
+    "hiragana": "",
+    "meaning": "[the engine] start",
+    "emoji": "🚘⚙️🔋"
+  },
+  {
+    "kanji": "鬼",
+    "hiragana": "おに",
+    "meaning": "demon",
+    "emoji": "👹👿🔥"
+  },
+  {
+    "kanji": "怒る",
+    "hiragana": "おこる",
+    "meaning": "get angry",
+    "emoji": "😠💢😡"
+  },
+  {
+    "kanji": "CO₂",
+    "hiragana": "シーオーツー",
+    "meaning": "CO₂",
+    "emoji": "🌍🏭💨"
+  },
+  {
+    "kanji": "抽選",
+    "hiragana": "ちゅうせん",
+    "meaning": "draw, ballot",
+    "emoji": "🎟️🎲🗳️"
+  },
+  {
+    "kanji": "一等",
+    "hiragana": "いっとう",
+    "meaning": "first place",
+    "emoji": "🥇🏆🎖️"
+  },
+  {
+    "kanji": "投票",
+    "hiragana": "とうひょう",
+    "meaning": "voting",
+    "emoji": "🗳️✅📩"
+  },
+  {
+    "kanji": "[お]互いに",
+    "hiragana": "[お]たがいに",
+    "meaning": "each other",
+    "emoji": "🤝👥🔄"
+  },
+  {
+    "kanji": "出す [修理に～]",
+    "hiragana": "だす [しゅうりに～]",
+    "meaning": "send [for repair]",
+    "emoji": "🔧📦🛠️"
+  },
+  {
+    "kanji": "聞き返す",
+    "hiragana": "ききかえす",
+    "meaning": "ask to have something explained again",
+    "emoji": "👂❓💬"
+  },
+  {
+    "kanji": "てっきり",
+    "hiragana": "",
+    "meaning": "definitely",
+    "emoji": "💯✔️📌"
+  },
+  {
+    "kanji": "倉庫",
+    "hiragana": "そうこ",
+    "meaning": "storeroom, warehouse",
+    "emoji": "🏭📦🏢"
+  },
+  {
+    "kanji": "プリンター",
+    "hiragana": "",
+    "meaning": "printer",
+    "emoji": "🖨️📄💻"
+  },
+  {
+    "kanji": "入る [電源が～]",
+    "hiragana": "はいる [でんげんが～]",
+    "meaning": "[power] be on",
+    "emoji": "🔌⚡💡"
+  },
+  {
+    "kanji": "マニュアル",
+    "hiragana": "",
+    "meaning": "manual",
+    "emoji": "📘📖🛠️"
+  },
+  {
+    "kanji": "親しい",
+    "hiragana": "したしい",
+    "meaning": "close, familiar",
+    "emoji": "🤝👫❤️"
+  },
+  {
+    "kanji": "驚く",
+    "hiragana": "おどろく",
+    "meaning": "be surprised",
+    "emoji": "😲😮❗"
+  },
+  {
+    "kanji": "～代 [60～]",
+    "hiragana": "～だい",
+    "meaning": "-ies [sixties]",
+    "emoji": "🎂📅🔢"
+  },
+  {
+    "kanji": "誤解",
+    "hiragana": "ごかい",
+    "meaning": "misunderstanding",
+    "emoji": "❓💬⚠️"
+  },
+  {
+    "kanji": "記憶",
+    "hiragana": "きおく",
+    "meaning": "memory",
+    "emoji": "🧠💭📚"
+  },
+  {
+    "kanji": "型",
+    "hiragana": "かた",
+    "meaning": "type",
+    "emoji": "🏷️📂🔠"
+  },
+  {
+    "kanji": "～型",
+    "hiragana": "～がた",
+    "meaning": "~ type",
+    "emoji": "🏷️📋🔢"
+  },
+  {
+    "kanji": "落とし物",
+    "hiragana": "おとしもの",
+    "meaning": "lost property",
+    "emoji": "🔑👛📱"
+  },
+  {
+    "kanji": "転ぶ",
+    "hiragana": "ころぶ",
+    "meaning": "fall over",
+    "emoji": "🤸💥🚶"
+  },
+  {
+    "kanji": "奇数",
+    "hiragana": "きすう",
+    "meaning": "odd number",
+    "emoji": "🔢➗1️⃣"
+  },
+  {
+    "kanji": "偶数",
+    "hiragana": "ぐうすう",
+    "meaning": "even number",
+    "emoji": "🔢➗2️⃣"
+  },
+  {
+    "kanji": "ぼんやりする",
+    "hiragana": "",
+    "meaning": "daydream, woolgather",
+    "emoji": "💭☁️😶"
+  },
+  {
+    "kanji": "あわて者",
+    "hiragana": "あわてもの",
+    "meaning": "careless person",
+    "emoji": "🏃💨😵"
+  },
+  {
+    "kanji": "ミス",
+    "hiragana": "",
+    "meaning": "mistake",
+    "emoji": "❌⚠️📝"
+  },
+  {
+    "kanji": "これら",
+    "hiragana": "",
+    "meaning": "these",
+    "emoji": "👆📦📋"
+  },
+  {
+    "kanji": "ヒューマンエラー",
+    "hiragana": "",
+    "meaning": "human error",
+    "emoji": "⚠️👤❌"
+  },
+  {
+    "kanji": "手術",
+    "hiragana": "しゅじゅつ",
+    "meaning": "operation",
+    "emoji": "🏥🩺🩻"
+  },
+  {
+    "kanji": "患者",
+    "hiragana": "かんじゃ",
+    "meaning": "patient",
+    "emoji": "🏥🧑‍⚕️🛏️"
+  },
+  {
+    "kanji": "心理学者",
+    "hiragana": "しんりがくしゃ",
+    "meaning": "psychologist",
+    "emoji": "🧠🧑‍⚕️📚"
+  },
+  {
+    "kanji": "おかす [ミスを～]",
+    "hiragana": "",
+    "meaning": "make [a mistake]",
+    "emoji": "❌📝⚠️"
+  },
+  {
+    "kanji": "うっかりミス",
+    "hiragana": "",
+    "meaning": "careless mistake",
+    "emoji": "😵❌📝"
+  },
+  {
+    "kanji": "うっかり",
+    "hiragana": "",
+    "meaning": "careless",
+    "emoji": "😶‍🌫️⚠️❌"
+  },
+  {
+    "kanji": "こういう",
+    "hiragana": "",
+    "meaning": "this kind of, such (cf. ああいう: that kind of)",
+    "emoji": "👆📦💬"
+  },
+  {
+    "kanji": "チェックリスト",
+    "hiragana": "",
+    "meaning": "checklist",
+    "emoji": "📋☑️📝"
+  },
+  {
+    "kanji": "手がかり",
+    "hiragana": "てがかり",
+    "meaning": "hint, clue",
+    "emoji": "🔎🧩💡"
+  },
+  {
+    "kanji": "一方",
+    "hiragana": "いっぽう",
+    "meaning": "on the other hand",
+    "emoji": "↔️⚖️🔄"
+  },
+  {
+    "kanji": "深く",
+    "hiragana": "ふかく",
+    "meaning": "[breathe] deeply",
+    "emoji": "🌬️🫁💨"
+  },
+  {
+    "kanji": "[～呼吸する]",
+    "hiragana": "[～こきゅうする]",
+    "meaning": "[breathe]",
+    "emoji": "🫁🌬️💨"
+  },
+  {
+    "kanji": "指",
+    "hiragana": "ゆび",
+    "meaning": "finger",
+    "emoji": "☝️🖐️👆"
+  },
+  {
+    "kanji": "聖人君子",
+    "hiragana": "せいじんくんし",
+    "meaning": "model of all virtues",
+    "emoji": "😇📜✨"
+  },
+  {
+    "kanji": "うそつき",
+    "hiragana": "",
+    "meaning": "liar",
+    "emoji": "🤥🤫❌"
+  },
+  {
+    "kanji": "または",
+    "hiragana": "",
+    "meaning": "or",
+    "emoji": "🔀↔️❓"
+  },
+  {
+    "kanji": "エラー",
+    "hiragana": "",
+    "meaning": "error",
+    "emoji": "⚠️❌💻"
+  },
+  {
+    "kanji": "困った人",
+    "hiragana": "こまったひと",
+    "meaning": "hopeless person",
+    "emoji": "😓🤦⚠️"
+  },
+  {
+    "kanji": "完成する",
+    "hiragana": "かんせいする",
+    "meaning": "complete",
+    "emoji": "✅🏁🎉"
+  },
+  {
+    "kanji": "つながる",
+    "hiragana": "",
+    "meaning": "lead to [an incident]",
+    "emoji": "🔗➡️⚠️"
+  },
+  {
+    "kanji": "[出来事に～]",
+    "hiragana": "[できごとに～]",
+    "meaning": "[lead to an incident]",
+    "emoji": "⚠️➡️📌"
+  },
+  {
+    "kanji": "出来事",
+    "hiragana": "できごと",
+    "meaning": "incident",
+    "emoji": "📌📰⚡"
+  },
+  {
+    "kanji": "不注意",
+    "hiragana": "ふちゅうい",
+    "meaning": "carelessness",
+    "emoji": "⚠️👀❌"
+  },
+  {
+    "kanji": "引き起こす",
+    "hiragana": "ひきおこす",
+    "meaning": "cause, bring about",
+    "emoji": "➡️⚠️💥"
+  },
+  {
+    "kanji": "どういうことでしょうか。",
+    "hiragana": "",
+    "meaning": "What are you talking about?",
+    "emoji": "❓💬🤔"
+  },
+  {
+    "kanji": "そんなはずはありません。",
+    "hiragana": "",
+    "meaning": "That can't be true!",
+    "emoji": "😲❌💬"
+  },
+  {
+    "kanji": "てっきり～と思っていました。",
+    "hiragana": "",
+    "meaning": "I was sure that....",
+    "emoji": "💭💯😮"
+  },
+  {
+    "kanji": "Expressing the feeling that you are nonplussed by what you have just been told.",
+    "hiragana": "",
+    "meaning": "Explanatory note: Expressing the feeling that you are nonplussed by what you have just been told.",
+    "emoji": "😕❓💬"
+  },
+  {
+    "kanji": "気を悪くする",
+    "hiragana": "きをわるくする",
+    "meaning": "get upset",
+    "emoji": "😠💔😟"
+  },
+  {
+    "kanji": "わかってもらえればいいんです。",
+    "hiragana": "",
+    "meaning": "I'm happy if you understand.",
+    "emoji": "💬🤝🙂"
+  },
+  {
+    "kanji": "Telling the listener what you have believed up till now, and expressing the feeling that you find it hard to believe what you have just heard.",
+    "hiragana": "",
+    "meaning": "Explanatory note: Telling the listener what you have believed up till now, and expressing the feeling that you find it hard to believe what you have just heard.",
+    "emoji": "💭😮💬"
+  },
+  {
+    "kanji": "ＪＲ",
+    "hiragana": "",
+    "meaning": "JR: Abbreviation for Japan Railways.",
+    "emoji": "🚆🚉🇯🇵"
+  },
+  {
+    "kanji": "沖縄県",
+    "hiragana": "おきなわけん",
+    "meaning": "Okinawa Prefecture: The southernmost Japanese prefecture, comprising the main island of Okinawa, the Ryukyu Islands and other islands. The Okinawa Prefectural Office is located in the city of Naha.",
+    "emoji": "🏝️🌊🇯🇵"
+  },
+  {
+    "kanji": "マザー・テレサ",
+    "hiragana": "",
+    "meaning": "Mother Teresa: Albanian Roman Catholic nun renowned for her missionary work in India. Nobel Prize winner. 1910–1997.",
+    "emoji": "🤝❤️🕊️"
+  },
+  {
+    "kanji": "新宿",
+    "hiragana": "しんじゅく",
+    "meaning": "Shinjuku: One of Tokyo's subcenters. The Tokyo Metropolitan Government Office relocated there in 1991.",
+    "emoji": "🏙️🚉🇯🇵"
+  },
+  {
+    "kanji": "リーズン",
+    "hiragana": "",
+    "meaning": "James Reason: British psychologist. Books include Human Error and Managing the Risks of Organizational Accidents.",
+    "emoji": "🧠📚⚠️"
+  }
+]

@@ -1,0 +1,365 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "見ます、診ます",
+    "hiragana": "みます",
+    "meaning": "check",
+    "emoji": "👀✅🏥"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "探します、捜します",
+    "hiragana": "さがします",
+    "meaning": "look for, search",
+    "emoji": "🔍🔎🧐"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "遅れます",
+    "hiragana": "おくれます",
+    "meaning": "be late [for an appointment, etc.]",
+    "example": "[時間に ～] / [じかんに ～]",
+    "emoji": "⏰🏃‍♂️💨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "間に 合います",
+    "hiragana": "まに あいます",
+    "meaning": "be in time [for an appointment, etc.]",
+    "example": "[時間に ～] / [じかんに ～]",
+    "emoji": "⌚✨😌"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "やります",
+    "hiragana": "やります",
+    "meaning": "do",
+    "emoji": "🛠️💪✨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "参加します",
+    "hiragana": "さんかします",
+    "meaning": "attend [a party]",
+    "example": "[パーティーに ～]",
+    "emoji": "🥳🤝🎟️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "申し込みます",
+    "hiragana": "もうしこみます",
+    "meaning": "apply for, enter for",
+    "emoji": "📝🖊️📥"
+  },
+  {
+    "section": "Expressions (Conditions)",
+    "kanji": "都合が いい",
+    "hiragana": "つごうが いい",
+    "meaning": "convenient (concerning time)",
+    "emoji": "📅👌✅"
+  },
+  {
+    "section": "Expressions (Conditions)",
+    "kanji": "都合が 悪い",
+    "hiragana": "つごうが わるい",
+    "meaning": "inconvenient (concerning time)",
+    "emoji": "📅❌😟"
+  },
+  {
+    "section": "Expressions (Conditions)",
+    "kanji": "気分が いい",
+    "hiragana": "きぶんが いい",
+    "meaning": "feel well",
+    "emoji": "😊☀️✨"
+  },
+  {
+    "section": "Expressions (Conditions)",
+    "kanji": "気分が 悪い",
+    "hiragana": "きぶんが わるい",
+    "meaning": "feel ill",
+    "emoji": "🤢🤒🥀"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "新聞社",
+    "hiragana": "しんぶんしゃ",
+    "meaning": "newspaper publishing company, newspaper office",
+    "emoji": "📰🏢🗞️"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "柔道",
+    "hiragana": "じゅうどう",
+    "meaning": "judo",
+    "emoji": "🥋🤼‍♂️🇯🇵"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "運動会",
+    "hiragana": "うんどうかい",
+    "meaning": "athletic meeting",
+    "emoji": "🏃‍♂️🏅🎌"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "場所",
+    "hiragana": "ばしょ",
+    "meaning": "place",
+    "emoji": "📍🗺️🏡"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "ボランティア",
+    "hiragana": "ボランティア",
+    "meaning": "volunteer",
+    "emoji": "🤝✨🧡"
+  },
+  {
+    "section": "Suffixes",
+    "kanji": "～弁",
+    "hiragana": "～べん",
+    "meaning": "~ dialect",
+    "emoji": "🗣️🗺️💬"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "今度",
+    "hiragana": "こんど",
+    "meaning": "next time, another time",
+    "emoji": "🔜🔁📅"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "ずいぶん",
+    "hiragana": "ずいぶん",
+    "meaning": "pretty, very",
+    "emoji": "👌🌟💯"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "直接",
+    "hiragana": "ちょくせつ",
+    "meaning": "directly",
+    "emoji": "➡️🎯🔗"
+  },
+  {
+    "section": "Pronouns",
+    "kanji": "いつでも",
+    "hiragana": "いつでも",
+    "meaning": "any time",
+    "emoji": "🕒♾️✅"
+  },
+  {
+    "section": "Pronouns",
+    "kanji": "どこでも",
+    "hiragana": "どこでも",
+    "meaning": "anywhere",
+    "emoji": "📍♾️✅"
+  },
+  {
+    "section": "Pronouns",
+    "kanji": "だれでも",
+    "hiragana": "だれでも",
+    "meaning": "anybody",
+    "emoji": "👤♾️✅"
+  },
+  {
+    "section": "Pronouns",
+    "kanji": "何でも",
+    "hiragana": "なんでも",
+    "meaning": "anything",
+    "emoji": "📦♾️✅"
+  },
+  {
+    "section": "Demonstratives",
+    "kanji": "こんな ～",
+    "hiragana": "こんな ～",
+    "meaning": "~ like this",
+    "emoji": "👇💁‍♂️✨"
+  },
+  {
+    "section": "Demonstratives",
+    "kanji": "そんな ～",
+    "hiragana": "そんな ～",
+    "meaning": "~ like that (near the listener)",
+    "emoji": "👉💁‍♂️✨"
+  },
+  {
+    "section": "Demonstratives",
+    "kanji": "あんな ～",
+    "hiragana": "あんな ～",
+    "meaning": "~ like that (far from both the speaker and the listener)",
+    "emoji": "👆💁‍♂️✨"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "NHK",
+    "hiragana": "エヌエッチケー",
+    "meaning": "Nippon Hoso Kyokai (broadcasting company)",
+    "emoji": "📺📡🇯🇵"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "こどもの日",
+    "hiragana": "こどものひ",
+    "meaning": "Children's Day",
+    "emoji": "🎏🧒✨"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "エドヤストア",
+    "hiragana": "エドヤストア",
+    "meaning": "fictitious store",
+    "emoji": "🏪🛍️"
+  },
+  {
+    "section": "Verbs (Conversation)",
+    "kanji": "片づけます",
+    "hiragana": "かたづけます",
+    "meaning": "[boxes] be put in order",
+    "example": "[荷物が ～] / [にもつが ～]",
+    "emoji": "📦🧹✨"
+  },
+  {
+    "section": "Nouns (Conversation)",
+    "kanji": "ごみ",
+    "hiragana": "ごみ",
+    "meaning": "garbage, trash, dust",
+    "emoji": "🗑️🚮"
+  },
+  {
+    "section": "Verbs (Conversation)",
+    "kanji": "出します",
+    "hiragana": "だします",
+    "meaning": "put out [the trash]",
+    "example": "[ごみを ～]",
+    "emoji": "🗑️📤"
+  },
+  {
+    "section": "Verbs (Conversation)",
+    "kanji": "燃えます",
+    "hiragana": "もえます",
+    "meaning": "[trash] burn",
+    "example": "[ごみが ～]",
+    "emoji": "🔥🗑️"
+  },
+  {
+    "section": "Nouns (Conversation)",
+    "kanji": "月・水・金",
+    "hiragana": "げつ・すい・きん",
+    "meaning": "Monday, Wednesday and Friday",
+    "emoji": "🗓️🌓"
+  },
+  {
+    "section": "Nouns (Conversation)",
+    "kanji": "置き場",
+    "hiragana": "おきば",
+    "meaning": "place where something is put",
+    "emoji": "📍📦"
+  },
+  {
+    "section": "Nouns (Conversation)",
+    "kanji": "横",
+    "hiragana": "よこ",
+    "meaning": "side",
+    "emoji": "↔️🚶"
+  },
+  {
+    "section": "Nouns (Conversation)",
+    "kanji": "瓶",
+    "hiragana": "びん",
+    "meaning": "bottle",
+    "emoji": "🍾🥛"
+  },
+  {
+    "section": "Nouns (Conversation)",
+    "kanji": "缶",
+    "hiragana": "かん",
+    "meaning": "can",
+    "emoji": "🥫🥤"
+  },
+  {
+    "section": "Nouns (Conversation)",
+    "kanji": "[お]湯",
+    "hiragana": "[お]ゆ",
+    "meaning": "hot water",
+    "emoji": "♨️☕"
+  },
+  {
+    "section": "Nouns (Conversation)",
+    "kanji": "ガス",
+    "hiragana": "ガス",
+    "meaning": "gas",
+    "emoji": "🔥⛽"
+  },
+  {
+    "section": "Nouns (Conversation)",
+    "kanji": "～会社",
+    "hiragana": "～がいしゃ",
+    "meaning": "~ company",
+    "emoji": "🏢💼"
+  },
+  {
+    "section": "Verbs (Conversation)",
+    "kanji": "連絡します",
+    "hiragana": "れんらくします",
+    "meaning": "contact",
+    "emoji": "📞📩"
+  },
+  {
+    "section": "Expressions (Conversation)",
+    "kanji": "困ったなあ。",
+    "hiragana": "こまったなあ。",
+    "meaning": "What shall I do?",
+    "emoji": "😰🤔"
+  },
+  {
+    "section": "Reading (Yomimono)",
+    "kanji": "電子メール",
+    "hiragana": "でんしメール",
+    "meaning": "electronic mail",
+    "emoji": "📧💻"
+  },
+  {
+    "section": "Reading (Yomimono)",
+    "kanji": "宇宙",
+    "hiragana": "うちゅう",
+    "meaning": "space, universe",
+    "emoji": "🌌🚀"
+  },
+  {
+    "section": "Reading (Yomimono)",
+    "kanji": "怖い",
+    "hiragana": "こわい",
+    "meaning": "be afraid of",
+    "emoji": "😨👻"
+  },
+  {
+    "section": "Reading (Yomimono)",
+    "kanji": "宇宙船",
+    "hiragana": "うちゅうせん",
+    "meaning": "spaceship",
+    "emoji": "🛸🌌"
+  },
+  {
+    "section": "Reading (Yomimono)",
+    "kanji": "別の",
+    "hiragana": "べつの",
+    "meaning": "another",
+    "emoji": "🔄✨"
+  },
+  {
+    "section": "Reading (Yomimono)",
+    "kanji": "宇宙飛行士",
+    "hiragana": "うちゅうひこうし",
+    "meaning": "astronaut",
+    "emoji": "👨‍🚀🚀"
+  },
+  {
+    "section": "Proper Nouns (Reading)",
+    "kanji": "土井 隆雄",
+    "hiragana": "どい たかお",
+    "meaning": "Japanese astronaut (1955- )",
+    "emoji": "👨‍🚀🇯🇵"
+  }
+]

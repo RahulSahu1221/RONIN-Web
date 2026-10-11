@@ -1,0 +1,174 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "着ます",
+    "hiragana": "きます",
+    "meaning": "put on [a shirt, etc.]",
+    "example": "[シャツを ～]",
+    "emoji": "👕👔✨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "はきます",
+    "hiragana": "はきます",
+    "meaning": "put on [shoes, trousers, etc.]",
+    "example": "[靴を ～] / [くつを ～]",
+    "emoji": "👞👖👟"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "かぶります",
+    "hiragana": "かぶります",
+    "meaning": "put on [a hat, etc.]",
+    "example": "[帽子を ～] / [ぼうしを ～]",
+    "emoji": "👒🧢🎩"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "かけます",
+    "hiragana": "かけます",
+    "meaning": "put on [glasses]",
+    "example": "[眼鏡を ～] / [めがねを ～]",
+    "emoji": "👓🧐"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "生まれます",
+    "hiragana": "うまれます",
+    "meaning": "be born",
+    "emoji": "👶🍼✨"
+  },
+  {
+    "section": "Nouns (Clothing)",
+    "kanji": "コート",
+    "hiragana": "コート",
+    "meaning": "coat",
+    "emoji": "🧥🧥"
+  },
+  {
+    "section": "Nouns (Clothing)",
+    "kanji": "スーツ",
+    "hiragana": "スーツ",
+    "meaning": "suit",
+    "emoji": "👔💼"
+  },
+  {
+    "section": "Nouns (Clothing)",
+    "kanji": "セーター",
+    "hiragana": "セーター",
+    "meaning": "sweater",
+    "emoji": "🧶🧣"
+  },
+  {
+    "section": "Nouns (Clothing)",
+    "kanji": "帽子",
+    "hiragana": "ぼうし",
+    "meaning": "hat, cap",
+    "emoji": "🧢👒"
+  },
+  {
+    "section": "Nouns (Clothing)",
+    "kanji": "眼鏡",
+    "hiragana": "めがね",
+    "meaning": "glasses",
+    "emoji": "👓👓"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "よく",
+    "hiragana": "よく",
+    "meaning": "often",
+    "emoji": "🗓️🔁"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "おめでとう ございます。",
+    "hiragana": "おめでとう ございます。",
+    "meaning": "Congratulations. (used on birthdays, at weddings, New Year's Day, etc.)",
+    "emoji": "🎉🥳🥂"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "こちら",
+    "hiragana": "こちら",
+    "meaning": "this (polite equivalent of これ)",
+    "emoji": "👉📍"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "家賃",
+    "hiragana": "やちん",
+    "meaning": "house rent",
+    "emoji": "🏠💴"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "うーん。",
+    "hiragana": "うーん。",
+    "meaning": "Let me see.",
+    "emoji": "🤔💭"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "ダイニングキッチン",
+    "hiragana": "ダイニングキッチン",
+    "meaning": "kitchen with a dining area",
+    "emoji": "🍽️🍳"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "和室",
+    "hiragana": "わしつ",
+    "meaning": "Japanese-style room",
+    "emoji": "🍵🏯"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "押し入れ",
+    "hiragana": "おしいれ",
+    "meaning": "Japanese-style closet",
+    "emoji": "🚪👘"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "布団",
+    "hiragana": "ふとん",
+    "meaning": "Japanese-style mattress and quilt",
+    "emoji": "🛌💤"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "アパート",
+    "hiragana": "アパート",
+    "meaning": "apartment",
+    "emoji": "🏢🏘️"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "パリ",
+    "hiragana": "パリ",
+    "meaning": "Paris",
+    "emoji": "🗼🥐"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "万里の 長城",
+    "hiragana": "ばんりの ちょうじょう",
+    "meaning": "the Great Wall of China",
+    "emoji": "🧱🐉"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "余暇開発センター",
+    "hiragana": "よかかいはつセンター",
+    "meaning": "Center for Developing Leisure Activities",
+    "emoji": "🏢🏖️"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "レジャー白書",
+    "hiragana": "レジャーはくしょ",
+    "meaning": "white paper on leisure",
+    "emoji": "📄📊"
+  }
+]

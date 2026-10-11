@@ -1,0 +1,362 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "わかります",
+    "hiragana": "わかります",
+    "meaning": "understand",
+    "emoji": "💡🧠"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "あります",
+    "hiragana": "あります",
+    "meaning": "have",
+    "emoji": "🤲✅"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "好き[な]",
+    "hiragana": "すき[な]",
+    "meaning": "like",
+    "emoji": "❤️👍"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "嫌い[な]",
+    "hiragana": "きらい[な]",
+    "meaning": "dislike",
+    "emoji": "💔👎"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "上手[な]",
+    "hiragana": "じょうず[な]",
+    "meaning": "good at",
+    "emoji": "🌟👏"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "下手[な]",
+    "hiragana": "へた[な]",
+    "meaning": "poor at",
+    "emoji": "💦📉"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "料理",
+    "hiragana": "りょうり",
+    "meaning": "dish (cooked food), cooking",
+    "emoji": "🍳🍲"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "飲み物",
+    "hiragana": "のみもの",
+    "meaning": "drinks",
+    "emoji": "🥤🍹"
+  },
+  {
+    "section": "Nouns (Sports & Arts)",
+    "kanji": "スポーツ",
+    "hiragana": "スポーツ",
+    "meaning": "sport",
+    "example": "(～を します: play sports)",
+    "emoji": "⚽🏃‍♂️"
+  },
+  {
+    "section": "Nouns (Sports & Arts)",
+    "kanji": "野球",
+    "hiragana": "やきゅう",
+    "meaning": "baseball",
+    "example": "(～を します: play baseball)",
+    "emoji": "⚾🧢"
+  },
+  {
+    "section": "Nouns (Sports & Arts)",
+    "kanji": "ダンス",
+    "hiragana": "ダンス",
+    "meaning": "dance",
+    "example": "(～を します: dance)",
+    "emoji": "💃🕺"
+  },
+  {
+    "section": "Nouns (Sports & Arts)",
+    "kanji": "音楽",
+    "hiragana": "おんがく",
+    "meaning": "music",
+    "emoji": "🎵🎧"
+  },
+  {
+    "section": "Nouns (Sports & Arts)",
+    "kanji": "歌",
+    "hiragana": "うた",
+    "meaning": "song",
+    "emoji": "🎤🎶"
+  },
+  {
+    "section": "Nouns (Sports & Arts)",
+    "kanji": "クラシック",
+    "hiragana": "クラシック",
+    "meaning": "classical music",
+    "emoji": "🎻🎹"
+  },
+  {
+    "section": "Nouns (Sports & Arts)",
+    "kanji": "ジャズ",
+    "hiragana": "ジャズ",
+    "meaning": "jazz",
+    "emoji": "🎷🎺"
+  },
+  {
+    "section": "Nouns (Sports & Arts)",
+    "kanji": "コンサート",
+    "hiragana": "コンサート",
+    "meaning": "concert",
+    "emoji": "🎫🎸"
+  },
+  {
+    "section": "Nouns (Sports & Arts)",
+    "kanji": "カラオケ",
+    "hiragana": "カラオケ",
+    "meaning": "karaoke",
+    "emoji": "🎤📺"
+  },
+  {
+    "section": "Nouns (Sports & Arts)",
+    "kanji": "歌舞伎",
+    "hiragana": "かぶき",
+    "meaning": "Kabuki (traditional Japanese musical drama)",
+    "emoji": "🎭👘"
+  },
+  {
+    "section": "Nouns (Arts & Writing)",
+    "kanji": "絵",
+    "hiragana": "え",
+    "meaning": "picture, drawing",
+    "emoji": "🖼️🎨"
+  },
+  {
+    "section": "Nouns (Arts & Writing)",
+    "kanji": "字",
+    "hiragana": "じ",
+    "meaning": "letter, character",
+    "emoji": "🔤✍️"
+  },
+  {
+    "section": "Nouns (Arts & Writing)",
+    "kanji": "漢字",
+    "hiragana": "かんじ",
+    "meaning": "Chinese characters",
+    "emoji": "🈴✍️"
+  },
+  {
+    "section": "Nouns (Arts & Writing)",
+    "kanji": "ひらがな",
+    "hiragana": "ひらがな",
+    "meaning": "Hiragana script",
+    "emoji": "🇯🇵〰️"
+  },
+  {
+    "section": "Nouns (Arts & Writing)",
+    "kanji": "かたかな",
+    "hiragana": "かたかな",
+    "meaning": "Katakana script",
+    "emoji": "🇯🇵〽️"
+  },
+  {
+    "section": "Nouns (Arts & Writing)",
+    "kanji": "ローマ字",
+    "hiragana": "ローマじ",
+    "meaning": "the Roman alphabet",
+    "emoji": "🔠🅰️"
+  },
+  {
+    "section": "Nouns (Money & Time)",
+    "kanji": "細かいお金",
+    "hiragana": "こまかいおかね",
+    "meaning": "small change",
+    "emoji": "🪙👛"
+  },
+  {
+    "section": "Nouns (Money & Time)",
+    "kanji": "チケット",
+    "hiragana": "チケット",
+    "meaning": "ticket",
+    "emoji": "🎫🎟️"
+  },
+  {
+    "section": "Nouns (Money & Time)",
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "meaning": "time",
+    "emoji": "⌚⏳"
+  },
+  {
+    "section": "Nouns (Money & Time)",
+    "kanji": "用事",
+    "hiragana": "ようじ",
+    "meaning": "something to do, errand",
+    "emoji": "📝🏃‍♂️"
+  },
+  {
+    "section": "Nouns (Money & Time)",
+    "kanji": "約束",
+    "hiragana": "やくそく",
+    "meaning": "appointment, promise",
+    "emoji": "🤝📅"
+  },
+  {
+    "section": "Nouns (Family)",
+    "kanji": "ご主人",
+    "hiragana": "ごしゅじん",
+    "meaning": "(someone else's) husband",
+    "emoji": "👨💍"
+  },
+  {
+    "section": "Nouns (Family)",
+    "kanji": "夫／主人",
+    "hiragana": "おっと／しゅじん",
+    "meaning": "(my) husband",
+    "emoji": "👨‍💼❤️"
+  },
+  {
+    "section": "Nouns (Family)",
+    "kanji": "奥さん",
+    "hiragana": "おくさん",
+    "meaning": "(someone else's) wife",
+    "emoji": "👩💍"
+  },
+  {
+    "section": "Nouns (Family)",
+    "kanji": "妻／家内",
+    "hiragana": "つま／かない",
+    "meaning": "(my) wife",
+    "emoji": "👩‍💼❤️"
+  },
+  {
+    "section": "Nouns (Family)",
+    "kanji": "子ども",
+    "hiragana": "こども",
+    "meaning": "child",
+    "emoji": "👧👦"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "よく",
+    "hiragana": "よく",
+    "meaning": "well, much",
+    "emoji": "💯✅"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "だいたい",
+    "hiragana": "だいたい",
+    "meaning": "mostly, roughly",
+    "emoji": "📊≈"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "たくさん",
+    "hiragana": "たくさん",
+    "meaning": "many, much",
+    "emoji": "📚➕"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "少し",
+    "hiragana": "すこし",
+    "meaning": "a little, a few",
+    "emoji": "🤏💧"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "全然",
+    "hiragana": "ぜんぜん",
+    "meaning": "not at all (used with negatives)",
+    "emoji": "🚫❌"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "早く、速く",
+    "hiragana": "はやく",
+    "meaning": "early, quickly, fast",
+    "emoji": "⏩🏃‍♂️"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "～から",
+    "hiragana": "～から",
+    "meaning": "because ~",
+    "emoji": "💡➡️"
+  },
+  {
+    "section": "Question Words",
+    "kanji": "どうして",
+    "hiragana": "どうして",
+    "meaning": "why",
+    "emoji": "❓🤔"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "残念です[ね]。",
+    "hiragana": "ざんねんです[ね]。",
+    "meaning": "I'm sorry (to hear that)./That's a pity.",
+    "emoji": "😢💧"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "すみません。",
+    "hiragana": "すみません。",
+    "meaning": "I am sorry.",
+    "emoji": "🙇‍♂️🙏"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "もしもし",
+    "hiragana": "もしもし",
+    "meaning": "hello (used on the phone)",
+    "emoji": "☎️📞"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "ああ",
+    "hiragana": "ああ",
+    "meaning": "oh",
+    "emoji": "😮💭"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "いっしょに いかがですか。",
+    "hiragana": "いっしょに いかがですか。",
+    "meaning": "Won't you join me (us)?",
+    "emoji": "🤝🙋‍♂️"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "[～は] ちょっと……。",
+    "hiragana": "[～は] ちょっと……。",
+    "meaning": "[~] is a bit difficult. (an euphemism used when declining an invitation)",
+    "emoji": "😅💦"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "だめですか。",
+    "hiragana": "だめですか。",
+    "meaning": "So you cannot (come)?",
+    "emoji": "🥺❌"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "また 今度 お願いします。",
+    "hiragana": "また こんど おねがいします。",
+    "meaning": "Please ask me again some other time. (used when refusing an invitation indirectly, considering someone's feelings)",
+    "emoji": "🙏🙇‍♀️"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "小沢征爾",
+    "hiragana": "おざわ せいじ",
+    "meaning": "famous Japanese conductor (1935 - )",
+    "emoji": "🎼🎵"
+  }
+]

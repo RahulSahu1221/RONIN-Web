@@ -1,0 +1,195 @@
+{
+  "lesson": 23,
+  "title": "おぼえましょう",
+  "subtitle": "ペアで おぼえましょう",
+  "subtitleMeaning": "Learn these as pairs",
+  "kanji": [
+    {
+      "char": "売",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["う（-る）"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "売る",
+          "reading": "うる",
+          "meaning": "sell"
+        },
+        {
+          "word": "売り場",
+          "reading": "うりば",
+          "meaning": "sales floor"
+        },
+        {
+          "word": "買う",
+          "reading": "かう",
+          "meaning": "buy"
+        }
+      ]
+    },
+    {
+      "char": "借",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["か（-りる）"],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "借りる",
+          "reading": "かりる",
+          "meaning": "borrow, rent"
+        }
+      ]
+    },
+    {
+      "char": "貸",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["か（-す）"],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "貸す",
+          "reading": "かす",
+          "meaning": "lend"
+        },
+        {
+          "word": "借りる",
+          "reading": "かりる",
+          "meaning": "borrow, rent"
+        }
+      ]
+    },
+    {
+      "char": "習",
+      "meaning": "",
+      "onyomi": ["シュウ"],
+      "kunyomi": ["なら（-う）"],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "練習する",
+          "reading": "れんしゅうする",
+          "meaning": "practice"
+        },
+        {
+          "word": "予習する",
+          "reading": "よしゅうする",
+          "meaning": "prepare for a lesson"
+        },
+        {
+          "word": "復習する",
+          "reading": "ふくしゅうする",
+          "meaning": "review"
+        },
+        {
+          "word": "習慣",
+          "reading": "しゅうかん",
+          "meaning": "habit"
+        },
+        {
+          "word": "習う",
+          "reading": "ならう",
+          "meaning": "learn"
+        },
+        {
+          "word": "教える",
+          "reading": "おしえる",
+          "meaning": "teach"
+        }
+      ]
+    },
+    {
+      "char": "座",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["すわ（-る）"],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "座る",
+          "reading": "すわる",
+          "meaning": "sit"
+        },
+        {
+          "word": "立つ",
+          "reading": "たつ",
+          "meaning": "stand"
+        }
+      ]
+    },
+    {
+      "char": "乗",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["の（-る）"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "乗る",
+          "reading": "のる",
+          "meaning": "ride, get on, get in"
+        },
+        {
+          "word": "乗り物",
+          "reading": "のりもの",
+          "meaning": "vehicle"
+        },
+        {
+          "word": "乗り換える",
+          "reading": "のりかえる",
+          "meaning": "transfer, change"
+        },
+        {
+          "word": "降りる",
+          "reading": "おりる",
+          "meaning": "get off"
+        }
+      ]
+    },
+    {
+      "char": "死",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["し（-ぬ）"],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "死ぬ",
+          "reading": "しぬ",
+          "meaning": "die"
+        },
+        {
+          "word": "生きる",
+          "reading": "いきる",
+          "meaning": "live"
+        },
+        {
+          "word": "生まれる",
+          "reading": "うまれる",
+          "meaning": "be born"
+        }
+      ]
+    },
+    {
+      "char": "不",
+      "meaning": "",
+      "onyomi": ["フ"],
+      "kunyomi": [],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "不便な",
+          "reading": "ふべんな",
+          "meaning": "inconvenient"
+        },
+        {
+          "word": "便利な",
+          "reading": "べんりな",
+          "meaning": "convenient"
+        }
+      ]
+    }
+  ]
+}

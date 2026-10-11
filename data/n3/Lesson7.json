@@ -1,0 +1,500 @@
+[
+  {
+    "kanji": "出す [料理を～]",
+    "hiragana": "だす [りょうりを～]",
+    "meaning": "serve [food]",
+    "emoji": "🍽️🥘🍴"
+  },
+  {
+    "kanji": "歓迎会",
+    "hiragana": "かんげいかい",
+    "meaning": "welcome party, reception",
+    "emoji": "🎉🤝🥳"
+  },
+  {
+    "kanji": "招待状",
+    "hiragana": "しょうたいじょう",
+    "meaning": "(written) invitation",
+    "emoji": "💌✉️🎊"
+  },
+  {
+    "kanji": "ラーメン",
+    "hiragana": "",
+    "meaning": "ramen (Chinese noodles in broth)",
+    "emoji": "🍜🥢🍲"
+  },
+  {
+    "kanji": "折り紙",
+    "hiragana": "おりがみ",
+    "meaning": "origami (the art of paper folding)",
+    "emoji": "📄🦢🎨"
+  },
+  {
+    "kanji": "ピンク",
+    "hiragana": "",
+    "meaning": "pink",
+    "emoji": "🩷🌸🎀"
+  },
+  {
+    "kanji": "送別会",
+    "hiragana": "そうべつかい",
+    "meaning": "farewell party",
+    "emoji": "👋🎉🥂"
+  },
+  {
+    "kanji": "中華レストラン",
+    "hiragana": "ちゅうかレストラン",
+    "meaning": "Chinese restaurant",
+    "emoji": "🥡🥢🏮"
+  },
+  {
+    "kanji": "留学生会",
+    "hiragana": "りゅうがくせいかい",
+    "meaning": "International Students’ Association",
+    "emoji": "🌏🎓🤝"
+  },
+  {
+    "kanji": "～会",
+    "hiragana": "～かい",
+    "meaning": "～ association",
+    "emoji": "👥🤝🏢"
+  },
+  {
+    "kanji": "～会 [留学生～]",
+    "hiragana": "～かい [りゅうがくせい～]",
+    "meaning": "[International Students’ ～]",
+    "emoji": "🌏🎓👥"
+  },
+  {
+    "kanji": "会長",
+    "hiragana": "かいちょう",
+    "meaning": "chairperson",
+    "emoji": "👔🏢🤝"
+  },
+  {
+    "kanji": "点数",
+    "hiragana": "てんすう",
+    "meaning": "score",
+    "emoji": "📝💯📊"
+  },
+  {
+    "kanji": "たいした",
+    "hiragana": "",
+    "meaning": "[no] big deal",
+    "emoji": "👌🙂👍"
+  },
+  {
+    "kanji": "悪口",
+    "hiragana": "わるぐち",
+    "meaning": "badmouthing, derogatory remarks",
+    "emoji": "🗣️💬🙅"
+  },
+  {
+    "kanji": "夫婦",
+    "hiragana": "ふうふ",
+    "meaning": "married couple",
+    "emoji": "💑💍🏠"
+  },
+  {
+    "kanji": "～げんか [夫婦～]",
+    "hiragana": "[ふうふ～]",
+    "meaning": "quarrel [between husband and wife]",
+    "emoji": "💑💢🗯️"
+  },
+  {
+    "kanji": "医学部",
+    "hiragana": "いがくぶ",
+    "meaning": "medical faculty",
+    "emoji": "🏥🩺🎓"
+  },
+  {
+    "kanji": "～部 [医学～]",
+    "hiragana": "～ぶ [いがく～]",
+    "meaning": "[medical] faculty (department)",
+    "emoji": "🏥🎓📚"
+  },
+  {
+    "kanji": "ライオン",
+    "hiragana": "",
+    "meaning": "lion",
+    "emoji": "🦁🌾👑"
+  },
+  {
+    "kanji": "喜ぶ",
+    "hiragana": "よろこぶ",
+    "meaning": "be pleased",
+    "emoji": "😊🎉✨"
+  },
+  {
+    "kanji": "冗談",
+    "hiragana": "じょうだん",
+    "meaning": "joke",
+    "emoji": "😂😆💬"
+  },
+  {
+    "kanji": "～たち [男～]",
+    "hiragana": "[おとこ～]",
+    "meaning": "(plural suffix)",
+    "emoji": "👥👨‍👨‍👦🧑‍🤝‍🧑"
+  },
+  {
+    "kanji": "お化け",
+    "hiragana": "おばけ",
+    "meaning": "ghost, specter",
+    "emoji": "👻🌙💀"
+  },
+  {
+    "kanji": "いじめる",
+    "hiragana": "",
+    "meaning": "bully",
+    "emoji": "🚫😠🛡️"
+  },
+  {
+    "kanji": "感心する",
+    "hiragana": "かんしんする",
+    "meaning": "be impressed",
+    "emoji": "👏🤩✨"
+  },
+  {
+    "kanji": "親",
+    "hiragana": "おや",
+    "meaning": "parent[s]",
+    "emoji": "👨‍👩‍👧‍👦🏠❤️"
+  },
+  {
+    "kanji": "あらためて",
+    "hiragana": "",
+    "meaning": "again, afresh, anew",
+    "emoji": "🔄🆕✨"
+  },
+  {
+    "kanji": "一周",
+    "hiragana": "いっしゅう",
+    "meaning": "once around",
+    "emoji": "🔄🌍🏃"
+  },
+  {
+    "kanji": "～山",
+    "hiragana": "～さん",
+    "meaning": "Mt. (e.g., Mt. Fuji)",
+    "emoji": "⛰️🗻🌄"
+  },
+  {
+    "kanji": "芝居",
+    "hiragana": "しばい",
+    "meaning": "play, show",
+    "emoji": "🎭🎬🎟️"
+  },
+  {
+    "kanji": "せりふ",
+    "hiragana": "",
+    "meaning": "lines (in a play)",
+    "emoji": "🎭🗣️📜"
+  },
+  {
+    "kanji": "泣く",
+    "hiragana": "なく",
+    "meaning": "cry (with emotion)",
+    "emoji": "😭💧😢"
+  },
+  {
+    "kanji": "アニメ",
+    "hiragana": "",
+    "meaning": "cartoon film, animation",
+    "emoji": "🎬🎨📺"
+  },
+  {
+    "kanji": "感動する",
+    "hiragana": "かんどうする",
+    "meaning": "be moved by",
+    "emoji": "🥹❤️✨"
+  },
+  {
+    "kanji": "講演",
+    "hiragana": "こうえん",
+    "meaning": "lecture",
+    "emoji": "🎤🗣️📚"
+  },
+  {
+    "kanji": "譲る",
+    "hiragana": "ゆずる",
+    "meaning": "hand over to",
+    "emoji": "🤝📦➡️"
+  },
+  {
+    "kanji": "ツアー",
+    "hiragana": "",
+    "meaning": "tour",
+    "emoji": "🚌🗺️🎒"
+  },
+  {
+    "kanji": "きつい [スケジュールが～]",
+    "hiragana": "",
+    "meaning": "tough [schedule, etc.]",
+    "emoji": "📅😓⏰"
+  },
+  {
+    "kanji": "フリーマーケット",
+    "hiragana": "",
+    "meaning": "flea market",
+    "emoji": "🛍️🏷️🪙"
+  },
+  {
+    "kanji": "遠慮する",
+    "hiragana": "えんりょする",
+    "meaning": "decline",
+    "emoji": "🙇‍♂️💬🚫"
+  },
+  {
+    "kanji": "失礼",
+    "hiragana": "しつれい",
+    "meaning": "impoliteness",
+    "emoji": "🙇💬⚠️"
+  },
+  {
+    "kanji": "表す",
+    "hiragana": "あらわす",
+    "meaning": "show",
+    "emoji": "👁️📢📝"
+  },
+  {
+    "kanji": "受ける [誘いを～]",
+    "hiragana": "うける [さそいを～]",
+    "meaning": "accept [an invitation]",
+    "emoji": "💌🤝✅"
+  },
+  {
+    "kanji": "着付け教室",
+    "hiragana": "きつけきょうしつ",
+    "meaning": "class for learning how to put on and wear kimono correctly",
+    "emoji": "👘🎓📚"
+  },
+  {
+    "kanji": "待ち合わせる",
+    "hiragana": "まちあわせる",
+    "meaning": "meet up",
+    "emoji": "🤝📍🕒"
+  },
+  {
+    "kanji": "空く [時間が～]",
+    "hiragana": "あく [じかんが～]",
+    "meaning": "be free [have some free time]",
+    "emoji": "🕒📅✨"
+  },
+  {
+    "kanji": "交流会",
+    "hiragana": "こうりゅうかい",
+    "meaning": "get-to-know-you party",
+    "emoji": "🤝🎉👥"
+  },
+  {
+    "kanji": "いろんな",
+    "hiragana": "",
+    "meaning": "various",
+    "emoji": "🌈🧩📚"
+  },
+  {
+    "kanji": "ゼミ",
+    "hiragana": "",
+    "meaning": "seminar",
+    "emoji": "🎓🗣️📝"
+  },
+  {
+    "kanji": "せっかく",
+    "hiragana": "",
+    "meaning": "kindly",
+    "emoji": "🙏🎁✨"
+  },
+  {
+    "kanji": "今回",
+    "hiragana": "こんかい",
+    "meaning": "on this occasion",
+    "emoji": "📅📌✨"
+  },
+  {
+    "kanji": "同僚",
+    "hiragana": "どうりょう",
+    "meaning": "colleague",
+    "emoji": "👥💼🤝"
+  },
+  {
+    "kanji": "登山",
+    "hiragana": "とざん",
+    "meaning": "mountain climbing",
+    "emoji": "🥾⛰️🎒"
+  },
+  {
+    "kanji": "紅葉",
+    "hiragana": "こうよう",
+    "meaning": "gorgeous autumn foliage",
+    "emoji": "🍁🍂🌳"
+  },
+  {
+    "kanji": "見物",
+    "hiragana": "けんぶつ",
+    "meaning": "sightseeing, viewing",
+    "emoji": "👀🏞️📸"
+  },
+  {
+    "kanji": "音楽会",
+    "hiragana": "おんがくかい",
+    "meaning": "recital, concert",
+    "emoji": "🎵🎻🎤"
+  },
+  {
+    "kanji": "まんじゅう",
+    "hiragana": "",
+    "meaning": "bean-jam bun",
+    "emoji": "🍡🥮🍵"
+  },
+  {
+    "kanji": "ヘビ",
+    "hiragana": "",
+    "meaning": "snake",
+    "emoji": "🐍🌿🌳"
+  },
+  {
+    "kanji": "毛虫",
+    "hiragana": "けむし",
+    "meaning": "caterpillar",
+    "emoji": "🐛🍃🌱"
+  },
+  {
+    "kanji": "いばる",
+    "hiragana": "",
+    "meaning": "throw one's weight around",
+    "emoji": "😤👑💢"
+  },
+  {
+    "kanji": "震える",
+    "hiragana": "ふるえる",
+    "meaning": "tremble, shiver",
+    "emoji": "🥶🫨❄️"
+  },
+  {
+    "kanji": "すると",
+    "hiragana": "",
+    "meaning": "thereupon",
+    "emoji": "➡️⏭️💡"
+  },
+  {
+    "kanji": "おれ",
+    "hiragana": "",
+    "meaning": "I, me (used by men)",
+    "emoji": "🙋‍♂️🗣️👤"
+  },
+  {
+    "kanji": "～ぐらい",
+    "hiragana": "",
+    "meaning": "at least",
+    "emoji": "📏🔢📊"
+  },
+  {
+    "kanji": "お前",
+    "hiragana": "おまえ",
+    "meaning": "you (used by men)",
+    "emoji": "👉👤🗣️"
+  },
+  {
+    "kanji": "丸い",
+    "hiragana": "まるい",
+    "meaning": "round",
+    "emoji": "⚪⭕🔵"
+  },
+  {
+    "kanji": "いや",
+    "hiragana": "",
+    "meaning": "no",
+    "emoji": "🙅🚫❌"
+  },
+  {
+    "kanji": "震えだす",
+    "hiragana": "ふるえだす",
+    "meaning": "begin to tremble",
+    "emoji": "🥶🫨😰"
+  },
+  {
+    "kanji": "助ける",
+    "hiragana": "たすける",
+    "meaning": "help, save",
+    "emoji": "🆘🤝🛟"
+  },
+  {
+    "kanji": "次々に",
+    "hiragana": "つぎつぎに",
+    "meaning": "one after another",
+    "emoji": "➡️➡️➡️"
+  },
+  {
+    "kanji": "目の前",
+    "hiragana": "めのまえ",
+    "meaning": "in front of one's eyes",
+    "emoji": "👀📍🔎"
+  },
+  {
+    "kanji": "ポツリと",
+    "hiragana": "",
+    "meaning": "mutteringly",
+    "emoji": "🤫💬🌙"
+  },
+  {
+    "kanji": "ホームページ",
+    "hiragana": "",
+    "meaning": "website",
+    "emoji": "💻🌐🖥️"
+  },
+  {
+    "kanji": "笑い話",
+    "hiragana": "わらいばなし",
+    "meaning": "funny story",
+    "emoji": "😂📖😆"
+  },
+  {
+    "kanji": "落語",
+    "hiragana": "らくご",
+    "meaning": "Rakugo (traditional Japanese comic storytelling)",
+    "emoji": "🎭🗣️😂"
+  },
+  {
+    "kanji": "本当ですか。",
+    "hiragana": "ほんとうですか。",
+    "meaning": "Really?",
+    "emoji": "😮❓💬"
+  },
+  {
+    "kanji": "ぜひお願いします。",
+    "hiragana": "",
+    "meaning": "Oh, yes, please.",
+    "emoji": "🙏😊✅"
+  },
+  {
+    "kanji": "Gladly accepting an invitation.",
+    "hiragana": "",
+    "meaning": "Explanatory note: Gladly accepting an invitation.",
+    "emoji": "💌😊🤝"
+  },
+  {
+    "kanji": "せっかく誘っていただいたのに、申し訳ありません。今回は遠慮させてください。",
+    "hiragana": "せっかくさそっていただいたのに、もうしわけありません。こんかいはえんりょさせてください。",
+    "meaning": "I really appreciate the invitation, but I'm afraid I'll have to decline this time.",
+    "emoji": "🙏💌🙇"
+  },
+  {
+    "kanji": "Politely declining an invitation while expressing great regret.",
+    "hiragana": "",
+    "meaning": "Explanatory note: Politely declining an invitation while expressing great regret.",
+    "emoji": "🙇💬💔"
+  },
+  {
+    "kanji": "……かい？",
+    "hiragana": "",
+    "meaning": "(suffix indicating a question)",
+    "emoji": "❓💬🤔"
+  },
+  {
+    "kanji": "助けてくれ！",
+    "hiragana": "たすけてくれ！",
+    "meaning": "Help!",
+    "emoji": "🆘📢🛟"
+  }
+]

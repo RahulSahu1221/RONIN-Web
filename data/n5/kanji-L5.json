@@ -1,0 +1,354 @@
+
+{
+  "lesson": 5,
+  "title": "おぼえましょう",
+  "subtitle": "動詞",
+  "subtitleMeaning": "Verbs",
+  "kanji": [
+    {
+      "char": "休",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["やす（-む）"],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "休む",
+          "reading": "やすむ",
+          "meaning": "take a time off, rest"
+        },
+        {
+          "word": "休み",
+          "reading": "やすみ",
+          "meaning": "day off"
+        },
+        {
+          "word": "昼休み",
+          "reading": "ひるやすみ",
+          "meaning": "lunch break"
+        }
+      ]
+    },
+    {
+      "char": "見",
+      "meaning": "",
+      "onyomi": ["ケン"],
+      "kunyomi": ["み（-る / -える / -せる）"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "見学",
+          "reading": "けんがく",
+          "meaning": "field trip"
+        },
+        {
+          "word": "見物",
+          "reading": "けんぶつ",
+          "meaning": "sight seeing"
+        },
+        {
+          "word": "見る",
+          "reading": "みる",
+          "meaning": "see, look"
+        },
+        {
+          "word": "見える",
+          "reading": "みえる",
+          "meaning": "be visible"
+        },
+        {
+          "word": "見せる",
+          "reading": "みせる",
+          "meaning": "show"
+        }
+      ]
+    },
+    {
+      "char": "言",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["い（-う）", "こと"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "言う",
+          "reading": "いう",
+          "meaning": "say"
+        },
+        {
+          "word": "言葉",
+          "reading": "ことば",
+          "meaning": "word"
+        }
+      ]
+    },
+    {
+      "char": "行",
+      "meaning": "",
+      "onyomi": ["コウ"],
+      "kunyomi": ["い（-く）"],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "銀行",
+          "reading": "ぎんこう",
+          "meaning": "bank"
+        },
+        {
+          "word": "旅行",
+          "reading": "りょこう",
+          "meaning": "trip"
+        },
+        {
+          "word": "行く",
+          "reading": "いく",
+          "meaning": "go"
+        }
+      ]
+    },
+    {
+      "char": "書",
+      "meaning": "",
+      "onyomi": ["ショ"],
+      "kunyomi": ["か（-く）"],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "辞書",
+          "reading": "じしょ",
+          "meaning": "dictionary"
+        },
+        {
+          "word": "書く",
+          "reading": "かく",
+          "meaning": "write"
+        }
+      ]
+    },
+    {
+      "char": "読",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["よ（-む）"],
+      "strokes": 14,
+      "examples": [
+        {
+          "word": "読む",
+          "reading": "よむ",
+          "meaning": "read"
+        }
+      ]
+    },
+    {
+      "char": "買",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["か（-う）"],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "買う",
+          "reading": "かう",
+          "meaning": "buy"
+        },
+        {
+          "word": "買いもの",
+          "reading": "かいもの",
+          "meaning": "shopping"
+        }
+      ]
+    },
+    {
+      "char": "来",
+      "meaning": "",
+      "onyomi": ["ライ"],
+      "kunyomi": ["く（-る）"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "来月",
+          "reading": "らいげつ",
+          "meaning": "next month"
+        },
+        {
+          "word": "来週",
+          "reading": "らいしゅう",
+          "meaning": "next week"
+        },
+        {
+          "word": "来る",
+          "reading": "くる",
+          "meaning": "come"
+        },
+        {
+          "word": "来ない・来た",
+          "reading": "こない・きた",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "char": "立",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["た（-つ）"],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "立つ",
+          "reading": "たつ",
+          "meaning": "stand"
+        }
+      ]
+    },
+    {
+      "char": "食",
+      "meaning": "",
+      "onyomi": ["ショク"],
+      "kunyomi": ["た（-べる）"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "食事",
+          "reading": "しょくじ",
+          "meaning": "meal"
+        },
+        {
+          "word": "食堂",
+          "reading": "しょくどう",
+          "meaning": "cafeteria"
+        },
+        {
+          "word": "食料品",
+          "reading": "しょくりょうひん",
+          "meaning": "food"
+        },
+        {
+          "word": "食べる",
+          "reading": "たべる",
+          "meaning": "eat"
+        },
+        {
+          "word": "食べもの",
+          "reading": "たべもの",
+          "meaning": "food"
+        }
+      ]
+    },
+    {
+      "char": "飲",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["の（-む）"],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "飲む",
+          "reading": "のむ",
+          "meaning": "drink"
+        },
+        {
+          "word": "飲みもの",
+          "reading": "のみもの",
+          "meaning": "drinks"
+        }
+      ]
+    },
+    {
+      "char": "会",
+      "meaning": "",
+      "onyomi": ["カイ"],
+      "kunyomi": ["あ（-う）"],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "会社",
+          "reading": "かいしゃ",
+          "meaning": "company"
+        },
+        {
+          "word": "会話",
+          "reading": "かいわ",
+          "meaning": "conversation"
+        },
+        {
+          "word": "会う",
+          "reading": "あう",
+          "meaning": "meet"
+        }
+      ]
+    },
+    {
+      "char": "電",
+      "meaning": "",
+      "onyomi": ["デン"],
+      "kunyomi": [],
+      "strokes": 13,
+      "examples": [
+        {
+          "word": "電車",
+          "reading": "でんしゃ",
+          "meaning": "train"
+        },
+        {
+          "word": "電気",
+          "reading": "でんき",
+          "meaning": "electricity, electric light"
+        }
+      ]
+    },
+    {
+      "char": "話",
+      "meaning": "",
+      "onyomi": ["ワ"],
+      "kunyomi": ["はな（-す）", "はなし"],
+      "strokes": 13,
+      "examples": [
+        {
+          "word": "電話",
+          "reading": "でんわ",
+          "meaning": "telephone"
+        },
+        {
+          "word": "会話",
+          "reading": "かいわ",
+          "meaning": "conversation"
+        },
+        {
+          "word": "話す",
+          "reading": "はなす",
+          "meaning": "talk"
+        },
+        {
+          "word": "話",
+          "reading": "はなし",
+          "meaning": "talk, discussion"
+        }
+      ]
+    },
+    {
+      "char": "車",
+      "meaning": "",
+      "onyomi": ["シャ"],
+      "kunyomi": ["くるま"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "自動車",
+          "reading": "じどうしゃ",
+          "meaning": "automobile, car"
+        },
+        {
+          "word": "自転車",
+          "reading": "じてんしゃ",
+          "meaning": "bicycle"
+        },
+        {
+          "word": "車",
+          "reading": "くるま",
+          "meaning": "car"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "思います",
+    "hiragana": "おもいます",
+    "meaning": "think",
+    "emoji": "💭🤔"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "言います",
+    "hiragana": "いいます",
+    "meaning": "say",
+    "emoji": "🗣️💬"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "足ります",
+    "hiragana": "たります",
+    "meaning": "be enough, be sufficient",
+    "emoji": "✅⚖️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "勝きます",
+    "hiragana": "かちます",
+    "meaning": "win",
+    "emoji": "🏆🥇"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "負けます",
+    "hiragana": "まけます",
+    "meaning": "lose, be beaten",
+    "emoji": "📉💔"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "あります",
+    "hiragana": "あります",
+    "meaning": "[a festival] be held, take place",
+    "example": "[おまつりが ～] / [お祭りが ～]",
+    "emoji": "🏮✨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "役に 立ちます",
+    "hiragana": "やくに たちます",
+    "meaning": "be useful",
+    "emoji": "🛠️💡"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "無駄[な]",
+    "hiragana": "むだ[な]",
+    "meaning": "wasteful",
+    "emoji": "🗑️🚫"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "不便[な]",
+    "hiragana": "ふべん[な]",
+    "meaning": "inconvenient",
+    "emoji": "👎📍"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "同じ",
+    "hiragana": "おなじ",
+    "meaning": "the same",
+    "emoji": "🤝🔄"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "すごい",
+    "hiragana": "すごい",
+    "meaning": "awful, great (expresses astonishment or admiration)",
+    "emoji": "😲✨"
+  },
+  {
+    "section": "Nouns (Politics)",
+    "kanji": "首相",
+    "hiragana": "しゅしょう",
+    "meaning": "prime minister",
+    "emoji": "👔🏛️"
+  },
+  {
+    "section": "Nouns (Politics)",
+    "kanji": "大統領",
+    "hiragana": "だいとうりょう",
+    "meaning": "president",
+    "emoji": "👤🇺🇸"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "政治",
+    "hiragana": "せいじ",
+    "meaning": "politics",
+    "emoji": "🗳️⚖️"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "ニュース",
+    "hiragana": "ニュース",
+    "meaning": "news",
+    "emoji": "📰📺"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "スピーチ",
+    "hiragana": "スピーチ",
+    "meaning": "speech (～を します: make a speech)",
+    "emoji": "🎤🗣️"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "試合",
+    "hiragana": "しあい",
+    "meaning": "game, match",
+    "emoji": "⚽🏟️"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "アルバイト",
+    "hiragana": "アルバイト",
+    "meaning": "side job (～を します: work part time)",
+    "emoji": "💼⏳"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "意見",
+    "hiragana": "いけん",
+    "meaning": "opinion",
+    "emoji": "💡💭"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "[お]話",
+    "hiragana": "[お]はなし",
+    "meaning": "talk, speech, what one says, story (～を します: talk, tell a story)",
+    "emoji": "🗣️📖"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "ユーモア",
+    "hiragana": "ユーモア",
+    "meaning": "humor",
+    "emoji": "😂✨"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "無駄",
+    "hiragana": "むだ",
+    "meaning": "waste",
+    "emoji": "🚮🗑️"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "デザイン",
+    "hiragana": "デザイン",
+    "meaning": "design",
+    "emoji": "🎨✒️"
+  },
+  {
+    "section": "Nouns (Transportation)",
+    "kanji": "交通",
+    "hiragana": "こうつう",
+    "meaning": "transportation, traffic",
+    "emoji": "🚗🛑"
+  },
+  {
+    "section": "Nouns (Transportation)",
+    "kanji": "ラッシュ",
+    "hiragana": "ラッシュ",
+    "meaning": "rush hour",
+    "emoji": "⌚🚦"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "最近",
+    "hiragana": "さいきん",
+    "meaning": "recently, these days",
+    "emoji": "🗓️✨"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "たぶん",
+    "hiragana": "たぶん",
+    "meaning": "probably, perhaps, maybe",
+    "emoji": "🤔⛅"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "きっと",
+    "hiragana": "きっと",
+    "meaning": "surely",
+    "emoji": "✅💯"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "本当に",
+    "hiragana": "ほんとうに",
+    "meaning": "really",
+    "emoji": "🤩✨"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "そんなに",
+    "hiragana": "そんなに",
+    "meaning": "not so much (used with negatives)",
+    "emoji": "📉❌"
+  },
+  {
+    "section": "Particles & Expressions",
+    "kanji": "～に ついて",
+    "hiragana": "～に ついて",
+    "meaning": "about ~, concerning ~",
+    "emoji": "🔍📄"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "仕方が ありません。",
+    "hiragana": "しかたが ありません。",
+    "meaning": "There is no other choice./It can't be helped.",
+    "emoji": "🤷‍♂️🛑"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "しばらくですね。",
+    "hiragana": "しばらくですね。",
+    "meaning": "It's been a long time (since I last saw you)./Long time no see.",
+    "emoji": "🕰️👀"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "～でも 飲みませんか。",
+    "hiragana": "～でも のみませんか。",
+    "meaning": "How about drinking ~ or something?",
+    "emoji": "☕🍹"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "見ないと……。",
+    "hiragana": "みないと……。",
+    "meaning": "I've got to watch it.",
+    "emoji": "📺👀"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "もちろん",
+    "hiragana": "もちろん",
+    "meaning": "of course",
+    "emoji": "👍✅"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "カンガルー",
+    "hiragana": "カンガルー",
+    "meaning": "kangaroo",
+    "emoji": "🦘🇦🇺"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "キャプテン・クック",
+    "hiragana": "キャプテン・クック",
+    "meaning": "Captain James Cook (1728 – 79)",
+    "emoji": "👨‍✈️⛵"
+  }
+]

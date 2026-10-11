@@ -1,0 +1,1331 @@
+[
+  {
+    "section": "Nouns (General)",
+    "kanji": "暦",
+    "hiragana": "こよみ",
+    "meaning": "calendar",
+    "emoji": "📅🗓️"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "お兄ちゃん",
+    "hiragana": "おにいちゃん",
+    "meaning": "young man",
+    "emoji": "👦🧑"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "呼称",
+    "hiragana": "こしょう",
+    "meaning": "form of address",
+    "emoji": "🗣️🏷️"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "スタイル",
+    "hiragana": "スタイル",
+    "meaning": "style",
+    "emoji": "👔✨"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "太陽暦",
+    "hiragana": "たいようれき",
+    "meaning": "solar calendar",
+    "emoji": "☀️📅"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "太陰暦",
+    "hiragana": "たいいんれき",
+    "meaning": "lunar calendar",
+    "emoji": "🌙📅"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "太陰太陽暦",
+    "hiragana": "たいいんたいようれき",
+    "meaning": "lunisolar calendar",
+    "emoji": "☀️🌙📅"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "まつわる",
+    "hiragana": "まつわる",
+    "meaning": "about; concerning; related to",
+    "emoji": "🔗📖"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "本来",
+    "hiragana": "ほんらい",
+    "meaning": "originally",
+    "emoji": "🕰️📜"
+  },
+  {
+    "section": "Nouns (Animals)",
+    "kanji": "タコ",
+    "hiragana": "タコ",
+    "meaning": "octopus",
+    "emoji": "🐙🌊"
+  },
+  {
+    "section": "Nouns (Shapes)",
+    "kanji": "八角形",
+    "hiragana": "はっかっけい",
+    "meaning": "octagon",
+    "emoji": "🛑📐"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "不備",
+    "hiragana": "ふび",
+    "meaning": "deficiency; inadequacy; defect",
+    "emoji": "⚠️❌"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "補う",
+    "hiragana": "おぎなう",
+    "meaning": "compensate for; make up for; supplement",
+    "emoji": "➕🩹🤝"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "呼び名",
+    "hiragana": "よびな",
+    "meaning": "what a person is called; name",
+    "emoji": "🏷️🗣️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "ずれる",
+    "hiragana": "ずれる",
+    "meaning": "get out of sync; become misaligned",
+    "emoji": "↔️⏱️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "改暦[する]",
+    "hiragana": "かいれき[する]",
+    "meaning": "reform the calendar",
+    "emoji": "📅🔄📝"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "新暦",
+    "hiragana": "しんれき",
+    "meaning": "new calendar",
+    "emoji": "🆕📅"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "旧暦",
+    "hiragana": "きゅうれき",
+    "meaning": "old calendar",
+    "emoji": "📜📅"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "別",
+    "hiragana": "べつ",
+    "meaning": "apart from; separate; different",
+    "emoji": "↔️✂️"
+  },
+  {
+    "section": "Nouns (Calendar Terms)",
+    "kanji": "睦月",
+    "hiragana": "むつき",
+    "meaning": "name for January under the lunar calendar",
+    "emoji": "❄️📅"
+  },
+  {
+    "section": "Nouns (Calendar Terms)",
+    "kanji": "如月",
+    "hiragana": "きさらぎ",
+    "meaning": "name for February under the lunar calendar",
+    "emoji": "❄️🌸📅"
+  },
+  {
+    "section": "Nouns (Calendar Terms)",
+    "kanji": "弥生",
+    "hiragana": "やよい",
+    "meaning": "name for March under the lunar calendar",
+    "emoji": "🌱🌸📅"
+  },
+  {
+    "section": "Nouns (Nature)",
+    "kanji": "木の葉",
+    "hiragana": "このは",
+    "meaning": "tree leaf",
+    "emoji": "🍃🌳"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "転じる",
+    "hiragana": "てんじる",
+    "meaning": "change; turn into",
+    "emoji": "🔄➡️"
+  },
+  {
+    "section": "Nouns (Calendar Terms)",
+    "kanji": "葉月",
+    "hiragana": "はづき",
+    "meaning": "name for August under the lunar calendar",
+    "emoji": "🍃☀️📅"
+  },
+  {
+    "section": "Nouns (Calendar Terms)",
+    "kanji": "長月",
+    "hiragana": "ながつき",
+    "meaning": "name for September under the lunar calendar",
+    "emoji": "🍂🌙📅"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "名づける",
+    "hiragana": "なづける",
+    "meaning": "call; name",
+    "emoji": "🏷️📝👶"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "立春",
+    "hiragana": "りっしゅん",
+    "meaning": "beginning of spring",
+    "emoji": "🌱🌸☀️"
+  },
+  {
+    "section": "Nouns (Time)",
+    "kanji": "初旬",
+    "hiragana": "しょじゅん",
+    "meaning": "early part of a month",
+    "emoji": "📅🔟"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "生じる",
+    "hiragana": "しょうじる",
+    "meaning": "arise; occur",
+    "emoji": "⚡🌱"
+  },
+  {
+    "section": "Nouns (Time)",
+    "kanji": "長年",
+    "hiragana": "ながねん",
+    "meaning": "many years",
+    "emoji": "📅⏳"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "慣れ親しむ",
+    "hiragana": "なれしたしむ",
+    "meaning": "enjoy; spend a lot of time ~ing; become familiar with",
+    "emoji": "❤️🤝⏳"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "切り替える",
+    "hiragana": "きりかえる",
+    "meaning": "switch; change over",
+    "emoji": "🔀🔄"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "体制",
+    "hiragana": "たいせい",
+    "meaning": "system; structure; organization",
+    "emoji": "🏢⚙️"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "人心",
+    "hiragana": "じんしん",
+    "meaning": "people's thinking; public sentiment",
+    "emoji": "👥💭❤️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "一新[する]",
+    "hiragana": "いっしん[する]",
+    "meaning": "revolutionize; renew completely",
+    "emoji": "🔄✨🆕"
+  },
+  {
+    "section": "Nouns (Time)",
+    "kanji": "閏年",
+    "hiragana": "うるうどし",
+    "meaning": "leap year",
+    "emoji": "📅➕1️⃣"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "抱える [問題を～]",
+    "hiragana": "かかえる [もんだいを～]",
+    "meaning": "have [a problem]; face [an issue]",
+    "example": "[問題を～]",
+    "emoji": "😟📋💭"
+  },
+  {
+    "section": "Nouns (Business & Finance)",
+    "kanji": "会計",
+    "hiragana": "かいけい",
+    "meaning": "accounting",
+    "emoji": "🧮💴📊"
+  },
+  {
+    "section": "Nouns (Time)",
+    "kanji": "年度",
+    "hiragana": "ねんど",
+    "meaning": "fiscal year",
+    "emoji": "📅📊"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "西洋",
+    "hiragana": "せいよう",
+    "meaning": "the West",
+    "emoji": "🌍🏛️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "ならう",
+    "hiragana": "ならう",
+    "meaning": "adopt",
+    "emoji": "✅🔄"
+  },
+  {
+    "section": "Adjectives (Fixed/Set)",
+    "kanji": "一定",
+    "hiragana": "いってい",
+    "meaning": "fixed; constant; certain",
+    "emoji": "📏🔒"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "諸～[～外国]",
+    "hiragana": "しょ～[～がいこく]",
+    "meaning": "various [foreign countries]",
+    "example": "[諸外国]",
+    "emoji": "🌍🌐🗺️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "実施[する]",
+    "hiragana": "じっし[する]",
+    "meaning": "carry out; implement",
+    "emoji": "📝⚙️✅"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "唐突[な]",
+    "hiragana": "とうとつ[な]",
+    "meaning": "sudden; abrupt",
+    "emoji": "⚡😮"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "戸惑う",
+    "hiragana": "とまどう",
+    "meaning": "become bewildered; be confused",
+    "emoji": "😵‍💫❓🤔"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "真の",
+    "hiragana": "しんの",
+    "meaning": "real; true; genuine",
+    "emoji": "💎✅"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "ねらい",
+    "hiragana": "ねらい",
+    "meaning": "aim; objective; target",
+    "emoji": "🎯🏹"
+  },
+  {
+    "section": "Nouns (Time)",
+    "kanji": "当時",
+    "hiragana": "とうじ",
+    "meaning": "at the time; in those days",
+    "emoji": "🕰️📅"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "支出[する]",
+    "hiragana": "ししゅつ[する]",
+    "meaning": "expenditure; spend money",
+    "emoji": "💸💴🧾"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "占める",
+    "hiragana": "しめる",
+    "meaning": "account for; occupy; make up",
+    "emoji": "📊🧮"
+  },
+  {
+    "section": "Nouns (Business & Finance)",
+    "kanji": "人件費",
+    "hiragana": "じんけんひ",
+    "meaning": "personnel costs; labor costs",
+    "emoji": "👥💴🧾"
+  },
+  {
+    "section": "Nouns (Business & Finance)",
+    "kanji": "費[人件～]",
+    "hiragana": "ひ[じんけん～]",
+    "meaning": "[personnel] costs",
+    "example": "[人件費]",
+    "emoji": "💴🧾📊"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "不足[する]",
+    "hiragana": "ふそく[する]",
+    "meaning": "lack; be insufficient",
+    "emoji": "📉⚠️"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "新制度",
+    "hiragana": "しんせいど",
+    "meaning": "new system",
+    "emoji": "🆕⚙️📋"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "導入[する]",
+    "hiragana": "どうにゅう[する]",
+    "meaning": "introduce; bring in",
+    "emoji": "📥🆕✅"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "役人",
+    "hiragana": "やくにん",
+    "meaning": "civil servant; government official",
+    "emoji": "🏛️👔📋"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "補充[する]",
+    "hiragana": "ほじゅう[する]",
+    "meaning": "recruit; replenish; replenish staff",
+    "emoji": "👥➕📝"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "財政難",
+    "hiragana": "ざいせいなん",
+    "meaning": "financially troubled; financial difficulties",
+    "emoji": "💸📉⚠️"
+  },
+  {
+    "section": "Nouns (Business & Finance)",
+    "kanji": "財政",
+    "hiragana": "ざいせい",
+    "meaning": "finance; public finances",
+    "emoji": "💴🏦📊"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "難[財政～]",
+    "hiragana": "なん[ざいせい～]",
+    "meaning": "[financially-] troubled; difficulty",
+    "example": "[財政難]",
+    "emoji": "⚠️💸📉"
+  },
+  {
+    "section": "Nouns (Politics)",
+    "kanji": "新政権",
+    "hiragana": "しんせいけん",
+    "meaning": "new regime; new administration",
+    "emoji": "🏛️🆕"
+  },
+  {
+    "section": "Nouns (Politics)",
+    "kanji": "政権",
+    "hiragana": "せいけん",
+    "meaning": "regime; administration in power",
+    "emoji": "🏛️👥"
+  },
+  {
+    "section": "Nouns (Time)",
+    "kanji": "翌日",
+    "hiragana": "よくじつ",
+    "meaning": "the next day",
+    "emoji": "📅➡️🌅"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "決断[する]",
+    "hiragana": "けつだん[する]",
+    "meaning": "decide; make a decision",
+    "emoji": "🤔✅🎯"
+  },
+  {
+    "section": "Nouns (Time)",
+    "kanji": "翌年",
+    "hiragana": "よくねん",
+    "meaning": "the next year",
+    "emoji": "📅➡️🎆"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "計～",
+    "hiragana": "けい～",
+    "meaning": "total; overall",
+    "emoji": "🧮➕📊"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "回避[する]",
+    "hiragana": "かいひ[する]",
+    "meaning": "avoid; evade",
+    "emoji": "🚫↪️🛡️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "もくろむ",
+    "hiragana": "もくろむ",
+    "meaning": "plan; scheme; intend",
+    "emoji": "🧠📝🎯"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "作成[する]",
+    "hiragana": "さくせい[する]",
+    "meaning": "prepare; create; draw up",
+    "emoji": "📝📄✅"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "報告[する]",
+    "hiragana": "ほうこく[する]",
+    "meaning": "report",
+    "emoji": "📢📝📊"
+  },
+  {
+    "section": "Verbs (Conversation)",
+    "kanji": "歓談[する]",
+    "hiragana": "かんだん[する]",
+    "meaning": "talk pleasantly; chat",
+    "emoji": "🗣️😊☕"
+  },
+  {
+    "section": "Nouns (Events)",
+    "kanji": "節分",
+    "hiragana": "せつぶん",
+    "meaning": "the day before the beginning of spring",
+    "emoji": "👹🫘🌱"
+  },
+  {
+    "section": "Nouns (Events)",
+    "kanji": "行事",
+    "hiragana": "ぎょうじ",
+    "meaning": "event; function",
+    "emoji": "🎉📅👥"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "リビングルーム",
+    "hiragana": "リビングルーム",
+    "meaning": "living room",
+    "emoji": "🛋️🏠📺"
+  },
+  {
+    "section": "Verbs (Expressions)",
+    "kanji": "ご無沙汰[する]",
+    "hiragana": "ごぶさた[する]",
+    "meaning": "be out of touch; not see or contact someone for a long time",
+    "emoji": "📵⏳👋"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "お久しぶり",
+    "hiragana": "おひさしぶり",
+    "meaning": "long time no see",
+    "emoji": "👋😊⏳"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "口に合う",
+    "hiragana": "くちにあう",
+    "meaning": "be to someone's taste",
+    "emoji": "😋🍜👌"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "邪魔[する]",
+    "hiragana": "じゃま[する]",
+    "meaning": "be a nuisance; be in the way; disturb",
+    "emoji": "🚧🙅😣"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "おかまい",
+    "hiragana": "おかまい",
+    "meaning": "hospitality; concern for a guest",
+    "emoji": "🍵🤝🏠"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "おいで",
+    "hiragana": "おいで",
+    "meaning": "come; come in",
+    "emoji": "👋🚶➡️"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "早いもんだよ。",
+    "hiragana": "はやいもんだよ。",
+    "meaning": "Time passes fast indeed. (exclamatory colloquial expression)",
+    "emoji": "⏳💨😮"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "お面",
+    "hiragana": "おめん",
+    "meaning": "mask",
+    "emoji": "🎭👺"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "まく [豆を～]",
+    "hiragana": "まめをまく",
+    "meaning": "scatter [beans]",
+    "example": "[豆を～]",
+    "emoji": "🫘🌱🙌"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "追い払う",
+    "hiragana": "おいはらう",
+    "meaning": "drive out; chase away",
+    "emoji": "👹➡️🏃"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "今どき",
+    "hiragana": "いまどき",
+    "meaning": "nowadays",
+    "emoji": "📱🌐🕒"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "よっぽど／よほど",
+    "hiragana": "よっぽど／よほど",
+    "meaning": "far more; considerably; very",
+    "emoji": "📈💯"
+  },
+  {
+    "section": "Nouns (Nature)",
+    "kanji": "四季",
+    "hiragana": "しき",
+    "meaning": "the four seasons",
+    "emoji": "🌸☀️🍁❄️"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "折々[四季～]",
+    "hiragana": "おりおり[しき～]",
+    "meaning": "each; from time to time; in each of the four seasons",
+    "example": "[四季折々]",
+    "emoji": "🌸☀️🍁❄️"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "おじさん (子どもに向かっての)",
+    "hiragana": "こどもにむかっての",
+    "meaning": "I (lit. 'Uncle')",
+    "emoji": "👨🧒🗣️"
+  },
+  {
+    "section": "Nouns (Organizations)",
+    "kanji": "ユース",
+    "hiragana": "ユース",
+    "meaning": "youth club",
+    "emoji": "🧑‍🤝‍🧑⚽🎉"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "抜く [人を～]",
+    "hiragana": "ぬく [ひとを～]",
+    "meaning": "outrun [a person]; overtake",
+    "example": "[人を～]",
+    "emoji": "🏃💨🥇"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "展示品",
+    "hiragana": "てんじひん",
+    "meaning": "exhibit; displayed item",
+    "emoji": "🖼️🏛️📦"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "親子",
+    "hiragana": "おやこ",
+    "meaning": "parent and child",
+    "emoji": "👨‍👧❤️👩‍👦"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "かける [声を～]",
+    "hiragana": "こえをかける",
+    "meaning": "speak to; call out to",
+    "example": "[声を～]",
+    "emoji": "🗣️👋💬"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "水族館",
+    "hiragana": "すいぞくかん",
+    "meaning": "aquarium",
+    "emoji": "🐠🐬🌊"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "～連れ",
+    "hiragana": "～づれ",
+    "meaning": "accompanied by ~",
+    "emoji": "👥🚶🤝"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "母親",
+    "hiragana": "ははおや",
+    "meaning": "mother",
+    "emoji": "👩❤️👶"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "リレー",
+    "hiragana": "リレー",
+    "meaning": "relay",
+    "emoji": "🏃🏃‍♀️🏁"
+  },
+  {
+    "section": "Nouns (Events)",
+    "kanji": "ひな祭り",
+    "hiragana": "ひなまつり",
+    "meaning": "Doll Festival",
+    "emoji": "🎎🌸🎉"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "ひな人形",
+    "hiragana": "ひなにんぎょう",
+    "meaning": "dolls for the Doll Festival",
+    "emoji": "🎎👘🌸"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "身近",
+    "hiragana": "みぢか",
+    "meaning": "close; familiar; nearby",
+    "emoji": "🤝📍❤️"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "都道府県",
+    "hiragana": "とどうふけん",
+    "meaning": "prefectures",
+    "emoji": "🗾📍🏛️"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "著者",
+    "hiragana": "ちょしゃ",
+    "meaning": "author",
+    "emoji": "✍️📚🖋️"
+  },
+  {
+    "section": "Nouns (Food)",
+    "kanji": "クッキー",
+    "hiragana": "クッキー",
+    "meaning": "biscuit; cookie",
+    "emoji": "🍪🥛"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "恋愛[する]",
+    "hiragana": "れんあい[する]",
+    "meaning": "fall in love with; have a romantic relationship",
+    "emoji": "❤️💘🥰"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "冒険",
+    "hiragana": "ぼうけん",
+    "meaning": "adventure",
+    "emoji": "🧭🏔️🎒"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "好む",
+    "hiragana": "このむ",
+    "meaning": "like; prefer",
+    "emoji": "❤️👍😊"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "地方",
+    "hiragana": "ちほう",
+    "meaning": "region; district",
+    "emoji": "🗺️📍🏞️"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "特産品",
+    "hiragana": "とくさんひん",
+    "meaning": "speciality; local specialty product",
+    "emoji": "🎁🛍️🌾"
+  },
+  {
+    "section": "Nouns (Food)",
+    "kanji": "玉ねぎ",
+    "hiragana": "たまねぎ",
+    "meaning": "onion",
+    "emoji": "🧅🥗"
+  },
+  {
+    "section": "Nouns (Food)",
+    "kanji": "じゃがいも",
+    "hiragana": "じゃがいも",
+    "meaning": "potato",
+    "emoji": "🥔🍟"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "盛ん[な]",
+    "hiragana": "さかん[な]",
+    "meaning": "wide; flourishing; active; thriving",
+    "emoji": "📈🌱🔥"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "移す",
+    "hiragana": "うつす",
+    "meaning": "move; transfer",
+    "emoji": "📦➡️🚚"
+  },
+  {
+    "section": "Nouns (Business & Finance)",
+    "kanji": "コスト",
+    "hiragana": "コスト",
+    "meaning": "cost",
+    "emoji": "💴🧾📊"
+  },
+  {
+    "section": "Nouns (Politics)",
+    "kanji": "出口調査",
+    "hiragana": "でぐちちょうさ",
+    "meaning": "exit poll",
+    "emoji": "🗳️📊📝"
+  },
+  {
+    "section": "Nouns (Health)",
+    "kanji": "生活習慣病",
+    "hiragana": "せいかつしゅうかんびょう",
+    "meaning": "lifestyle-related illness",
+    "emoji": "🏥🍔⚠️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "おぼれる",
+    "hiragana": "おぼれる",
+    "meaning": "drown",
+    "emoji": "🌊🆘😰"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "複数",
+    "hiragana": "ふくすう",
+    "meaning": "several; multiple",
+    "emoji": "🔢👥"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "足跡",
+    "hiragana": "あしあと",
+    "meaning": "footprint; tracks",
+    "emoji": "👣🏞️"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "頂上",
+    "hiragana": "ちょうじょう",
+    "meaning": "summit; peak",
+    "emoji": "🏔️🥾🏁"
+  },
+  {
+    "section": "Nouns (Weather)",
+    "kanji": "吹雪",
+    "hiragana": "ふぶき",
+    "meaning": "snowstorm; blizzard",
+    "emoji": "🌨️❄️💨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "遭う [吹雪に～]",
+    "hiragana": "あう [ふぶきに～]",
+    "meaning": "encounter [a snowstorm]",
+    "example": "[吹雪に～]",
+    "emoji": "🌨️🚶⚠️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "引き返す",
+    "hiragana": "ひきかえす",
+    "meaning": "turn back; return",
+    "emoji": "↩️🚶🔙"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "予想[する]",
+    "hiragana": "よそう[する]",
+    "meaning": "expect; predict",
+    "emoji": "🔮📊🤔"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "はるかに",
+    "hiragana": "はるかに",
+    "meaning": "far; much; by far",
+    "emoji": "🏔️↔️📏"
+  },
+  {
+    "section": "Nouns (Events)",
+    "kanji": "イベント",
+    "hiragana": "イベント",
+    "meaning": "event",
+    "emoji": "🎉📅👥"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "納得[する]",
+    "hiragana": "なっとく[する]",
+    "meaning": "agree with; understand and accept",
+    "emoji": "🤔💡✅"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "方針",
+    "hiragana": "ほうしん",
+    "meaning": "policy; course of action",
+    "emoji": "🧭📋🎯"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "新入生",
+    "hiragana": "しんにゅうせい",
+    "meaning": "new student; freshman",
+    "emoji": "🎓📚🆕"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "持つ [子どもを～]",
+    "hiragana": "もつ [こどもを～]",
+    "meaning": "have [children]",
+    "example": "[子どもを～]",
+    "emoji": "👨‍👩‍👧‍👦❤️👶"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "ありがたい",
+    "hiragana": "ありがたい",
+    "meaning": "grateful; welcome; appreciated",
+    "emoji": "🙏❤️😊"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "稼ぐ",
+    "hiragana": "かせぐ",
+    "meaning": "earn; make money",
+    "emoji": "💴💼💰"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "あきれる",
+    "hiragana": "あきれる",
+    "meaning": "be astonished; be amazed",
+    "emoji": "😲😮🤯"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "素人",
+    "hiragana": "しろうと",
+    "meaning": "amateur; beginner; nonprofessional",
+    "emoji": "🧑‍🎓🌱"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "相当[な]",
+    "hiragana": "そうとう[な]",
+    "meaning": "not at all bad; considerable; fairly",
+    "emoji": "👍📈💯"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "独学[する]",
+    "hiragana": "どくがく[する]",
+    "meaning": "study by oneself; self-study",
+    "emoji": "📚🧠✍️"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "基準",
+    "hiragana": "きじゅん",
+    "meaning": "standard; criterion",
+    "emoji": "📏📋✅"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "照らす",
+    "hiragana": "てらす",
+    "meaning": "compare; illuminate; shine on",
+    "emoji": "🔦🔍☀️"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "新入社員",
+    "hiragana": "しんにゅうしゃいん",
+    "meaning": "new employee",
+    "emoji": "👔🏢🆕"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "応対[する]",
+    "hiragana": "おうたい[する]",
+    "meaning": "deal with; attend to; respond to",
+    "emoji": "🗣️🤝📞"
+  },
+  {
+    "section": "Nouns (Education)",
+    "kanji": "学位",
+    "hiragana": "がくい",
+    "meaning": "degree",
+    "emoji": "🎓📜🏅"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "負けず嫌い",
+    "hiragana": "まけずぎらい",
+    "meaning": "hating to lose; competitive",
+    "emoji": "🏆💪🔥"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "バイオリン",
+    "hiragana": "バイオリン",
+    "meaning": "violin",
+    "emoji": "🎻🎶"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "着替える",
+    "hiragana": "きがえる",
+    "meaning": "get changed; change clothes",
+    "emoji": "👕👖🔄"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "しゃくりあげる",
+    "hiragana": "しゃくりあげる",
+    "meaning": "sob convulsively",
+    "emoji": "😭💧😢"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "しっかり",
+    "hiragana": "しっかり",
+    "meaning": "sensibly; firmly; properly",
+    "emoji": "💪🧠✅"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "甘えん坊",
+    "hiragana": "あまえんぼう",
+    "meaning": "pampered child; someone who likes being spoiled",
+    "emoji": "🧒🥺❤️"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "鐘",
+    "hiragana": "かね",
+    "meaning": "gong; bell",
+    "emoji": "🔔🥁"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "ルーツ",
+    "hiragana": "ルーツ",
+    "meaning": "origin; roots",
+    "emoji": "🌱🌳📜"
+  },
+  {
+    "section": "Nouns (History)",
+    "kanji": "古代",
+    "hiragana": "こだい",
+    "meaning": "ancient times; antiquity",
+    "emoji": "🏛️📜⏳"
+  },
+  {
+    "section": "Nouns (Politics & History)",
+    "kanji": "王国",
+    "hiragana": "おうこく",
+    "meaning": "kingdom",
+    "emoji": "👑🏰"
+  },
+  {
+    "section": "Nouns (Science)",
+    "kanji": "天文",
+    "hiragana": "てんもん",
+    "meaning": "astronomy",
+    "emoji": "🔭🌌🪐"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "学者",
+    "hiragana": "がくしゃ",
+    "meaning": "scholar",
+    "emoji": "📚🎓🧠"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "観測[する]",
+    "hiragana": "かんそく[する]",
+    "meaning": "observe; make observations",
+    "emoji": "🔭👀📊"
+  },
+  {
+    "section": "Nouns (Astronomy)",
+    "kanji": "水星",
+    "hiragana": "すいせい",
+    "meaning": "Mercury",
+    "emoji": "🪐☀️"
+  },
+  {
+    "section": "Nouns (Astronomy)",
+    "kanji": "金星",
+    "hiragana": "きんせい",
+    "meaning": "Venus",
+    "emoji": "🪐✨"
+  },
+  {
+    "section": "Nouns (Astronomy)",
+    "kanji": "火星",
+    "hiragana": "かせい",
+    "meaning": "Mars",
+    "emoji": "🔴🪐"
+  },
+  {
+    "section": "Nouns (Astronomy)",
+    "kanji": "木星",
+    "hiragana": "もくせい",
+    "meaning": "Jupiter",
+    "emoji": "🪐🌌"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "支配[する]",
+    "hiragana": "しはい[する]",
+    "meaning": "control; rule; dominate",
+    "emoji": "👑🎮⚙️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "特定[する]",
+    "hiragana": "とくてい[する]",
+    "meaning": "specify; identify",
+    "emoji": "🔍📍✅"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "割り振る",
+    "hiragana": "わりふる",
+    "meaning": "allot; assign; allocate",
+    "emoji": "📋➗👥"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "並び順",
+    "hiragana": "ならびじゅん",
+    "meaning": "order in which things are lined up",
+    "emoji": "🔢↔️📋"
+  },
+  {
+    "section": "Nouns (Events)",
+    "kanji": "端午の節句",
+    "hiragana": "たんごのせっく",
+    "meaning": "Boys' Festival",
+    "emoji": "🎏👦🎉"
+  },
+  {
+    "section": "Nouns (Events)",
+    "kanji": "節句",
+    "hiragana": "せっく",
+    "meaning": "seasonal festival",
+    "emoji": "🎉📅🌸"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "武者人形",
+    "hiragana": "むしゃにんぎょう",
+    "meaning": "samurai warrior doll",
+    "emoji": "🗡️🎎🏯"
+  },
+  {
+    "section": "Nouns (Objects)",
+    "kanji": "鯉のぼり",
+    "hiragana": "こいのぼり",
+    "meaning": "carp banner or streamer",
+    "emoji": "🎏🐟🌬️"
+  },
+  {
+    "section": "Nouns (Animals)",
+    "kanji": "鯉",
+    "hiragana": "こい",
+    "meaning": "carp",
+    "emoji": "🐟🌊"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "伝説",
+    "hiragana": "でんせつ",
+    "meaning": "legend",
+    "emoji": "📜🐉✨"
+  },
+  {
+    "section": "Nouns (Nature)",
+    "kanji": "流れ [川の～]",
+    "hiragana": "ながれ [かわの～]",
+    "meaning": "flow [of a river]",
+    "example": "[川の～]",
+    "emoji": "🌊🏞️💧"
+  },
+  {
+    "section": "Nouns (Nature)",
+    "kanji": "滝",
+    "hiragana": "たき",
+    "meaning": "waterfall",
+    "emoji": "🏞️💦🌊"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "逆らう",
+    "hiragana": "さからう",
+    "meaning": "oppose; go against",
+    "emoji": "✊🚫↔️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "光り輝く",
+    "hiragana": "ひかりかがやく",
+    "meaning": "shine; glitter; sparkle",
+    "emoji": "✨💎🌟"
+  },
+  {
+    "section": "Nouns (Mythology)",
+    "kanji": "竜",
+    "hiragana": "りゅう",
+    "meaning": "dragon",
+    "emoji": "🐉🔥🌌"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "変身[する]",
+    "hiragana": "へんしん[する]",
+    "meaning": "transform; change one's appearance",
+    "emoji": "🔄🦸✨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "昇る [天に～]",
+    "hiragana": "のぼる [てんに～]",
+    "meaning": "ascend [to the heavens]",
+    "example": "[天に～]",
+    "emoji": "🐉⬆️☁️"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "困難",
+    "hiragana": "こんなん",
+    "meaning": "difficulty; hardship",
+    "emoji": "⛰️⚠️😓"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "立ち向かう",
+    "hiragana": "たちむかう",
+    "meaning": "face; confront; stand up to",
+    "emoji": "💪🛡️🎯"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "生まれる [鯉のぼりが～]",
+    "hiragana": "うまれる [こいのぼりが～]",
+    "meaning": "[carp banners] come into being",
+    "example": "[鯉のぼりが～]",
+    "emoji": "🎏🌱🎉"
+  },
+  {
+    "section": "Proper Nouns (History)",
+    "kanji": "古代ローマ",
+    "hiragana": "こだいローマ",
+    "meaning": "Ancient Rome",
+    "emoji": "🏛️⚔️📜"
+  },
+  {
+    "section": "Proper Nouns (History)",
+    "kanji": "明治時代",
+    "hiragana": "めいじじだい",
+    "meaning": "The Meiji Era",
+    "emoji": "🇯🇵📜🕰️"
+  },
+  {
+    "section": "Proper Nouns (People)",
+    "kanji": "ペレ",
+    "hiragana": "ペレ",
+    "meaning": "Pelé: Brazilian former soccer player, dubbed 'The King of Soccer.' 1940–",
+    "emoji": "⚽👑🇧🇷"
+  },
+  {
+    "section": "Proper Nouns (Media)",
+    "kanji": "『ポケモン』",
+    "hiragana": "ポケモン",
+    "meaning": "Pokemon (Pocket Monsters): An anime title.",
+    "emoji": "⚡🎮📺"
+  },
+  {
+    "section": "Proper Nouns (Places)",
+    "kanji": "ハワイ",
+    "hiragana": "ハワイ",
+    "meaning": "Hawaii",
+    "emoji": "🏝️🌺🌊"
+  },
+  {
+    "section": "Proper Nouns (Organizations)",
+    "kanji": "NHK",
+    "hiragana": "エヌエイチケー",
+    "meaning": "NHK (Nippon Hoso Kyokai): Japan Broadcasting Corporation.",
+    "emoji": "📺🇯🇵📰"
+  },
+  {
+    "section": "Proper Nouns (Events)",
+    "kanji": "天神祭",
+    "hiragana": "てんじんまつり",
+    "meaning": "Tenjin Festival: The Tenman Tenjin festival in Osaka is particularly famous and is one of Japan's three biggest festivals.",
+    "emoji": "🎆🏮🎉"
+  },
+  {
+    "section": "Proper Nouns (Places)",
+    "kanji": "バビロニア",
+    "hiragana": "バビロニア",
+    "meaning": "Babylonia",
+    "emoji": "🏛️📜🌍"
+  }
+]

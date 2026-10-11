@@ -1,0 +1,387 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "食べます",
+    "hiragana": "たべます",
+    "meaning": "eat",
+    "emoji": "🍽️😋"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "飲みます",
+    "hiragana": "のみます",
+    "meaning": "drink",
+    "emoji": "🥤🧊"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "吸います",
+    "hiragana": "すいます",
+    "meaning": "smoke [a cigarette]",
+    "example": "[たばこを ～]",
+    "emoji": "🚬💨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "見ます",
+    "hiragana": "みます",
+    "meaning": "see, look at, watch",
+    "emoji": "👀📺"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "聞きます",
+    "hiragana": "ききます",
+    "meaning": "hear, listen",
+    "emoji": "👂🎧"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "読みます",
+    "hiragana": "よみます",
+    "meaning": "read",
+    "emoji": "📖👀"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "書きます",
+    "hiragana": "かきます",
+    "meaning": "write, draw, paint",
+    "emoji": "✍️📝"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "買います",
+    "hiragana": "かいます",
+    "meaning": "buy",
+    "emoji": "🛍️💴"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "撮ります",
+    "hiragana": "とります",
+    "meaning": "take [a photograph]",
+    "example": "[しゃしんを ～] / [写真を ～]",
+    "emoji": "📸🎞️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "します",
+    "hiragana": "します",
+    "meaning": "do",
+    "emoji": "🔄✨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "会います",
+    "hiragana": "あいます",
+    "meaning": "meet [a friend]",
+    "example": "[ともだちに ～] / [友達に ～]",
+    "emoji": "🤝🧑‍🤝‍🧑"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "ごはん",
+    "hiragana": "ごはん",
+    "meaning": "a meal, cooked rice",
+    "emoji": "🍚🥢"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "朝ごはん",
+    "hiragana": "あさごはん",
+    "meaning": "breakfast",
+    "emoji": "🌅🍳"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "昼ごはん",
+    "hiragana": "ひるごはん",
+    "meaning": "lunch",
+    "emoji": "☀️🍱"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "晩ごはん",
+    "hiragana": "ばんごはん",
+    "meaning": "supper",
+    "emoji": "🌙🍲"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "パン",
+    "hiragana": "パン",
+    "meaning": "bread",
+    "emoji": "🍞🥐"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "卵",
+    "hiragana": "たまご",
+    "meaning": "egg",
+    "emoji": "🥚🍳"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "肉",
+    "hiragana": "にく",
+    "meaning": "meat",
+    "emoji": "🥩🍗"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "meaning": "fish",
+    "emoji": "🐟🐠"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "meaning": "vegetable",
+    "emoji": "🥦🥕"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "果物",
+    "hiragana": "くだもの",
+    "meaning": "fruit",
+    "emoji": "🍎🍇"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "水",
+    "hiragana": "みず",
+    "meaning": "water",
+    "emoji": "🚰💧"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "お茶",
+    "hiragana": "おちゃ",
+    "meaning": "tea, green tea",
+    "emoji": "🍵🌿"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "紅茶",
+    "hiragana": "こうちゃ",
+    "meaning": "black tea",
+    "emoji": "🫖☕"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "牛乳",
+    "hiragana": "ぎゅうにゅう (ミルク)",
+    "meaning": "milk",
+    "emoji": "🥛🐄"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "ジュース",
+    "hiragana": "ジュース",
+    "meaning": "juice",
+    "emoji": "🧃🍊"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "ビール",
+    "hiragana": "ビール",
+    "meaning": "beer",
+    "emoji": "🍺🍻"
+  },
+  {
+    "section": "Nouns (Food & Drink)",
+    "kanji": "[お]酒",
+    "hiragana": "[お]さけ",
+    "meaning": "alcohol, Japanese rice wine",
+    "emoji": "🍶🏮"
+  },
+  {
+    "section": "Nouns (Media & Communication)",
+    "kanji": "ビデオ",
+    "hiragana": "ビデオ",
+    "meaning": "video tape, video deck",
+    "emoji": "📼📺"
+  },
+  {
+    "section": "Nouns (Media & Communication)",
+    "kanji": "映画",
+    "hiragana": "えいが",
+    "meaning": "movie",
+    "emoji": "🎬🍿"
+  },
+  {
+    "section": "Nouns (Media & Communication)",
+    "kanji": "ＣＤ",
+    "hiragana": "ＣＤ",
+    "meaning": "CD, compact disc",
+    "emoji": "💿🎵"
+  },
+  {
+    "section": "Nouns (Media & Communication)",
+    "kanji": "手紙",
+    "hiragana": "てがみ",
+    "meaning": "letter",
+    "emoji": "✉️📮"
+  },
+  {
+    "section": "Nouns (Media & Communication)",
+    "kanji": "レポート",
+    "hiragana": "レポート",
+    "meaning": "report",
+    "emoji": "📋✍️"
+  },
+  {
+    "section": "Nouns (Media & Communication)",
+    "kanji": "写真",
+    "hiragana": "しゃしん",
+    "meaning": "photograph",
+    "emoji": "🖼️📸"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "店",
+    "hiragana": "みせ",
+    "meaning": "store, shop",
+    "emoji": "🏪🛍️"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "レストラン",
+    "hiragana": "レストラン",
+    "meaning": "restaurant",
+    "emoji": "🍽️🍷"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "庭",
+    "hiragana": "にわ",
+    "meaning": "garden",
+    "emoji": "🏡🌳"
+  },
+  {
+    "section": "Nouns (Activities)",
+    "kanji": "宿題",
+    "hiragana": "しゅくだい",
+    "meaning": "homework",
+    "example": "(～を します: do homework)",
+    "emoji": "📓🖊️"
+  },
+  {
+    "section": "Nouns (Activities)",
+    "kanji": "テニス",
+    "hiragana": "テニス",
+    "meaning": "tennis",
+    "example": "(～を します: play tennis)",
+    "emoji": "🎾🏃"
+  },
+  {
+    "section": "Nouns (Activities)",
+    "kanji": "サッカー",
+    "hiragana": "サッカー",
+    "meaning": "soccer, football",
+    "example": "(～を します: play soccer)",
+    "emoji": "⚽🥅"
+  },
+  {
+    "section": "Nouns (Activities)",
+    "kanji": "[お]花見",
+    "hiragana": "[お]はなみ",
+    "meaning": "cherry-blossom viewing",
+    "example": "(～を します: go cherry-blossom viewing)",
+    "emoji": "🌸🍱"
+  },
+  {
+    "section": "Question Words",
+    "kanji": "何",
+    "hiragana": "なに",
+    "meaning": "what",
+    "emoji": "❓🤔"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "いっしょに",
+    "hiragana": "いっしょに",
+    "meaning": "together",
+    "emoji": "🧑‍🤝‍🧑🤝"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "ちょっと",
+    "hiragana": "ちょっと",
+    "meaning": "a little while, a little bit",
+    "emoji": "🤏⏱️"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "いつも",
+    "hiragana": "いつも",
+    "meaning": "always, usually",
+    "emoji": "🔁💯"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "時々",
+    "hiragana": "ときどき",
+    "meaning": "sometimes",
+    "emoji": "⏳🌓"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "それから",
+    "hiragana": "それから",
+    "meaning": "after that, and then",
+    "emoji": "➡️🔜"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "ええ",
+    "hiragana": "ええ",
+    "meaning": "yes",
+    "emoji": "👍😊"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "いいですね。",
+    "hiragana": "いいですね。",
+    "meaning": "That's good.",
+    "emoji": "✨👌"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "わかりました。",
+    "hiragana": "わかりました。",
+    "meaning": "I see.",
+    "emoji": "💡🙋"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "何ですか。",
+    "hiragana": "なんですか。",
+    "meaning": "Yes?",
+    "emoji": "🙋❓"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "じゃ、また [あした]。",
+    "hiragana": "じゃ、また [あした]。",
+    "meaning": "See you [tomorrow].",
+    "emoji": "👋🌅"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "メキシコ",
+    "hiragana": "メキシコ",
+    "meaning": "Mexico",
+    "emoji": "🌵🌮"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "大阪城公園",
+    "hiragana": "おおさかじょうこうえん",
+    "meaning": "Osaka Castle park",
+    "emoji": "🏯🌳"
+  }
+]

@@ -1,0 +1,364 @@
+[
+  {
+    "section": "Na-Adjectives",
+    "kanji": "簡単[な]",
+    "hiragana": "かんたん[な]",
+    "meaning": "easy, simple",
+    "emoji": "🧩✅😌"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "近い",
+    "hiragana": "ちかい",
+    "meaning": "near",
+    "emoji": "📍🚶🏠"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "遠い",
+    "hiragana": "とおい",
+    "meaning": "far",
+    "emoji": "📍🛣️🏔️"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "速い、早い",
+    "hiragana": "はやい",
+    "meaning": "fast, early",
+    "emoji": "⚡🏃🕒"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "遅い",
+    "hiragana": "おそい",
+    "meaning": "slow, late",
+    "emoji": "🐌⏰🐢"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "多い",
+    "hiragana": "おおい",
+    "meaning": "many [people], much",
+    "example": "[人が～] / [ひとが～]",
+    "emoji": "👥📈➕"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "少ない",
+    "hiragana": "すくない",
+    "meaning": "few [people], a little",
+    "example": "[人が～] / [ひとが～]",
+    "emoji": "👤📉🤏"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "暖かい、温かい",
+    "hiragana": "あたたかい",
+    "meaning": "warm",
+    "emoji": "☀️☕🧣"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "涼しい",
+    "hiragana": "すずしい",
+    "meaning": "cool",
+    "emoji": "🍃🎐❄️"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "甘い",
+    "hiragana": "あまい",
+    "meaning": "sweet",
+    "emoji": "🍰🍯😋"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "辛い",
+    "hiragana": "からい",
+    "meaning": "hot (taste), spicy",
+    "emoji": "🌶️🔥🥵"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "重い",
+    "hiragana": "おもい",
+    "meaning": "heavy",
+    "emoji": "🏋️🧱⬇️"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "軽い",
+    "hiragana": "かるい",
+    "meaning": "light",
+    "emoji": "🪶🎈⬆️"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "いい",
+    "hiragana": "いい",
+    "meaning": "prefer [coffee]",
+    "example": "[コーヒーが～]",
+    "emoji": "☕❤️👍"
+  },
+  {
+    "section": "Nouns (Seasons & Weather)",
+    "kanji": "季節",
+    "hiragana": "きせつ",
+    "meaning": "season",
+    "emoji": "🌸☀️🍁"
+  },
+  {
+    "section": "Nouns (Seasons & Weather)",
+    "kanji": "春",
+    "hiragana": "はる",
+    "meaning": "spring",
+    "emoji": "🌸🌱🐝"
+  },
+  {
+    "section": "Nouns (Seasons & Weather)",
+    "kanji": "夏",
+    "hiragana": "なつ",
+    "meaning": "summer",
+    "emoji": "☀️🌻🏖️"
+  },
+  {
+    "section": "Nouns (Seasons & Weather)",
+    "kanji": "秋",
+    "hiragana": "あき",
+    "meaning": "autumn, fall",
+    "emoji": "🍁🍂🌰"
+  },
+  {
+    "section": "Nouns (Seasons & Weather)",
+    "kanji": "冬",
+    "hiragana": "ふゆ",
+    "meaning": "winter",
+    "emoji": "❄️⛄🧣"
+  },
+  {
+    "section": "Nouns (Seasons & Weather)",
+    "kanji": "天気",
+    "hiragana": "てんき",
+    "meaning": "weather",
+    "emoji": "☀️☁️🌧️"
+  },
+  {
+    "section": "Nouns (Seasons & Weather)",
+    "kanji": "雨",
+    "hiragana": "あめ",
+    "meaning": "rain, rainy",
+    "emoji": "☁️🌧️☔"
+  },
+  {
+    "section": "Nouns (Seasons & Weather)",
+    "kanji": "雪",
+    "hiragana": "ゆき",
+    "meaning": "snow, snowy",
+    "emoji": "🌨️❄️⛄"
+  },
+  {
+    "section": "Nouns (Seasons & Weather)",
+    "kanji": "曇り",
+    "hiragana": "くもり",
+    "meaning": "cloudy",
+    "emoji": "☁️🌥️🌫️"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "ホテル",
+    "hiragana": "ホテル",
+    "meaning": "hotel",
+    "emoji": "🏨🛏️🧳"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "空港",
+    "hiragana": "くうこう",
+    "meaning": "airport",
+    "emoji": "✈️🛫🛄"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "海",
+    "hiragana": "うみ",
+    "meaning": "sea, ocean",
+    "emoji": "🌊🏖️🐚"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "世界",
+    "hiragana": "せかい",
+    "meaning": "world",
+    "emoji": "🌍🗺️🌏"
+  },
+  {
+    "section": "Nouns (Events & Activities)",
+    "kanji": "パーティー",
+    "hiragana": "パーティー",
+    "meaning": "party",
+    "example": "(～を します: give a party)",
+    "emoji": "🎉🥳🎈"
+  },
+  {
+    "section": "Nouns (Events & Activities)",
+    "kanji": "[お]祭り",
+    "hiragana": "[お]まつり",
+    "meaning": "festival",
+    "emoji": "🏮🎇🎉"
+  },
+  {
+    "section": "Nouns (Events & Activities)",
+    "kanji": "試験",
+    "hiragana": "しけん",
+    "meaning": "examination",
+    "emoji": "📝✍️📚"
+  },
+  {
+    "section": "Nouns (Food)",
+    "kanji": "すき焼き",
+    "hiragana": "すきやき",
+    "meaning": "sukiyaki (beef and vegetable hot pot)",
+    "emoji": "🍲🥩🥢"
+  },
+  {
+    "section": "Nouns (Food)",
+    "kanji": "刺身",
+    "hiragana": "さしみ",
+    "meaning": "sashimi (sliced raw fish)",
+    "emoji": "🐟🔪🍣"
+  },
+  {
+    "section": "Nouns (Food)",
+    "kanji": "[お]すし",
+    "hiragana": "[お]すし",
+    "meaning": "sushi (vinegared rice topped with raw fish)",
+    "emoji": "🍣🥢🐟"
+  },
+  {
+    "section": "Nouns (Food)",
+    "kanji": "てんぷら",
+    "hiragana": "てんぷら",
+    "meaning": "tempura (seafood and vegetables deep fried in batter)",
+    "emoji": "🍤🥢😋"
+  },
+  {
+    "section": "Nouns (Culture & Nature)",
+    "kanji": "生け花",
+    "hiragana": "いけばな",
+    "meaning": "flower arrangement",
+    "example": "(～を します: practice flower arrangement)",
+    "emoji": "💐✂️🌸"
+  },
+  {
+    "section": "Nouns (Culture & Nature)",
+    "kanji": "紅葉",
+    "hiragana": "もみじ",
+    "meaning": "maple, red leaves of autumn",
+    "emoji": "🍁🍂🏔️"
+  },
+  {
+    "section": "Question Words",
+    "kanji": "どちら",
+    "hiragana": "どちら",
+    "meaning": "which one (between two things)",
+    "emoji": "🤔⚖️❓"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "どちらも",
+    "hiragana": "どちらも",
+    "meaning": "both",
+    "emoji": "👐✅✅"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "ずっと",
+    "hiragana": "ずっと",
+    "meaning": "by far",
+    "emoji": "📈✨🏆"
+  },
+  {
+    "section": "Adverbs",
+    "kanji": "初めて",
+    "hiragana": "はじめて",
+    "meaning": "for the first time",
+    "emoji": "1️⃣🆕🌟"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "ただいま。",
+    "hiragana": "ただいま。",
+    "meaning": "I'm home.",
+    "emoji": "🚪🏠🙋"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "お帰りなさい。",
+    "hiragana": "おかえりなさい。",
+    "meaning": "Welcome home.",
+    "emoji": "🤗🏡👋"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "すごいですね。",
+    "hiragana": "すごいですね。",
+    "meaning": "That's amazing.",
+    "emoji": "😲✨👏"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "でも",
+    "hiragana": "でも",
+    "meaning": "but",
+    "emoji": "➡️✋↩️"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "疲れました。",
+    "hiragana": "つかれました。",
+    "meaning": "(I'm) tired.",
+    "emoji": "😩💦🛌"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "祇園祭",
+    "hiragana": "ぎおんまつり",
+    "meaning": "the Gion Festival, the most famous festival in Kyoto",
+    "emoji": "🏮⛩️🎇"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "ホンコン",
+    "hiragana": "ホンコン",
+    "meaning": "Hong Kong (香港)",
+    "emoji": "🏙️🐉🌃"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "シンガポール",
+    "hiragana": "シンガポール",
+    "meaning": "Singapore",
+    "emoji": "🦁🏙️🇸🇬"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "毎日屋",
+    "hiragana": "まいにちや",
+    "meaning": "fictitious supermarket",
+    "emoji": "🏪🛒🥬"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "ABCストア",
+    "hiragana": "ABCストア",
+    "meaning": "fictitious supermarket",
+    "emoji": "🏪🛍️💳"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "ジャパン",
+    "hiragana": "ジャパン",
+    "meaning": "fictitious supermarket",
+    "emoji": "🛒🏬🛍️"
+  }
+]

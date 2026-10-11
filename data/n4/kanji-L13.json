@@ -1,0 +1,227 @@
+
+{
+  "lesson": 13,
+  "title": "おぼえましょう",
+  "subtitle": "グループで おぼえましょう",
+  "subtitleMeaning": "Learn these as groups",
+  "kanji": [
+    {
+      "char": "朝",
+      "meaning": "",
+      "onyomi": ["チョウ"],
+      "kunyomi": [],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "朝食（＝朝ご飯）",
+          "reading": "ちょうしょく（＝あさごはん）",
+          "meaning": "breakfast"
+        },
+        {
+          "word": "今朝",
+          "reading": "けさ",
+          "meaning": "this morning"
+        }
+      ]
+    },
+    {
+      "char": "昼",
+      "meaning": "",
+      "onyomi": ["チュウ"],
+      "kunyomi": ["ひる"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "昼食（＝昼ご飯）",
+          "reading": "ちゅうしょく（＝ひるごはん）",
+          "meaning": "lunch"
+        },
+        {
+          "word": "昼",
+          "reading": "ひる",
+          "meaning": "daytime"
+        },
+        {
+          "word": "昼間",
+          "reading": "ひるま",
+          "meaning": "daytime"
+        }
+      ]
+    },
+    {
+      "char": "春",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["はる"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "春",
+          "reading": "はる",
+          "meaning": "spring"
+        },
+        {
+          "word": "春休み",
+          "reading": "はるやすみ",
+          "meaning": "spring break"
+        }
+      ]
+    },
+    {
+      "char": "夏",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["なつ"],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "夏",
+          "reading": "なつ",
+          "meaning": "summer"
+        },
+        {
+          "word": "夏休み",
+          "reading": "なつやすみ",
+          "meaning": "summer vacation"
+        }
+      ]
+    },
+    {
+      "char": "秋",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["あき"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "秋",
+          "reading": "あき",
+          "meaning": "fall"
+        }
+      ]
+    },
+    {
+      "char": "冬",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["ふゆ"],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "冬",
+          "reading": "ふゆ",
+          "meaning": "winter"
+        },
+        {
+          "word": "冬休み",
+          "reading": "ふゆやすみ",
+          "meaning": "winter vacation"
+        }
+      ]
+    },
+    {
+      "char": "京",
+      "meaning": "",
+      "onyomi": ["キョウ"],
+      "kunyomi": [],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "京都",
+          "reading": "きょうと",
+          "meaning": "Kyoto"
+        },
+        {
+          "word": "東京",
+          "reading": "とうきょう",
+          "meaning": "Tokyo"
+        }
+      ]
+    },
+    {
+      "char": "都",
+      "meaning": "",
+      "onyomi": ["ト", "ツ"],
+      "kunyomi": [],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "東京都",
+          "reading": "とうきょうと",
+          "meaning": "Tokyo Prefecture"
+        },
+        {
+          "word": "都合がいい",
+          "reading": "つごうがいい",
+          "meaning": "convenient"
+        }
+      ]
+    },
+    {
+      "char": "府",
+      "meaning": "",
+      "onyomi": ["フ"],
+      "kunyomi": [],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "都道府県",
+          "reading": "とどうふけん",
+          "meaning": "the 47 prefectures of Japan"
+        }
+      ]
+    },
+    {
+      "char": "県",
+      "meaning": "",
+      "onyomi": ["ケン"],
+      "kunyomi": [],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "県",
+          "reading": "けん",
+          "meaning": "prefecture"
+        },
+        {
+          "word": "青森県",
+          "reading": "あおもりけん",
+          "meaning": "Aomori Prefecture"
+        }
+      ]
+    },
+    {
+      "char": "市",
+      "meaning": "",
+      "onyomi": ["シ"],
+      "kunyomi": [],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "市民",
+          "reading": "しみん",
+          "meaning": "citizen"
+        }
+      ]
+    },
+    {
+      "char": "町",
+      "meaning": "",
+      "onyomi": ["チョウ"],
+      "kunyomi": ["まち"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "～町",
+          "reading": "～ちょう（まち）",
+          "meaning": "~ Town (name of a town)"
+        },
+        {
+          "word": "町",
+          "reading": "まち",
+          "meaning": "town"
+        }
+      ]
+    }
+  ]
+}

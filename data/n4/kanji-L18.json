@@ -1,0 +1,228 @@
+
+{
+  "lesson": 18,
+  "title": "おぼえましょう",
+  "subtitle": "発音に 注意しましょう",
+  "subtitleMeaning": "Be careful of pronunciation",
+  "kanji": [
+    {
+      "char": "研",
+      "meaning": "",
+      "onyomi": ["ケン"],
+      "kunyomi": [],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "研究する",
+          "reading": "けんきゅうする",
+          "meaning": "research"
+        }
+      ]
+    },
+    {
+      "char": "究",
+      "meaning": "",
+      "onyomi": ["キュウ"],
+      "kunyomi": [],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "研究室",
+          "reading": "けんきゅうしつ",
+          "meaning": "laboratory, research room"
+        },
+        {
+          "word": "研究生",
+          "reading": "けんきゅうせい",
+          "meaning": "research student"
+        },
+        {
+          "word": "研究者",
+          "reading": "けんきゅうしゃ",
+          "meaning": "researcher"
+        }
+      ]
+    },
+    {
+      "char": "住",
+      "meaning": "",
+      "onyomi": ["ジュウ"],
+      "kunyomi": ["す（-む）"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "住所",
+          "reading": "じゅうしょ",
+          "meaning": "address"
+        },
+        {
+          "word": "住む",
+          "reading": "すむ",
+          "meaning": "live"
+        }
+      ]
+    },
+    {
+      "char": "所",
+      "meaning": "",
+      "onyomi": ["ショ"],
+      "kunyomi": ["ところ"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "場所",
+          "reading": "ばしょ",
+          "meaning": "place"
+        },
+        {
+          "word": "所",
+          "reading": "ところ",
+          "meaning": "place"
+        },
+        {
+          "word": "台所",
+          "reading": "だいどころ",
+          "meaning": "kitchen"
+        }
+      ]
+    },
+    {
+      "char": "注",
+      "meaning": "",
+      "onyomi": ["チュウ"],
+      "kunyomi": [],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "注意する",
+          "reading": "ちゅういする",
+          "meaning": "pay attention"
+        },
+        {
+          "word": "注文する",
+          "reading": "ちゅうもんする",
+          "meaning": "order"
+        }
+      ]
+    },
+    {
+      "char": "意",
+      "meaning": "",
+      "onyomi": ["イ"],
+      "kunyomi": [],
+      "strokes": 13,
+      "examples": [
+        {
+          "word": "意味",
+          "reading": "いみ",
+          "meaning": "meaning"
+        },
+        {
+          "word": "意見",
+          "reading": "いけん",
+          "meaning": "opinion"
+        }
+      ]
+    },
+    {
+      "char": "教",
+      "meaning": "",
+      "onyomi": ["キョウ"],
+      "kunyomi": ["おし（-える）"],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "教室",
+          "reading": "きょうしつ",
+          "meaning": "classroom"
+        },
+        {
+          "word": "教育",
+          "reading": "きょういく",
+          "meaning": "education"
+        },
+        {
+          "word": "教える",
+          "reading": "おしえる",
+          "meaning": "teach"
+        }
+      ]
+    },
+    {
+      "char": "発",
+      "meaning": "",
+      "onyomi": ["ハツ"],
+      "kunyomi": [],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "発音",
+          "reading": "はつおん",
+          "meaning": "pronunciation"
+        },
+        {
+          "word": "出発する",
+          "reading": "しゅっぱつする",
+          "meaning": "leave"
+        }
+      ]
+    },
+    {
+      "char": "音",
+      "meaning": "",
+      "onyomi": ["オン"],
+      "kunyomi": ["おと"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "音楽",
+          "reading": "おんがく",
+          "meaning": "music"
+        },
+        {
+          "word": "音",
+          "reading": "おと",
+          "meaning": "sound"
+        }
+      ]
+    },
+    {
+      "char": "工",
+      "meaning": "",
+      "onyomi": ["コウ"],
+      "kunyomi": [],
+      "strokes": 3,
+      "examples": [
+        {
+          "word": "工業",
+          "reading": "こうぎょう",
+          "meaning": "industry"
+        },
+        {
+          "word": "工事",
+          "reading": "こうじ",
+          "meaning": "construction"
+        }
+      ]
+    },
+    {
+      "char": "業",
+      "meaning": "",
+      "onyomi": ["ギョウ"],
+      "kunyomi": [],
+      "strokes": 13,
+      "examples": [
+        {
+          "word": "授業",
+          "reading": "じゅぎょう",
+          "meaning": "class, lesson"
+        },
+        {
+          "word": "卒業",
+          "reading": "そつぎょう",
+          "meaning": "graduation"
+        }
+      ]
+    }
+  ]
+}

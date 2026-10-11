@@ -1,0 +1,432 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "います",
+    "hiragana": "います",
+    "meaning": "have [a child]",
+    "example": "[子どもが ～] / [こどもが ～]",
+    "emoji": "👨‍👩‍👦👶"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "います",
+    "hiragana": "います",
+    "meaning": "stay, be [in Japan]",
+    "example": "[日本に ～] / [にほんに ～]",
+    "emoji": "🇯🇵🏠"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "かかります",
+    "hiragana": "かかります",
+    "meaning": "take (referring to time or money)",
+    "emoji": "⏳💴"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "休みます",
+    "hiragana": "やすみます",
+    "meaning": "take a day off [work]",
+    "example": "[会社を ～] / [かいしゃを ～]",
+    "emoji": "🛌🌴"
+  },
+  {
+    "section": "Counters (Things)",
+    "kanji": "１つ",
+    "hiragana": "ひとつ",
+    "meaning": "one (used when counting things)",
+    "emoji": "1️⃣🍎"
+  },
+  {
+    "section": "Counters (Things)",
+    "kanji": "２つ",
+    "hiragana": "ふたつ",
+    "meaning": "two",
+    "emoji": "2️⃣🍎"
+  },
+  {
+    "section": "Counters (Things)",
+    "kanji": "３つ",
+    "hiragana": "みっつ",
+    "meaning": "three",
+    "emoji": "3️⃣🍎"
+  },
+  {
+    "section": "Counters (Things)",
+    "kanji": "４つ",
+    "hiragana": "よっつ",
+    "meaning": "four",
+    "emoji": "4️⃣🍎"
+  },
+  {
+    "section": "Counters (Things)",
+    "kanji": "５つ",
+    "hiragana": "いつつ",
+    "meaning": "five",
+    "emoji": "5️⃣🍎"
+  },
+  {
+    "section": "Counters (Things)",
+    "kanji": "６つ",
+    "hiragana": "むっつ",
+    "meaning": "six",
+    "emoji": "6️⃣🍎"
+  },
+  {
+    "section": "Counters (Things)",
+    "kanji": "７つ",
+    "hiragana": "ななつ",
+    "meaning": "seven",
+    "emoji": "7️⃣🍎"
+  },
+  {
+    "section": "Counters (Things)",
+    "kanji": "８つ",
+    "hiragana": "やっつ",
+    "meaning": "eight",
+    "emoji": "8️⃣🍎"
+  },
+  {
+    "section": "Counters (Things)",
+    "kanji": "９つ",
+    "hiragana": "ここのつ",
+    "meaning": "nine",
+    "emoji": "9️⃣🍎"
+  },
+  {
+    "section": "Counters (Things)",
+    "kanji": "10",
+    "hiragana": "とお",
+    "meaning": "ten",
+    "emoji": "🔟🍎"
+  },
+  {
+    "section": "Counters (Things)",
+    "kanji": "いくつ",
+    "hiragana": "いくつ",
+    "meaning": "how many",
+    "emoji": "🔢❓"
+  },
+  {
+    "section": "Counters (People)",
+    "kanji": "１人",
+    "hiragana": "ひとり",
+    "meaning": "one person",
+    "emoji": "👤1️⃣"
+  },
+  {
+    "section": "Counters (People)",
+    "kanji": "２人",
+    "hiragana": "ふたり",
+    "meaning": "two persons",
+    "emoji": "👥2️⃣"
+  },
+  {
+    "section": "Counters (People)",
+    "kanji": "ー人",
+    "hiragana": "ーにん",
+    "meaning": "— people",
+    "emoji": "👥🔢"
+  },
+  {
+    "section": "Counters (Machines & Objects)",
+    "kanji": "ー台",
+    "hiragana": "ーだい",
+    "meaning": "(counter for machines, cars, etc.)",
+    "emoji": "🚗🔢"
+  },
+  {
+    "section": "Counters (Machines & Objects)",
+    "kanji": "ー枚",
+    "hiragana": "ーまい",
+    "meaning": "(counter for paper, stamps, etc.)",
+    "emoji": "📄🔢"
+  },
+  {
+    "section": "Counters (Machines & Objects)",
+    "kanji": "ー回",
+    "hiragana": "ーかい",
+    "meaning": "— times",
+    "emoji": "🔄🔢"
+  },
+  {
+    "section": "Food",
+    "kanji": "りんご",
+    "hiragana": "りんご",
+    "meaning": "apple",
+    "emoji": "🍎🍏"
+  },
+  {
+    "section": "Food",
+    "kanji": "みかん",
+    "hiragana": "みかん",
+    "meaning": "mandarin orange",
+    "emoji": "🍊🌿"
+  },
+  {
+    "section": "Food",
+    "kanji": "サンドイッチ",
+    "hiragana": "サンドイッチ",
+    "meaning": "sandwich",
+    "emoji": "🥪🍞"
+  },
+  {
+    "section": "Food",
+    "kanji": "カレー[ライス]",
+    "hiragana": "カレー[ライス]",
+    "meaning": "curry [and rice]",
+    "emoji": "🍛🥄"
+  },
+  {
+    "section": "Food",
+    "kanji": "アイスクリーム",
+    "hiragana": "アイスクリーム",
+    "meaning": "ice cream",
+    "emoji": "🍦🍨"
+  },
+  {
+    "section": "Mail",
+    "kanji": "切手",
+    "hiragana": "きって",
+    "meaning": "postage stamp",
+    "emoji": "📮🏷️"
+  },
+  {
+    "section": "Mail",
+    "kanji": "はがき",
+    "hiragana": "はがき",
+    "meaning": "post card",
+    "emoji": "📭📝"
+  },
+  {
+    "section": "Mail",
+    "kanji": "封筒",
+    "hiragana": "ふうとう",
+    "meaning": "envelope",
+    "emoji": "✉️📩"
+  },
+  {
+    "section": "Mail",
+    "kanji": "速達",
+    "hiragana": "そくたつ",
+    "meaning": "special delivery",
+    "emoji": "🚀📫"
+  },
+  {
+    "section": "Mail",
+    "kanji": "書留",
+    "hiragana": "かきとめ",
+    "meaning": "registered mail",
+    "emoji": "🔒📬"
+  },
+  {
+    "section": "Mail",
+    "kanji": "エアメール (航空便)",
+    "hiragana": "エアメール (こうくうびん)",
+    "meaning": "airmail",
+    "emoji": "✈️✉️"
+  },
+  {
+    "section": "Mail",
+    "kanji": "船便",
+    "hiragana": "ふなびん",
+    "meaning": "sea mail",
+    "emoji": "🚢📦"
+  },
+  {
+    "section": "Family",
+    "kanji": "両親",
+    "hiragana": "りょうしん",
+    "meaning": "parents",
+    "emoji": "👫❤️"
+  },
+  {
+    "section": "Family",
+    "kanji": "兄弟",
+    "hiragana": "きょうだい",
+    "meaning": "brothers and sisters",
+    "emoji": "👦👧"
+  },
+  {
+    "section": "Family",
+    "kanji": "兄",
+    "hiragana": "あに",
+    "meaning": "(my) elder brother",
+    "emoji": "🧑‍🦱👦"
+  },
+  {
+    "section": "Family",
+    "kanji": "お兄さん",
+    "hiragana": "おにいさん",
+    "meaning": "(someone else's) elder brother",
+    "emoji": "🧑‍🦱🤝"
+  },
+  {
+    "section": "Family",
+    "kanji": "姉",
+    "hiragana": "あね",
+    "meaning": "(my) elder sister",
+    "emoji": "👩‍🦰👧"
+  },
+  {
+    "section": "Family",
+    "kanji": "お姉さん",
+    "hiragana": "おねえさん",
+    "meaning": "(someone else's) elder sister",
+    "emoji": "👩‍🦰🤝"
+  },
+  {
+    "section": "Family",
+    "kanji": "弟",
+    "hiragana": "おとうと",
+    "meaning": "(my) younger brother",
+    "emoji": "👦🎮"
+  },
+  {
+    "section": "Family",
+    "kanji": "弟さん",
+    "hiragana": "おとうとさん",
+    "meaning": "(someone else's) younger brother",
+    "emoji": "👦🤝"
+  },
+  {
+    "section": "Family",
+    "kanji": "妹",
+    "hiragana": "いもうと",
+    "meaning": "(my) younger sister",
+    "emoji": "👧🎀"
+  },
+  {
+    "section": "Family",
+    "kanji": "妹さん",
+    "hiragana": "いもうとさん",
+    "meaning": "(someone else's) younger sister",
+    "emoji": "👧🤝"
+  },
+  {
+    "section": "Places & Time",
+    "kanji": "外国",
+    "hiragana": "がいこく",
+    "meaning": "foreign country",
+    "emoji": "🌍✈️"
+  },
+  {
+    "section": "Places & Time",
+    "kanji": "ー時間",
+    "hiragana": "ーじかん",
+    "meaning": "— hours",
+    "emoji": "⏳⌚"
+  },
+  {
+    "section": "Places & Time",
+    "kanji": "ー週間",
+    "hiragana": "ーしゅうかん",
+    "meaning": "— weeks",
+    "emoji": "📅🗓️"
+  },
+  {
+    "section": "Places & Time",
+    "kanji": "ーか月",
+    "hiragana": "ーかげつ",
+    "meaning": "— months",
+    "emoji": "📆🌙"
+  },
+  {
+    "section": "Places & Time",
+    "kanji": "ー年",
+    "hiragana": "ーねん",
+    "meaning": "— years",
+    "emoji": "🗓️🎆"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "～ぐらい",
+    "hiragana": "～ぐらい",
+    "meaning": "about ~",
+    "emoji": "⚖️≈"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "どのくらい",
+    "hiragana": "どのくらい",
+    "meaning": "how long",
+    "emoji": "📏❓"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "全部で",
+    "hiragana": "ぜんぶで",
+    "meaning": "in total",
+    "emoji": "🧮✅"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "みんな",
+    "hiragana": "みんな",
+    "meaning": "all, everything",
+    "emoji": "🌍🙌"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "～だけ",
+    "hiragana": "～だけ",
+    "meaning": "only ~",
+    "emoji": "🤏1️⃣"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "いらっしゃいませ。",
+    "hiragana": "いらっしゃいませ。",
+    "meaning": "Welcome./May I help you? (a greeting to a customer or a guest entering a shop, etc.)",
+    "emoji": "🙇‍♂️🏪"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "いい [お]天気ですね。",
+    "hiragana": "いい [お]てんきですね。",
+    "meaning": "Nice weather, isn't it?",
+    "emoji": "☀️😊"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "お出かけですか。",
+    "hiragana": "おでかけですか。",
+    "meaning": "Are you going out?",
+    "emoji": "🚶‍♂️🎒"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "ちょっと ～まで。",
+    "hiragana": "ちょっと ～まで。",
+    "meaning": "I'm just going to ~.",
+    "emoji": "🚶‍♀️🔜"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "行って いらっしゃい。",
+    "hiragana": "いって いらっしゃい。",
+    "meaning": "So long. (lit. Go and come back.)",
+    "emoji": "👋🏠"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "行って まいります。",
+    "hiragana": "いって まいります。",
+    "meaning": "So long. (lit. I'm going and coming back.)",
+    "emoji": "🚶‍♂️👋"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "それから",
+    "hiragana": "それから",
+    "meaning": "and, furthermore",
+    "emoji": "➕➡️"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "オーストラリア",
+    "hiragana": "オーストラリア",
+    "meaning": "Australia",
+    "emoji": "🦘🌏"
+  }
+]

@@ -1,0 +1,324 @@
+
+{
+  "lesson": 3,
+  "title": "おぼえましょう",
+  "subtitle": "ペアで おぼえましょう",
+  "subtitleMeaning": "Learns these in pairs",
+  "kanji": [
+    {
+      "char": "少",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["すこ（-し）", "すく（-ない）"],
+      "strokes": 4,
+      "pair": "多",
+      "examples": [
+        {
+          "word": "少し",
+          "reading": "すこし",
+          "meaning": "a little"
+        },
+        {
+          "word": "少ない",
+          "reading": "すくない",
+          "meaning": "few, a little"
+        }
+      ]
+    },
+    {
+      "char": "多",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["おお（-い）"],
+      "strokes": 6,
+      "pair": "少",
+      "examples": [
+        {
+          "word": "多い",
+          "reading": "おおい",
+          "meaning": "many, a lot"
+        }
+      ]
+    },
+    {
+      "char": "小",
+      "meaning": "",
+      "onyomi": ["ショウ"],
+      "kunyomi": ["ちい（-さい）"],
+      "strokes": 3,
+      "pair": "大",
+      "examples": [
+        {
+          "word": "小学校",
+          "reading": "しょうがっこう",
+          "meaning": "elementary school"
+        },
+        {
+          "word": "小さい",
+          "reading": "ちいさい",
+          "meaning": "small"
+        }
+      ]
+    },
+    {
+      "char": "大",
+      "meaning": "",
+      "onyomi": ["ダイ", "タイ"],
+      "kunyomi": ["おお（-きい）"],
+      "strokes": 3,
+      "pair": "小",
+      "examples": [
+        {
+          "word": "大学",
+          "reading": "だいがく",
+          "meaning": "college"
+        },
+        {
+          "word": "大変な",
+          "reading": "たいへんな",
+          "meaning": "terrible"
+        },
+        {
+          "word": "大切な",
+          "reading": "たいせつな",
+          "meaning": "precious, important"
+        },
+        {
+          "word": "大きい",
+          "reading": "おおきい",
+          "meaning": "big"
+        }
+      ]
+    },
+    {
+      "char": "安",
+      "meaning": "",
+      "onyomi": ["アン"],
+      "kunyomi": ["やす（-い）"],
+      "strokes": 6,
+      "pair": "高",
+      "examples": [
+        {
+          "word": "安全な",
+          "reading": "あんぜんな",
+          "meaning": "safe"
+        },
+        {
+          "word": "安心する",
+          "reading": "あんしんする",
+          "meaning": "feel relieved"
+        },
+        {
+          "word": "安い",
+          "reading": "やすい",
+          "meaning": "cheap"
+        }
+      ]
+    },
+    {
+      "char": "高",
+      "meaning": "",
+      "onyomi": ["コウ"],
+      "kunyomi": ["たか（-い）"],
+      "strokes": 10,
+      "pair": "安",
+      "examples": [
+        {
+          "word": "高校",
+          "reading": "こうこう",
+          "meaning": "high school"
+        },
+        {
+          "word": "高い",
+          "reading": "たかい",
+          "meaning": "expensive, high"
+        }
+      ]
+    },
+    {
+      "char": "新",
+      "meaning": "",
+      "onyomi": ["シン"],
+      "kunyomi": ["あたら（-しい）"],
+      "strokes": 13,
+      "pair": "古",
+      "examples": [
+        {
+          "word": "新聞",
+          "reading": "しんぶん",
+          "meaning": "newspaper"
+        },
+        {
+          "word": "新しい",
+          "reading": "あたらしい",
+          "meaning": "new"
+        }
+      ]
+    },
+    {
+      "char": "古",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["ふる（-い）"],
+      "strokes": 5,
+      "pair": "新",
+      "examples": [
+        {
+          "word": "古い",
+          "reading": "ふるい",
+          "meaning": "old"
+        }
+      ]
+    },
+    {
+      "char": "早",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["はや（-い）"],
+      "strokes": 6,
+      "pair": null,
+      "examples": [
+        {
+          "word": "早い",
+          "reading": "はやい",
+          "meaning": "early"
+        },
+        {
+          "word": "おそい",
+          "reading": "おそい",
+          "meaning": "late"
+        }
+      ]
+    },
+    {
+      "char": "長",
+      "meaning": "",
+      "onyomi": ["チョウ"],
+      "kunyomi": ["なが（-い）"],
+      "strokes": 8,
+      "pair": null,
+      "examples": [
+        {
+          "word": "社長",
+          "reading": "しゃちょう",
+          "meaning": "president"
+        },
+        {
+          "word": "長い",
+          "reading": "ながい",
+          "meaning": "long"
+        },
+        {
+          "word": "みじかい",
+          "reading": "みじかい",
+          "meaning": "short"
+        }
+      ]
+    },
+    {
+      "char": "円",
+      "meaning": "",
+      "onyomi": ["エン"],
+      "kunyomi": [],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "円",
+          "reading": "えん",
+          "meaning": "① round ② yen"
+        }
+      ]
+    },
+    {
+      "char": "校",
+      "meaning": "",
+      "onyomi": ["コウ"],
+      "kunyomi": [],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "学校",
+          "reading": "がっこう",
+          "meaning": "school"
+        },
+        {
+          "word": "校長",
+          "reading": "こうちょう",
+          "meaning": "school principal"
+        }
+      ]
+    },
+    {
+      "char": "社",
+      "meaning": "",
+      "onyomi": ["シャ"],
+      "kunyomi": [],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "会社",
+          "reading": "かいしゃ",
+          "meaning": "company"
+        },
+        {
+          "word": "社員",
+          "reading": "しゃいん",
+          "meaning": "employee"
+        }
+      ]
+    },
+    {
+      "char": "中",
+      "meaning": "",
+      "onyomi": ["チュウ", "ジュウ"],
+      "kunyomi": ["なか"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "中学校",
+          "reading": "ちゅうがっこう",
+          "meaning": "junior high school"
+        },
+        {
+          "word": "一日中",
+          "reading": "いちにちじゅう",
+          "meaning": "all day"
+        },
+        {
+          "word": "中",
+          "reading": "なか",
+          "meaning": "inside"
+        },
+        {
+          "word": "外",
+          "reading": "そと",
+          "meaning": "outside, outdoors"
+        }
+      ]
+    },
+    {
+      "char": "間",
+      "meaning": "",
+      "onyomi": ["ブン"],
+      "kunyomi": ["き（-く / -こえる）"],
+      "strokes": 14,
+      "examples": [
+        {
+          "word": "新聞",
+          "reading": "しんぶん",
+          "meaning": "newspaper"
+        },
+        {
+          "word": "聞く",
+          "reading": "きく",
+          "meaning": "listen"
+        },
+        {
+          "word": "聞こえる",
+          "reading": "きこえる",
+          "meaning": "hear"
+        }
+      ]
+    }
+  ]
+}

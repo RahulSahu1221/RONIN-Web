@@ -1,0 +1,194 @@
+
+{
+  "lesson": 11,
+  "title": "おぼえましょう",
+  "subtitle": "発音に 注意しましょう",
+  "subtitleMeaning": "Be careful of pronunciation",
+  "kanji": [
+    {
+      "char": "旅",
+      "meaning": "",
+      "onyomi": ["リョ"],
+      "kunyomi": [],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "旅行",
+          "reading": "りょこう",
+          "meaning": "trip"
+        },
+        {
+          "word": "旅館",
+          "reading": "りょかん",
+          "meaning": "Japanese-style hotel"
+        }
+      ]
+    },
+    {
+      "char": "館",
+      "meaning": "",
+      "onyomi": ["カン"],
+      "kunyomi": [],
+      "strokes": 16,
+      "examples": [
+        {
+          "word": "美術館",
+          "reading": "びじゅつかん",
+          "meaning": "museum"
+        },
+        {
+          "word": "大使館",
+          "reading": "たいしかん",
+          "meaning": "embassy"
+        }
+      ]
+    },
+    {
+      "char": "有",
+      "meaning": "",
+      "onyomi": ["ユウ"],
+      "kunyomi": [],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "有名な",
+          "reading": "ゆうめいな",
+          "meaning": "famous"
+        }
+      ]
+    },
+    {
+      "char": "去",
+      "meaning": "",
+      "onyomi": ["キョ"],
+      "kunyomi": [],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "去年",
+          "reading": "きょねん",
+          "meaning": "last year"
+        }
+      ]
+    },
+    {
+      "char": "主",
+      "meaning": "",
+      "onyomi": ["シュ"],
+      "kunyomi": [],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "主人",
+          "reading": "しゅじん",
+          "meaning": "husband"
+        }
+      ]
+    },
+    {
+      "char": "写",
+      "meaning": "",
+      "onyomi": ["シャ"],
+      "kunyomi": ["うつ（-す）"],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "写真",
+          "reading": "しゃしん",
+          "meaning": "photo, picture"
+        },
+        {
+          "word": "写す",
+          "reading": "うつす",
+          "meaning": "copy"
+        }
+      ]
+    },
+    {
+      "char": "真",
+      "meaning": "",
+      "onyomi": ["シン"],
+      "kunyomi": ["ま"],
+      "strokes": 10,
+      "examples": [
+        {
+          "word": "写真",
+          "reading": "しゃしん",
+          "meaning": "photo, picture"
+        },
+        {
+          "word": "真ん中",
+          "reading": "まんなか",
+          "meaning": "middle, center"
+        }
+      ]
+    },
+    {
+      "char": "夕",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["ゆう"],
+      "strokes": 3,
+      "examples": [
+        {
+          "word": "夕飯",
+          "reading": "ゆうはん",
+          "meaning": "supper, dinner"
+        },
+        {
+          "word": "夕方",
+          "reading": "ゆうがた",
+          "meaning": "evening"
+        }
+      ]
+    },
+    {
+      "char": "飯",
+      "meaning": "",
+      "onyomi": ["ハン"],
+      "kunyomi": [],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "ご飯",
+          "reading": "ごはん",
+          "meaning": "① rice ② meal"
+        },
+        {
+          "word": "朝ご飯・昼ご飯・晩ご飯",
+          "reading": "あさごはん・ひるごはん・ばんごはん",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "char": "方",
+      "meaning": "",
+      "onyomi": ["ホウ"],
+      "kunyomi": ["かた"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "両方",
+          "reading": "りょうほう",
+          "meaning": "both"
+        },
+        {
+          "word": "あの方",
+          "reading": "あのかた",
+          "meaning": "that person (polite)"
+        },
+        {
+          "word": "～方",
+          "reading": "～かた",
+          "meaning": "way to ~"
+        },
+        {
+          "word": "夕方",
+          "reading": "ゆうがた",
+          "meaning": "evening"
+        }
+      ]
+    }
+  ]
+}

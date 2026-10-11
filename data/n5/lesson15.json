@@ -1,0 +1,199 @@
+[
+{
+"section": "Verbs",
+"kanji": "立ちます",
+"hiragana": "たちます",
+"meaning": "stand up",
+"emoji": "🪑⬆️🧍"
+},
+{
+"section": "Verbs",
+"kanji": "座ります",
+"hiragana": "すわります",
+"meaning": "sit down",
+"emoji": "🧍⬇️🪑"
+},
+{
+"section": "Verbs",
+"kanji": "使います",
+"hiragana": "つかいます",
+"meaning": "use",
+"emoji": "✋🛠️⚙️"
+},
+{
+"section": "Verbs",
+"kanji": "置きます",
+"hiragana": "おきます",
+"meaning": "put",
+"emoji": "✋📦⬇️"
+},
+{
+"section": "Verbs",
+"kanji": "作ります、造ります",
+"hiragana": "つくります",
+"meaning": "make, produce",
+"emoji": "🔨🏭✨"
+},
+{
+"section": "Verbs",
+"kanji": "売ります",
+"hiragana": "うります",
+"meaning": "sell",
+"emoji": "📦💰🏷️"
+},
+{
+"section": "Verbs",
+"kanji": "知ります",
+"hiragana": "しります",
+"meaning": "get to know",
+"emoji": "❓🧠💡"
+},
+{
+"section": "Verbs",
+"kanji": "住みます",
+"hiragana": "すみます",
+"meaning": "be going to live",
+"emoji": "📦🚚🏠"
+},
+{
+"section": "Verbs",
+"kanji": "研究します",
+"hiragana": "けんきゅうします",
+"meaning": "do research",
+"emoji": "🔬📚🧪"
+},
+{
+"section": "Verbs",
+"kanji": "知っています",
+"hiragana": "しっています",
+"meaning": "know",
+"emoji": "🧠💡✅"
+},
+{
+"section": "Verbs",
+"kanji": "住んでいます",
+"hiragana": "すんでいます",
+"meaning": "live [in Osaka]",
+"example": "[おおさかに ～] / [大阪に ～]",
+"emoji": "🏠📍😊"
+},
+{
+"section": "Nouns (Information & Materials)",
+"kanji": "資料",
+"hiragana": "しりょう",
+"meaning": "materials, data",
+"emoji": "📁📊📑"
+},
+{
+"section": "Nouns (Information & Materials)",
+"kanji": "カタログ",
+"hiragana": "カタログ",
+"meaning": "catalog",
+"emoji": "📖🛍️📦"
+},
+{
+"section": "Nouns (Information & Materials)",
+"kanji": "時刻表",
+"hiragana": "じこくひょう",
+"meaning": "timetable",
+"emoji": "🕒🚆📅"
+},
+{
+"section": "Nouns (Products & Specialties)",
+"kanji": "服",
+"hiragana": "ふく",
+"meaning": "clothes",
+"emoji": "👕👗🧥"
+},
+{
+"section": "Nouns (Products & Specialties)",
+"kanji": "製品",
+"hiragana": "せいひん",
+"meaning": "products",
+"emoji": "🏭📦🛒"
+},
+{
+"section": "Nouns (Products & Specialties)",
+"kanji": "ソフト",
+"hiragana": "ソフト",
+"meaning": "software",
+"emoji": "💻💿⚙️"
+},
+{
+"section": "Nouns (Products & Specialties)",
+"kanji": "専門",
+"hiragana": "せんもん",
+"meaning": "speciality, field of study",
+"emoji": "🎓📚🔬"
+},
+{
+"section": "Nouns (Professions & Places)",
+"kanji": "歯医者",
+"hiragana": "はいしゃ",
+"meaning": "dentist, dentist's",
+"emoji": "🦷🥼🏥"
+},
+{
+"section": "Nouns (Professions & Places)",
+"kanji": "床屋",
+"hiragana": "とこや",
+"meaning": "barber, barber's",
+"emoji": "💈✂️💇"
+},
+{
+"section": "Nouns (Professions & Places)",
+"kanji": "プレイガイド",
+"hiragana": "プレイガイド",
+"meaning": "(theater) ticket agency",
+"emoji": "🎫🎟️🎭"
+},
+{
+"section": "Nouns (Status)",
+"kanji": "独身",
+"hiragana": "どくしん",
+"meaning": "single, unmarried",
+"emoji": "👤💍❌"
+},
+{
+"section": "Conversations & Expressions",
+"kanji": "特に",
+"hiragana": "とくに",
+"meaning": "especially",
+"emoji": "⭐❗🎯"
+},
+{
+"section": "Conversations & Expressions",
+"kanji": "思い出します",
+"hiragana": "おもいだします",
+"meaning": "remember, recollect",
+"emoji": "💭🧠⏪"
+},
+{
+"section": "Conversations & Expressions",
+"kanji": "ご家族",
+"hiragana": "ごかぞく",
+"meaning": "your family",
+"emoji": "👨‍👩‍👧‍👦❤️🏠"
+},
+{
+"section": "Conversations & Expressions",
+"kanji": "いらっしゃいます",
+"hiragana": "いらっしゃいます",
+"meaning": "be (honorific equivalent of います)",
+"emoji": "🙏🤵✨"
+},
+{
+"section": "Conversations & Expressions",
+"kanji": "高校",
+"hiragana": "こうこう",
+"meaning": "senior high school",
+"emoji": "🏫🎒📚"
+},
+{
+"section": "Proper Nouns",
+"kanji": "日本橋",
+"hiragana": "にっぽんばし",
+"meaning": "name of a shopping district in Osaka",
+"emoji": "🛍️🏙️🇯🇵"
+}
+]

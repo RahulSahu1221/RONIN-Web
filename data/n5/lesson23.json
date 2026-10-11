@@ -1,0 +1,247 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "聞きます",
+    "hiragana": "ききます",
+    "meaning": "ask [the teacher]",
+    "example": "[先生に ～] / [せんせいに ～]",
+    "emoji": "🙋‍♂️👨‍🏫"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "回します",
+    "hiragana": "まわします",
+    "meaning": "turn",
+    "emoji": "🔄➰"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "引きます",
+    "hiragana": "ひきます",
+    "meaning": "pull",
+    "emoji": "👐⬅️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "変えます",
+    "hiragana": "かえます",
+    "meaning": "change",
+    "emoji": "🔀✨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "触ります",
+    "hiragana": "さわります",
+    "meaning": "touch [a door]",
+    "example": "[ドアに ～]",
+    "emoji": "👆🚪"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "出ます",
+    "hiragana": "でます",
+    "meaning": "[change] come out",
+    "example": "[お釣りが ～] / [おつりが ～]",
+    "emoji": "🪙➡️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "動きます",
+    "hiragana": "うごきます",
+    "meaning": "[a watch] move, work",
+    "example": "[時計が ～] / [とけいが ～]",
+    "emoji": "⌚⚙️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "歩きます",
+    "hiragana": "あるきます",
+    "meaning": "walk [along a road]",
+    "example": "[道を ～] / [みちを ～]",
+    "emoji": "🚶‍♂️🛣️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "渡ります",
+    "hiragana": "わたります",
+    "meaning": "cross [a bridge]",
+    "example": "[橋を ～] / [はしを ～]",
+    "emoji": "🌉🚶"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "気を つけます",
+    "hiragana": "きを つけます",
+    "meaning": "pay attention [to cars], take care",
+    "example": "[車に ～] / [くるまに ～]",
+    "emoji": "⚠️🚗"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "引っ越します",
+    "hiragana": "ひっこします",
+    "meaning": "move (house)",
+    "emoji": "🚚🏠"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "電気屋",
+    "hiragana": "でんきや",
+    "meaning": "electrician",
+    "emoji": "💡🛠️"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "～屋",
+    "hiragana": "～や",
+    "meaning": "person of ~ shop",
+    "emoji": "🏪👨‍💼"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "サイズ",
+    "hiragana": "サイズ",
+    "meaning": "size",
+    "emoji": "📏👕"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "音",
+    "hiragana": "おと",
+    "meaning": "sound",
+    "emoji": "🔊🎶"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "機械",
+    "hiragana": "きかい",
+    "meaning": "machine",
+    "emoji": "⚙️🤖"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "つまみ",
+    "hiragana": "つまみ",
+    "meaning": "knob",
+    "emoji": "🔘🤏"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "故障",
+    "hiragana": "こしょう",
+    "meaning": "breakdown (～ します : break down)",
+    "emoji": "🛠️🚫"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "道",
+    "hiragana": "みち",
+    "meaning": "road, way",
+    "emoji": "🛣️🗺️"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "交差点",
+    "hiragana": "こうさてん",
+    "meaning": "crossroad",
+    "emoji": "🚥❌"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "信号",
+    "hiragana": "しんごう",
+    "meaning": "traffic light",
+    "emoji": "🚦🛑"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "角",
+    "hiragana": "かど",
+    "meaning": "corner",
+    "emoji": "📐📍"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "橋",
+    "hiragana": "はし",
+    "meaning": "bridge",
+    "emoji": "🌉🏞️"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "駐車場",
+    "hiragana": "ちゅうしゃじょう",
+    "meaning": "parking lot, car park",
+    "emoji": "🅿️🚗"
+  },
+  {
+    "section": "Counters",
+    "kanji": "ー目",
+    "hiragana": "ーめ",
+    "meaning": "the -th (indicating order)",
+    "emoji": "🔢🥇"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "[お]正月",
+    "hiragana": "[お]しょうがつ",
+    "meaning": "New Year's Day",
+    "emoji": "🎍🌅"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "ごちそうさま[でした]。",
+    "hiragana": "ごちそうさま[でした]。",
+    "meaning": "That was delicious. (said after eating or drinking)",
+    "emoji": "🙏😋"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "建物",
+    "hiragana": "たてもの",
+    "meaning": "building",
+    "emoji": "🏢🏗️"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "外国人登録証",
+    "hiragana": "がいこくじんとうろくしょう",
+    "meaning": "alien registration card",
+    "emoji": "🪪🛂"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "聖徳太子",
+    "hiragana": "しょうとくたいし",
+    "meaning": "Prince Shotoku (574 – 622)",
+    "emoji": "👑📜"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "法隆寺",
+    "hiragana": "ほうりゅうじ",
+    "meaning": "Horyuji Temple, a temple in Nara",
+    "emoji": "🛕🏯"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "元気茶",
+    "hiragana": "げんきちゃ",
+    "meaning": "fictitious tea",
+    "emoji": "🍵✨"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "本田駅",
+    "hiragana": "ほんだえき",
+    "meaning": "fictitious station",
+    "emoji": "🚉📍"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "図書館前",
+    "hiragana": "としょかんまえ",
+    "meaning": "fictitious bus stop",
+    "emoji": "🚏📚"
+  }
+]

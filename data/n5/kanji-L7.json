@@ -1,0 +1,387 @@
+
+{
+  "lesson": 7,
+  "title": "おぼえましょう",
+  "kanji": [
+    {
+      "char": "一",
+      "meaning": "one",
+      "onyomi": ["イチ", "イツ"],
+      "kunyomi": ["ひと"],
+      "strokes": 1,
+      "examples": [
+        {
+          "word": "一つ",
+          "reading": "ひとつ",
+          "meaning": "one thing"
+        },
+        {
+          "word": "一人",
+          "reading": "ひとり",
+          "meaning": "one person"
+        }
+      ]
+    },
+    {
+      "char": "二",
+      "meaning": "two",
+      "onyomi": ["ニ"],
+      "kunyomi": ["ふた"],
+      "strokes": 2,
+      "examples": [
+        {
+          "word": "二つ",
+          "reading": "ふたつ",
+          "meaning": "two things"
+        },
+        {
+          "word": "二人",
+          "reading": "ふたり",
+          "meaning": "two people"
+        }
+      ]
+    },
+    {
+      "char": "七",
+      "meaning": "seven",
+      "onyomi": ["シチ"],
+      "kunyomi": ["なな", "なの"],
+      "strokes": 2,
+      "examples": [
+        {
+          "word": "七つ",
+          "reading": "ななつ",
+          "meaning": "seven things"
+        },
+        {
+          "word": "七時",
+          "reading": "しちじ",
+          "meaning": "seven o'clock"
+        }
+      ]
+    },
+    {
+      "char": "八",
+      "meaning": "eight",
+      "onyomi": ["ハチ"],
+      "kunyomi": ["や", "やつ", "よう"],
+      "strokes": 2,
+      "examples": [
+        {
+          "word": "八つ",
+          "reading": "やっつ",
+          "meaning": "eight things"
+        },
+        {
+          "word": "八時",
+          "reading": "はちじ",
+          "meaning": "eight o'clock"
+        }
+      ]
+    },
+    {
+      "char": "九",
+      "meaning": "nine",
+      "onyomi": ["キュウ", "ク"],
+      "kunyomi": ["ここの"],
+      "strokes": 2,
+      "examples": [
+        {
+          "word": "九つ",
+          "reading": "ここのつ",
+          "meaning": "nine things"
+        },
+        {
+          "word": "九時",
+          "reading": "くじ",
+          "meaning": "nine o'clock"
+        }
+      ]
+    },
+    {
+      "char": "十",
+      "meaning": "ten",
+      "onyomi": ["ジュウ"],
+      "kunyomi": ["とお"],
+      "strokes": 2,
+      "examples": [
+        {
+          "word": "十",
+          "reading": "じゅう",
+          "meaning": "ten"
+        },
+        {
+          "word": "十時",
+          "reading": "じゅうじ",
+          "meaning": "ten o'clock"
+        }
+      ]
+    },
+    {
+      "char": "三",
+      "meaning": "three",
+      "onyomi": ["サン"],
+      "kunyomi": ["み"],
+      "strokes": 3,
+      "examples": [
+        {
+          "word": "三つ",
+          "reading": "みっつ",
+          "meaning": "three things"
+        },
+        {
+          "word": "三人",
+          "reading": "さんにん",
+          "meaning": "three people"
+        }
+      ]
+    },
+    {
+      "char": "千",
+      "meaning": "thousand",
+      "onyomi": ["セン"],
+      "kunyomi": [],
+      "strokes": 3,
+      "examples": [
+        {
+          "word": "千円",
+          "reading": "せんえん",
+          "meaning": "one thousand yen"
+        }
+      ]
+    },
+    {
+      "char": "土",
+      "meaning": "earth, soil",
+      "onyomi": ["ド", "ト"],
+      "kunyomi": ["つち"],
+      "strokes": 3,
+      "examples": [
+        {
+          "word": "土",
+          "reading": "つち",
+          "meaning": "soil"
+        },
+        {
+          "word": "土曜日",
+          "reading": "どようび",
+          "meaning": "Saturday"
+        }
+      ]
+    },
+    {
+      "char": "万",
+      "meaning": "ten thousand",
+      "onyomi": ["マン", "バン"],
+      "kunyomi": [],
+      "strokes": 3,
+      "examples": [
+        {
+          "word": "一万円",
+          "reading": "いちまんえん",
+          "meaning": "ten thousand yen"
+        }
+      ]
+    },
+    {
+      "char": "五",
+      "meaning": "five",
+      "onyomi": ["ゴ"],
+      "kunyomi": ["いつ"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "五つ",
+          "reading": "いつつ",
+          "meaning": "five things"
+        },
+        {
+          "word": "五月",
+          "reading": "ごがつ",
+          "meaning": "May"
+        }
+      ]
+    },
+    {
+      "char": "六",
+      "meaning": "six",
+      "onyomi": ["ロク"],
+      "kunyomi": ["む", "むつ", "むい"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "六つ",
+          "reading": "むっつ",
+          "meaning": "six things"
+        },
+        {
+          "word": "六月",
+          "reading": "ろくがつ",
+          "meaning": "June"
+        }
+      ]
+    },
+    {
+      "char": "月",
+      "meaning": "moon, month",
+      "onyomi": ["ゲツ", "ガツ"],
+      "kunyomi": ["つき"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "月",
+          "reading": "つき",
+          "meaning": "moon"
+        },
+        {
+          "word": "月曜日",
+          "reading": "げつようび",
+          "meaning": "Monday"
+        },
+        {
+          "word": "今月",
+          "reading": "こんげつ",
+          "meaning": "this month"
+        }
+      ]
+    },
+    {
+      "char": "火",
+      "meaning": "fire",
+      "onyomi": ["カ"],
+      "kunyomi": ["ひ"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "火",
+          "reading": "ひ",
+          "meaning": "fire"
+        },
+        {
+          "word": "火曜日",
+          "reading": "かようび",
+          "meaning": "Tuesday"
+        }
+      ]
+    },
+    {
+      "char": "水",
+      "meaning": "water",
+      "onyomi": ["スイ"],
+      "kunyomi": ["みず"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "水",
+          "reading": "みず",
+          "meaning": "water"
+        },
+        {
+          "word": "水曜日",
+          "reading": "すいようび",
+          "meaning": "Wednesday"
+        }
+      ]
+    },
+    {
+      "char": "木",
+      "meaning": "tree, wood",
+      "onyomi": ["モク", "ボク"],
+      "kunyomi": ["き", "こ"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "木",
+          "reading": "き",
+          "meaning": "tree"
+        },
+        {
+          "word": "木曜日",
+          "reading": "もくようび",
+          "meaning": "Thursday"
+        }
+      ]
+    },
+    {
+      "char": "日",
+      "meaning": "sun, day",
+      "onyomi": ["ニチ", "ジツ"],
+      "kunyomi": ["ひ", "か"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "日",
+          "reading": "ひ",
+          "meaning": "day, sun"
+        },
+        {
+          "word": "日本",
+          "reading": "にほん",
+          "meaning": "Japan"
+        },
+        {
+          "word": "毎日",
+          "reading": "まいにち",
+          "meaning": "every day"
+        }
+      ]
+    },
+    {
+      "char": "四",
+      "meaning": "four",
+      "onyomi": ["シ"],
+      "kunyomi": ["よ", "よん", "よつ"],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "四つ",
+          "reading": "よっつ",
+          "meaning": "four things"
+        },
+        {
+          "word": "四時",
+          "reading": "よじ",
+          "meaning": "four o'clock"
+        }
+      ]
+    },
+    {
+      "char": "百",
+      "meaning": "hundred",
+      "onyomi": ["ヒャク"],
+      "kunyomi": [],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "百円",
+          "reading": "ひゃくえん",
+          "meaning": "one hundred yen"
+        },
+        {
+          "word": "三百",
+          "reading": "さんびゃく",
+          "meaning": "three hundred"
+        }
+      ]
+    },
+    {
+      "char": "金",
+      "meaning": "gold, money",
+      "onyomi": ["キン", "コン"],
+      "kunyomi": ["かね", "かな"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "お金",
+          "reading": "おかね",
+          "meaning": "money"
+        },
+        {
+          "word": "金曜日",
+          "reading": "きんようび",
+          "meaning": "Friday"
+        }
+      ]
+    }
+  ]
+}

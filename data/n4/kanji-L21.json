@@ -1,0 +1,156 @@
+{
+  "lesson": 21,
+  "title": "おぼえましょう",
+  "subtitle": "特別な よみを おぼえましょう",
+  "subtitleMeaning": "Learn these special readings",
+  "kanji": [
+    {
+      "char": "部",
+      "meaning": "",
+      "onyomi": ["ブ"],
+      "kunyomi": [],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "部長",
+          "reading": "ぶちょう",
+          "meaning": "director, manager"
+        },
+        {
+          "word": "全部",
+          "reading": "ぜんぶ",
+          "meaning": "all, everything"
+        },
+        {
+          "word": "学部",
+          "reading": "がくぶ",
+          "meaning": "school department"
+        },
+        {
+          "word": "部屋",
+          "reading": "へや",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "char": "屋",
+      "meaning": "",
+      "onyomi": ["オク"],
+      "kunyomi": ["や"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "屋上",
+          "reading": "おくじょう",
+          "meaning": "rooftop"
+        },
+        {
+          "word": "本屋",
+          "reading": "ほんや",
+          "meaning": "bookstore"
+        },
+        {
+          "word": "花屋",
+          "reading": "はなや",
+          "meaning": "flower shop"
+        }
+      ]
+    },
+    {
+      "char": "産",
+      "meaning": "",
+      "onyomi": ["サン"],
+      "kunyomi": [],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "産業",
+          "reading": "さんぎょう",
+          "meaning": "industry"
+        },
+        {
+          "word": "お土産",
+          "reading": "おみやげ",
+          "meaning": "souvenir"
+        }
+      ]
+    },
+    {
+      "char": "姉",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["あね"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "姉",
+          "reading": "あね",
+          "meaning": "older sister"
+        },
+        {
+          "word": "お姉さん",
+          "reading": "おねえさん",
+          "meaning": "older sister"
+        }
+      ]
+    },
+    {
+      "char": "兄",
+      "meaning": "",
+      "onyomi": ["キョウ"],
+      "kunyomi": ["あに"],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "兄弟",
+          "reading": "きょうだい",
+          "meaning": "brother"
+        },
+        {
+          "word": "兄",
+          "reading": "あに",
+          "meaning": "older brother"
+        },
+        {
+          "word": "お兄さん",
+          "reading": "おにいさん",
+          "meaning": "older brother"
+        }
+      ]
+    },
+    {
+      "char": "世",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["せ"],
+      "strokes": 5,
+      "examples": [
+        {
+          "word": "世界",
+          "reading": "せかい",
+          "meaning": "world"
+        },
+        {
+          "word": "世話をする",
+          "reading": "せわをする",
+          "meaning": "take care"
+        }
+      ]
+    },
+    {
+      "char": "界",
+      "meaning": "",
+      "onyomi": ["カイ"],
+      "kunyomi": [],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "世界中",
+          "reading": "せかいじゅう",
+          "meaning": "around the world"
+        }
+      ]
+    }
+  ]
+}

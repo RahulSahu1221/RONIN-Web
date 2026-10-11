@@ -1,0 +1,19 @@
+{
+  "name": "ronin-web",
+  "version": "3.5.0",
+  "description": "RONIN WEB — Premium PWA with SRS, quizzes, games, and analytics.",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx serve . -l 3000",
+    "build": "node build.js",
+    "test": "node tests/sync.test.js && node tests/structure.test.js && node tests/search.test.js && node tests/static-check.js",
+    "check-data": "node tests/data-check.js",
+    "smoke": "node tests/smoke.js",
+    "lint": "echo 'No linter. Use: npm run build, then npm test'"
+  },
+  "devDependencies": {
+    "clean-css": "^5.3.3",
+    "terser": "^5.36.0",
+    "puppeteer": "^25.4.0"
+  }
+}

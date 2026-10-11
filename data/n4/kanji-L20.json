@@ -1,0 +1,337 @@
+{
+  "lesson": 20,
+  "title": "おぼえましょう",
+  "subtitle": "グループで おぼえましょう",
+  "subtitleMeaning": "Learn these as groups",
+  "kanji": [
+    {
+      "char": "妹",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["いもうと"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "妹",
+          "reading": "いもうと",
+          "meaning": "younger sister"
+        }
+      ]
+    },
+    {
+      "char": "好",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["す（-く）"],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "好きな",
+          "reading": "すきな",
+          "meaning": "like, favorite"
+        },
+        {
+          "word": "大好きな",
+          "reading": "だいすきな",
+          "meaning": "precious"
+        }
+      ]
+    },
+    {
+      "char": "弟",
+      "meaning": "",
+      "onyomi": ["ダイ"],
+      "kunyomi": ["おとうと"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "兄弟",
+          "reading": "きょうだい",
+          "meaning": "brother"
+        },
+        {
+          "word": "弟",
+          "reading": "おとうと",
+          "meaning": "younger brother"
+        }
+      ]
+    },
+    {
+      "char": "赤",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["あか", "あか（-い）"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "赤",
+          "reading": "あか",
+          "meaning": "red"
+        },
+        {
+          "word": "赤ちゃん",
+          "reading": "あかちゃん",
+          "meaning": "baby"
+        },
+        {
+          "word": "赤い",
+          "reading": "あかい",
+          "meaning": "red"
+        }
+      ]
+    },
+    {
+      "char": "黄",
+      "meaning": "",
+      "onyomi": ["キ"],
+      "kunyomi": [],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "黄色",
+          "reading": "きいろ",
+          "meaning": "yellow"
+        },
+        {
+          "word": "黄色い",
+          "reading": "きいろい",
+          "meaning": "yellow"
+        }
+      ]
+    },
+    {
+      "char": "色",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["いろ"],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "色",
+          "reading": "いろ",
+          "meaning": "color"
+        },
+        {
+          "word": "茶色",
+          "reading": "ちゃいろ",
+          "meaning": "brown"
+        }
+      ]
+    },
+    {
+      "char": "黒",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["くろ", "くろ（-い）"],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "黒",
+          "reading": "くろ",
+          "meaning": "black"
+        },
+        {
+          "word": "黒い",
+          "reading": "くろい",
+          "meaning": "black"
+        }
+      ]
+    },
+    {
+      "char": "首",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["くび"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "首",
+          "reading": "くび",
+          "meaning": "neck"
+        }
+      ]
+    },
+    {
+      "char": "顔",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["かお"],
+      "strokes": 18,
+      "examples": [
+        {
+          "word": "顔",
+          "reading": "かお",
+          "meaning": "face"
+        }
+      ]
+    },
+    {
+      "char": "頭",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["あたま"],
+      "strokes": 16,
+      "examples": [
+        {
+          "word": "頭",
+          "reading": "あたま",
+          "meaning": "head"
+        }
+      ]
+    },
+    {
+      "char": "取",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["と（-る）"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "取る",
+          "reading": "とる",
+          "meaning": "take"
+        },
+        {
+          "word": "取り替える",
+          "reading": "とりかえる",
+          "meaning": "exchange, replace"
+        }
+      ]
+    },
+    {
+      "char": "押",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["お（-す）"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "押す",
+          "reading": "おす",
+          "meaning": "push"
+        },
+        {
+          "word": "押し入れ",
+          "reading": "おしいれ",
+          "meaning": "closet"
+        }
+      ]
+    },
+    {
+      "char": "引",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["ひ（-く）"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "引く",
+          "reading": "ひく",
+          "meaning": "pull"
+        },
+        {
+          "word": "引き出し",
+          "reading": "ひきだし",
+          "meaning": "drawer"
+        }
+      ]
+    },
+    {
+      "char": "開",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["あ（-く/-ける）", "ひら（-く）"],
+      "strokes": 12,
+      "examples": [
+        {
+          "word": "開く",
+          "reading": "あく",
+          "meaning": "open / ~"
+        },
+        {
+          "word": "開ける",
+          "reading": "あける",
+          "meaning": "open / ~"
+        },
+        {
+          "word": "開く",
+          "reading": "ひらく",
+          "meaning": "open / ~"
+        },
+        {
+          "word": "ドアが開く",
+          "reading": "ドアが あく",
+          "meaning": ""
+        },
+        {
+          "word": "ドアを開ける",
+          "reading": "ドアを あける",
+          "meaning": ""
+        },
+        {
+          "word": "ファイルを開く",
+          "reading": "ファイルを ひらく",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "char": "閉",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["し（-まる/-める）"],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "閉まる",
+          "reading": "しまる",
+          "meaning": "close / ~"
+        },
+        {
+          "word": "閉める",
+          "reading": "しめる",
+          "meaning": "close / ~"
+        },
+        {
+          "word": "ドアが閉まる",
+          "reading": "ドアが しまる",
+          "meaning": ""
+        },
+        {
+          "word": "ドアを閉める",
+          "reading": "ドアを しめる",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "char": "止",
+      "meaning": "",
+      "onyomi": ["シ"],
+      "kunyomi": ["と（-まる/-める）"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "中止する",
+          "reading": "ちゅうしする",
+          "meaning": "stop, cancel"
+        },
+        {
+          "word": "使用中止",
+          "reading": "しようちゅうし",
+          "meaning": "out of service"
+        },
+        {
+          "word": "止まる",
+          "reading": "とまる",
+          "meaning": "stop / ~"
+        },
+        {
+          "word": "止める",
+          "reading": "とめる",
+          "meaning": "stop / ~"
+        }
+      ]
+    }
+  ]
+}

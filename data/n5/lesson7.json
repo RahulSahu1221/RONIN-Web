@@ -1,0 +1,340 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "切ります",
+    "hiragana": "きります",
+    "meaning": "cut, slice",
+    "emoji": "✂️🔪"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "送ります",
+    "hiragana": "おくります",
+    "meaning": "send",
+    "emoji": "📦✉️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "あげます",
+    "hiragana": "あげます",
+    "meaning": "give",
+    "emoji": "🎁🤲"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "もらいます",
+    "hiragana": "もらいます",
+    "meaning": "receive",
+    "emoji": "🤲🎁"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "貸します",
+    "hiragana": "かします",
+    "meaning": "lend",
+    "emoji": "🤝📤"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "借ります",
+    "hiragana": "かります",
+    "meaning": "borrow",
+    "emoji": "🤝📥"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "教えます",
+    "hiragana": "おしえます",
+    "meaning": "teach",
+    "emoji": "👨‍🏫🗣️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "習います",
+    "hiragana": "ならいます",
+    "meaning": "learn",
+    "emoji": "👨‍🎓📝"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "かけます",
+    "hiragana": "かけます",
+    "meaning": "make [a telephone call]",
+    "example": "[電話を ～] / [でんわを ～]",
+    "emoji": "☎️📞"
+  },
+  {
+    "section": "Nouns (Tools & Stationery)",
+    "kanji": "手",
+    "hiragana": "て",
+    "meaning": "hand, arm",
+    "emoji": "✋💪"
+  },
+  {
+    "section": "Nouns (Tools & Stationery)",
+    "kanji": "はし",
+    "hiragana": "はし",
+    "meaning": "chopsticks",
+    "emoji": "🥢🍱"
+  },
+  {
+    "section": "Nouns (Tools & Stationery)",
+    "kanji": "スプーン",
+    "hiragana": "スプーン",
+    "meaning": "spoon",
+    "emoji": "🥄🥣"
+  },
+  {
+    "section": "Nouns (Tools & Stationery)",
+    "kanji": "ナイフ",
+    "hiragana": "ナイフ",
+    "meaning": "knife",
+    "emoji": "🔪🥩"
+  },
+  {
+    "section": "Nouns (Tools & Stationery)",
+    "kanji": "フォーク",
+    "hiragana": "フォーク",
+    "meaning": "fork",
+    "emoji": "🍴🍝"
+  },
+  {
+    "section": "Nouns (Tools & Stationery)",
+    "kanji": "はさみ",
+    "hiragana": "はさみ",
+    "meaning": "scissors",
+    "emoji": "✂️📄"
+  },
+  {
+    "section": "Nouns (Tools & Stationery)",
+    "kanji": "ファクス",
+    "hiragana": "ファクス",
+    "meaning": "fax",
+    "emoji": "📠📄"
+  },
+  {
+    "section": "Nouns (Tools & Stationery)",
+    "kanji": "ワープロ",
+    "hiragana": "ワープロ",
+    "meaning": "word processor",
+    "emoji": "⌨️📝"
+  },
+  {
+    "section": "Nouns (Tools & Stationery)",
+    "kanji": "パソコン",
+    "hiragana": "パソコン",
+    "meaning": "personal computer",
+    "emoji": "💻🖥️"
+  },
+  {
+    "section": "Nouns (Tools & Stationery)",
+    "kanji": "パンチ",
+    "hiragana": "パンチ",
+    "meaning": "punch",
+    "emoji": "🕳️📄"
+  },
+  {
+    "section": "Nouns (Tools & Stationery)",
+    "kanji": "ホッチキス",
+    "hiragana": "ホッチキス",
+    "meaning": "stapler",
+    "emoji": "📎📑"
+  },
+  {
+    "section": "Nouns (Tools & Stationery)",
+    "kanji": "セロテープ",
+    "hiragana": "セロテープ",
+    "meaning": "Scotch tape, clear adhesive tape",
+    "emoji": "🩹📦"
+  },
+  {
+    "section": "Nouns (Tools & Stationery)",
+    "kanji": "消しゴム",
+    "hiragana": "けしゴム",
+    "meaning": "eraser",
+    "emoji": "🧽✏️"
+  },
+  {
+    "section": "Nouns (Tools & Stationery)",
+    "kanji": "紙",
+    "hiragana": "かみ",
+    "meaning": "paper",
+    "emoji": "📄📃"
+  },
+  {
+    "section": "Nouns (Everyday Items)",
+    "kanji": "花",
+    "hiragana": "はな",
+    "meaning": "flower, blossom",
+    "emoji": "🌸🌼"
+  },
+  {
+    "section": "Nouns (Everyday Items)",
+    "kanji": "シャツ",
+    "hiragana": "シャツ",
+    "meaning": "shirt",
+    "emoji": "👔👕"
+  },
+  {
+    "section": "Nouns (Everyday Items)",
+    "kanji": "プレゼント",
+    "hiragana": "プレゼント",
+    "meaning": "present, gift",
+    "emoji": "🎁🎀"
+  },
+  {
+    "section": "Nouns (Everyday Items)",
+    "kanji": "荷物",
+    "hiragana": "にもつ",
+    "meaning": "baggage, parcel",
+    "emoji": "🧳📦"
+  },
+  {
+    "section": "Nouns (Everyday Items)",
+    "kanji": "お金",
+    "hiragana": "おかね",
+    "meaning": "money",
+    "emoji": "💴💰"
+  },
+  {
+    "section": "Nouns (Everyday Items)",
+    "kanji": "切符",
+    "hiragana": "きっぷ",
+    "meaning": "ticket",
+    "emoji": "🎫🎟️"
+  },
+  {
+    "section": "Nouns (Everyday Items)",
+    "kanji": "クリスマス",
+    "hiragana": "クリスマス",
+    "meaning": "Christmas",
+    "emoji": "🎄🎅"
+  },
+  {
+    "section": "Family",
+    "kanji": "父",
+    "hiragana": "ちち",
+    "meaning": "(my) father",
+    "emoji": "👨👔"
+  },
+  {
+    "section": "Family",
+    "kanji": "母",
+    "hiragana": "はは",
+    "meaning": "(my) mother",
+    "emoji": "👩👗"
+  },
+  {
+    "section": "Family",
+    "kanji": "お父さん",
+    "hiragana": "おとうさん",
+    "meaning": "(someone else's) father",
+    "emoji": "👨‍💼🤝"
+  },
+  {
+    "section": "Family",
+    "kanji": "お母さん",
+    "hiragana": "おかあさん",
+    "meaning": "(someone else's) mother",
+    "emoji": "👩‍💼🤝"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "もう",
+    "hiragana": "もう",
+    "meaning": "already",
+    "emoji": "⏩✔️"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "まだ",
+    "hiragana": "まだ",
+    "meaning": "not yet",
+    "emoji": "⏳❌"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "これから",
+    "hiragana": "これから",
+    "meaning": "from now on, soon",
+    "emoji": "🔜🚀"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "[～、] すてきですね。",
+    "hiragana": "[～、] すてきですね。",
+    "meaning": "What a nice [~]!",
+    "emoji": "✨😍"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "ごめんください。",
+    "hiragana": "ごめんください。",
+    "meaning": "Excuse me./Anybody home?/May I come in? (an expression used by a visitor)",
+    "emoji": "🚪🗣️"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "いらっしゃい。",
+    "hiragana": "いらっしゃい。",
+    "meaning": "How nice of you to come. (lit. Welcome.)",
+    "emoji": "🤗🏠"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "どうぞ お上がり ください。",
+    "hiragana": "どうぞ おあがり ください。",
+    "meaning": "Do come in.",
+    "emoji": "👞↗️"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "失礼します。",
+    "hiragana": "しつれいします。",
+    "meaning": "Thank you./May I? (lit. I'm afraid I'll be disturbing you.)",
+    "emoji": "🙇‍♂️🚪"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "[～は] いかがですか。",
+    "hiragana": "[～は] いかがですか。",
+    "meaning": "Won't you have [~]?/Would you like to have [~]? (used when offering something)",
+    "emoji": "🍵🤲"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "いただきます。",
+    "hiragana": "いただきます。",
+    "meaning": "Thank you./I accept. (said before starting to eat or drink)",
+    "emoji": "🙏🥢"
+  },
+  {
+    "section": "Nouns (Travel)",
+    "kanji": "旅行",
+    "hiragana": "りょこう",
+    "meaning": "trip, tour",
+    "example": "(～を します: travel, make a trip)",
+    "emoji": "✈️🧳"
+  },
+  {
+    "section": "Nouns (Travel)",
+    "kanji": "お土産",
+    "hiragana": "おみやげ",
+    "meaning": "souvenir, present",
+    "emoji": "🛍️🎁"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "ヨーロッパ",
+    "hiragana": "ヨーロッパ",
+    "meaning": "Europe",
+    "emoji": "🌍🏰"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "スペイン",
+    "hiragana": "スペイン",
+    "meaning": "Spain",
+    "emoji": "💃🥘"
+  }
+]

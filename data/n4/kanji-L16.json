@@ -1,0 +1,218 @@
+
+{
+  "lesson": 16,
+  "title": "おぼえましょう",
+  "subtitle": "かたちが にている 漢字",
+  "subtitleMeaning": "Similar-looking kanji",
+  "kanji": [
+    {
+      "char": "犬",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["いぬ"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "犬",
+          "reading": "いぬ",
+          "meaning": "dog"
+        }
+      ]
+    },
+    {
+      "char": "太",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["ふと（-い）", "ふと（-る）"],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "太い",
+          "reading": "ふとい",
+          "meaning": "fat, chubby"
+        },
+        {
+          "word": "太る",
+          "reading": "ふとる",
+          "meaning": "get fat"
+        }
+      ]
+    },
+    {
+      "char": "区",
+      "meaning": "",
+      "onyomi": ["ク"],
+      "kunyomi": [],
+      "strokes": 4,
+      "examples": [
+        {
+          "word": "区",
+          "reading": "く",
+          "meaning": "ward"
+        }
+      ]
+    },
+    {
+      "char": "思",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["おも（-う）"],
+      "strokes": 9,
+      "examples": [
+        {
+          "word": "思う",
+          "reading": "おもう",
+          "meaning": "think"
+        },
+        {
+          "word": "思い出す",
+          "reading": "おもいだす",
+          "meaning": "remember, recall"
+        }
+      ]
+    },
+    {
+      "char": "知",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["し（-る）"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "知る",
+          "reading": "しる",
+          "meaning": "know"
+        },
+        {
+          "word": "知らせる",
+          "reading": "しらせる",
+          "meaning": "inform, notice"
+        }
+      ]
+    },
+    {
+      "char": "和",
+      "meaning": "",
+      "onyomi": ["ワ"],
+      "kunyomi": [],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "和室",
+          "reading": "わしつ",
+          "meaning": "Japanese-style room"
+        },
+        {
+          "word": "和菓子",
+          "reading": "わがし",
+          "meaning": "Japanese sweets"
+        },
+        {
+          "word": "平和",
+          "reading": "へいわ",
+          "meaning": "peace, harmony"
+        }
+      ]
+    },
+    {
+      "char": "族",
+      "meaning": "",
+      "onyomi": ["ゾク"],
+      "kunyomi": [],
+      "strokes": 11,
+      "examples": [
+        {
+          "word": "家族",
+          "reading": "かぞく",
+          "meaning": "family"
+        },
+        {
+          "word": "水族館",
+          "reading": "すいぞくかん",
+          "meaning": "aquarium"
+        }
+      ]
+    },
+    {
+      "char": "青",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["あお", "あお（-い）"],
+      "strokes": 8,
+      "examples": [
+        {
+          "word": "青",
+          "reading": "あお",
+          "meaning": "blue"
+        },
+        {
+          "word": "青い",
+          "reading": "あおい",
+          "meaning": "blue"
+        }
+      ]
+    },
+    {
+      "char": "光",
+      "meaning": "",
+      "onyomi": [],
+      "kunyomi": ["ひかり", "ひか（-る）"],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "光",
+          "reading": "ひかり",
+          "meaning": "light"
+        },
+        {
+          "word": "光る",
+          "reading": "ひかる",
+          "meaning": "shine"
+        }
+      ]
+    },
+    {
+      "char": "池",
+      "meaning": "",
+      "onyomi": ["チ"],
+      "kunyomi": ["いけ"],
+      "strokes": 6,
+      "examples": [
+        {
+          "word": "電池",
+          "reading": "でんち",
+          "meaning": "battery"
+        },
+        {
+          "word": "池",
+          "reading": "いけ",
+          "meaning": "pond"
+        }
+      ]
+    },
+    {
+      "char": "別",
+      "meaning": "",
+      "onyomi": ["ベツ"],
+      "kunyomi": ["わか（-れる）"],
+      "strokes": 7,
+      "examples": [
+        {
+          "word": "別の",
+          "reading": "べつの",
+          "meaning": "another, separate"
+        },
+        {
+          "word": "特別な",
+          "reading": "とくべつな",
+          "meaning": "special"
+        },
+        {
+          "word": "別れる",
+          "reading": "わかれる",
+          "meaning": "separate"
+        }
+      ]
+    }
+  ]
+}

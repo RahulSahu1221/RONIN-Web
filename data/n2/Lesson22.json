@@ -1,0 +1,1843 @@
+[
+  {
+    "section": "Nouns (Writing & Formal Documents)",
+    "kanji": "死亡記事",
+    "hiragana": "しぼうきじ",
+    "meaning": "obituary",
+    "emoji": "📰🕯️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "死亡[する]",
+    "hiragana": "しぼう[する]",
+    "meaning": "die",
+    "emoji": "🕯️🪦"
+  },
+  {
+    "section": "Nouns (Writing & Formal Documents)",
+    "kanji": "手紙文",
+    "hiragana": "てがみぶん",
+    "meaning": "epistolary style",
+    "emoji": "✉️🖋️📜"
+  },
+  {
+    "section": "Nouns (Writing & Formal Documents)",
+    "kanji": "依頼状",
+    "hiragana": "いらいじょう",
+    "meaning": "written request",
+    "emoji": "📝✉️🤝"
+  },
+  {
+    "section": "Nouns (Abstract)",
+    "kanji": "死生観",
+    "hiragana": "しせいかん",
+    "meaning": "view of life and death",
+    "emoji": "🌱⚖️🕯️"
+  },
+  {
+    "section": "Nouns (Communication)",
+    "kanji": "ディスカッション",
+    "hiragana": "",
+    "meaning": "discussion",
+    "emoji": "🗣️👥💬"
+  },
+  {
+    "section": "Nouns (Communication)",
+    "kanji": "通信手段",
+    "hiragana": "つうしんしゅだん",
+    "meaning": "means of communication",
+    "emoji": "📱💻📡"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "手段",
+    "hiragana": "しゅだん",
+    "meaning": "means",
+    "emoji": "🛠️🎯"
+  },
+  {
+    "section": "Expressions (Formal Letters)",
+    "kanji": "拝啓",
+    "hiragana": "はいけい",
+    "meaning": "Dear ~",
+    "emoji": "✉️🖋️"
+  },
+  {
+    "section": "Nouns (Time)",
+    "kanji": "時下",
+    "hiragana": "じか",
+    "meaning": "at this time",
+    "emoji": "🕒📅"
+  },
+  {
+    "section": "Expressions (Formal Letters)",
+    "kanji": "[ご]健勝",
+    "hiragana": "[ご]けんしょう",
+    "meaning": "in good health",
+    "emoji": "💪🌿😊"
+  },
+  {
+    "section": "Nouns (Organizations)",
+    "kanji": "小社",
+    "hiragana": "しょうしゃ",
+    "meaning": "our company",
+    "emoji": "🏢🤝"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "目下",
+    "hiragana": "もっか",
+    "meaning": "currently",
+    "emoji": "⏳📍"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "類",
+    "hiragana": "るい",
+    "meaning": "precedent",
+    "emoji": "📚🔎"
+  },
+  {
+    "section": "Nouns (Writing & Formal Documents)",
+    "kanji": "ネクロロジー",
+    "hiragana": "",
+    "meaning": "obituary",
+    "emoji": "📰🕯️"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "物故者",
+    "hiragana": "ぶっこしゃ",
+    "meaning": "deceased person",
+    "emoji": "🕯️🪦"
+  },
+  {
+    "section": "Nouns (Writing & Formal Documents)",
+    "kanji": "略伝",
+    "hiragana": "りゃくでん",
+    "meaning": "short biography",
+    "emoji": "📖👤"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "編纂[する]",
+    "hiragana": "へんさん[する]",
+    "meaning": "compile",
+    "emoji": "📚📝🗂️"
+  },
+  {
+    "section": "Nouns (Abstract)",
+    "kanji": "玉稿",
+    "hiragana": "ぎょっこう",
+    "meaning": "valuable contribution",
+    "emoji": "📜💎✍️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "たまわる",
+    "hiragana": "",
+    "meaning": "have the honor of receiving",
+    "emoji": "🎁🙏🤲"
+  },
+  {
+    "section": "Nouns (Abstract)",
+    "kanji": "次第",
+    "hiragana": "しだい",
+    "meaning": "reason",
+    "emoji": "❓📝"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "当の",
+    "hiragana": "とうの",
+    "meaning": "the said",
+    "emoji": "👉📌"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "本人",
+    "hiragana": "ほんにん",
+    "meaning": "person in question",
+    "emoji": "👤🪪"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "執筆[する]",
+    "hiragana": "しっぴつ[する]",
+    "meaning": "write",
+    "emoji": "✍️🖊️📄"
+  },
+  {
+    "section": "Grammar & Expressions",
+    "kanji": "点[という～]",
+    "hiragana": "てん",
+    "meaning": "point (in the point that ~)",
+    "emoji": "📍💡"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "存命[中]",
+    "hiragana": "ぞんめい[ちゅう]",
+    "meaning": "[while still alive]",
+    "emoji": "🌱❤️"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "人物",
+    "hiragana": "じんぶつ",
+    "meaning": "person, figure",
+    "emoji": "👤🌟"
+  },
+  {
+    "section": "Nouns (Achievements)",
+    "kanji": "業績",
+    "hiragana": "ぎょうせき",
+    "meaning": "achievement",
+    "emoji": "🏆📈🎯"
+  },
+  {
+    "section": "Nouns (Life & Death)",
+    "kanji": "辞世",
+    "hiragana": "じせい",
+    "meaning": "dying, death",
+    "emoji": "🕯️📜"
+  },
+  {
+    "section": "Nouns (Writing & Formal Documents)",
+    "kanji": "墓碑銘",
+    "hiragana": "ぼひめい",
+    "meaning": "epitaph",
+    "emoji": "🪦🖋️"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "不謹慎",
+    "hiragana": "ふきんしん",
+    "meaning": "immodest",
+    "emoji": "🤦⚠️"
+  },
+  {
+    "section": "Nouns (Entertainment)",
+    "kanji": "興味本位",
+    "hiragana": "きょうみほんい",
+    "meaning": "light entertainment",
+    "emoji": "🎭🎬"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "推察[する]",
+    "hiragana": "すいさつ[する]",
+    "meaning": "infer",
+    "emoji": "🤔🔎💡"
+  },
+  {
+    "section": "Nouns (Life & Death)",
+    "kanji": "死",
+    "hiragana": "し",
+    "meaning": "death",
+    "emoji": "🕯️🪦"
+  },
+  {
+    "section": "Nouns (Life & Death)",
+    "kanji": "生",
+    "hiragana": "せい",
+    "meaning": "life",
+    "emoji": "🌱❤️✨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "さらす",
+    "hiragana": "",
+    "meaning": "expose",
+    "emoji": "🔦👀📢"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "集約[する]",
+    "hiragana": "しゅうやく[する]",
+    "meaning": "summarize",
+    "emoji": "📝📚📌"
+  },
+  {
+    "section": "Nouns (Reference Books)",
+    "kanji": "人名事典",
+    "hiragana": "じんめいじてん",
+    "meaning": "biographical dictionary",
+    "emoji": "📚👤🔎"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "記述[する]",
+    "hiragana": "きじゅつ[する]",
+    "meaning": "written description",
+    "emoji": "✍️📄🖋️"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "客観的[な]",
+    "hiragana": "きゃっかんてき[な]",
+    "meaning": "objective",
+    "emoji": "⚖️🔎📊"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "抱く",
+    "hiragana": "いだく",
+    "meaning": "harbor",
+    "emoji": "🤲❤️💭"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "別問題",
+    "hiragana": "べつもんだい",
+    "meaning": "another question",
+    "emoji": "❓📋"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "承知[する]",
+    "hiragana": "しょうち[する]",
+    "meaning": "be aware of",
+    "emoji": "🧠👂✅"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "いっそ",
+    "hiragana": "",
+    "meaning": "rather",
+    "emoji": "🤔➡️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "隔てる",
+    "hiragana": "へだてる",
+    "meaning": "elapse",
+    "emoji": "⏳📅"
+  },
+  {
+    "section": "Nouns (Writing & Formal Documents)",
+    "kanji": "中略",
+    "hiragana": "ちゅうりゃく",
+    "meaning": "part omitted",
+    "emoji": "✂️📄"
+  },
+  {
+    "section": "Nouns (Books)",
+    "kanji": "本書",
+    "hiragana": "ほんしょ",
+    "meaning": "this book",
+    "emoji": "📘📖"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "意図[する]",
+    "hiragana": "いと[する]",
+    "meaning": "aim to achieve",
+    "emoji": "🎯💡📌"
+  },
+  {
+    "section": "Expressions (Formal Letters)",
+    "kanji": "敬具",
+    "hiragana": "けいぐ",
+    "meaning": "Yours sincerely",
+    "emoji": "✉️🙏"
+  },
+  {
+    "section": "Expressions (Poetry)",
+    "kanji": "色は匂へどちりぬるを",
+    "hiragana": "いろはにおへどちりぬるを",
+    "meaning": "Colors are fragrant, but they fade away.",
+    "emoji": "🌸🌈🍂"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "氏",
+    "hiragana": "し",
+    "meaning": "he/she",
+    "emoji": "👤"
+  },
+  {
+    "section": "Nouns (Time)",
+    "kanji": "生前",
+    "hiragana": "せいぜん",
+    "meaning": "during his/her lifetime",
+    "emoji": "🌱📅"
+  },
+  {
+    "section": "Nouns (Life & Death)",
+    "kanji": "遺骨",
+    "hiragana": "いこつ",
+    "meaning": "remains",
+    "emoji": "🪦🕯️"
+  },
+  {
+    "section": "Nouns (Philosophy)",
+    "kanji": "三無主義",
+    "hiragana": "さんむしゅぎ",
+    "meaning": "three-no doctrine",
+    "emoji": "📚🤔"
+  },
+  {
+    "section": "Nouns (Philosophy)",
+    "kanji": "主義",
+    "hiragana": "しゅぎ",
+    "meaning": "doctrine",
+    "emoji": "📖💡"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "唱える",
+    "hiragana": "となえる",
+    "meaning": "preach",
+    "emoji": "🗣️📢📜"
+  },
+  {
+    "section": "Nouns (Legal Documents)",
+    "kanji": "遺書",
+    "hiragana": "いしょ",
+    "meaning": "will",
+    "emoji": "📜✍️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "記す",
+    "hiragana": "しるす",
+    "meaning": "mention",
+    "emoji": "✍️📝"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "公言[する]",
+    "hiragana": "こうげん[する]",
+    "meaning": "publicly declare",
+    "emoji": "📢🗣️📣"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "遺族",
+    "hiragana": "いぞく",
+    "meaning": "bereaved family",
+    "emoji": "👨‍👩‍👧🕯️"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "忠実[な]",
+    "hiragana": "ちゅうじつ[な]",
+    "meaning": "faithful",
+    "emoji": "🤝❤️🛡️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "覆い隠す",
+    "hiragana": "おおいかくす",
+    "meaning": "conceal",
+    "emoji": "🙈🎭🫥"
+  },
+  {
+    "section": "Nouns (Life)",
+    "kanji": "生涯",
+    "hiragana": "しょうがい",
+    "meaning": "life",
+    "emoji": "🌱⏳❤️"
+  },
+  {
+    "section": "Nouns (Religion)",
+    "kanji": "宗教",
+    "hiragana": "しゅうきょう",
+    "meaning": "religion",
+    "emoji": "🙏🛕📿"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "通す",
+    "hiragana": "とおす",
+    "meaning": "pass",
+    "emoji": "➡️🚪"
+  },
+  {
+    "section": "Nouns (Time & Nature)",
+    "kanji": "満月",
+    "hiragana": "まんげつ",
+    "meaning": "full moon",
+    "emoji": "🌕🌌✨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "仰ぐ",
+    "hiragana": "あおぐ",
+    "meaning": "gaze up at",
+    "emoji": "👀🌌⬆️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "夢想[する]",
+    "hiragana": "むそう[する]",
+    "meaning": "dream",
+    "emoji": "💭🌙✨"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "はたして",
+    "hiragana": "",
+    "meaning": "really",
+    "emoji": "❓🤔"
+  },
+  {
+    "section": "Nouns (Life & Death)",
+    "kanji": "最期",
+    "hiragana": "さいご",
+    "meaning": "end (death)",
+    "emoji": "🕯️⌛"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "定か[な]",
+    "hiragana": "さだか[な]",
+    "meaning": "certain",
+    "emoji": "✅🔎"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "悟る",
+    "hiragana": "さとる",
+    "meaning": "realize",
+    "emoji": "💡🧠✨"
+  },
+  {
+    "section": "Nouns (Abstract)",
+    "kanji": "心得",
+    "hiragana": "こころえ",
+    "meaning": "instruction",
+    "emoji": "📘🧠"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "断食[する]",
+    "hiragana": "だんじき[する]",
+    "meaning": "fast",
+    "emoji": "🍽️🚫🙏"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "往生[する]",
+    "hiragana": "おうじょう[する]",
+    "meaning": "pass away",
+    "emoji": "🕯️🪦"
+  },
+  {
+    "section": "Nouns (Time)",
+    "kanji": "現時点",
+    "hiragana": "げんじてん",
+    "meaning": "at present",
+    "emoji": "📍🕒"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "すべ",
+    "hiragana": "",
+    "meaning": "way of, means",
+    "emoji": "🛠️➡️"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "かねて",
+    "hiragana": "",
+    "meaning": "since a long time previously",
+    "emoji": "⏳📅"
+  },
+  {
+    "section": "Nouns (Quantity)",
+    "kanji": "一握り",
+    "hiragana": "ひとにぎり",
+    "meaning": "handful",
+    "emoji": "🤏✋"
+  },
+  {
+    "section": "Nouns (Life & Death)",
+    "kanji": "散骨",
+    "hiragana": "さんこつ",
+    "meaning": "scattering of a deceased person's ashes",
+    "emoji": "🕯️🌊"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "知友",
+    "hiragana": "ちゆう",
+    "meaning": "friends and acquaintances",
+    "emoji": "👥🤝💬"
+  },
+  {
+    "section": "Nouns (Life & Death)",
+    "kanji": "遺灰",
+    "hiragana": "いはい",
+    "meaning": "ashes",
+    "emoji": "🕯️⚱️"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "みちすがら",
+    "hiragana": "",
+    "meaning": "while walking",
+    "emoji": "🚶🛤️🌳"
+  },
+  {
+    "section": "Nouns (Abstract)",
+    "kanji": "因縁",
+    "hiragana": "いんねん",
+    "meaning": "connection",
+    "emoji": "🔗🤝"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "散布[する]",
+    "hiragana": "さんぷ[する]",
+    "meaning": "disperse",
+    "emoji": "🌬️🍃💨"
+  },
+  {
+    "section": "Nouns (Literature)",
+    "kanji": "愛唱句",
+    "hiragana": "あいしょうく",
+    "meaning": "favorite poem",
+    "emoji": "📜❤️📖"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "制作意図",
+    "hiragana": "せいさくいと",
+    "meaning": "intention in producing",
+    "emoji": "💡🎨🎯"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "制作[する]",
+    "hiragana": "せいさく[する]",
+    "meaning": "produce",
+    "emoji": "🛠️🎨📦"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "夢みる",
+    "hiragana": "ゆめみる",
+    "meaning": "dream of",
+    "emoji": "💭🌙✨"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "山あり谷あり",
+    "hiragana": "やまありたにあり",
+    "meaning": "ups and downs",
+    "emoji": "⛰️📉📈"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "振り返る",
+    "hiragana": "ふりかえる",
+    "meaning": "look back",
+    "emoji": "🔙👀💭"
+  },
+  {
+    "section": "Nouns (Achievements)",
+    "kanji": "功績",
+    "hiragana": "こうせき",
+    "meaning": "achievements",
+    "emoji": "🏆🌟📈"
+  },
+  {
+    "section": "Nouns (Age & Milestones)",
+    "kanji": "還暦",
+    "hiragana": "かんれき",
+    "meaning": "sixtieth birthday",
+    "emoji": "🎂🎉🎁"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "迎える[還暦を～]",
+    "hiragana": "むかえる[かんれきを～]",
+    "meaning": "reach one's sixtieth birthday",
+    "emoji": "🎂🎉🧓"
+  },
+  {
+    "section": "Nouns (Events)",
+    "kanji": "フェア",
+    "hiragana": "",
+    "meaning": "fair",
+    "emoji": "🎪🎡🎉"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "開催[する]",
+    "hiragana": "かいさい[する]",
+    "meaning": "hold",
+    "emoji": "📅🎪🤝"
+  },
+  {
+    "section": "Nouns (Finance)",
+    "kanji": "資金",
+    "hiragana": "しきん",
+    "meaning": "funds",
+    "emoji": "💰💴🏦"
+  },
+  {
+    "section": "Nouns (Organizations)",
+    "kanji": "団体",
+    "hiragana": "だんたい",
+    "meaning": "group",
+    "emoji": "👥🤝"
+  },
+  {
+    "section": "Expressions (Formal Letters)",
+    "kanji": "御中",
+    "hiragana": "おんちゅう",
+    "meaning": "To: (used for an organization)",
+    "emoji": "✉️🏢"
+  },
+  {
+    "section": "Nouns (Time)",
+    "kanji": "時候",
+    "hiragana": "じこう",
+    "meaning": "seasonal",
+    "emoji": "🌸☀️🍂"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "趣旨",
+    "hiragana": "しゅし",
+    "meaning": "purport",
+    "emoji": "💡📄"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "企画[する]",
+    "hiragana": "きかく[する]",
+    "meaning": "project",
+    "emoji": "🗂️💡📅"
+  },
+  {
+    "section": "Nouns (Abstract)",
+    "kanji": "意義",
+    "hiragana": "いぎ",
+    "meaning": "significance",
+    "emoji": "💡🎯"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "依頼[する]",
+    "hiragana": "いらい[する]",
+    "meaning": "request",
+    "emoji": "🙏📝🤝"
+  },
+  {
+    "section": "Nouns (Writing & Formal Documents)",
+    "kanji": "伝記",
+    "hiragana": "でんき",
+    "meaning": "biography",
+    "emoji": "📖👤"
+  },
+  {
+    "section": "Nouns (Education)",
+    "kanji": "ゼミ",
+    "hiragana": "",
+    "meaning": "seminar",
+    "emoji": "👨‍🏫👥📚"
+  },
+  {
+    "section": "Nouns (Grammar)",
+    "kanji": "文末",
+    "hiragana": "ぶんまつ",
+    "meaning": "sentence ending",
+    "emoji": "📝🔚"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "遠慮がち",
+    "hiragana": "えんりょがち",
+    "meaning": "diffidently",
+    "emoji": "😶🙈"
+  },
+  {
+    "section": "Nouns (Abstract)",
+    "kanji": "意思",
+    "hiragana": "いし",
+    "meaning": "wish, intention",
+    "emoji": "💭🎯"
+  },
+  {
+    "section": "Nouns (Meetings)",
+    "kanji": "議題",
+    "hiragana": "ぎだい",
+    "meaning": "agenda item",
+    "emoji": "📋🗣️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "産む",
+    "hiragana": "うむ",
+    "meaning": "have (children)",
+    "emoji": "🤱👶❤️"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "保育所",
+    "hiragana": "ほいくしょ",
+    "meaning": "day nursery",
+    "emoji": "🏫👶🧸"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "ためらう",
+    "hiragana": "",
+    "meaning": "hesitate",
+    "emoji": "🤔⏳"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "せめて",
+    "hiragana": "",
+    "meaning": "at least",
+    "emoji": "☝️📌"
+  },
+  {
+    "section": "Nouns (Childcare)",
+    "kanji": "給食",
+    "hiragana": "きゅうしょく",
+    "meaning": "provision of meals",
+    "emoji": "🍱🥛🍎"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "保育施設",
+    "hiragana": "ほいくしせつ",
+    "meaning": "childcare facility",
+    "emoji": "🏫👶🧸"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "～施設[保育～]",
+    "hiragana": "～しせつ[ほいく～]",
+    "meaning": "[childcare] facility",
+    "emoji": "🏢👶"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "充実[する]",
+    "hiragana": "じゅうじつ[する]",
+    "meaning": "enhancement",
+    "emoji": "📈✨✅"
+  },
+  {
+    "section": "Nouns (Finance)",
+    "kanji": "無償",
+    "hiragana": "むしょう",
+    "meaning": "free of charge",
+    "emoji": "🆓🎁"
+  },
+  {
+    "section": "Nouns (Abstract)",
+    "kanji": "恩恵",
+    "hiragana": "おんけい",
+    "meaning": "benefit",
+    "emoji": "🎁🤲🌟"
+  },
+  {
+    "section": "Nouns (Feelings)",
+    "kanji": "不公平[感]",
+    "hiragana": "ふこうへい[かん]",
+    "meaning": "[feeling of] unfairness",
+    "emoji": "⚖️😠"
+  },
+  {
+    "section": "Nouns (Family)",
+    "kanji": "核家族",
+    "hiragana": "かくかぞく",
+    "meaning": "nuclear family",
+    "emoji": "👨‍👩‍👧🏠❤️"
+  },
+  {
+    "section": "Nouns (Employment & Childcare)",
+    "kanji": "育児休暇",
+    "hiragana": "いくじきゅうか",
+    "meaning": "child-care leave",
+    "emoji": "👶🍼📅"
+  },
+  {
+    "section": "Nouns (Childcare)",
+    "kanji": "育児",
+    "hiragana": "いくじ",
+    "meaning": "child-care",
+    "emoji": "👶🍼❤️"
+  },
+  {
+    "section": "Nouns (Childcare)",
+    "kanji": "子育て",
+    "hiragana": "こそだて",
+    "meaning": "parenting",
+    "emoji": "👨‍👩‍👧🧸❤️"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "積極的[な]",
+    "hiragana": "せっきょくてき[な]",
+    "meaning": "active",
+    "emoji": "🚀💪🎯"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "放棄[する]",
+    "hiragana": "ほうき[する]",
+    "meaning": "abandon",
+    "emoji": "🚫📦👋"
+  },
+  {
+    "section": "Nouns (Social Issues)",
+    "kanji": "イジメ",
+    "hiragana": "",
+    "meaning": "bullying",
+    "emoji": "😢🚫🛑"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "任せる",
+    "hiragana": "まかせる",
+    "meaning": "leave up to",
+    "emoji": "🤝📋"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "縛る",
+    "hiragana": "しばる",
+    "meaning": "tie up",
+    "emoji": "🪢🔗"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "解消[する]",
+    "hiragana": "かいしょう[する]",
+    "meaning": "solve",
+    "emoji": "🧩✅💡"
+  },
+  {
+    "section": "Nouns (Relationships)",
+    "kanji": "カップル",
+    "hiragana": "",
+    "meaning": "couple",
+    "emoji": "👫❤️💑"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "こだわる",
+    "hiragana": "",
+    "meaning": "bother about",
+    "emoji": "🤔🔎"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "背景",
+    "hiragana": "はいけい",
+    "meaning": "background",
+    "emoji": "🏞️🖼️"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "カギ[問題を解決する～]",
+    "hiragana": "[もんだいをかいけつする～]",
+    "meaning": "key [to solving a problem]",
+    "emoji": "🔑🧩💡"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "未婚",
+    "hiragana": "みこん",
+    "meaning": "unmarried",
+    "emoji": "👤💍🚫"
+  },
+  {
+    "section": "Nouns (Relationships)",
+    "kanji": "晩婚",
+    "hiragana": "ばんこん",
+    "meaning": "marrying later in life",
+    "emoji": "💍📅👰"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "発想[する]",
+    "hiragana": "はっそう[する]",
+    "meaning": "ideas",
+    "emoji": "💡🧠✨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "転換[する]",
+    "hiragana": "てんかん[する]",
+    "meaning": "turn around",
+    "emoji": "🔄↩️"
+  },
+  {
+    "section": "Nouns (Finance)",
+    "kanji": "値上げ",
+    "hiragana": "ねあげ",
+    "meaning": "raising (a price or fee)",
+    "emoji": "📈💴"
+  },
+  {
+    "section": "Nouns (Environment)",
+    "kanji": "居住～[～環境]",
+    "hiragana": "きょじゅう～[～かんきょう]",
+    "meaning": "living [environment]",
+    "emoji": "🏠🌳🌍"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "レベル",
+    "hiragana": "",
+    "meaning": "standard, level",
+    "emoji": "📊📈"
+  },
+  {
+    "section": "Nouns (Finance)",
+    "kanji": "年金",
+    "hiragana": "ねんきん",
+    "meaning": "pension",
+    "emoji": "💴👴"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "年金生活者[年金生活者]",
+    "hiragana": "ねんきんせいかつ[しゃ]",
+    "meaning": "living on a pension [pensioner]",
+    "emoji": "👴💴🏠"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "安易[な]",
+    "hiragana": "あんい[な]",
+    "meaning": "simplistic",
+    "emoji": "🤷💭"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "スライド[する]",
+    "hiragana": "",
+    "meaning": "(raise) in line with",
+    "emoji": "📈↔️"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "仕方[が]ない",
+    "hiragana": "しかた[が]ない",
+    "meaning": "have no option but to",
+    "emoji": "🤷‍♂️🚪"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "交わり",
+    "hiragana": "まじわり",
+    "meaning": "mixing",
+    "emoji": "🔀🤝"
+  },
+  {
+    "section": "Nouns (Finance & Behavior)",
+    "kanji": "無駄使い",
+    "hiragana": "むだづかい",
+    "meaning": "squander",
+    "emoji": "💸🛍️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "誘惑[する]",
+    "hiragana": "ゆうわく[する]",
+    "meaning": "temptation",
+    "emoji": "😈🍰🎯"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "日頃",
+    "hiragana": "ひごろ",
+    "meaning": "habitually",
+    "emoji": "📅🔁"
+  },
+  {
+    "section": "Nouns (Entertainment)",
+    "kanji": "オンラインゲーム",
+    "hiragana": "",
+    "meaning": "online game",
+    "emoji": "🎮🌐🕹️"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "率直[な]",
+    "hiragana": "そっちょく[な]",
+    "meaning": "frank",
+    "emoji": "🗣️💬🤝"
+  },
+  {
+    "section": "Nouns (Communication)",
+    "kanji": "意見交換",
+    "hiragana": "いけんこうかん",
+    "meaning": "exchange of opinions",
+    "emoji": "🗣️👥💬"
+  },
+  {
+    "section": "Nouns (Meetings)",
+    "kanji": "まとめ役",
+    "hiragana": "まとめやく",
+    "meaning": "facilitator",
+    "emoji": "👥📋🤝"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "共有[する]",
+    "hiragana": "きょうゆう[する]",
+    "meaning": "share",
+    "emoji": "🤝📤💬"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "移転[する]",
+    "hiragana": "いてん[する]",
+    "meaning": "relocate",
+    "emoji": "📦🚚🏠"
+  },
+  {
+    "section": "Nouns (Statistics)",
+    "kanji": "出席率",
+    "hiragana": "しゅっせきりつ",
+    "meaning": "attendance rate",
+    "emoji": "👥📊✅"
+  },
+  {
+    "section": "Nouns (Documents)",
+    "kanji": "運転免許証",
+    "hiragana": "うんてんめんきょしょう",
+    "meaning": "driving licence",
+    "emoji": "🚗🪪"
+  },
+  {
+    "section": "Nouns (Economics)",
+    "kanji": "経済成長期",
+    "hiragana": "けいざいせいちょうき",
+    "meaning": "(rapid) economic growth period",
+    "emoji": "📈🏭💴"
+  },
+  {
+    "section": "Nouns (Quantity)",
+    "kanji": "倍",
+    "hiragana": "ばい",
+    "meaning": "double",
+    "emoji": "✖️2️⃣📈"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "皆様",
+    "hiragana": "みなさま",
+    "meaning": "you all",
+    "emoji": "👥🤝"
+  },
+  {
+    "section": "Proper Nouns (Organizations)",
+    "kanji": "国連",
+    "hiragana": "こくれん",
+    "meaning": "United Nations",
+    "emoji": "🌐🕊️🤝"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "通訳[する]",
+    "hiragana": "つうやく[する]",
+    "meaning": "interpret",
+    "emoji": "🗣️🌐💬"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "左右[する]",
+    "hiragana": "さゆう[する]",
+    "meaning": "affect",
+    "emoji": "🎛️↔️📊"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "乳幼児",
+    "hiragana": "にゅうようじ",
+    "meaning": "infant",
+    "emoji": "👶🍼🧸"
+  },
+  {
+    "section": "Nouns (Statistics)",
+    "kanji": "死亡率",
+    "hiragana": "しぼうりつ",
+    "meaning": "death rate",
+    "emoji": "📊🕯️"
+  },
+  {
+    "section": "Nouns (Biology)",
+    "kanji": "生命体",
+    "hiragana": "せいめいたい",
+    "meaning": "living organism",
+    "emoji": "🦠🌱🔬"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "着用[する]",
+    "hiragana": "ちゃくよう[する]",
+    "meaning": "wear",
+    "emoji": "👕🧥👟"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "他人",
+    "hiragana": "たにん",
+    "meaning": "other people",
+    "emoji": "👥🚶"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "確実[な]",
+    "hiragana": "かくじつ[な]",
+    "meaning": "reliable",
+    "emoji": "✅🛡️📌"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "発達[する]",
+    "hiragana": "はったつ[する]",
+    "meaning": "develop",
+    "emoji": "📈🌱🚀"
+  },
+  {
+    "section": "Nouns (Science)",
+    "kanji": "地動説",
+    "hiragana": "ちどうせつ",
+    "meaning": "heliocentrism",
+    "emoji": "☀️🌍🪐"
+  },
+  {
+    "section": "Nouns (Abstract)",
+    "kanji": "信念",
+    "hiragana": "しんねん",
+    "meaning": "belief",
+    "emoji": "🙏💭💪"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "にこにこ[する]",
+    "hiragana": "",
+    "meaning": "smile",
+    "emoji": "😊😄✨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "待ち望む",
+    "hiragana": "まちのぞむ",
+    "meaning": "long for",
+    "emoji": "🙏⏳❤️"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "めったに",
+    "hiragana": "",
+    "meaning": "rarely",
+    "emoji": "📉🚫"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "よほど",
+    "hiragana": "",
+    "meaning": "pretty",
+    "emoji": "📊✨"
+  },
+  {
+    "section": "Nouns (Feelings)",
+    "kanji": "機嫌",
+    "hiragana": "きげん",
+    "meaning": "mood",
+    "emoji": "😊😠😔"
+  },
+  {
+    "section": "Nouns (Feelings)",
+    "kanji": "ストレス",
+    "hiragana": "",
+    "meaning": "stress",
+    "emoji": "😫💢🧠"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "たまる[ストレスが～]",
+    "hiragana": "",
+    "meaning": "[stress] build up",
+    "emoji": "😣📈💢"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "突く",
+    "hiragana": "つく",
+    "meaning": "go to the heart of",
+    "emoji": "🎯🔎💡"
+  },
+  {
+    "section": "Nouns (Environment)",
+    "kanji": "エコロジー",
+    "hiragana": "",
+    "meaning": "ecology",
+    "emoji": "🌍🌿♻️"
+  },
+  {
+    "section": "Nouns (Abstract)",
+    "kanji": "思想",
+    "hiragana": "しそう",
+    "meaning": "idea, thought",
+    "emoji": "🧠💭💡"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "まもなく",
+    "hiragana": "",
+    "meaning": "soon",
+    "emoji": "⏳🔜"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "そうした",
+    "hiragana": "",
+    "meaning": "that kind of",
+    "emoji": "👉📌"
+  },
+  {
+    "section": "Nouns (Employment)",
+    "kanji": "労働力",
+    "hiragana": "ろうどうりょく",
+    "meaning": "labor force",
+    "emoji": "👷💪🏭"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "依存[する]",
+    "hiragana": "いぞん[する]",
+    "meaning": "depend",
+    "emoji": "🤝🔗"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "労働者",
+    "hiragana": "ろうどうしゃ",
+    "meaning": "worker",
+    "emoji": "👷🏭🛠️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "受け入れる",
+    "hiragana": "うけいれる",
+    "meaning": "accept",
+    "emoji": "🤲✅🤝"
+  },
+  {
+    "section": "Nouns (Employment)",
+    "kanji": "労働条件",
+    "hiragana": "ろうどうじょうけん",
+    "meaning": "working conditions",
+    "emoji": "👷📋⚖️"
+  },
+  {
+    "section": "Nouns (Employment)",
+    "kanji": "労働",
+    "hiragana": "ろうどう",
+    "meaning": "work",
+    "emoji": "👷🛠️💼"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "整備[する]",
+    "hiragana": "せいび[する]",
+    "meaning": "set up",
+    "emoji": "🛠️⚙️✅"
+  },
+  {
+    "section": "Nouns (Religion)",
+    "kanji": "天",
+    "hiragana": "てん",
+    "meaning": "Heaven",
+    "emoji": "☁️🌤️✨"
+  },
+  {
+    "section": "Nouns (Technology)",
+    "kanji": "パスワード",
+    "hiragana": "",
+    "meaning": "password",
+    "emoji": "🔐🔑💻"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "地面",
+    "hiragana": "じめん",
+    "meaning": "ground",
+    "emoji": "🌍🪨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "凍る",
+    "hiragana": "こおる",
+    "meaning": "freeze",
+    "emoji": "🧊❄️🥶"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "王様",
+    "hiragana": "おうさま",
+    "meaning": "The King",
+    "emoji": "👑🤴🏰"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "幼い",
+    "hiragana": "おさない",
+    "meaning": "very young",
+    "emoji": "👶🧸"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "貧しい",
+    "hiragana": "まずしい",
+    "meaning": "poor",
+    "emoji": "💸🏚️😔"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "援助[する]",
+    "hiragana": "えんじょ[する]",
+    "meaning": "help, assist",
+    "emoji": "🤝🫶🆘"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "刺激[する]",
+    "hiragana": "しげき[する]",
+    "meaning": "stimulate",
+    "emoji": "⚡💡🔥"
+  },
+  {
+    "section": "Nouns (Food & Supplies)",
+    "kanji": "食料",
+    "hiragana": "しょくりょう",
+    "meaning": "provisions",
+    "emoji": "🍚🥫🍞"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "不確か[な]",
+    "hiragana": "ふたしか[な]",
+    "meaning": "unreliable",
+    "emoji": "❓⚠️🤔"
+  },
+  {
+    "section": "Nouns (Places)",
+    "kanji": "児童公園",
+    "hiragana": "じどうこうえん",
+    "meaning": "children's park",
+    "emoji": "🛝🌳🧒"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "児童",
+    "hiragana": "じどう",
+    "meaning": "child",
+    "emoji": "🧒🧸🎒"
+  },
+  {
+    "section": "Nouns (Playground Equipment)",
+    "kanji": "ブランコ",
+    "hiragana": "",
+    "meaning": "swing",
+    "emoji": "🛝🧒"
+  },
+  {
+    "section": "Nouns (Playground Equipment)",
+    "kanji": "滑り台",
+    "hiragana": "すべりだい",
+    "meaning": "slide",
+    "emoji": "🛝🧒🎠"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "甘やかす",
+    "hiragana": "あまやかす",
+    "meaning": "spoil",
+    "emoji": "🧸🍭❤️"
+  },
+  {
+    "section": "Nouns (Health)",
+    "kanji": "予防接種",
+    "hiragana": "よぼうせっしゅ",
+    "meaning": "vaccination",
+    "emoji": "💉🩺🛡️"
+  },
+  {
+    "section": "Nouns (Abstract)",
+    "kanji": "生きがい",
+    "hiragana": "いきがい",
+    "meaning": "something to live for, worth living for",
+    "emoji": "❤️🌅🎯"
+  },
+  {
+    "section": "Nouns (Literature)",
+    "kanji": "童話",
+    "hiragana": "どうわ",
+    "meaning": "fairy tale",
+    "emoji": "📖🧚🏰"
+  },
+  {
+    "section": "Nouns (Abstract)",
+    "kanji": "意欲",
+    "hiragana": "いよく",
+    "meaning": "desire",
+    "emoji": "🔥🎯💪"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "公平[な]",
+    "hiragana": "こうへい[な]",
+    "meaning": "fair",
+    "emoji": "⚖️🤝✅"
+  },
+  {
+    "section": "Nouns (Education)",
+    "kanji": "科目",
+    "hiragana": "かもく",
+    "meaning": "subject",
+    "emoji": "📚📝🎓"
+  },
+  {
+    "section": "Nouns (Social Security)",
+    "kanji": "社会保障",
+    "hiragana": "しゃかいほしょう",
+    "meaning": "social security",
+    "emoji": "🏥🛡️🤝"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "爆発[する]",
+    "hiragana": "ばくはつ[する]",
+    "meaning": "explode",
+    "emoji": "💥🔥⚡"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "急増[する]",
+    "hiragana": "きゅうぞう[する]",
+    "meaning": "increase rapidly",
+    "emoji": "📈⚡🚀"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "雇用[する]",
+    "hiragana": "こよう[する]",
+    "meaning": "employ",
+    "emoji": "💼🤝👷"
+  },
+  {
+    "section": "Nouns (Social Issues)",
+    "kanji": "貧困",
+    "hiragana": "ひんこん",
+    "meaning": "poverty",
+    "emoji": "💸🏚️😔"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "生む",
+    "hiragana": "うむ",
+    "meaning": "give rise to",
+    "emoji": "🌱💡➡️"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "深刻[な]",
+    "hiragana": "しんこく[な]",
+    "meaning": "serious",
+    "emoji": "⚠️😟📉"
+  },
+  {
+    "section": "Nouns (Events)",
+    "kanji": "フェスタ",
+    "hiragana": "",
+    "meaning": "festival",
+    "emoji": "🎉🎪🎊"
+  },
+  {
+    "section": "Nouns (People)",
+    "kanji": "私ども",
+    "hiragana": "わたくしども",
+    "meaning": "we",
+    "emoji": "👥🤝"
+  },
+  {
+    "section": "Nouns (Organizations)",
+    "kanji": "協会",
+    "hiragana": "きょうかい",
+    "meaning": "association",
+    "emoji": "🏢👥🤝"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "展示[する]",
+    "hiragana": "てんじ[する]",
+    "meaning": "exhibit",
+    "emoji": "🖼️🏛️🎨"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "詳細[な]",
+    "hiragana": "しょうさい[な]",
+    "meaning": "detailed",
+    "emoji": "🔎📋📝"
+  },
+  {
+    "section": "Nouns (Documents)",
+    "kanji": "企画書",
+    "hiragana": "きかくしょ",
+    "meaning": "proposal",
+    "emoji": "📄💡🗂️"
+  },
+  {
+    "section": "Nouns (Meetings)",
+    "kanji": "打合わせ",
+    "hiragana": "うちあわせ",
+    "meaning": "preliminary discussion",
+    "emoji": "🗣️👥📋"
+  },
+  {
+    "section": "Nouns (Time)",
+    "kanji": "日程",
+    "hiragana": "にってい",
+    "meaning": "schedule",
+    "emoji": "📅🕒📋"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "用件",
+    "hiragana": "ようけん",
+    "meaning": "business",
+    "emoji": "💼📄"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "承諾[する]",
+    "hiragana": "しょうだく[する]",
+    "meaning": "assent",
+    "emoji": "✅🤝👍"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "無気力[な]",
+    "hiragana": "むきりょく[な]",
+    "meaning": "apathetic",
+    "emoji": "😶😴📉"
+  },
+  {
+    "section": "Nouns (Actions)",
+    "kanji": "無断",
+    "hiragana": "むだん",
+    "meaning": "without asking permission",
+    "emoji": "🚫🗣️⚠️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "満たす",
+    "hiragana": "みたす",
+    "meaning": "satisfy",
+    "emoji": "✅😊🎯"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "再会[する]",
+    "hiragana": "さいかい[する]",
+    "meaning": "meet again",
+    "emoji": "👋🤝😊"
+  },
+  {
+    "section": "Nouns (General)",
+    "kanji": "玩具",
+    "hiragana": "がんぐ",
+    "meaning": "toy",
+    "emoji": "🧸🚂🪀"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "粘り強い",
+    "hiragana": "ねばりづよい",
+    "meaning": "persistent",
+    "emoji": "💪🎯🔁"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "要望[する]",
+    "hiragana": "ようぼう[する]",
+    "meaning": "request",
+    "emoji": "🙏📝📢"
+  },
+  {
+    "section": "Nouns (Body)",
+    "kanji": "息",
+    "hiragana": "いき",
+    "meaning": "breath",
+    "emoji": "🌬️🫁"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "引き取る[息を～]",
+    "hiragana": "ひきとる[いきを～]",
+    "meaning": "breathe one's last",
+    "emoji": "🫁🕯️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "褒めたたえる",
+    "hiragana": "ほめたたえる",
+    "meaning": "praise",
+    "emoji": "👏🏆🌟"
+  },
+  {
+    "section": "Nouns (Feelings)",
+    "kanji": "熱意",
+    "hiragana": "ねつい",
+    "meaning": "enthusiasm",
+    "emoji": "🔥💪🎯"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "響く",
+    "hiragana": "ひびく",
+    "meaning": "ring out",
+    "emoji": "🔔🔊🎶"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "鑑賞[する]",
+    "hiragana": "かんしょう[する]",
+    "meaning": "enjoy viewing",
+    "emoji": "🖼️👀🎨"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "訴える",
+    "hiragana": "うったえる",
+    "meaning": "appeal",
+    "emoji": "📢🙏⚖️"
+  },
+  {
+    "section": "Expressions (Discussion)",
+    "kanji": "では、今日の議題、～について話し合いたいと思います。",
+    "hiragana": "では、きょうのぎだい、～についてはなしあいたいとおもいます。",
+    "meaning": "So, I would like us to start discussing today's topic, ~.",
+    "emoji": "🗣️📋👥"
+  },
+  {
+    "section": "Expressions (Discussion)",
+    "kanji": "私は～に反対です。",
+    "hiragana": "わたしは～にはんたいです。",
+    "meaning": "I'm against ~.",
+    "emoji": "🙅‍♂️💬"
+  },
+  {
+    "section": "Expressions (Discussion)",
+    "kanji": "～より～を～べきじゃないでしょうか。",
+    "hiragana": "～より～を～べきじゃないでしょうか。",
+    "meaning": "Rather than doing ~, shouldn't we be doing ~?",
+    "emoji": "🤔⚖️💡"
+  },
+  {
+    "section": "Expressions (Discussion)",
+    "kanji": "その通りです。",
+    "hiragana": "そのとおりです。",
+    "meaning": "That's right.",
+    "emoji": "✅👍🤝"
+  },
+  {
+    "section": "Expressions (Discussion)",
+    "kanji": "…のではなく、まず、…べきだと思います。",
+    "hiragana": "…のではなく、まず、…べきだとおもいます。",
+    "meaning": "I think we should start not by doing … but by doing ….",
+    "emoji": "💡➡️🎯"
+  },
+  {
+    "section": "Expressions (Discussion)",
+    "kanji": "ですが、～さん。",
+    "hiragana": "ですが、～さん。",
+    "meaning": "But, Mr. ~.",
+    "emoji": "🗣️🙋"
+  },
+  {
+    "section": "Expressions (Discussion)",
+    "kanji": "それもそうですね。",
+    "hiragana": "それもそうですね。",
+    "meaning": "That's true, too.",
+    "emoji": "🤝✅💭"
+  },
+  {
+    "section": "Expressions (Discussion)",
+    "kanji": "…なんじゃないでしょうか。",
+    "hiragana": "…なんじゃないでしょうか。",
+    "meaning": "Don't you think that ...?",
+    "emoji": "🤔💬❓"
+  },
+  {
+    "section": "Expressions (Discussion)",
+    "kanji": "ではそろそろ意見をまとめたいと思います。",
+    "hiragana": "ではそろそろいけんをまとめたいとおもいます。",
+    "meaning": "Well, I think it's time we decided what to do.",
+    "emoji": "📋🤝✅"
+  },
+  {
+    "section": "Proper Nouns (People)",
+    "kanji": "山折哲雄",
+    "hiragana": "やまおりてつお",
+    "meaning": "Yamaori Tetsuo: Philosopher and scholar of religion. 1931–.",
+    "emoji": "👤📚🧠"
+  },
+  {
+    "section": "Proper Nouns (People)",
+    "kanji": "西行法師",
+    "hiragana": "さいぎょうほうし",
+    "meaning": "Saigyo Hoshi: Poet active at the end of the Heian Era. 1118–1190.",
+    "emoji": "📜✍️🌸"
+  },
+  {
+    "section": "Proper Nouns (Places)",
+    "kanji": "ガンジス川",
+    "hiragana": "ガンジスがわ",
+    "meaning": "The River Ganges",
+    "emoji": "🌊🏞️🇮🇳"
+  },
+  {
+    "section": "Proper Nouns (Organizations)",
+    "kanji": "ASEAN 諸国",
+    "hiragana": "ASEAN しょこく",
+    "meaning": "ASEAN (the Association of Southeast Asian Nations)",
+    "emoji": "🌏🤝🏢"
+  },
+  {
+    "section": "Proper Nouns (People)",
+    "kanji": "ガリレオ",
+    "hiragana": "",
+    "meaning": "Galileo Galilei: Italian physicist and astronomer. 1564–1642.",
+    "emoji": "🔭🌌📚"
+  },
+  {
+    "section": "Proper Nouns (Literature)",
+    "kanji": "アンデルセン童話",
+    "hiragana": "アンデルセンどうわ",
+    "meaning": "Andersen's Fairy Tales: A series of fairy tales by the Danish children's author Hans Christian Andersen.",
+    "emoji": "📚🧚🏰"
+  },
+  {
+    "section": "Proper Nouns (Films)",
+    "kanji": "「羅生門」",
+    "hiragana": "「らしょうもん」",
+    "meaning": "'Rashomon': A Japanese film by director Kurosawa Akira, released in 1950.",
+    "emoji": "🎬🎞️🇯🇵"
+  },
+  {
+    "section": "Proper Nouns (Films)",
+    "kanji": "「生きる」",
+    "hiragana": "「いきる」",
+    "meaning": "'Ikiru': A Japanese film by director Kurosawa Akira, released in 1952.",
+    "emoji": "🎬🌱🇯🇵"
+  }
+]

@@ -1,0 +1,300 @@
+[
+{
+"section": "Verbs",
+"kanji": "遊びます",
+"hiragana": "あそびます",
+"meaning": "enjoy oneself, play",
+"emoji": "🎮⚽😄"
+},
+{
+"section": "Verbs",
+"kanji": "泳ぎます",
+"hiragana": "およぎます",
+"meaning": "swim",
+"emoji": "🏊🌊💦"
+},
+{
+"section": "Verbs",
+"kanji": "迎えます",
+"hiragana": "むかえます",
+"meaning": "go to meet, welcome",
+"emoji": "🚶🤝👋"
+},
+{
+"section": "Verbs",
+"kanji": "疲れます",
+"hiragana": "つかれます",
+"meaning": "get tired",
+"emoji": "😩💦🛌"
+},
+{
+"section": "Verbs",
+"kanji": "出します",
+"hiragana": "だします",
+"meaning": "send [a letter]",
+"example": "[てがみを ～] / [手紙を ～]",
+"emoji": "✉️📮📤"
+},
+{
+"section": "Verbs",
+"kanji": "入ります",
+"hiragana": "はいります",
+"meaning": "enter [a coffee shop]",
+"example": "[きっさてんに ～] / [喫茶店に ～]",
+"emoji": "🚶🚪🏠"
+},
+{
+"section": "Verbs",
+"kanji": "出ます",
+"hiragana": "でます",
+"meaning": "go out [of a coffee shop]",
+"example": "[きっさてんを ～] / [喫茶店を ～]",
+"emoji": "🚪🚶🌤️"
+},
+{
+"section": "Verbs",
+"kanji": "結婚します",
+"hiragana": "けっこんします",
+"meaning": "marry, get married",
+"emoji": "👰🤵💍"
+},
+{
+"section": "Verbs",
+"kanji": "買い物します",
+"hiragana": "かいものします",
+"meaning": "do shopping",
+"emoji": "🛒🛍️💳"
+},
+{
+"section": "Verbs",
+"kanji": "食事します",
+"hiragana": "しょくじします",
+"meaning": "have a meal, dine",
+"emoji": "🍽️🥢😋"
+},
+{
+"section": "Verbs",
+"kanji": "散歩します",
+"hiragana": "さんぽします",
+"meaning": "take a walk [in a park]",
+"example": "[こうえんを ～] / [公園を ～]",
+"emoji": "🚶🌳☀️"
+},
+{
+"section": "Na-Adjectives",
+"kanji": "大変[な]",
+"hiragana": "たいへん[な]",
+"meaning": "hard, tough, severe, awful",
+"emoji": "😰💦⚠️"
+},
+{
+"section": "I-Adjectives",
+"kanji": "欲しい",
+"hiragana": "ほしい",
+"meaning": "want (something)",
+"emoji": "😍🤲✨"
+},
+{
+"section": "I-Adjectives",
+"kanji": "寂しい",
+"hiragana": "さびしい",
+"meaning": "lonely",
+"emoji": "🥺💧🌙"
+},
+{
+"section": "I-Adjectives",
+"kanji": "広い",
+"hiragana": "ひろい",
+"meaning": "wide, spacious",
+"emoji": "↔️🏞️🌅"
+},
+{
+"section": "I-Adjectives",
+"kanji": "狭い",
+"hiragana": "せまい",
+"meaning": "narrow, small (room, etc.)",
+"emoji": "🤏🏢🚪"
+},
+{
+"section": "Nouns (Places)",
+"kanji": "市役所",
+"hiragana": "しやくしょ",
+"meaning": "municipal office, city hall",
+"emoji": "🏛️🏢📋"
+},
+{
+"section": "Nouns (Places)",
+"kanji": "プール",
+"hiragana": "プール",
+"meaning": "swimming pool",
+"emoji": "🏊💧🌊"
+},
+{
+"section": "Nouns (Places)",
+"kanji": "川",
+"hiragana": "かわ",
+"meaning": "river",
+"emoji": "🏞️🌊🐟"
+},
+{
+"section": "Nouns (General)",
+"kanji": "経済",
+"hiragana": "けいざい",
+"meaning": "economy",
+"emoji": "📈💴🏦"
+},
+{
+"section": "Nouns (General)",
+"kanji": "美術",
+"hiragana": "びじゅつ",
+"meaning": "fine arts",
+"emoji": "🎨🖼️✨"
+},
+{
+"section": "Nouns (General)",
+"kanji": "釣り",
+"hiragana": "つり",
+"meaning": "fishing (～を します: fish, angle)",
+"emoji": "🎣🐟🌊"
+},
+{
+"section": "Nouns (General)",
+"kanji": "スキー",
+"hiragana": "スキー",
+"meaning": "skiing (～を します: ski)",
+"emoji": "⛷️❄️🏔️"
+},
+{
+"section": "Nouns (General)",
+"kanji": "会議",
+"hiragana": "かいぎ",
+"meaning": "meeting, conference (～を します: hold a conference)",
+"emoji": "🗣️👥📋"
+},
+{
+"section": "Nouns (General)",
+"kanji": "登録",
+"hiragana": "とうろく",
+"meaning": "registration (～を します: register)",
+"emoji": "📝✅📂"
+},
+{
+"section": "Nouns (General)",
+"kanji": "週末",
+"hiragana": "しゅうまつ",
+"meaning": "weekend",
+"emoji": "📅🎉😌"
+},
+{
+"section": "Adverbs & Expressions",
+"kanji": "～ごろ",
+"hiragana": "～ごろ",
+"meaning": "about (time)",
+"emoji": "⌚🕒🤔"
+},
+{
+"section": "Adverbs & Expressions",
+"kanji": "何か",
+"hiragana": "なにか",
+"meaning": "something",
+"emoji": "🎁❓🤔"
+},
+{
+"section": "Adverbs & Expressions",
+"kanji": "どこか",
+"hiragana": "どこか",
+"meaning": "somewhere, some place",
+"emoji": "🗺️📍❓"
+},
+{
+"section": "Expressions",
+"kanji": "おなかが すきました。",
+"hiragana": "おなかが すきました。",
+"meaning": "(I'm) hungry.",
+"emoji": "🤤🍽️🍔"
+},
+{
+"section": "Expressions",
+"kanji": "おなかが いっぱいです。",
+"hiragana": "おなかが いっぱいです。",
+"meaning": "(I'm) full.",
+"emoji": "🍽️😋👌"
+},
+{
+"section": "Expressions",
+"kanji": "のどが かわきました。",
+"hiragana": "のどが かわきました。",
+"meaning": "(I'm) thirsty.",
+"emoji": "🥵🥤💧"
+},
+{
+"section": "Expressions",
+"kanji": "そうですね。",
+"hiragana": "そうですね。",
+"meaning": "I agree with you.",
+"emoji": "🤝💡👍"
+},
+{
+"section": "Expressions",
+"kanji": "そう しましょう。",
+"hiragana": "そう しましょう。",
+"meaning": "Let's do that. (used when agreeing with someone's suggestion)",
+"emoji": "✅🙌👍"
+},
+{
+"section": "Conversations",
+"kanji": "ご注文は？",
+"hiragana": "ごちゅうもんは？",
+"meaning": "May I take your order?",
+"emoji": "📝🍽️🤵"
+},
+{
+"section": "Conversations",
+"kanji": "定食",
+"hiragana": "ていしょく",
+"meaning": "set meal",
+"emoji": "🍱🥢🍵"
+},
+{
+"section": "Conversations",
+"kanji": "牛どん",
+"hiragana": "ぎゅうどん",
+"meaning": "bowl of rice topped with beef",
+"emoji": "🍚🥩🥢"
+},
+{
+"section": "Conversations",
+"kanji": "[少々] お待ちください。",
+"hiragana": "[しょうしょう] おまちください。",
+"meaning": "Please wait [a moment].",
+"emoji": "✋⏳🙂"
+},
+{
+"section": "Conversations",
+"kanji": "別々に",
+"hiragana": "べつべつに",
+"meaning": "separately",
+"emoji": "✂️💳↔️"
+},
+{
+"section": "Proper Nouns",
+"kanji": "ロシア",
+"hiragana": "ロシア",
+"meaning": "Russia",
+"emoji": "🪆❄️🏔️"
+},
+{
+"section": "Proper Nouns",
+"kanji": "つるや",
+"hiragana": "つるや",
+"meaning": "fictitious Japanese restaurant",
+"emoji": "🍜🏪🥢"
+},
+{
+"section": "Proper Nouns",
+"kanji": "おはようテレビ",
+"hiragana": "おはようテレビ",
+"meaning": "fictitious TV program",
+"emoji": "🌅📺📰"
+}
+]

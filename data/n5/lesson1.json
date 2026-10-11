@@ -1,0 +1,349 @@
+[
+  {
+    "section": "Pronouns",
+    "kanji": "わたし",
+    "hiragana": "わたし",
+    "meaning": "I",
+    "emoji": "🙋‍♂️🙋‍♀️",
+    "examples": [
+      {
+        "word": "これ",
+        "reading": "これ",
+        "meaning": "This"
+      }
+    ]
+  },
+  {
+    "section": "Pronouns",
+    "kanji": "わたしたち",
+    "hiragana": "わたしたち",
+    "meaning": "we",
+    "emoji": "🧑‍🤝‍🧑👫",
+    "examples": [
+      {
+        "word": "それ",
+        "reading": "それ",
+        "meaning": "That"
+      }
+    ]
+  },
+  {
+    "section": "Pronouns",
+    "kanji": "あなた",
+    "hiragana": "あなた",
+    "meaning": "you",
+    "emoji": "🫵👤"
+  },
+  {
+    "section": "Pronouns",
+    "kanji": "あの人 (あの方)",
+    "hiragana": "あのひと (あのかた)",
+    "meaning": "that person, he, she",
+    "example": "(あのかた is the polite equivalent of あのひと)",
+    "emoji": "🚶‍♂️🚶‍♀️"
+  },
+  {
+    "section": "Pronouns",
+    "kanji": "皆さん",
+    "hiragana": "みなさん",
+    "meaning": "ladies and gentlemen, all of you",
+    "emoji": "👨‍👩‍👧‍👦🗣️"
+  },
+  {
+    "section": "Suffixes",
+    "kanji": "～さん",
+    "hiragana": "～さん",
+    "meaning": "Mr., Ms. (title of respect added to a name)",
+    "emoji": "🧑‍💼🤝"
+  },
+  {
+    "section": "Suffixes",
+    "kanji": "～ちゃん",
+    "hiragana": "～ちゃん",
+    "meaning": "(suffix often added to a child's name instead of ～さん)",
+    "emoji": "👧🧸"
+  },
+  {
+    "section": "Suffixes",
+    "kanji": "～君",
+    "hiragana": "～くん",
+    "meaning": "(suffix often added to a boy's name)",
+    "emoji": "👦🧢"
+  },
+  {
+    "section": "Suffixes",
+    "kanji": "～人",
+    "hiragana": "～じん",
+    "meaning": "(suffix meaning \"a national of\"; e.g., アメリカじん, an American)",
+    "emoji": "🌍🗺️"
+  },
+  {
+    "section": "Occupations",
+    "kanji": "先生",
+    "hiragana": "せんせい",
+    "meaning": "teacher, instructor (not used when referring to one's own job)",
+    "emoji": "👨‍🏫👩‍🏫"
+  },
+  {
+    "section": "Occupations",
+    "kanji": "教師",
+    "hiragana": "きょうし",
+    "meaning": "teacher, instructor",
+    "emoji": "🏫🎓"
+  },
+  {
+    "section": "Occupations",
+    "kanji": "学生",
+    "hiragana": "がくせい",
+    "meaning": "student",
+    "emoji": "🎒📚"
+  },
+  {
+    "section": "Occupations",
+    "kanji": "会社員",
+    "hiragana": "かいしゃいん",
+    "meaning": "company employee",
+    "emoji": "🏢💼"
+  },
+  {
+    "section": "Occupations",
+    "kanji": "社員",
+    "hiragana": "しゃいん",
+    "meaning": "employee of ~ Company",
+    "example": "(used with a company's name; e.g., IMCの しゃいん)",
+    "emoji": "👔📁"
+  },
+  {
+    "section": "Occupations",
+    "kanji": "銀行員",
+    "hiragana": "ぎんこういん",
+    "meaning": "bank employee",
+    "emoji": "🏦💴"
+  },
+  {
+    "section": "Occupations",
+    "kanji": "医者",
+    "hiragana": "いしゃ",
+    "meaning": "medical doctor",
+    "emoji": "🩺🏥"
+  },
+  {
+    "section": "Occupations",
+    "kanji": "研究者",
+    "hiragana": "けんきゅうしゃ",
+    "meaning": "researcher, scholar",
+    "emoji": "🔬🧪"
+  },
+  {
+    "section": "Occupations",
+    "kanji": "エンジニア",
+    "hiragana": "エンジニア",
+    "meaning": "engineer",
+    "emoji": "💻⚙️"
+  },
+  {
+    "section": "Places & Things",
+    "kanji": "大学",
+    "hiragana": "だいがく",
+    "meaning": "university",
+    "emoji": "🎓🏛️"
+  },
+  {
+    "section": "Places & Things",
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "meaning": "hospital",
+    "emoji": "🏥🚑"
+  },
+  {
+    "section": "Places & Things",
+    "kanji": "電気",
+    "hiragana": "でんき",
+    "meaning": "electricity, light",
+    "emoji": "💡⚡"
+  },
+  {
+    "section": "Question Words",
+    "kanji": "だれ (どなた)",
+    "hiragana": "だれ (どなた)",
+    "meaning": "who",
+    "example": "(どなた is the polite equivalent of だれ)",
+    "emoji": "❓👤"
+  },
+  {
+    "section": "Age",
+    "kanji": "ー歳",
+    "hiragana": "ーさい",
+    "meaning": "— years old",
+    "emoji": "🎂🕯️"
+  },
+  {
+    "section": "Age",
+    "kanji": "何歳 (おいくつ)",
+    "hiragana": "なんさい (おいくつ)",
+    "meaning": "how old",
+    "example": "(おいくつ is the polite equivalent of なんさい)",
+    "emoji": "🔢🤔"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "はい",
+    "hiragana": "はい",
+    "meaning": "yes",
+    "emoji": "⭕👍"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "いいえ",
+    "hiragana": "いいえ",
+    "meaning": "no",
+    "emoji": "❌🙅"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "失礼ですが",
+    "hiragana": "しつれいですが",
+    "meaning": "Excuse me, but",
+    "emoji": "🙇‍♂️🗣️"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "お名前は？",
+    "hiragana": "おなまえは？",
+    "meaning": "May I have your name?",
+    "emoji": "📛❓"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "初めまして。",
+    "hiragana": "はじめまして。",
+    "meaning": "How do you do? (lit. I am meeting you for the first time. Usually used as the first phrase when introducing oneself.)",
+    "emoji": "🤝✨"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "どうぞ よろしく [お願いします]。",
+    "hiragana": "どうぞ よろしく [おねがいします]。",
+    "meaning": "Pleased to meet you. (lit. Please be nice to me. Usually used at the end of a self-introduction.)",
+    "emoji": "🙇‍♀️🤝"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "こちらは ～さんです。",
+    "hiragana": "こちらは ～さんです。",
+    "meaning": "This is Mr./Ms. ~.",
+    "emoji": "💁‍♂️💁‍♀️"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "～から 来ました。",
+    "hiragana": "～から きました。",
+    "meaning": "I came (come) from ~.",
+    "emoji": "✈️🧳"
+  },
+  {
+    "section": "Proper Nouns (Countries)",
+    "kanji": "アメリカ",
+    "hiragana": "アメリカ",
+    "meaning": "U.S.A.",
+    "emoji": "🗽🦅"
+  },
+  {
+    "section": "Proper Nouns (Countries)",
+    "kanji": "イギリス",
+    "hiragana": "イギリス",
+    "meaning": "U.K.",
+    "emoji": "☕💂"
+  },
+  {
+    "section": "Proper Nouns (Countries)",
+    "kanji": "インド",
+    "hiragana": "インド",
+    "meaning": "India",
+    "emoji": "🪷🕌"
+  },
+  {
+    "section": "Proper Nouns (Countries)",
+    "kanji": "インドネシア",
+    "hiragana": "インドネシア",
+    "meaning": "Indonesia",
+    "emoji": "🏝️🌋"
+  },
+  {
+    "section": "Proper Nouns (Countries)",
+    "kanji": "韓国",
+    "hiragana": "かんこく",
+    "meaning": "South Korea",
+    "emoji": "🌶️🏯"
+  },
+  {
+    "section": "Proper Nouns (Countries)",
+    "kanji": "タイ",
+    "hiragana": "タイ",
+    "meaning": "Thailand",
+    "emoji": "🐘🛕"
+  },
+  {
+    "section": "Proper Nouns (Countries)",
+    "kanji": "中国",
+    "hiragana": "ちゅうごく",
+    "meaning": "China",
+    "emoji": "🐼🏮"
+  },
+  {
+    "section": "Proper Nouns (Countries)",
+    "kanji": "ドイツ",
+    "hiragana": "ドイツ",
+    "meaning": "Germany",
+    "emoji": "🥨🍺"
+  },
+  {
+    "section": "Proper Nouns (Countries)",
+    "kanji": "日本",
+    "hiragana": "にほん",
+    "meaning": "Japan",
+    "emoji": "🗻🌸"
+  },
+  {
+    "section": "Proper Nouns (Countries)",
+    "kanji": "フランス",
+    "hiragana": "フランス",
+    "meaning": "France",
+    "emoji": "🥐🗼"
+  },
+  {
+    "section": "Proper Nouns (Countries)",
+    "kanji": "ブラジル",
+    "hiragana": "ブラジル",
+    "meaning": "Brazil",
+    "emoji": "🦜⚽"
+  },
+  {
+    "section": "Proper Nouns (Fictitious Entities)",
+    "kanji": "さくら大学／富士大学",
+    "hiragana": "さくらだいがく／ふじだいがく",
+    "meaning": "fictitious universities",
+    "emoji": "🌸🎓"
+  },
+  {
+    "section": "Proper Nouns (Fictitious Entities)",
+    "kanji": "IMC／パワー電気／ブラジルエアー",
+    "hiragana": "IMC／パワーでんき／ブラジルエアー",
+    "meaning": "fictitious companies",
+    "emoji": "🏢🔌"
+  },
+  {
+    "section": "Proper Nouns (Fictitious Entities)",
+    "kanji": "AKC",
+    "hiragana": "AKC",
+    "meaning": "fictitious institute",
+    "emoji": "🏛️📚"
+  },
+  {
+    "section": "Proper Nouns (Fictitious Entities)",
+    "kanji": "神戸病院",
+    "hiragana": "こうべびょういん",
+    "meaning": "fictitious hospital",
+    "emoji": "🏥💉"
+  }
+]

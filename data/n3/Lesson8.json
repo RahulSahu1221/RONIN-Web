@@ -1,0 +1,452 @@
+[
+  {
+    "kanji": "眠る",
+    "hiragana": "ねむる",
+    "meaning": "sleep",
+    "emoji": "😴🛌🌙"
+  },
+  {
+    "kanji": "黙る",
+    "hiragana": "だまる",
+    "meaning": "remain silent",
+    "emoji": "🤐🔇💬"
+  },
+  {
+    "kanji": "取る [ノートを～]",
+    "hiragana": "とる",
+    "meaning": "take [notes]",
+    "emoji": "📝✍️📚"
+  },
+  {
+    "kanji": "盗む",
+    "hiragana": "ぬすむ",
+    "meaning": "steal",
+    "emoji": "🥷💰🚫"
+  },
+  {
+    "kanji": "焦げる",
+    "hiragana": "こげる",
+    "meaning": "burn, get scorched",
+    "emoji": "🔥🍳⚫"
+  },
+  {
+    "kanji": "枯れる",
+    "hiragana": "かれる",
+    "meaning": "wither, dry up",
+    "emoji": "🥀🍂🌵"
+  },
+  {
+    "kanji": "平凡 [な]",
+    "hiragana": "へいぼん [な]",
+    "meaning": "commonplace",
+    "emoji": "😐📅🔁"
+  },
+  {
+    "kanji": "人生",
+    "hiragana": "じんせい",
+    "meaning": "life",
+    "emoji": "🌱🛤️🌅"
+  },
+  {
+    "kanji": "免許",
+    "hiragana": "めんきょ",
+    "meaning": "license",
+    "emoji": "🪪🚗📄"
+  },
+  {
+    "kanji": "取る [免許を～]",
+    "hiragana": "とる [めんきょを～]",
+    "meaning": "get [a license]",
+    "emoji": "🪪📝✅"
+  },
+  {
+    "kanji": "退職する",
+    "hiragana": "たいしょくする",
+    "meaning": "retire",
+    "emoji": "💼🚪🌅"
+  },
+  {
+    "kanji": "もったいない",
+    "hiragana": "",
+    "meaning": "wasteful",
+    "emoji": "♻️💸🚫"
+  },
+  {
+    "kanji": "鍋",
+    "hiragana": "なべ",
+    "meaning": "pot",
+    "emoji": "🍲🥘🍳"
+  },
+  {
+    "kanji": "ことば遣い",
+    "hiragana": "ことばづかい",
+    "meaning": "use of language, way of talking",
+    "emoji": "🗣️💬📖"
+  },
+  {
+    "kanji": "生",
+    "hiragana": "なま",
+    "meaning": "raw",
+    "emoji": "🥩🥗🍣"
+  },
+  {
+    "kanji": "専門的 [な]",
+    "hiragana": "せんもんてき [な]",
+    "meaning": "specialized",
+    "emoji": "🎓🔬📚"
+  },
+  {
+    "kanji": "社会勉強",
+    "hiragana": "しゃかいべんきょう",
+    "meaning": "learning about the world",
+    "emoji": "🌍📚👥"
+  },
+  {
+    "kanji": "高校生",
+    "hiragana": "こうこうせい",
+    "meaning": "high-school student",
+    "emoji": "🎒🏫📚"
+  },
+  {
+    "kanji": "迷子",
+    "hiragana": "まいご",
+    "meaning": "lost child, getting lost",
+    "emoji": "🧒🗺️❓"
+  },
+  {
+    "kanji": "しま",
+    "hiragana": "",
+    "meaning": "stripe",
+    "emoji": "🦓👕📏"
+  },
+  {
+    "kanji": "花柄",
+    "hiragana": "はながら",
+    "meaning": "floral pattern",
+    "emoji": "🌸🌺👗"
+  },
+  {
+    "kanji": "チェック",
+    "hiragana": "",
+    "meaning": "check",
+    "emoji": "☑️🔍📋"
+  },
+  {
+    "kanji": "スカート",
+    "hiragana": "",
+    "meaning": "skirt",
+    "emoji": "👗🧵👚"
+  },
+  {
+    "kanji": "無地",
+    "hiragana": "むじ",
+    "meaning": "unpatterned",
+    "emoji": "👕⬜🧵"
+  },
+  {
+    "kanji": "水玉",
+    "hiragana": "みずたま",
+    "meaning": "polka dots",
+    "emoji": "⚪🔵👗"
+  },
+  {
+    "kanji": "リュック",
+    "hiragana": "",
+    "meaning": "rucksack, backpack",
+    "emoji": "🎒🏕️🧳"
+  },
+  {
+    "kanji": "背負う",
+    "hiragana": "せおう",
+    "meaning": "carry on one's back",
+    "emoji": "🎒🧍📦"
+  },
+  {
+    "kanji": "サービスカウンター",
+    "hiragana": "",
+    "meaning": "service counter",
+    "emoji": "🏬🛎️🤝"
+  },
+  {
+    "kanji": "姪",
+    "hiragana": "めい",
+    "meaning": "niece",
+    "emoji": "👧👨‍👩‍👧‍👦❤️"
+  },
+  {
+    "kanji": "特徴",
+    "hiragana": "とくちょう",
+    "meaning": "characteristic, feature",
+    "emoji": "🔎🧩📌"
+  },
+  {
+    "kanji": "身長",
+    "hiragana": "しんちょう",
+    "meaning": "height",
+    "emoji": "📏🧍📐"
+  },
+  {
+    "kanji": "ジーンズ",
+    "hiragana": "",
+    "meaning": "jeans",
+    "emoji": "👖👕👟"
+  },
+  {
+    "kanji": "髪型",
+    "hiragana": "かみがた",
+    "meaning": "hairstyle",
+    "emoji": "💇‍♂️💇‍♀️💈"
+  },
+  {
+    "kanji": "肩",
+    "hiragana": "かた",
+    "meaning": "shoulder",
+    "emoji": "💪🧍🦴"
+  },
+  {
+    "kanji": "持ち物",
+    "hiragana": "もちもの",
+    "meaning": "personal belongings",
+    "emoji": "🎒👜🔑"
+  },
+  {
+    "kanji": "水色",
+    "hiragana": "みずいろ",
+    "meaning": "pale blue",
+    "emoji": "🩵🌤️💧"
+  },
+  {
+    "kanji": "折りたたみ",
+    "hiragana": "おりたたみ",
+    "meaning": "folding",
+    "emoji": "📂🪭📄"
+  },
+  {
+    "kanji": "青地",
+    "hiragana": "あおじ",
+    "meaning": "blue background",
+    "emoji": "🔵🟦🎨"
+  },
+  {
+    "kanji": "～地",
+    "hiragana": "～じ",
+    "meaning": "background",
+    "emoji": "🎨🖼️🧵"
+  },
+  {
+    "kanji": "持つところ",
+    "hiragana": "もつところ",
+    "meaning": "handle",
+    "emoji": "👜🤚🧳"
+  },
+  {
+    "kanji": "プラスチック",
+    "hiragana": "",
+    "meaning": "plastic",
+    "emoji": "🧴🧃♻️"
+  },
+  {
+    "kanji": "途上国",
+    "hiragana": "とじょうこく",
+    "meaning": "developing country",
+    "emoji": "🌍📈🏗️"
+  },
+  {
+    "kanji": "先進国",
+    "hiragana": "せんしんこく",
+    "meaning": "developed country",
+    "emoji": "🏙️💻📈"
+  },
+  {
+    "kanji": "プラス",
+    "hiragana": "",
+    "meaning": "advantage",
+    "emoji": "➕👍📈"
+  },
+  {
+    "kanji": "マイナス",
+    "hiragana": "",
+    "meaning": "disadvantage",
+    "emoji": "➖👎📉"
+  },
+  {
+    "kanji": "共通",
+    "hiragana": "きょうつう",
+    "meaning": "common",
+    "emoji": "🤝🔗👥"
+  },
+  {
+    "kanji": "関心",
+    "hiragana": "かんしん",
+    "meaning": "interest",
+    "emoji": "👀❤️🔎"
+  },
+  {
+    "kanji": "多様化",
+    "hiragana": "たようか",
+    "meaning": "diversification",
+    "emoji": "🌈🧩🌍"
+  },
+  {
+    "kanji": "タイトル",
+    "hiragana": "",
+    "meaning": "title",
+    "emoji": "📖🏷️📝"
+  },
+  {
+    "kanji": "反対に",
+    "hiragana": "はんたいに",
+    "meaning": "conversely",
+    "emoji": "🔄↔️⚖️"
+  },
+  {
+    "kanji": "前後",
+    "hiragana": "ぜんご",
+    "meaning": "the front and the back",
+    "emoji": "↔️🔙🔜"
+  },
+  {
+    "kanji": "対象",
+    "hiragana": "たいしょう",
+    "meaning": "subject",
+    "emoji": "🎯📌🔎"
+  },
+  {
+    "kanji": "少女",
+    "hiragana": "しょうじょ",
+    "meaning": "young girl",
+    "emoji": "👧🎀🌸"
+  },
+  {
+    "kanji": "アイディア",
+    "hiragana": "",
+    "meaning": "idea",
+    "emoji": "💡🧠✨"
+  },
+  {
+    "kanji": "輝く",
+    "hiragana": "かがやく",
+    "meaning": "beam, dazzle, sparkle, brilliant",
+    "emoji": "✨🌟💎"
+  },
+  {
+    "kanji": "浮力",
+    "hiragana": "ふりょく",
+    "meaning": "buoyancy",
+    "emoji": "🛟💧⬆️"
+  },
+  {
+    "kanji": "少年",
+    "hiragana": "しょうねん",
+    "meaning": "boy",
+    "emoji": "👦🎒⚽"
+  },
+  {
+    "kanji": "キノコ雲",
+    "hiragana": "キノコぐも",
+    "meaning": "mushroom cloud",
+    "emoji": "☁️🍄💥"
+  },
+  {
+    "kanji": "時に",
+    "hiragana": "ときに",
+    "meaning": "sometimes",
+    "emoji": "🕒🔄📅"
+  },
+  {
+    "kanji": "ダメージ",
+    "hiragana": "",
+    "meaning": "damage",
+    "emoji": "💥🩹⚠️"
+  },
+  {
+    "kanji": "与える [ダメージを～]",
+    "hiragana": "あたえる [ダメージを～]",
+    "meaning": "cause [damage]",
+    "emoji": "💥⚠️🛠️"
+  },
+  {
+    "kanji": "ひげ",
+    "hiragana": "",
+    "meaning": "beard",
+    "emoji": "🧔🪒✂️"
+  },
+  {
+    "kanji": "伸びる",
+    "hiragana": "のびる",
+    "meaning": "grow",
+    "emoji": "🌱📈🌿"
+  },
+  {
+    "kanji": "発展する",
+    "hiragana": "はってんする",
+    "meaning": "develop",
+    "emoji": "🏗️📈🌍"
+  },
+  {
+    "kanji": "魅力",
+    "hiragana": "みりょく",
+    "meaning": "attractiveness",
+    "emoji": "✨😍🌹"
+  },
+  {
+    "kanji": "豊か [な]",
+    "hiragana": "ゆたか [な]",
+    "meaning": "affluent",
+    "emoji": "💰🏡🌾"
+  },
+  {
+    "kanji": "受ける [ダメージを～]",
+    "hiragana": "うける [ダメージを～]",
+    "meaning": "receive, sustain [damage]",
+    "emoji": "💥🛡️⚠️"
+  },
+  {
+    "kanji": "テーマ",
+    "hiragana": "",
+    "meaning": "topic",
+    "emoji": "📌💬📚"
+  },
+  {
+    "kanji": "述べる",
+    "hiragana": "のべる",
+    "meaning": "state, speak",
+    "emoji": "🗣️💬📢"
+  },
+  {
+    "kanji": "確か、～たと思います。",
+    "hiragana": "たしか、～たとおもいます。",
+    "meaning": "I'm pretty sure... was....",
+    "emoji": "🤔💭🗣️"
+  },
+  {
+    "kanji": "Explaining something while recollecting someone's appearance or memory.",
+    "hiragana": "",
+    "meaning": "Explanatory note: Explaining something while recollecting someone's appearance or memory.",
+    "emoji": "🧠💭🔎"
+  },
+  {
+    "kanji": "ナイジェリア",
+    "hiragana": "",
+    "meaning": "Nigeria",
+    "emoji": "🌍🇳🇬📍"
+  },
+  {
+    "kanji": "トリニダードトバゴ",
+    "hiragana": "",
+    "meaning": "Trinidad and Tobago",
+    "emoji": "🌴🇹🇹📍"
+  },
+  {
+    "kanji": "インド",
+    "hiragana": "",
+    "meaning": "India",
+    "emoji": "🇮🇳🌏📍"
+  },
+  {
+    "kanji": "ウガンダ",
+    "hiragana": "",
+    "meaning": "Uganda",
+    "emoji": "🌍🇺🇬📍"
+  }
+]

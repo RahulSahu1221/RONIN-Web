@@ -1,0 +1,206 @@
+[
+  {
+    "section": "Verbs",
+    "kanji": "要ります",
+    "hiragana": "いります",
+    "meaning": "need, require [a visa]",
+    "example": "[ビザが ～]",
+    "emoji": "📝❗"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "調べます",
+    "hiragana": "しらべます",
+    "meaning": "check, investigate",
+    "emoji": "🔍📋"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "直します",
+    "hiragana": "なおします",
+    "meaning": "repair, correct",
+    "emoji": "🔧🛠️"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "修理します",
+    "hiragana": "しゅうりします",
+    "meaning": "repair",
+    "emoji": "⚙️🔧"
+  },
+  {
+    "section": "Verbs",
+    "kanji": "電話します",
+    "hiragana": "でんわします",
+    "meaning": "phone",
+    "emoji": "☎️📞"
+  },
+  {
+    "section": "Pronouns & Suffixes",
+    "kanji": "僕",
+    "hiragana": "ぼく",
+    "meaning": "I (an informal equivalent of わたし used by men)",
+    "emoji": "👦🙋‍♂️"
+  },
+  {
+    "section": "Pronouns & Suffixes",
+    "kanji": "君",
+    "hiragana": "きみ",
+    "meaning": "you (an informal equivalent of あなた used by men)",
+    "emoji": "🫵👦"
+  },
+  {
+    "section": "Pronouns & Suffixes",
+    "kanji": "～君",
+    "hiragana": "～くん",
+    "meaning": "Mr. (an informal equivalent of ～さん used by men)",
+    "emoji": "👦🤝"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "うん",
+    "hiragana": "うん",
+    "meaning": "yes (an informal equivalent of はい)",
+    "emoji": "⭕👍"
+  },
+  {
+    "section": "Expressions",
+    "kanji": "ううん",
+    "hiragana": "ううん",
+    "meaning": "no (an informal equivalent of いいえ)",
+    "emoji": "❌👎"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "サラリーマン",
+    "hiragana": "サラリーマン",
+    "meaning": "salaried worker, office worker",
+    "emoji": "💼👨‍💼"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "ことば",
+    "hiragana": "ことば",
+    "meaning": "word, language",
+    "emoji": "🗣️💬"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "物価",
+    "hiragana": "ぶっか",
+    "meaning": "commodity prices",
+    "emoji": "📈💴"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "着物",
+    "hiragana": "きもの",
+    "meaning": "kimono (traditional Japanese attire)",
+    "emoji": "👘🌸"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "ビザ",
+    "hiragana": "ビザ",
+    "meaning": "visa",
+    "emoji": "🛂📄"
+  },
+  {
+    "section": "Time & Sequence",
+    "kanji": "初め",
+    "hiragana": "はじめ",
+    "meaning": "the beginning",
+    "emoji": "🏁🎬"
+  },
+  {
+    "section": "Time & Sequence",
+    "kanji": "終わり",
+    "hiragana": "おわり",
+    "meaning": "the end",
+    "emoji": "🛑🔚"
+  },
+  {
+    "section": "Demonstratives",
+    "kanji": "こっち",
+    "hiragana": "こっち",
+    "meaning": "this way, this place (an informal equivalent of こちら)",
+    "emoji": "👈📍"
+  },
+  {
+    "section": "Demonstratives",
+    "kanji": "そっち",
+    "hiragana": "そっち",
+    "meaning": "this way, that place (an informal equivalent of そちら)",
+    "emoji": "👆📍"
+  },
+  {
+    "section": "Demonstratives",
+    "kanji": "あっち",
+    "hiragana": "あっち",
+    "meaning": "this way, that place over there (an informal equivalent of あちら)",
+    "emoji": "👉📍"
+  },
+  {
+    "section": "Demonstratives",
+    "kanji": "どっち",
+    "hiragana": "どっち",
+    "meaning": "which one (between two things), which way, where (an informal equivalent of どちら)",
+    "emoji": "❓🤷‍♂️"
+  },
+  {
+    "section": "Time & Sequence",
+    "kanji": "この間",
+    "hiragana": "このあいだ",
+    "meaning": "the other day",
+    "emoji": "📅⏪"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "みんなで",
+    "hiragana": "みんなで",
+    "meaning": "all together",
+    "emoji": "👨‍👩‍👧‍👦🤝"
+  },
+  {
+    "section": "Particles & Conjunctions",
+    "kanji": "～けど",
+    "hiragana": "～けど",
+    "meaning": "~, but (an informal equivalent of が)",
+    "emoji": "🔄🤔"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "国へ 帰るの？",
+    "hiragana": "くにへ かえるの？",
+    "meaning": "Are you going back to your country?",
+    "emoji": "✈️🏠"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "どう するの？",
+    "hiragana": "どう するの？",
+    "meaning": "What will you do?",
+    "emoji": "🤷‍♂️❓"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "どう しようかな。",
+    "hiragana": "どう しようかな。",
+    "meaning": "What shall I do?",
+    "emoji": "🤔💭"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "よかったら",
+    "hiragana": "よかったら",
+    "meaning": "if you like",
+    "emoji": "😊✨"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "いろいろ",
+    "hiragana": "いろいろ",
+    "meaning": "various",
+    "emoji": "🎨🔣"
+  }
+]

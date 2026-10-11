@@ -1,0 +1,437 @@
+[
+  {
+    "section": "Na-Adjectives",
+    "kanji": "ハンサム[な]",
+    "hiragana": "ハンサム[な]",
+    "meaning": "handsome",
+    "emoji": "🤵‍♂️✨"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "きれい[な]",
+    "hiragana": "きれい[な]",
+    "meaning": "beautiful, clean",
+    "emoji": "🌸✨"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "静か[な]",
+    "hiragana": "しずか[な]",
+    "meaning": "quiet",
+    "emoji": "🤫🤐"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "にぎやか[な]",
+    "hiragana": "にぎやか[な]",
+    "meaning": "lively",
+    "emoji": "🥳🎉"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "有名[な]",
+    "hiragana": "ゆうめい[な]",
+    "meaning": "famous",
+    "emoji": "🌟📸"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "親切[な]",
+    "hiragana": "しんせつ[な]",
+    "meaning": "kind",
+    "emoji": "🤝💖"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "元気[な]",
+    "hiragana": "げんき[な]",
+    "meaning": "healthy, sound, cheerful",
+    "emoji": "💪😄"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "暇[な]",
+    "hiragana": "ひま[な]",
+    "meaning": "free (time)",
+    "emoji": "🛋️☕"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "便利[な]",
+    "hiragana": "べんり[な]",
+    "meaning": "convenient",
+    "emoji": "📱🛠️"
+  },
+  {
+    "section": "Na-Adjectives",
+    "kanji": "すてき[な]",
+    "hiragana": "すてき[な]",
+    "meaning": "fine, nice, wonderful",
+    "emoji": "✨😍"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "大きい",
+    "hiragana": "おおきい",
+    "meaning": "big, large",
+    "emoji": "🐘🏔️"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "小さい",
+    "hiragana": "ちいさい",
+    "meaning": "small, little",
+    "emoji": "🐜🤏"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "新しい",
+    "hiragana": "あたらしい",
+    "meaning": "new",
+    "emoji": "🆕✨"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "古い",
+    "hiragana": "ふるい",
+    "meaning": "old (not of age)",
+    "emoji": "🏛️📜"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "いい (よい)",
+    "hiragana": "いい (よい)",
+    "meaning": "good",
+    "emoji": "👍😊"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "悪い",
+    "hiragana": "わるい",
+    "meaning": "bad",
+    "emoji": "👎😠"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "暑い、熱い",
+    "hiragana": "あつい",
+    "meaning": "hot",
+    "emoji": "☀️🔥"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "寒い",
+    "hiragana": "さむい",
+    "meaning": "cold (referring to temperature)",
+    "emoji": "❄️🥶"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "冷たい",
+    "hiragana": "つめたい",
+    "meaning": "cold (referring to touch)",
+    "emoji": "🧊🥶"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "難しい",
+    "hiragana": "むずかしい",
+    "meaning": "difficult",
+    "emoji": "🧩🤔"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "易しい",
+    "hiragana": "やさしい",
+    "meaning": "easy",
+    "emoji": "👶✅"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "meaning": "expensive, tall, high",
+    "emoji": "🗼💰"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "安い",
+    "hiragana": "やすい",
+    "meaning": "inexpensive",
+    "emoji": "🏷️💴"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "低い",
+    "hiragana": "ひくい",
+    "meaning": "low",
+    "emoji": "📉🔽"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "おもしろい",
+    "hiragana": "おもしろい",
+    "meaning": "interesting",
+    "emoji": "😂🎢"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "おいしい",
+    "hiragana": "おいしい",
+    "meaning": "delicious, tasty",
+    "emoji": "😋🍽️"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "忙しい",
+    "hiragana": "いそがしい",
+    "meaning": "busy",
+    "emoji": "🏃‍♂️💦"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "楽しい",
+    "hiragana": "たのしい",
+    "meaning": "enjoyable",
+    "emoji": "🎵😄"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "白い",
+    "hiragana": "しろい",
+    "meaning": "white",
+    "emoji": "⚪🦢"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "黒い",
+    "hiragana": "くろい",
+    "meaning": "black",
+    "emoji": "⚫🐈‍⬛"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "赤い",
+    "hiragana": "あかい",
+    "meaning": "red",
+    "emoji": "🔴🍎"
+  },
+  {
+    "section": "I-Adjectives",
+    "kanji": "青い",
+    "hiragana": "あおい",
+    "meaning": "blue",
+    "emoji": "🔵🌊"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "桜",
+    "hiragana": "さくら",
+    "meaning": "cherry (blossom)",
+    "emoji": "🌸🍡"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "山",
+    "hiragana": "やま",
+    "meaning": "mountain",
+    "emoji": "⛰️🗻"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "町",
+    "hiragana": "まち",
+    "meaning": "town, city",
+    "emoji": "🏙️🏘️"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "食べ物",
+    "hiragana": "たべもの",
+    "meaning": "food",
+    "emoji": "🍔🍣"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "車",
+    "hiragana": "くるま",
+    "meaning": "car, vehicle",
+    "emoji": "🚗🚙"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "所",
+    "hiragana": "ところ",
+    "meaning": "place",
+    "emoji": "📍🗺️"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "寮",
+    "hiragana": "りょう",
+    "meaning": "dormitory",
+    "emoji": "🏢🛏️"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "勉強",
+    "hiragana": "べんきょう",
+    "meaning": "study",
+    "emoji": "📚✍️"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "生活",
+    "hiragana": "せいかつ",
+    "meaning": "life",
+    "emoji": "🏡🌅"
+  },
+  {
+    "section": "Nouns",
+    "kanji": "[お]仕事",
+    "hiragana": "[お]しごと",
+    "meaning": "work, business",
+    "example": "(～を します: do one's job, work)",
+    "emoji": "💼🏢"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "どう",
+    "hiragana": "どう",
+    "meaning": "how",
+    "emoji": "🤔❓"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "どんな～",
+    "hiragana": "どんな～",
+    "meaning": "what kind of ~",
+    "emoji": "🤷‍♂️🔍"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "どれ",
+    "hiragana": "どれ",
+    "meaning": "which one (of three or more)",
+    "emoji": "👆👇"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "とても",
+    "hiragana": "とても",
+    "meaning": "very",
+    "emoji": "💯✨"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "あまり",
+    "hiragana": "あまり",
+    "meaning": "not so (used with negatives)",
+    "emoji": "📉🙅‍♂️"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "そして",
+    "hiragana": "そして",
+    "meaning": "and (used to connect sentences)",
+    "emoji": "➕🔗"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "～が、～",
+    "hiragana": "～が、～",
+    "meaning": "~, but ~",
+    "emoji": "↔️⚖️"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "お元気ですか。",
+    "hiragana": "おげんきですか。",
+    "meaning": "How are you?",
+    "emoji": "👋😊"
+  },
+  {
+    "section": "Adverbs & Expressions",
+    "kanji": "そうですね。",
+    "hiragana": "そうですね。",
+    "meaning": "Well let me see. (pausing)",
+    "emoji": "🤔💭"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "日本の 生活に 慣れましたか。",
+    "hiragana": "にほんの せいかつに なれましたか。",
+    "meaning": "Have you got used to the life in Japan?",
+    "emoji": "🇯🇵🏡"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "[～、]もう 一杯 いかがですか。",
+    "hiragana": "[～、]もう いっぱい いかがですか。",
+    "meaning": "Won't you have another cup of [~]?",
+    "emoji": "🍵🤲"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "いいえ、けっこうです。",
+    "hiragana": "いいえ、けっこうです。",
+    "meaning": "No, thank you.",
+    "emoji": "🙅‍♂️✋"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "もう ～です[ね]。",
+    "hiragana": "もう ～です[ね]。",
+    "meaning": "It's already ~[, isn't it?].",
+    "emoji": "⏰😲"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "そろそろ 失礼します。",
+    "hiragana": "そろそろ しつれいします。",
+    "meaning": "It's almost time to leave now.",
+    "emoji": "⌚🚶‍♂️"
+  },
+  {
+    "section": "Conversations",
+    "kanji": "また いらっしゃって ください。",
+    "hiragana": "また いらっしゃって ください。",
+    "meaning": "Please come again.",
+    "emoji": "🙏👋"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "富士山",
+    "hiragana": "ふじさん",
+    "meaning": "Mt. Fuji, the highest mountain in Japan",
+    "emoji": "🗻🌅"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "琵琶湖",
+    "hiragana": "びわこ",
+    "meaning": "Lake Biwa, the biggest lake in Japan",
+    "emoji": "🏞️💧"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "シャンハイ",
+    "hiragana": "シャンハイ",
+    "meaning": "Shanghai (上海)",
+    "emoji": "🏙️🏮"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "「七人の侍」",
+    "hiragana": "「しちにんのさむらい」",
+    "meaning": "\"The Seven Samurai,\" a classic movie by Akira Kurosawa",
+    "emoji": "⚔️🎬"
+  },
+  {
+    "section": "Proper Nouns",
+    "kanji": "金閣寺",
+    "hiragana": "きんかくじ",
+    "meaning": "Kinkakuji Temple (the Golden Pavilion)",
+    "emoji": "🏯✨"
+  }
+]
